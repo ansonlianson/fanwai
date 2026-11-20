@@ -1,0 +1,70 @@
+{
+ "note": "Claude 2026-11-05 14:25 用新版 story-write.md（14:25 版）对 yonezu 的完整写作回复，模型 mimo-v2.6-flash，temperature 0.7。候选 [1] 的「2025 年 10 月 1 日」在 f17 中没有依据。facts 来自 #9 的 28-yonezu-extract.json。",
+ "model": "mimo-v2.6-flash",
+ "stage": "write",
+ "candidates": [
+  {
+   "title": "「KICK BACK」拿到日语歌史上第一张白金",
+   "body": "2025 年 9 月，「KICK BACK」获得美国唱片协会的白金认证，这是日语歌词乐曲史上第一次。",
+   "fact_ids": [
+    "f3"
+   ]
+  },
+  {
+   "title": "「IRIS OUT」一周播了 3219.9 万次",
+   "body": "2025 年 10 月 1 日，「IRIS OUT」在 Oricon 周流媒体榜记下 3219.9 万次的周播放数，是该榜史上最高的一周。",
+   "fact_ids": [
+    "f17"
+   ]
+  },
+  {
+   "title": "红白歌会上，「IRIS OUT」做了世界首演",
+   "body": "2025 年 12 月 31 日，米津玄师出演《第76届NHK红白歌会》，在 HANA 的伴舞下演出「IRIS OUT」。",
+   "fact_ids": [
+    "f8"
+   ]
+  },
+  {
+   "title": "一张黑胶把「KICK BACK」和三首混音收进去",
+   "body": "2026 年 3 月 27 日，「IRIS OUT / JANE DOE」的进口黑胶发行，同盘还收录「KICK BACK」和它的三首混音。原定 2 月 27 日，改到 3 月 27 日。",
+   "fact_ids": [
+    "f16"
+   ]
+  },
+  {
+   "title": "「JANE DOE」请来了宇多田光当客座主唱",
+   "body": "2025 年 8 月 14 日，「JANE DOE」被宣布作为《电锯人 蕾塞篇》的片尾曲，同时宣布邀请宇多田光担任客座主唱。",
+   "fact_ids": [
+    "f6"
+   ]
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1230,
+  "prompt_tokens": 3790,
+  "total_tokens": 5020,
+  "completion_tokens_details": {
+   "reasoning_tokens": 826
+  },
+  "prompt_tokens_details": null
+ },
+ "fact_f17": [
+  {
+   "id": "f17",
+   "text": "「IRIS OUT」在Oricon周流媒体排行榜上创下史上最高的周播放数3219.9万次记录。",
+   "people": [],
+   "time": "10月1日",
+   "numbers": [
+    "3219.9万回"
+   ],
+   "quote": "10月1日にオリコン週間ストリーミングランキングで「IRIS OUT」がオリコン史上最高となる週間再生数3219.9万回を記録[157]。",
+   "quote_zh": "10月1日，在Oricon周流媒体排行榜上「IRIS OUT」创下Oricon史上最高的周播放数3219.9万次记录。",
+   "source_index": 17,
+   "contrast": 0,
+   "links": 1,
+   "linked_nodes": [
+    "IRIS OUT"
+   ]
+  }
+ ]
+}

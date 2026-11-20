@@ -1,0 +1,15 @@
+{
+  "images": [
+    {
+      "filename": "iTunes_Store_Small_Badge_RGB_012318.svg",
+      "idiom": "universal"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  },
+  "properties": {
+    "preserves-vector-representation": true
+  }
+}

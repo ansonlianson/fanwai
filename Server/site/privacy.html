@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>隐私说明 · 番外</title>
+<meta name="theme-color" content="#17130e">
+<link rel="icon" href="assets/icon-180.png">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<header class="wrap top">
+  <a class="mark" href="/"><img src="assets/icon-180.png" alt="" width="36" height="36">番外</a>
+  <nav><a href="/privacy" aria-current="page">隐私</a><a href="/support">使用和反馈</a></nav>
+</header>
+<main class="wrap page">
+  <h1>隐私说明</h1>
+  <p class="dated">2026 年 11 月 18 日</p>
+
+  <p>番外没有账号，不需要注册，不放广告，也没有接入任何统计或追踪工具。下面写的是它在什么时候会把什么发到哪里。</p>
+
+  <h2>留在手机上的</h2>
+  <ul>
+    <li>你的收藏、稍后听、浏览和搜索记录，以及查到过的卡片和故事。</li>
+    <li>你填的模型 API Key 和体验码，存在系统钥匙串里。</li>
+  </ul>
+  <p>这些都不会上传到番外的服务器。删掉 App，收藏和记录就一起删掉了；「设置」里也可以单独清除浏览记录。钥匙串里的 API Key 由系统保管，删 App 后可能还留着，想清掉可以先在「设置」的「模型」页点「移除密钥」。</p>
+
+  <h2>查一首歌时发出去的</h2>
+  <ul>
+    <li><strong>Apple。</strong>番外读取 Apple Music 正在播放的歌，并用歌名和歌手到 Apple 的曲库里找对应的版本。读取正在播放需要你在系统弹窗里同意。</li>
+    <li><strong>公开资料库。</strong>歌名、歌手、专辑和作品名会发给 Wikidata、维基百科、MusicBrainz、Bangumi、豆瓣这类公开网站，用来找相关作品和封面。用 QQ 音乐或网易云音乐时，你粘贴的链接和搜索的歌名会发给对应的平台。</li>
+    <li><strong>你选的模型服务。</strong>歌名、歌手、专辑，以及搜索到的网页内容，会发给你在「设置」里选的服务商（比如 DeepSeek 或 OpenAI），由它联网搜索并写出故事。请求用你自己的 API Key，直接从手机发到服务商，不经过番外的服务器。服务商怎么处理这些内容，以它自己的隐私政策为准。</li>
+  </ul>
+
+  <h2>用体验码时</h2>
+  <p>体验码是朋友之间发的免费额度。用体验码查歌时，上面发给模型服务的内容会先经过番外设在香港的服务器，再转给 DeepSeek，费用由番外承担。</p>
+  <p>这台服务器会记下：哪个体验码、查了哪首歌（歌名和歌手）、调用了几次、花了多少钱、有没有查到故事。用途只有两个：算花费，以及出问题时排查。记录保留 90 天，不给别人，不用来做别的，里面也不存你的 IP 地址。</p>
+  <p>不用体验码、填自己的 API Key 时，番外的服务器收不到你查歌的任何内容。</p>
+
+  <h2>App 启动时</h2>
+  <p>番外会向 fanwai.xyz 读取一份公开的配置，比如默认的模型名、免费体验现在开没开。这个请求不带任何关于你的信息。</p>
+
+  <h2>TestFlight</h2>
+  <p>内测版通过 Apple 的 TestFlight 分发。崩溃记录和你主动提交的反馈（截屏和文字）由 Apple 收集后转给开发者，规则见 Apple 的 TestFlight 条款。</p>
+
+  <h2>这个网站</h2>
+  <p>fanwai.xyz 是静态网页，不放 Cookie，不加载第三方脚本，不保存访问日志。</p>
+
+  <h2>联系</h2>
+  <p>关于隐私的问题，或者想让服务器删掉和你的体验码有关的记录，写信到 <a href="mailto:anson138@126.com">anson138@126.com</a>。</p>
+
+  <h2>有变化时</h2>
+  <p>这份说明改动时，会更新上面的日期。</p>
+</main>
+<footer>
+  <div class="wrap"><a href="/privacy">隐私说明</a><a href="/support">使用和反馈</a><a href="mailto:anson138@126.com">anson138@126.com</a><span>番外 2026</span></div>
+</footer>
+</body>
+</html>

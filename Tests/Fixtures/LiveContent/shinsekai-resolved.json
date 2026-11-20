@@ -1,0 +1,2542 @@
+{
+  "relations" : [
+    {
+      "from" : "pool",
+      "inverseLabel" : "电影配乐",
+      "label" : "配乐来自",
+      "predicate" : "soundtrackOf",
+      "source" : {
+        "detail" : "作品、音乐与制作信息",
+        "title" : "《蕾塞篇》官网",
+        "url" : "https:\/\/chainsawman.dog\/movie_reze\/"
+      },
+      "to" : "film"
+    },
+    {
+      "from" : "pool",
+      "inverseLabel" : "创作",
+      "label" : "作曲",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "Real Sound · 2025.10.22 · PR",
+        "title" : "牛尾宪辅访谈",
+        "url" : "https:\/\/realsound.jp\/2025\/10\/post-2167153.html\/amp"
+      },
+      "to" : "ushio"
+    },
+    {
+      "from" : "animenz",
+      "inverseLabel" : "钢琴改编",
+      "label" : "原曲",
+      "predicate" : "adaptedFrom",
+      "source" : {
+        "detail" : "演奏者发布的视频与简介",
+        "title" : "Animenz 改编说明",
+        "url" : "https:\/\/www.bilibili.com\/video\/BV1QHyZBbEnT\/"
+      },
+      "to" : "pool"
+    },
+    {
+      "from" : "pool",
+      "inverseLabel" : "收录歌曲",
+      "label" : "收录于",
+      "predicate" : "inAlbum",
+      "source" : {
+        "detail" : "歌曲、歌手与发行信息",
+        "title" : "in the pool · Apple Music",
+        "url" : "https:\/\/music.apple.com\/us\/song\/1837522108"
+      },
+      "to" : "poolAlbum"
+    },
+    {
+      "from" : "ourFilm",
+      "inverseLabel" : "电影配乐",
+      "label" : "配乐来自",
+      "predicate" : "soundtrackOf",
+      "source" : {
+        "detail" : "Real Sound · 2025.10.22 · PR",
+        "title" : "牛尾宪辅访谈",
+        "url" : "https:\/\/realsound.jp\/2025\/10\/post-2167153.html\/amp"
+      },
+      "to" : "film"
+    },
+    {
+      "from" : "slow",
+      "inverseLabel" : "电影配乐",
+      "label" : "配乐来自",
+      "predicate" : "soundtrackOf",
+      "source" : {
+        "detail" : "Real Sound · 2025.10.22 · PR",
+        "title" : "牛尾宪辅访谈",
+        "url" : "https:\/\/realsound.jp\/2025\/10\/post-2167153.html\/amp"
+      },
+      "to" : "film"
+    },
+    {
+      "from" : "ourFilm",
+      "inverseLabel" : "创作",
+      "label" : "作曲",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "Real Sound · 2025.10.22 · PR",
+        "title" : "牛尾宪辅访谈",
+        "url" : "https:\/\/realsound.jp\/2025\/10\/post-2167153.html\/amp"
+      },
+      "to" : "ushio"
+    },
+    {
+      "from" : "slow",
+      "inverseLabel" : "创作",
+      "label" : "作曲",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "Real Sound · 2025.10.22 · PR",
+        "title" : "牛尾宪辅访谈",
+        "url" : "https:\/\/realsound.jp\/2025\/10\/post-2167153.html\/amp"
+      },
+      "to" : "ushio"
+    },
+    {
+      "from" : "ourFilm",
+      "inverseLabel" : "收录歌曲",
+      "label" : "收录于",
+      "predicate" : "inAlbum",
+      "source" : {
+        "detail" : "歌曲、歌手与发行信息",
+        "title" : "our film · Apple Music",
+        "url" : "https:\/\/music.apple.com\/us\/song\/1837521650"
+      },
+      "to" : "poolAlbum"
+    },
+    {
+      "from" : "slow",
+      "inverseLabel" : "收录歌曲",
+      "label" : "收录于",
+      "predicate" : "inAlbum",
+      "source" : {
+        "detail" : "歌曲、歌手与发行信息",
+        "title" : "slow summer eve · Apple Music",
+        "url" : "https:\/\/music.apple.com\/us\/song\/1837522113"
+      },
+      "to" : "poolAlbum"
+    },
+    {
+      "from" : "jane",
+      "inverseLabel" : "片尾曲",
+      "label" : "片尾曲来自",
+      "predicate" : "endingOf",
+      "source" : {
+        "detail" : "米津玄师官方网站",
+        "title" : "JANE DOE",
+        "url" : "https:\/\/reissuerecords.net\/2025\/09\/22\/janedoe_chainsawman\/"
+      },
+      "to" : "film"
+    },
+    {
+      "from" : "jane",
+      "inverseLabel" : "词曲与演唱",
+      "label" : "词曲与演唱",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "米津玄师官方网站",
+        "title" : "JANE DOE",
+        "url" : "https:\/\/reissuerecords.net\/2025\/09\/22\/janedoe_chainsawman\/"
+      },
+      "to" : "yonezu"
+    },
+    {
+      "from" : "jane",
+      "inverseLabel" : "合作演唱",
+      "label" : "合作演唱",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "米津玄师官方网站",
+        "title" : "JANE DOE",
+        "url" : "https:\/\/reissuerecords.net\/2025\/09\/22\/janedoe_chainsawman\/"
+      },
+      "to" : "utada"
+    },
+    {
+      "from" : "jane",
+      "inverseLabel" : "收录歌曲",
+      "label" : "收录于",
+      "predicate" : "inAlbum",
+      "source" : {
+        "detail" : "歌曲、歌手与发行信息",
+        "title" : "JANE DOE · Apple Music",
+        "url" : "https:\/\/music.apple.com\/us\/song\/1840081736"
+      },
+      "to" : "janeAlbum"
+    },
+    {
+      "from" : "jane",
+      "inverseLabel" : "在这次合作的访谈中提到",
+      "label" : "合作访谈中提及",
+      "predicate" : "interviewMention",
+      "source" : {
+        "detail" : "GQ JAPAN · 2025.09.26",
+        "title" : "米津玄师访谈",
+        "url" : "https:\/\/www.gqjapan.jp\/article\/20250926-kenshi-yonezu-hype"
+      },
+      "to" : "distance"
+    },
+    {
+      "from" : "yonezu",
+      "inverseLabel" : "米津提到喜欢",
+      "label" : "提到喜欢",
+      "predicate" : "liked",
+      "source" : {
+        "detail" : "GQ JAPAN · 2025.09.26",
+        "title" : "米津玄师访谈",
+        "url" : "https:\/\/www.gqjapan.jp\/article\/20250926-kenshi-yonezu-hype"
+      },
+      "to" : "distance"
+    },
+    {
+      "from" : "distance",
+      "inverseLabel" : "演唱作品",
+      "label" : "演唱",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "歌曲、歌手与发行信息",
+        "title" : "FINAL DISTANCE · Apple Music",
+        "url" : "https:\/\/music.apple.com\/us\/song\/1444855975"
+      },
+      "to" : "utada"
+    },
+    {
+      "from" : "distance",
+      "inverseLabel" : "收录歌曲",
+      "label" : "收录于",
+      "predicate" : "inAlbum",
+      "source" : {
+        "detail" : "歌曲、歌手与发行信息",
+        "title" : "FINAL DISTANCE · Apple Music",
+        "url" : "https:\/\/music.apple.com\/us\/song\/1444855975"
+      },
+      "to" : "distanceAlbum"
+    },
+    {
+      "from" : "film",
+      "inverseLabel" : "改编电影",
+      "label" : "原作",
+      "predicate" : "adaptedFrom",
+      "source" : {
+        "detail" : "作品、音乐与制作信息",
+        "title" : "《蕾塞篇》官网",
+        "url" : "https:\/\/chainsawman.dog\/movie_reze\/"
+      },
+      "to" : "manga"
+    },
+    {
+      "from" : "film",
+      "inverseLabel" : "导演作品",
+      "label" : "导演",
+      "predicate" : "directedBy",
+      "source" : {
+        "detail" : "作品、音乐与制作信息",
+        "title" : "《蕾塞篇》官网",
+        "url" : "https:\/\/chainsawman.dog\/movie_reze\/"
+      },
+      "to" : "yoshihara"
+    },
+    {
+      "from" : "manga",
+      "inverseLabel" : "漫画作品",
+      "label" : "作者",
+      "predicate" : "authoredBy",
+      "source" : {
+        "detail" : "作品、音乐与制作信息",
+        "title" : "《蕾塞篇》官网",
+        "url" : "https:\/\/chainsawman.dog\/movie_reze\/"
+      },
+      "to" : "fujimoto"
+    },
+    {
+      "from" : "animenz",
+      "inverseLabel" : "改编与演奏",
+      "label" : "改编与演奏",
+      "predicate" : "arrangedBy",
+      "source" : {
+        "detail" : "演奏者发布的视频与简介",
+        "title" : "Animenz 改编说明",
+        "url" : "https:\/\/www.bilibili.com\/video\/BV1QHyZBbEnT\/"
+      },
+      "to" : "animenzPerson"
+    },
+    {
+      "from" : "animenz",
+      "inverseLabel" : "在改编说明中被提及",
+      "label" : "借鉴写法",
+      "predicate" : "techniqueReference",
+      "source" : {
+        "detail" : "演奏者发布的视频与简介",
+        "title" : "Animenz 改编说明",
+        "url" : "https:\/\/www.bilibili.com\/video\/BV1QHyZBbEnT\/"
+      },
+      "to" : "ravel"
+    },
+    {
+      "from" : "animenz",
+      "inverseLabel" : "在改编说明中被提及",
+      "label" : "借鉴写法",
+      "predicate" : "techniqueReference",
+      "source" : {
+        "detail" : "演奏者发布的视频与简介",
+        "title" : "Animenz 改编说明",
+        "url" : "https:\/\/www.bilibili.com\/video\/BV1QHyZBbEnT\/"
+      },
+      "to" : "debussy"
+    },
+    {
+      "from" : "editorial:one-last-kiss",
+      "inverseLabel" : "片尾主题歌",
+      "label" : "片尾主题歌来自",
+      "predicate" : "endingOf",
+      "source" : {
+        "detail" : "电影官网 · 2021.03.08",
+        "title" : "两首主题歌与《One Last Kiss》发行说明",
+        "url" : "https:\/\/www.evangelion.jp\/news\/shin_themesong\/"
+      },
+      "to" : "editorial:evangelion-3-0-plus-1-0"
+    },
+    {
+      "from" : "editorial:beautiful-world-da-capo",
+      "inverseLabel" : "片尾主题歌",
+      "label" : "片尾主题歌来自",
+      "predicate" : "endingOf",
+      "source" : {
+        "detail" : "电影官网 · 2021.03.08",
+        "title" : "两首主题歌与《One Last Kiss》发行说明",
+        "url" : "https:\/\/www.evangelion.jp\/news\/shin_themesong\/"
+      },
+      "to" : "editorial:evangelion-3-0-plus-1-0"
+    },
+    {
+      "from" : "editorial:one-last-kiss",
+      "inverseLabel" : "词曲与演唱",
+      "label" : "词曲与演唱",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "电影官网 · 主题歌与曲目",
+        "title" : "《新·福音战士剧场版：终》音乐资料",
+        "url" : "https:\/\/www.evangelion.jp\/final_music.html"
+      },
+      "to" : "utada"
+    },
+    {
+      "from" : "editorial:beautiful-world-da-capo",
+      "inverseLabel" : "重新演唱",
+      "label" : "重新演唱",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "电影官网 · 2021.03.08",
+        "title" : "两首主题歌与《One Last Kiss》发行说明",
+        "url" : "https:\/\/www.evangelion.jp\/news\/shin_themesong\/"
+      },
+      "to" : "utada"
+    },
+    {
+      "from" : "editorial:one-last-kiss",
+      "inverseLabel" : "收录歌曲",
+      "label" : "收录于",
+      "predicate" : "inAlbum",
+      "source" : {
+        "detail" : "宇多田光官网 · 2021.03.09 发行曲目",
+        "title" : "One Last Kiss",
+        "url" : "https:\/\/www.utadahikaru.jp\/music\/d1mdm-d0p\/"
+      },
+      "to" : "editorial:one-last-kiss-ep"
+    },
+    {
+      "from" : "editorial:beautiful-world-da-capo",
+      "inverseLabel" : "收录歌曲",
+      "label" : "收录于",
+      "predicate" : "inAlbum",
+      "source" : {
+        "detail" : "宇多田光官网 · 2021.03.09 发行曲目",
+        "title" : "One Last Kiss",
+        "url" : "https:\/\/www.utadahikaru.jp\/music\/d1mdm-d0p\/"
+      },
+      "to" : "editorial:one-last-kiss-ep"
+    },
+    {
+      "from" : "editorial:evangelion-3-0-plus-1-0",
+      "inverseLabel" : "总导演作品",
+      "label" : "总导演",
+      "predicate" : "directedBy",
+      "source" : {
+        "detail" : "电影官网 · 总导演与制作人员",
+        "title" : "《新·福音战士剧场版：终》制作名单",
+        "url" : "https:\/\/www.evangelion.jp\/final.html"
+      },
+      "to" : "editorial:hideaki-anno"
+    },
+    {
+      "from" : "editorial:merry-christmas-mr-lawrence-theme",
+      "inverseLabel" : "主题音乐",
+      "label" : "主题音乐来自",
+      "predicate" : "soundtrackOf",
+      "source" : {
+        "detail" : "坂本龙一官方乐谱商店 · 作曲与电影信息",
+        "title" : "Merry Christmas Mr. Lawrence 官方钢琴谱",
+        "url" : "https:\/\/score-en.sitesakamoto.com\/products\/merry_christmas_mr_lawrence_piano_solo"
+      },
+      "to" : "editorial:merry-christmas-mr-lawrence-film"
+    },
+    {
+      "from" : "editorial:merry-christmas-mr-lawrence-theme",
+      "inverseLabel" : "作曲作品",
+      "label" : "作曲",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "坂本龙一官方乐谱商店 · 作曲与电影信息",
+        "title" : "Merry Christmas Mr. Lawrence 官方钢琴谱",
+        "url" : "https:\/\/score-en.sitesakamoto.com\/products\/merry_christmas_mr_lawrence_piano_solo"
+      },
+      "to" : "editorial:ryuichi-sakamoto"
+    },
+    {
+      "from" : "editorial:merry-christmas-mr-lawrence-film",
+      "inverseLabel" : "电影配乐作品",
+      "label" : "配乐",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "Janus Films · 电影发行方资料",
+        "title" : "Merry Christmas Mr. Lawrence",
+        "url" : "https:\/\/www.janusfilms.com\/films\/1750"
+      },
+      "to" : "editorial:ryuichi-sakamoto"
+    },
+    {
+      "from" : "editorial:forbidden-colours",
+      "inverseLabel" : "人声改编",
+      "label" : "改编自",
+      "predicate" : "adaptedFrom",
+      "source" : {
+        "detail" : "Milan Records · 原曲与 Forbidden Colours",
+        "title" : "Merry Christmas Mr. Lawrence 原声发行说明",
+        "url" : "https:\/\/www.milanrecords.com\/release\/merry-christmas-mr-lawrence-original-music\/"
+      },
+      "to" : "editorial:merry-christmas-mr-lawrence-theme"
+    },
+    {
+      "from" : "editorial:forbidden-colours",
+      "inverseLabel" : "演唱作品",
+      "label" : "演唱",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "Milan Records · 原曲与 Forbidden Colours",
+        "title" : "Merry Christmas Mr. Lawrence 原声发行说明",
+        "url" : "https:\/\/www.milanrecords.com\/release\/merry-christmas-mr-lawrence-original-music\/"
+      },
+      "to" : "editorial:david-sylvian"
+    },
+    {
+      "from" : "editorial:forbidden-colours",
+      "inverseLabel" : "作曲作品",
+      "label" : "作曲",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "Milan Records · 原曲与 Forbidden Colours",
+        "title" : "Merry Christmas Mr. Lawrence 原声发行说明",
+        "url" : "https:\/\/www.milanrecords.com\/release\/merry-christmas-mr-lawrence-original-music\/"
+      },
+      "to" : "editorial:ryuichi-sakamoto"
+    },
+    {
+      "from" : "editorial:byakkoya-no-musume",
+      "inverseLabel" : "片尾曲",
+      "label" : "片尾曲来自",
+      "predicate" : "endingOf",
+      "source" : {
+        "detail" : "平泽进官网 · 2006.11.23 发行说明",
+        "title" : "《红辣椒》电影原声",
+        "url" : "https:\/\/susumuhirasawa.com\/discography\/item-42\/"
+      },
+      "to" : "editorial:paprika-film"
+    },
+    {
+      "from" : "editorial:byakkoya-no-musume",
+      "inverseLabel" : "电影片尾改编",
+      "label" : "改编自",
+      "predicate" : "adaptedFrom",
+      "source" : {
+        "detail" : "平泽进官网 · 2006.11.23 发行说明",
+        "title" : "《红辣椒》电影原声",
+        "url" : "https:\/\/susumuhirasawa.com\/discography\/item-42\/"
+      },
+      "to" : "editorial:byakkoya-song"
+    },
+    {
+      "from" : "editorial:byakkoya-no-musume",
+      "inverseLabel" : "创作作品",
+      "label" : "创作",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "平泽进官网 · 2006.11.23 发行说明",
+        "title" : "《红辣椒》电影原声",
+        "url" : "https:\/\/susumuhirasawa.com\/discography\/item-42\/"
+      },
+      "to" : "editorial:susumu-hirasawa"
+    },
+    {
+      "from" : "editorial:byakkoya-song",
+      "inverseLabel" : "演唱作品",
+      "label" : "演唱",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "平泽进官网 · 2006.02.02 发行曲目",
+        "title" : "白虎野",
+        "url" : "https:\/\/susumuhirasawa.com\/discography\/item-10\/"
+      },
+      "to" : "editorial:susumu-hirasawa"
+    },
+    {
+      "from" : "editorial:paprika-film",
+      "inverseLabel" : "改编电影",
+      "label" : "原作小说",
+      "predicate" : "adaptedFrom",
+      "source" : {
+        "detail" : "新潮社 · 筒井康隆原著",
+        "title" : "《パプリカ》书籍资料",
+        "url" : "https:\/\/www.shinchosha.co.jp\/book\/117140\/"
+      },
+      "to" : "editorial:paprika-novel"
+    },
+    {
+      "from" : "editorial:paprika-film",
+      "inverseLabel" : "导演作品",
+      "label" : "导演",
+      "predicate" : "directedBy",
+      "source" : {
+        "detail" : "Sony Pictures · 2026.06.01 · 含原始制作名单",
+        "title" : "《红辣椒》作品资料",
+        "url" : "https:\/\/www.sonypictures.jp\/corp\/press\/2026-06-01"
+      },
+      "to" : "editorial:satoshi-kon"
+    },
+    {
+      "from" : "editorial:paprika-film",
+      "inverseLabel" : "电影配乐作品",
+      "label" : "配乐",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "平泽进官网 · 2006.11.23 发行说明",
+        "title" : "《红辣椒》电影原声",
+        "url" : "https:\/\/susumuhirasawa.com\/discography\/item-42\/"
+      },
+      "to" : "editorial:susumu-hirasawa"
+    },
+    {
+      "from" : "editorial:paprika-novel",
+      "inverseLabel" : "小说作品",
+      "label" : "作者",
+      "predicate" : "authoredBy",
+      "source" : {
+        "detail" : "新潮社 · 筒井康隆原著",
+        "title" : "《パプリカ》书籍资料",
+        "url" : "https:\/\/www.shinchosha.co.jp\/book\/117140\/"
+      },
+      "to" : "editorial:yasutaka-tsutsui"
+    },
+    {
+      "from" : "editorial:one-last-kiss-mv",
+      "inverseLabel" : "官方 MV",
+      "label" : "歌曲",
+      "predicate" : "musicVideoOf",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "宇多田ヒカル『One Last Kiss』 · 官方 MV 描述",
+        "url" : "https:\/\/www.youtube.com\/watch?v=0Uhh62MUEic"
+      },
+      "to" : "editorial:one-last-kiss"
+    },
+    {
+      "from" : "editorial:one-last-kiss-mv",
+      "inverseLabel" : "导演作品",
+      "label" : "导演",
+      "predicate" : "directedBy",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "宇多田ヒカル『One Last Kiss』 · 官方 MV 描述",
+        "url" : "https:\/\/www.youtube.com\/watch?v=0Uhh62MUEic"
+      },
+      "to" : "editorial:hideaki-anno"
+    },
+    {
+      "from" : "editorial:one-last-kiss-mv",
+      "inverseLabel" : "音乐视频",
+      "label" : "演唱",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "宇多田ヒカル『One Last Kiss』 · 官方 MV 描述",
+        "url" : "https:\/\/www.youtube.com\/watch?v=0Uhh62MUEic"
+      },
+      "to" : "utada"
+    },
+    {
+      "from" : "editorial:rotation-lotus-2",
+      "inverseLabel" : "片尾曲",
+      "label" : "片尾曲来自",
+      "predicate" : "endingOf",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "「千年女優」オリジナルサウンドトラック",
+        "url" : "https:\/\/susumuhirasawa.com\/%E2%98%85%E6%96%B0%E8%AD%9C%E3%83%BB%E6%A5%BD%E6%9B%B2%E9%85%8D%E4%BF%A1%E7%AD%89\/%E3%80%8C%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA%E3%80%8D%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cd-extramillennium-actress\/"
+      },
+      "to" : "editorial:millennium-actress"
+    },
+    {
+      "from" : "editorial:millennium-actress",
+      "inverseLabel" : "导演作品",
+      "label" : "导演",
+      "predicate" : "directedBy",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "2002年3月 国内の雑誌から「千年女優」に関するインタビュー",
+        "url" : "https:\/\/konstone.s-kon.net\/modules\/interview\/index.php?content_id=15"
+      },
+      "to" : "editorial:satoshi-kon"
+    },
+    {
+      "from" : "editorial:millennium-actress",
+      "inverseLabel" : "电影配乐作品",
+      "label" : "配乐",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "「千年女優」オリジナルサウンドトラック",
+        "url" : "https:\/\/susumuhirasawa.com\/%E2%98%85%E6%96%B0%E8%AD%9C%E3%83%BB%E6%A5%BD%E6%9B%B2%E9%85%8D%E4%BF%A1%E7%AD%89\/%E3%80%8C%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA%E3%80%8D%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cd-extramillennium-actress\/"
+      },
+      "to" : "editorial:susumu-hirasawa"
+    },
+    {
+      "from" : "editorial:rotation-lotus-2",
+      "inverseLabel" : "以此为参考委约",
+      "label" : "导演委约时的参考曲",
+      "predicate" : "commissionReference",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "会場に流れていた音楽",
+        "url" : "https:\/\/konstone.s-kon.net\/modules\/notebook\/archives\/162"
+      },
+      "to" : "editorial:lotus-sim-city"
+    },
+    {
+      "from" : "editorial:lotus-sim-city",
+      "inverseLabel" : "作品",
+      "label" : "演唱",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "2002年3月 国内の雑誌から「千年女優」に関するインタビュー",
+        "url" : "https:\/\/konstone.s-kon.net\/modules\/interview\/index.php?content_id=15"
+      },
+      "to" : "editorial:susumu-hirasawa"
+    },
+    {
+      "from" : "editorial:rotation-lotus-2",
+      "inverseLabel" : "作品",
+      "label" : "演唱",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "2002年3月 国内の雑誌から「千年女優」に関するインタビュー",
+        "url" : "https:\/\/konstone.s-kon.net\/modules\/interview\/index.php?content_id=15"
+      },
+      "to" : "editorial:susumu-hirasawa"
+    },
+    {
+      "from" : "editorial:merry-christmas-mr-lawrence-film",
+      "inverseLabel" : "导演作品",
+      "label" : "导演",
+      "predicate" : "directedBy",
+      "source" : {
+        "detail" : "原始访谈 \/ 官方资料",
+        "title" : "Merry Christmas Mr. Lawrence · Official score store",
+        "url" : "https:\/\/score-en.sitesakamoto.com\/products\/merry_christmas_mr_lawrence_piano_solo"
+      },
+      "to" : "editorial:nagisa-oshima"
+    },
+    {
+      "from" : "editorial:jane-doe-mv",
+      "inverseLabel" : "官方 MV",
+      "label" : "原曲",
+      "predicate" : "musicVideoOf",
+      "source" : {
+        "detail" : "Kenshi Yonezu · 米津玄师官方频道",
+        "title" : "JANE DOE · 官方 MV",
+        "url" : "https:\/\/www.youtube.com\/watch?v=sPLqsLsooJY"
+      },
+      "to" : "jane"
+    },
+    {
+      "from" : "apple:song:1777375741",
+      "inverseLabel" : "作品",
+      "label" : "艺人",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "trackId · jp",
+        "title" : "iTunes",
+        "url" : "https:\/\/music.apple.com\/jp\/album\/shinsekai%E3%82%88%E3%82%8A\/1777375740?i=1777375741&uo=4"
+      },
+      "to" : "apple:artist:1529999013"
+    },
+    {
+      "from" : "apple:song:1777375741",
+      "inverseLabel" : "收录歌曲",
+      "label" : "收录于",
+      "predicate" : "inAlbum",
+      "source" : {
+        "detail" : "trackId · jp",
+        "title" : "iTunes",
+        "url" : "https:\/\/music.apple.com\/jp\/album\/shinsekai%E3%82%88%E3%82%8A\/1777375740?i=1777375741&uo=4"
+      },
+      "to" : "apple:album:1777375740"
+    },
+    {
+      "from" : "apple:album:1777375740",
+      "inverseLabel" : "发行作品",
+      "label" : "发行艺人",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "collectionId · jp",
+        "title" : "iTunes",
+        "url" : "https:\/\/music.apple.com\/jp\/album\/shinsekai%E3%82%88%E3%82%8A\/1777375740?i=1777375741&uo=4"
+      },
+      "to" : "apple:artist:1529999013"
+    },
+    {
+      "from" : "apple:song:1777375741",
+      "inverseLabel" : "作品",
+      "label" : "演唱",
+      "predicate" : "performedBy",
+      "source" : {
+        "detail" : "recording · vocal · jp",
+        "title" : "MusicBrainz",
+        "url" : "https:\/\/musicbrainz.org\/recording\/e25058b4-50f1-4b35-8410-ec8e97fff1b1"
+      },
+      "to" : "musicbrainz:artist:55e42264-ef27-49d8-93fd-29f930dc96e4"
+    },
+    {
+      "from" : "apple:song:1777375741",
+      "inverseLabel" : "作品",
+      "label" : "作曲",
+      "predicate" : "composedBy",
+      "source" : {
+        "detail" : "work · composer · jp",
+        "title" : "MusicBrainz",
+        "url" : "https:\/\/musicbrainz.org\/work\/5e6fd7e6-8488-4206-86f3-addb040045b0"
+      },
+      "to" : "musicbrainz:artist:b392cd76-6b4f-496e-8afe-7a60e2bc5a12"
+    },
+    {
+      "from" : "apple:song:1777375741",
+      "inverseLabel" : "作品",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "work · lyricist · jp",
+        "title" : "MusicBrainz",
+        "url" : "https:\/\/musicbrainz.org\/work\/5e6fd7e6-8488-4206-86f3-addb040045b0"
+      },
+      "to" : "musicbrainz:artist:b392cd76-6b4f-496e-8afe-7a60e2bc5a12"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "演唱",
+      "label" : "演唱",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 主题歌演出",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:495562"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "演唱",
+      "label" : "演唱",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 主题歌演出",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:321885"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:408757"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:408757"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:374063"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:374063"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451112"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451114"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451114"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451115"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451117"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451129"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451130"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451130"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451133"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作曲",
+      "label" : "作曲",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作曲",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451133"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451133"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451135"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451135"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451137"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:451137"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:469507"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作曲",
+      "label" : "作曲",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作曲",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:469507"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:478951"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:478951"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:482365"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:308972"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "演唱",
+      "label" : "演唱",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 主题歌演出",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:489820"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:469507"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:511979"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:524085"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:524086"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:511979"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:541805"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:551635"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作曲",
+      "label" : "作曲",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作曲",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:551635"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:551635"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作曲",
+      "label" : "作曲",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作曲",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:559837"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:559837"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "演唱",
+      "label" : "演唱",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 主题歌演出",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:527620"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:579018"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:585828"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:585828"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "演唱",
+      "label" : "演唱",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 主题歌演出",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:441940"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "演唱",
+      "label" : "演唱",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 主题歌演出",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:426100"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "演唱",
+      "label" : "演唱",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 主题歌演出",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:487782"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:559837"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:622521"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:622521"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:657883"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:657883"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作曲",
+      "label" : "作曲",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作曲",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:657883"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:646930"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "发行作品",
+      "label" : "发行作品",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 艺术家",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:701661"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作曲",
+      "label" : "作曲",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作曲",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:701661"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "作词",
+      "label" : "作词",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 作词",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:701661"
+    },
+    {
+      "from" : "apple:artist:1529999013",
+      "inverseLabel" : "演唱",
+      "label" : "演唱",
+      "predicate" : "publicRelation",
+      "source" : {
+        "detail" : "persons · 56720 · 主题歌演出",
+        "title" : "Bangumi",
+        "url" : "https:\/\/api.bgm.tv\/v0\/persons\/56720\/subjects?"
+      },
+      "to" : "bangumi:subject:617273"
+    }
+  ],
+  "stories" : [
+
+  ],
+  "version" : 1,
+  "works" : [
+    {
+      "art" : "editorial-one-last-kiss-mv",
+      "creator" : "宇多田光",
+      "detail" : "官方 MV · 4:18",
+      "id" : "editorial:one-last-kiss-mv",
+      "kind" : "音乐视频",
+      "linkedCreatorIDs" : [
+        "utada",
+        "editorial:hideaki-anno"
+      ],
+      "title" : "One Last Kiss — Music Video",
+      "url" : "https:\/\/www.youtube.com\/watch?v=0Uhh62MUEic"
+    },
+    {
+      "art" : "",
+      "creator" : "作曲家",
+      "detail" : "Animenz 在改编说明中提到",
+      "id" : "ravel",
+      "kind" : "创作者",
+      "knowledgeID" : "Q1178",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "拉威尔"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "551635",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:551635",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "ロりロっきゅんロぼ♡",
+      "url" : "https:\/\/bgm.tv\/subject\/551635"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "646930",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:646930",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります!』オリジナル・サウンドトラック",
+      "url" : "https:\/\/bgm.tv\/subject\/646930"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "541805",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:541805",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "EMO",
+      "url" : "https:\/\/bgm.tv\/subject\/541805"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "657883",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:657883",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "貸しっぱなしデスティニー\/また帰ってきたケロッ！とマーチ",
+      "url" : "https:\/\/bgm.tv\/subject\/657883"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "559837",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:559837",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "BONE BORN BOMB",
+      "url" : "https:\/\/bgm.tv\/subject\/559837"
+    },
+    {
+      "art" : "",
+      "creator" : "作曲家、钢琴家",
+      "detail" : "Ryuichi Sakamoto",
+      "id" : "editorial:ryuichi-sakamoto",
+      "kind" : "创作者",
+      "knowledgeID" : "Q345494",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "坂本龙一",
+      "url" : "https:\/\/www.sitesakamoto.com\/filmography\/"
+    },
+    {
+      "art" : "editorial-paprika-soundtrack",
+      "creator" : "平泽进",
+      "detail" : "2006 · 《红辣椒》片尾曲",
+      "id" : "editorial:byakkoya-no-musume",
+      "kind" : "歌曲",
+      "linkedCreatorIDs" : [
+        "editorial:susumu-hirasawa"
+      ],
+      "title" : "白虎野の娘",
+      "url" : "https:\/\/susumuhirasawa.com\/free-music\/"
+    },
+    {
+      "art" : "editorial-one-last-kiss",
+      "creator" : "宇多田光",
+      "detail" : "2021 · 重新录制版",
+      "id" : "editorial:beautiful-world-da-capo",
+      "kind" : "歌曲",
+      "linkedAlbumID" : "editorial:one-last-kiss-ep",
+      "linkedCreatorIDs" : [
+        "utada"
+      ],
+      "title" : "Beautiful World (Da Capo Version)",
+      "url" : "https:\/\/music.apple.com\/us\/album\/beautiful-world-da-capo-version\/1542953969?i=1542953978"
+    },
+    {
+      "art" : "",
+      "creator" : "动画导演、编剧",
+      "detail" : "《红辣椒》导演",
+      "id" : "editorial:satoshi-kon",
+      "kind" : "创作者",
+      "knowledgeID" : "Q333643",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "今敏",
+      "url" : "https:\/\/www.sonypictures.jp\/corp\/press\/2026-06-01"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "426100",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:426100",
+      "kind" : "动画",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "TRIGUN STARGAZE",
+      "url" : "https:\/\/bgm.tv\/subject\/426100"
+    },
+    {
+      "art" : "pool",
+      "creator" : "牛尾宪辅",
+      "detail" : "1:10 · 2025",
+      "id" : "ourFilm",
+      "kind" : "歌曲",
+      "linkedAlbumID" : "poolAlbum",
+      "linkedCreatorIDs" : [
+        "ushio"
+      ],
+      "storeCountry" : "us",
+      "title" : "our film",
+      "url" : "https:\/\/music.apple.com\/us\/song\/1837521650"
+    },
+    {
+      "art" : "",
+      "creator" : "今敏",
+      "detail" : "动画电影",
+      "id" : "editorial:millennium-actress",
+      "kind" : "电影",
+      "knowledgeID" : "Q939736",
+      "linkedCreatorIDs" : [
+        "editorial:satoshi-kon"
+      ],
+      "title" : "千年女优",
+      "url" : "https:\/\/konstone.s-kon.net\/modules\/interview\/index.php?content_id=15"
+    },
+    {
+      "art" : "",
+      "creator" : "歌手、音乐人",
+      "detail" : "《Forbidden Colours》演唱",
+      "id" : "editorial:david-sylvian",
+      "kind" : "创作者",
+      "knowledgeID" : "Q519273",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "David Sylvian",
+      "url" : "https:\/\/www.davidsylvian.com\/discography\/singles\/sylviansakamoto_forbidden_colours.html"
+    },
+    {
+      "art" : "distance",
+      "creator" : "宇多田光",
+      "detail" : "5:38 · 2001",
+      "id" : "distance",
+      "kind" : "歌曲",
+      "linkedAlbumID" : "distanceAlbum",
+      "linkedCreatorIDs" : [
+        "utada"
+      ],
+      "storeCountry" : "us",
+      "title" : "FINAL DISTANCE",
+      "url" : "https:\/\/music.apple.com\/us\/song\/1444855975"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "451133",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:451133",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "SWEETSIDE SUICIDE",
+      "url" : "https:\/\/bgm.tv\/subject\/451133"
+    },
+    {
+      "art" : "",
+      "creator" : "大岛渚",
+      "detail" : "1983 · 123 分钟",
+      "id" : "editorial:merry-christmas-mr-lawrence-film",
+      "kind" : "电影",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "圣诞快乐，劳伦斯先生",
+      "url" : "https:\/\/www.janusfilms.com\/films\/1750"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "321885",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:321885",
+      "kind" : "动画",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "チェンソーマン",
+      "url" : "https:\/\/bgm.tv\/subject\/321885"
+    },
+    {
+      "art" : "jane",
+      "creator" : "米津玄师、宇多田光",
+      "detail" : "3:56 · 2025",
+      "id" : "jane",
+      "kind" : "歌曲",
+      "linkedAlbumID" : "janeAlbum",
+      "linkedCreatorIDs" : [
+        "yonezu",
+        "utada"
+      ],
+      "storeCountry" : "us",
+      "title" : "JANE DOE",
+      "url" : "https:\/\/music.apple.com\/us\/song\/1840081736"
+    },
+    {
+      "art" : "pool",
+      "creator" : "牛尾宪辅",
+      "detail" : "1:30 · 2025",
+      "id" : "slow",
+      "kind" : "歌曲",
+      "linkedAlbumID" : "poolAlbum",
+      "linkedCreatorIDs" : [
+        "ushio"
+      ],
+      "storeCountry" : "us",
+      "title" : "slow summer eve",
+      "url" : "https:\/\/music.apple.com\/us\/song\/1837522113"
+    },
+    {
+      "art" : "jane",
+      "creator" : "米津玄师、宇多田光",
+      "detail" : "单曲发行 · 2025",
+      "id" : "janeAlbum",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+        "yonezu",
+        "utada"
+      ],
+      "storeCountry" : "us",
+      "title" : "JANE DOE — Single",
+      "url" : "https:\/\/music.apple.com\/us\/album\/1840081735"
+    },
+    {
+      "art" : "",
+      "creator" : "庵野秀明",
+      "detail" : "2021 · 动画电影",
+      "id" : "editorial:evangelion-3-0-plus-1-0",
+      "kind" : "电影",
+      "linkedCreatorIDs" : [
+        "editorial:hideaki-anno"
+      ],
+      "title" : "新·福音战士剧场版：终",
+      "url" : "https:\/\/www.evangelion.jp\/final.html"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "451117",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:451117",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "ンーィテンブセ",
+      "url" : "https:\/\/bgm.tv\/subject\/451117"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "451129",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:451129",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "アパシー",
+      "url" : "https:\/\/bgm.tv\/subject\/451129"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "495562",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:495562",
+      "kind" : "动画",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "デッドデッドデーモンズデデデデデストラクション",
+      "url" : "https:\/\/bgm.tv\/subject\/495562"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "701661",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:701661",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "キライのちスキ！",
+      "url" : "https:\/\/bgm.tv\/subject\/701661"
+    },
+    {
+      "art" : "editorial-one-last-kiss",
+      "creator" : "宇多田光",
+      "detail" : "2021 · EP",
+      "id" : "editorial:one-last-kiss-ep",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+        "utada"
+      ],
+      "title" : "One Last Kiss",
+      "url" : "https:\/\/music.apple.com\/us\/album\/one-last-kiss\/1542953969"
+    },
+    {
+      "art" : "",
+      "creator" : "作曲家",
+      "detail" : "Animenz 在改编说明中提到",
+      "id" : "debussy",
+      "kind" : "创作者",
+      "knowledgeID" : "Q4700",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "德彪西"
+    },
+    {
+      "art" : "",
+      "creator" : "小说家",
+      "detail" : "《红辣椒》原作者",
+      "id" : "editorial:yasutaka-tsutsui",
+      "kind" : "创作者",
+      "knowledgeID" : "Q719250",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "筒井康隆",
+      "url" : "https:\/\/www.shinchosha.co.jp\/book\/117140\/"
+    },
+    {
+      "art" : "",
+      "creator" : "导演",
+      "detail" : "《电锯人 蕾塞篇》导演",
+      "id" : "yoshihara",
+      "kind" : "创作者",
+      "knowledgeID" : "Q125871279",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "吉原达矢"
+    },
+    {
+      "art" : "",
+      "creator" : "今敏",
+      "detail" : "2006 · 动画电影 · 90 分钟",
+      "id" : "editorial:paprika-film",
+      "kind" : "电影",
+      "knowledgeID" : "Q578595",
+      "linkedCreatorIDs" : [
+        "editorial:satoshi-kon"
+      ],
+      "title" : "红辣椒",
+      "url" : "https:\/\/www.sonypictures.jp\/corp\/press\/2026-06-01"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "56720",
+      "catalogFetchedAt" : 815913543.458789,
+      "catalogID" : "1529999013",
+      "catalogSource" : {
+        "detail" : "artistId · jp",
+        "title" : "iTunes",
+        "url" : "https:\/\/music.apple.com\/jp\/artist\/ano\/1529999013?uo=4"
+      },
+      "creator" : "音乐人",
+      "detail" : "",
+      "id" : "apple:artist:1529999013",
+      "kind" : "创作者",
+      "knowledgeID" : "Q34861530",
+      "knowledgeIdentitySource" : {
+        "detail" : "P2850=1529999013",
+        "title" : "Wikidata",
+        "url" : "https:\/\/www.wikidata.org\/wiki\/Q34861530"
+      },
+      "linkedCreatorIDs" : [
+
+      ],
+      "storeCountry" : "jp",
+      "title" : "ano",
+      "url" : "https:\/\/music.apple.com\/jp\/artist\/ano\/1529999013?uo=4"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "451137",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:451137",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "デリート",
+      "url" : "https:\/\/bgm.tv\/subject\/451137"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "579018",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:579018",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER CRYSTAL QUALIA 08 禍魂朧夜",
+      "url" : "https:\/\/bgm.tv\/subject\/579018"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "487782",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:487782",
+      "kind" : "动画",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+      "url" : "https:\/\/bgm.tv\/subject\/487782"
+    },
+    {
+      "art" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music211\/v4\/5e\/2e\/95\/5e2e9593-297d-7086-e089-48247640b53a\/COKM-45462.jpg\/600x600bb.jpg",
+      "catalogFetchedAt" : 815913543.459034,
+      "catalogID" : "1777375740",
+      "catalogSource" : {
+        "detail" : "collectionId · jp",
+        "title" : "iTunes",
+        "url" : "https:\/\/music.apple.com\/jp\/album\/shinsekai%E3%82%88%E3%82%8A\/1777375740?i=1777375741&uo=4"
+      },
+      "catalogTrackCount" : 1,
+      "creator" : "ano & 幾田りら",
+      "detail" : "",
+      "id" : "apple:album:1777375740",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+        "apple:artist:1529999013"
+      ],
+      "releaseDate" : "2024-11-15T08:00:00Z",
+      "storeCountry" : "jp",
+      "title" : "SHINSEKAIより - Single",
+      "url" : "https:\/\/music.apple.com\/jp\/album\/shinsekai%E3%82%88%E3%82%8A\/1777375740?uo=4"
+    },
+    {
+      "art" : "film",
+      "bangumiID" : "470660",
+      "creator" : "吉原达矢",
+      "detail" : "动画电影 · 2025",
+      "id" : "film",
+      "kind" : "电影",
+      "knowledgeID" : "Q123906765",
+      "linkedCreatorIDs" : [
+        "yoshihara"
+      ],
+      "title" : "电锯人 蕾塞篇",
+      "url" : "https:\/\/chainsawman.dog\/movie_reze\/"
+    },
+    {
+      "art" : "",
+      "creator" : "导演",
+      "detail" : "电影导演",
+      "id" : "editorial:nagisa-oshima",
+      "kind" : "创作者",
+      "knowledgeID" : "Q55403",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "大岛渚",
+      "url" : "https:\/\/www.wikidata.org\/wiki\/Q55403"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "478951",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:478951",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "絶絶絶絶対聖域",
+      "url" : "https:\/\/bgm.tv\/subject\/478951"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "451135",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:451135",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "Peek a boo",
+      "url" : "https:\/\/bgm.tv\/subject\/451135"
+    },
+    {
+      "art" : "distance",
+      "creator" : "宇多田光",
+      "detail" : "单曲发行 · 2001",
+      "id" : "distanceAlbum",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+        "utada"
+      ],
+      "storeCountry" : "us",
+      "title" : "Final Distance",
+      "url" : "https:\/\/music.apple.com\/us\/album\/1444855971"
+    },
+    {
+      "art" : "",
+      "creator" : "音乐人",
+      "detail" : "《JANE DOE》合作演唱",
+      "id" : "utada",
+      "kind" : "创作者",
+      "knowledgeID" : "Q234598",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "宇多田光",
+      "url" : "https:\/\/www.utadahikaru.jp\/profile\/"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "622521",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:622521",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "ピカレスクヒーロー",
+      "url" : "https:\/\/bgm.tv\/subject\/622521"
+    },
+    {
+      "art" : "editorial-jane-doe-mv",
+      "creator" : "米津玄师、宇多田光",
+      "detail" : "官方 MV",
+      "id" : "editorial:jane-doe-mv",
+      "kind" : "音乐视频",
+      "linkedCreatorIDs" : [
+        "yonezu",
+        "utada"
+      ],
+      "title" : "JANE DOE — Music Video",
+      "url" : "https:\/\/www.youtube.com\/watch?v=sPLqsLsooJY"
+    },
+    {
+      "art" : "editorial-one-last-kiss",
+      "creator" : "宇多田光",
+      "detail" : "2021 · 电影主题歌",
+      "id" : "editorial:one-last-kiss",
+      "kind" : "歌曲",
+      "linkedAlbumID" : "editorial:one-last-kiss-ep",
+      "linkedCreatorIDs" : [
+        "utada"
+      ],
+      "title" : "One Last Kiss",
+      "url" : "https:\/\/music.apple.com\/us\/album\/one-last-kiss\/1542953969?i=1542953977"
+    },
+    {
+      "art" : "",
+      "creator" : "钢琴演奏与改编",
+      "detail" : "in the pool 钢琴改编",
+      "id" : "animenzPerson",
+      "kind" : "创作者",
+      "knowledgeID" : "Q61102629",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "Animenz"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "6236",
+      "creator" : "音乐人",
+      "detail" : "《JANE DOE》词曲与演唱",
+      "id" : "yonezu",
+      "kind" : "创作者",
+      "knowledgeID" : "Q11604296",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "米津玄师"
+    },
+    {
+      "art" : "",
+      "creator" : "音乐人、歌手",
+      "detail" : "Susumu Hirasawa",
+      "id" : "editorial:susumu-hirasawa",
+      "kind" : "创作者",
+      "knowledgeID" : "Q930143",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "平泽进",
+      "url" : "https:\/\/susumuhirasawa.com\/profile\/"
+    },
+    {
+      "art" : "",
+      "creator" : "导演、编剧",
+      "detail" : "《新·福音战士剧场版：终》总导演",
+      "id" : "editorial:hideaki-anno",
+      "kind" : "创作者",
+      "knowledgeID" : "Q23261",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "庵野秀明",
+      "url" : "https:\/\/www.evangelion.jp\/final.html"
+    },
+    {
+      "art" : "animenz",
+      "creator" : "Animenz",
+      "detail" : "钢琴改编 · 5:24",
+      "id" : "animenz",
+      "kind" : "演奏视频",
+      "linkedCreatorIDs" : [
+        "animenzPerson"
+      ],
+      "title" : "in the pool",
+      "url" : "https:\/\/www.bilibili.com\/video\/BV1QHyZBbEnT\/"
+    },
+    {
+      "art" : "editorial-byakkoya",
+      "creator" : "平泽进",
+      "detail" : "2006 · 同名专辑第 2 曲",
+      "id" : "editorial:byakkoya-song",
+      "kind" : "歌曲",
+      "linkedCreatorIDs" : [
+        "editorial:susumu-hirasawa"
+      ],
+      "title" : "白虎野",
+      "url" : "https:\/\/susumuhirasawa.com\/discography\/item-10\/"
+    },
+    {
+      "art" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music211\/v4\/5e\/2e\/95\/5e2e9593-297d-7086-e089-48247640b53a\/COKM-45462.jpg\/600x600bb.jpg",
+      "catalogFetchedAt" : 815913543.459163,
+      "catalogID" : "1777375741",
+      "catalogSource" : {
+        "detail" : "trackId · jp",
+        "title" : "iTunes",
+        "url" : "https:\/\/music.apple.com\/jp\/album\/shinsekai%E3%82%88%E3%82%8A\/1777375740?i=1777375741&uo=4"
+      },
+      "catalogTrack" : {
+        "albumID" : "1777375740",
+        "artistID" : "1529999013",
+        "disc" : 1,
+        "milliseconds" : 214800,
+        "track" : 1,
+        "trackCount" : 1
+      },
+      "creator" : "ano & 幾田りら",
+      "detail" : "3:34 · 2024",
+      "id" : "apple:song:1777375741",
+      "kind" : "歌曲",
+      "linkedAlbumID" : "apple:album:1777375740",
+      "linkedCreatorIDs" : [
+        "apple:artist:1529999013"
+      ],
+      "regionOrigin" : "known",
+      "releaseDate" : "2024-11-15T12:00:00Z",
+      "resolvedRegion" : "jp",
+      "storeCountry" : "jp",
+      "title" : "SHINSEKAIより",
+      "url" : "https:\/\/music.apple.com\/jp\/album\/shinsekai%E3%82%88%E3%82%8A\/1777375740?i=1777375741&uo=4"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "524086",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:524086",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "SHINSEKAIより",
+      "url" : "https:\/\/bgm.tv\/subject\/524086"
+    },
+    {
+      "art" : "pool",
+      "creator" : "牛尾宪辅",
+      "detail" : "4:05 · 2025",
+      "id" : "pool",
+      "kind" : "歌曲",
+      "linkedAlbumID" : "poolAlbum",
+      "linkedCreatorIDs" : [
+        "ushio"
+      ],
+      "storeCountry" : "us",
+      "title" : "in the pool",
+      "url" : "https:\/\/music.apple.com\/us\/song\/1837522108"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "451114",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:451114",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "スマイルあげない",
+      "url" : "https:\/\/bgm.tv\/subject\/451114"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "511979",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:511979",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "許婚っきゅん",
+      "url" : "https:\/\/bgm.tv\/subject\/511979"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "527620",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:527620",
+      "kind" : "动画",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "タコピーの原罪",
+      "url" : "https:\/\/bgm.tv\/subject\/527620"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "408757",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:408757",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "ちゅ、多様性。",
+      "url" : "https:\/\/bgm.tv\/subject\/408757"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "469507",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:469507",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "猫猫吐吐",
+      "url" : "https:\/\/bgm.tv\/subject\/469507"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "451130",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:451130",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "F Wonderful World",
+      "url" : "https:\/\/bgm.tv\/subject\/451130"
+    },
+    {
+      "art" : "",
+      "creator" : "平泽进",
+      "detail" : "《千年女优》片尾曲",
+      "id" : "editorial:rotation-lotus-2",
+      "kind" : "音乐作品",
+      "linkedCreatorIDs" : [
+        "editorial:susumu-hirasawa"
+      ],
+      "title" : "ロタティオン（LOTUS-2）",
+      "url" : "https:\/\/susumuhirasawa.com\/%E2%98%85%E6%96%B0%E8%AD%9C%E3%83%BB%E6%A5%BD%E6%9B%B2%E9%85%8D%E4%BF%A1%E7%AD%89\/%E3%80%8C%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA%E3%80%8D%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cd-extramillennium-actress\/",
+      "versionSearchQuery" : "ロタティオン LOTUS-2 平沢進 千年女優"
+    },
+    {
+      "art" : "",
+      "creator" : "筒井康隆",
+      "detail" : "科幻小说 · 《红辣椒》电影原作",
+      "id" : "editorial:paprika-novel",
+      "kind" : "书籍",
+      "knowledgeID" : "Q7133130",
+      "linkedCreatorIDs" : [
+        "editorial:yasutaka-tsutsui"
+      ],
+      "title" : "红辣椒（パプリカ）",
+      "url" : "https:\/\/www.shinchosha.co.jp\/book\/117140\/"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "451112",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:451112",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "絶対小悪魔コーデ",
+      "url" : "https:\/\/bgm.tv\/subject\/451112"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "617273",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:617273",
+      "kind" : "动画",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "ケロロ軍曹☆",
+      "url" : "https:\/\/bgm.tv\/subject\/617273"
+    },
+    {
+      "art" : "pool",
+      "creator" : "牛尾宪辅",
+      "detail" : "《蕾塞篇》电影原声 · 2025",
+      "id" : "poolAlbum",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+        "ushio"
+      ],
+      "storeCountry" : "us",
+      "title" : "summer’s end",
+      "url" : "https:\/\/music.apple.com\/us\/album\/1837521647"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "489820",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:489820",
+      "kind" : "动画",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "らんま1\/2",
+      "url" : "https:\/\/bgm.tv\/subject\/489820"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "585828",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:585828",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "TVアニメ「らんま1\/2」オリジナル・サウンドトラック",
+      "url" : "https:\/\/bgm.tv\/subject\/585828"
+    },
+    {
+      "art" : "",
+      "creator" : "藤本树",
+      "detail" : "原作漫画",
+      "id" : "manga",
+      "kind" : "漫画",
+      "knowledgeID" : "Q65240543",
+      "linkedCreatorIDs" : [
+        "fujimoto"
+      ],
+      "title" : "电锯人"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "451115",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:451115",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "普変",
+      "url" : "https:\/\/bgm.tv\/subject\/451115"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "441940",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:441940",
+      "kind" : "动画",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "劇場版 僕とロボコ",
+      "url" : "https:\/\/bgm.tv\/subject\/441940"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "524085",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:524085",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック",
+      "url" : "https:\/\/bgm.tv\/subject\/524085"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "14186",
+      "catalogID" : "939561587",
+      "creator" : "作曲家",
+      "detail" : "《蕾塞篇》配乐",
+      "id" : "ushio",
+      "kind" : "创作者",
+      "knowledgeID" : "Q11190062",
+      "linkedCreatorIDs" : [
+
+      ],
+      "storeCountry" : "us",
+      "title" : "牛尾宪辅",
+      "url" : "https:\/\/music.apple.com\/us\/artist\/kensuke-ushio\/939561587"
+    },
+    {
+      "art" : "",
+      "creator" : "音乐人",
+      "detail" : "",
+      "id" : "musicbrainz:artist:55e42264-ef27-49d8-93fd-29f930dc96e4",
+      "kind" : "创作者",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "幾田りら",
+      "url" : "https:\/\/musicbrainz.org\/artist\/55e42264-ef27-49d8-93fd-29f930dc96e4"
+    },
+    {
+      "art" : "",
+      "creator" : "音乐人",
+      "detail" : "",
+      "id" : "musicbrainz:artist:b392cd76-6b4f-496e-8afe-7a60e2bc5a12",
+      "kind" : "创作者",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "浅野いにお",
+      "url" : "https:\/\/musicbrainz.org\/artist\/b392cd76-6b4f-496e-8afe-7a60e2bc5a12"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "482365",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:482365",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "青春謳歌",
+      "url" : "https:\/\/bgm.tv\/subject\/482365"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "308972",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:308972",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "kitixxxgaia",
+      "url" : "https:\/\/bgm.tv\/subject\/308972"
+    },
+    {
+      "art" : "",
+      "bangumiID" : "374063",
+      "creator" : "",
+      "detail" : "",
+      "id" : "bangumi:subject:374063",
+      "kind" : "专辑",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "AIDA",
+      "url" : "https:\/\/bgm.tv\/subject\/374063"
+    },
+    {
+      "art" : "",
+      "creator" : "平泽进",
+      "detail" : "Sim City · 原版作品",
+      "id" : "editorial:lotus-sim-city",
+      "kind" : "音乐作品",
+      "linkedCreatorIDs" : [
+        "editorial:susumu-hirasawa"
+      ],
+      "title" : "Lotus",
+      "url" : "https:\/\/konstone.s-kon.net\/modules\/notebook\/archives\/162",
+      "versionSearchQuery" : "Lotus 平沢進 Sim City"
+    },
+    {
+      "art" : "editorial-merry-christmas-mr-lawrence",
+      "creator" : "坂本龙一",
+      "detail" : "1983 · 电影主题音乐",
+      "id" : "editorial:merry-christmas-mr-lawrence-theme",
+      "kind" : "歌曲",
+      "linkedCreatorIDs" : [
+        "editorial:ryuichi-sakamoto"
+      ],
+      "title" : "Merry Christmas Mr. Lawrence",
+      "url" : "https:\/\/music.apple.com\/us\/album\/merry-christmas-mr-lawrence\/1500818100?i=1500818105"
+    },
+    {
+      "art" : "",
+      "creator" : "漫画家",
+      "detail" : "《电锯人》原作者",
+      "id" : "fujimoto",
+      "kind" : "创作者",
+      "knowledgeID" : "Q24864023",
+      "linkedCreatorIDs" : [
+
+      ],
+      "title" : "藤本树"
+    },
+    {
+      "art" : "editorial-merry-christmas-mr-lawrence",
+      "creator" : "David Sylvian、坂本龙一",
+      "detail" : "1983 · 主题音乐的人声改编",
+      "id" : "editorial:forbidden-colours",
+      "kind" : "歌曲",
+      "linkedCreatorIDs" : [
+        "editorial:david-sylvian",
+        "editorial:ryuichi-sakamoto"
+      ],
+      "title" : "Forbidden Colours",
+      "url" : "https:\/\/music.apple.com\/us\/album\/forbidden-colors\/1500818100?i=1500818278"
+    }
+  ]
+}

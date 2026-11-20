@@ -1,0 +1,312 @@
+{
+  "cacheHit": false,
+  "cachedResponseURLs": [],
+  "collectedAt": 815913962.083618,
+  "discoveredURLs": [
+    "https://natalie.mu/comic/news/599064",
+    "https://www.oricon.co.jp/prof/647245/"
+  ],
+  "entity": {
+    "albumNames": [
+      "SHINSEKAIより - Single"
+    ],
+    "articleAnchors": [
+      {
+        "kind": "creator",
+        "name": "ano",
+        "qid": "Q34861530",
+        "source": {
+          "detail": "P2850=1529999013",
+          "title": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q34861530"
+        }
+      }
+    ],
+    "artistName": "ano",
+    "artistQID": "Q34861530",
+    "editorialNotes": [],
+    "externalIDs": {
+      "apple": "1777375741",
+      "storefront": "jp"
+    },
+    "graphNodes": [
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q61102629"
+        ],
+        "id": "animenz",
+        "kind": "person",
+        "name": "Animenz"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q23261"
+        ],
+        "id": "anno",
+        "kind": "person",
+        "name": "庵野秀明"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q34861530"
+        ],
+        "id": "apple:artist:1529999013",
+        "kind": "person",
+        "name": "ano"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q4700"
+        ],
+        "id": "debussy",
+        "kind": "person",
+        "name": "德彪西"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q519273"
+        ],
+        "id": "editorial:david-sylvian",
+        "kind": "person",
+        "name": "David Sylvian"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q23261"
+        ],
+        "id": "editorial:hideaki-anno",
+        "kind": "person",
+        "name": "庵野秀明"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q939736"
+        ],
+        "id": "editorial:millennium-actress",
+        "kind": "work",
+        "name": "千年女优"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q55403"
+        ],
+        "id": "editorial:nagisa-oshima",
+        "kind": "person",
+        "name": "大岛渚"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q578595"
+        ],
+        "id": "editorial:paprika-film",
+        "kind": "work",
+        "name": "红辣椒"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q7133130"
+        ],
+        "id": "editorial:paprika-novel",
+        "kind": "work",
+        "name": "红辣椒（パプリカ）"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q345494"
+        ],
+        "id": "editorial:ryuichi-sakamoto",
+        "kind": "person",
+        "name": "坂本龙一"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q333643"
+        ],
+        "id": "editorial:satoshi-kon",
+        "kind": "person",
+        "name": "今敏"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q930143"
+        ],
+        "id": "editorial:susumu-hirasawa",
+        "kind": "person",
+        "name": "平泽进"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q719250"
+        ],
+        "id": "editorial:yasutaka-tsutsui",
+        "kind": "person",
+        "name": "筒井康隆"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q123906765"
+        ],
+        "id": "film",
+        "kind": "work",
+        "name": "电锯人 蕾塞篇"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q24864023"
+        ],
+        "id": "fujimoto",
+        "kind": "person",
+        "name": "藤本树"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q96711898"
+        ],
+        "id": "ikuta",
+        "kind": "person",
+        "name": "几田莉拉"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q65240543"
+        ],
+        "id": "manga",
+        "kind": "work",
+        "name": "电锯人"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q1178"
+        ],
+        "id": "ravel",
+        "kind": "person",
+        "name": "拉威尔"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q11190062"
+        ],
+        "id": "ushio",
+        "kind": "person",
+        "name": "牛尾宪辅"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q234598"
+        ],
+        "id": "utada",
+        "kind": "person",
+        "name": "宇多田光"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q11604296"
+        ],
+        "id": "yonezu",
+        "kind": "person",
+        "name": "米津玄师"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q125871279"
+        ],
+        "id": "yoshihara",
+        "kind": "person",
+        "name": "吉原达矢"
+      }
+    ],
+    "id": "apple:song:1777375741",
+    "isSong": true,
+    "name": "SHINSEKAIより",
+    "neighbors": [],
+    "structuredCredits": []
+  },
+  "facts": [],
+  "identityNames": {
+    "Q34861530": [
+      "あの",
+      "ano",
+      "あのちゃん",
+      "Ano",
+      "Ano醬",
+      "Ano"
+    ]
+  },
+  "kinds": {},
+  "materials": [],
+  "requests": [
+    {
+      "purpose": "Wikidata 精确 ID、别名与陈述",
+      "status": 200,
+      "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=1&ids=Q34861530&languages=ja%7Czh%7Czh-hans%7Cen&props=labels%7Caliases%7Cclaims%7Csitelinks&sitefilter=jawiki%7Czhwiki%7Cenwiki"
+    },
+    {
+      "purpose": "维基正文与固定版本身份核对",
+      "status": 200,
+      "url": "https://ja.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E3%81%82%E3%81%AE&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose": "维基正文与固定版本身份核对",
+      "status": 200,
+      "url": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Ano&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose": "维基正文与固定版本身份核对",
+      "status": 200,
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Ano%20(singer)&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose": "robots.txt",
+      "status": 405,
+      "url": "https://natalie.mu/robots.txt"
+    },
+    {
+      "purpose": "robots.txt",
+      "status": 200,
+      "url": "https://www.oricon.co.jp/robots.txt"
+    },
+    {
+      "purpose": "媒体站 ID 页",
+      "status": 200,
+      "url": "https://www.oricon.co.jp/prof/647245/"
+    }
+  ],
+  "skipped": [
+    {
+      "reason": "无可读取的已绑定歌曲／实体 QID，不按同名搜索",
+      "url": "apple:song:1777375741"
+    },
+    {
+      "reason": "HTTP 405",
+      "url": "https://natalie.mu/robots.txt"
+    },
+    {
+      "reason": "robots 拒绝或不可验证",
+      "url": "https://natalie.mu/comic/news/599064"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,38 @@
+{
+  "subject": {
+    "album": "クロノ・トリガー&クロノ・クロス アレンジアルバム/ハルカナルトキノカナタへ",
+    "creator": "光田康典",
+    "id": "apple:song:1434525158",
+    "kind": "song",
+    "title": "風の憧憬"
+  },
+  "namespace": "flash-evidence-v3",
+  "visibleText": "{\"leads\":[{\"ref\":\"wind_scene_work\",\"name\":\"風の憧憬\",\"target_type\":\"music_work\",\"creator\":\"光田康典\",\"zh\":\"风之憧憬\",\"en\":\"Wind Scene\",\"composer\":\"光田康典\",\"identity_url\":\"https://www.jp.square-enix.com/music/lineup/item/SQEX-10501.html\"},{\"ref\":\"chrono_trigger_game\",\"name\":\"クロノ・トリガー\",\"target_type\":\"game\",\"creator\":\"スクウェア\",\"zh\":\"时空之轮\",\"en\":\"Chrono Trigger\",\"identity_url\":\"https://www.jp.square-enix.com/music/sem/page/chrono/vinyllpbox/\"},{\"ref\":\"harukanaru_release\",\"name\":\"クロノ・トリガー&クロノ・クロス アレンジアルバム/ハルカナルトキノカナタへ\",\"target_type\":\"release\",\"creator\":\"光田康典\",\"zh\":\"时空之轮&穿越时空 改编专辑/遥かなる時のかなたへ\",\"identity_url\":\"https://www.jp.square-enix.com/music/lineup/item/SQEX-10501.html\"},{\"ref\":\"wind_scene_original_recording\",\"name\":\"風の憧憬\",\"target_type\":\"recording\",\"creator\":\"光田康典\",\"release_title\":\"クロノ・トリガー オリジナル・サウンドトラック\",\"identity_url\":\"https://www.jp.square-enix.com/music/sem/page/chrono/vinyllpbox/\"}],\"relations\":[{\"from\":\"current\",\"to\":\"wind_scene_work\",\"relation\":\"performance_of\",\"why\":\"当前录音是对光田康典所作《風の憧憬》的新录改编演奏\",\"url\":\"https://www.jp.square-enix.com/music/lineup/item/SQEX-10501.html\",\"evidence_quote\":\"光田康典自身が全曲新録アレンジをプロデュース\"},{\"from\":\"wind_scene_work\",\"to\":\"chrono_trigger_game\",\"relation\":\"created_for\",\"why\":\"《風の憧憬》是游戏《クロノ・トリガー》中世フィールド的BGM\",\"url\":\"https://nlab.itmedia.co.jp/research/articles/195194/\",\"evidence_quote\":\"中世のトルース村やチョラス村のワールドマップが広がるシーンで流れます\"},{\"from\":\"current\",\"to\":\"harukanaru_release\",\"relation\":\"part_of\",\"why\":\"当前录音收录于《ハルカナルトキノカナタへ》专辑第3曲\",\"url\":\"https://www.jp.square-enix.com/music/lineup/item/SQEX-10501.html\",\"evidence_quote\":\"3風の憧憬 / Wind Scene\"},{\"from\":\"wind_scene_original_recording\",\"to\":\"wind_scene_work\",\"relation\":\"performance_of\",\"why\":\"原始游戏录音是《風の憧憬》乐曲的最初录音呈现\",\"url\":\"https://www.jp.square-enix.com/music/sem/page/chrono/vinyllpbox/\",\"evidence_quote\":\"ゲームを彩るオリジナル・サウンドトラックを合計64曲収録\"},{\"from\":\"wind_scene_original_recording\",\"to\":\"chrono_trigger_game\",\"relation\":\"created_for\",\"why\":\"该录音是为游戏《クロノ・トリガー》制作的原始BGM\",\"url\":\"https://www.jp.square-enix.com/music/sem/page/chrono/vinyllpbox/\",\"evidence_quote\":\"名作RPG『クロノ・トリガー』の音楽\"}],\"story\":{\"subject_ref\":\"current\",\"text\":\"《風の憧憬》原是光田康典为1995年SFC游戏《クロノ・トリガー》中世篇地图所作BGM。2015年，为纪念光田作曲家生涯20周年，Square Enix推出改编专辑《ハルカナルトキノカナタへ》，由光田本人从《クロノ・トリガー》与《クロノ・クロス》中选曲并担任制作，全10曲以新录音方式重新编排。这张专辑里的《風の憧憬》并非旧音源重制，而是保留原旋律线条、加入新音色的新录版本；官方在发售前夜还安排光田出演Niconico直播，谈各曲制作幕后。当前录音即出自这张20周年改编专辑。\",\"subject_ref_note\":\"current\"}}",
+  "observedURLs": [
+    "https://chrono-trigger.gamers-wiki.jp/chrono-trigger-wind-scene-bgm/",
+    "https://dengekionline.com/elem/000/001/133/1133717/",
+    "https://news.mynavi.jp/article/20151006-a435/",
+    "https://nlab.itmedia.co.jp/research/articles/195194/",
+    "https://www.4gamer.net/games/076/G007631/20151014016/#1",
+    "https://www.4gamer.net/games/144/G014475/20151006053/#%e9%96%89%e3%81%98%e3%82%8b#1",
+    "https://www.amazon.co.jp:443/dp/B0GFLZTCYR/ref=olp-opf-redir?aod=1&pf_rd_p=04a09edd-da51-4757-a034-f654f3da9d84&pf_rd_r=BFN84YG0ZQ3S811M8GEB#1",
+    "https://www.e-hon.ne.jp/bec/SA/ListMulti?cnt=1&dispCnt=20&dCategoryNavigate=cmmC&bansyu=Z3&initial=%83%7D%8D%73&makerFacet=%83%5C%83%6A%81%5B%81%45%83%7E%83%85%81%5B%83%57%83%62%83%4E%83%5C%83%8A%83%85%81%5B%83%56%83%87%83%93%83%59&kind=categoryfacet&dCategoryDisplay=%93%B6%97%77%81%45%8A%77%8C%7C&dispFmt=1&sortSel=1&preCategoryDisplay=%8B%60%91%BE%95%76+%8F%ED%94%D6%92%C3&totalCnt=47&categoryNavigate=cmmCM&scope=2&categoryDisplay=%83%51%81%5B%83%80%81%45%83%54%83%93%83%67%83%89&preFacet=%83%7D%8D%73&submitLabel=button&button=btnCategory",
+    "https://www.jp.square-enix.com/music/lineup/item/SQEX-10501.html",
+    "https://www.jp.square-enix.com/music/lineup/item/SQEX-11217-20.html",
+    "https://www.jp.square-enix.com/music/sem/page/chrono/orchestra/2026/",
+    "https://www.jp.square-enix.com/music/sem/page/chrono/piano_soundscape/",
+    "https://www.jp.square-enix.com/music/sem/page/chrono/vinyllpbox/",
+    "https://www.oricon.co.jp/prof/205912/products/1561565/1/",
+    "https://www.ragnet.co.jp/game-soundtrack-songs/2#s9"
+  ],
+  "usage": {
+    "model": "deepseek-flash",
+    "inputTokens": 10923,
+    "cachedInputTokens": 1920,
+    "outputTokens": 956,
+    "webToolCalls": 1
+  },
+  "researchSeconds": 7.057437458017375,
+  "fetchedAt": 816374033.454504,
+  "completed": true
+}

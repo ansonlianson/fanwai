@@ -1,0 +1,473 @@
+{
+ "version": 1,
+ "note": "设计原型使用的样例图。实体 artworkAsset 指向 Resources/Assets.xcassets 中已有的 imageset 名；null 表示按无图样式渲染。relations 按展开顺序排列，顺序有意义。",
+ "root": "pool",
+ "entities": [
+  {
+   "id": "pool",
+   "kind": "song",
+   "title": "in the pool",
+   "subtitle": "牛尾宪辅",
+   "artworkAsset": "pool",
+   "fallbackGlyph": null,
+   "hook": "两年前，它是先导片没用上的 B 方案",
+   "actions": [
+    "下一首播放",
+    "稍后听"
+   ]
+  },
+  {
+   "id": "summer",
+   "kind": "album",
+   "title": "summer's end",
+   "subtitle": "原声专辑 · 2025",
+   "artworkAsset": "pool",
+   "fallbackGlyph": null,
+   "hook": "《蕾塞篇》的完整原声，《in the pool》是第 9 首",
+   "actions": [
+    "在 Apple Music 打开",
+    "稍后听"
+   ]
+  },
+  {
+   "id": "film",
+   "kind": "film",
+   "title": "电锯人 蕾塞篇",
+   "subtitle": "电影 · 2025",
+   "artworkAsset": "film",
+   "fallbackGlyph": null,
+   "hook": "牛尾宪辅、米津玄师和宇多田光，都在这部电影里",
+   "actions": [
+    "想看",
+    "豆瓣"
+   ]
+  },
+  {
+   "id": "ushio",
+   "kind": "person",
+   "title": "牛尾宪辅",
+   "subtitle": "作曲家",
+   "artworkAsset": "verified-q11190062",
+   "fallbackGlyph": null,
+   "hook": "TV 版《电锯人》、《声之形》、《恶魔人 Crybaby》都是他配的乐",
+   "actions": [
+    "看全部作品",
+    "稍后听"
+   ]
+  },
+  {
+   "id": "animenzv",
+   "kind": "video",
+   "title": "Animenz 钢琴版",
+   "subtitle": "YouTube 视频",
+   "artworkAsset": "animenz",
+   "fallbackGlyph": null,
+   "hook": "Animenz 把它改成了一首钢琴独奏",
+   "actions": [
+    "播放视频",
+    "稍后看"
+   ]
+  },
+  {
+   "id": "animenz",
+   "kind": "person",
+   "title": "Animenz",
+   "subtitle": "钢琴演奏者",
+   "artworkAsset": "verified-animenz-uploader",
+   "fallbackGlyph": null,
+   "hook": "以动画歌曲钢琴改编出名的 YouTube 钢琴家",
+   "actions": [
+    "看频道",
+    "稍后看"
+   ]
+  },
+  {
+   "id": "manga",
+   "kind": "manga",
+   "title": "电锯人",
+   "subtitle": "漫画 · 藤本树",
+   "artworkAsset": "verified-q65240543",
+   "fallbackGlyph": null,
+   "hook": "蕾塞的故事在原作第一部的后半段",
+   "actions": [
+    "想看",
+    "豆瓣"
+   ]
+  },
+  {
+   "id": "fujimoto",
+   "kind": "person",
+   "title": "藤本树",
+   "subtitle": "漫画家",
+   "artworkAsset": null,
+   "fallbackGlyph": "藤",
+   "hook": "《电锯人》《炎拳》《蓦然回首》的作者",
+   "actions": [
+    "看全部作品",
+    "豆瓣"
+   ]
+  },
+  {
+   "id": "yoshihara",
+   "kind": "person",
+   "title": "吉原达矢",
+   "subtitle": "导演",
+   "artworkAsset": null,
+   "fallbackGlyph": "吉",
+   "hook": "《电锯人 蕾塞篇》的导演",
+   "actions": [
+    "看全部作品",
+    "豆瓣"
+   ]
+  },
+  {
+   "id": "jane",
+   "kind": "song",
+   "title": "JANE DOE",
+   "subtitle": "米津玄师、宇多田光",
+   "artworkAsset": "jane",
+   "fallbackGlyph": null,
+   "hook": "写到一半，米津玄师觉得只能请宇多田光来唱",
+   "actions": [
+    "下一首播放",
+    "稍后听"
+   ]
+  },
+  {
+   "id": "iris",
+   "kind": "song",
+   "title": "IRIS OUT",
+   "subtitle": "米津玄师",
+   "artworkAsset": null,
+   "fallbackGlyph": null,
+   "hook": "米津玄师给《蕾塞篇》写的主题曲",
+   "actions": [
+    "下一首播放",
+    "稍后听"
+   ]
+  },
+  {
+   "id": "janemv",
+   "kind": "video",
+   "title": "JANE DOE MV",
+   "subtitle": "官方 MV",
+   "artworkAsset": "editorial-jane-doe-mv",
+   "fallbackGlyph": null,
+   "hook": "两人一身黑，坐在车站长椅的两端",
+   "actions": [
+    "播放视频",
+    "稍后看"
+   ]
+  },
+  {
+   "id": "yonezu",
+   "kind": "person",
+   "title": "米津玄师",
+   "subtitle": "词曲作者、歌手",
+   "artworkAsset": "verified-q11604296",
+   "fallbackGlyph": null,
+   "hook": "他给《电锯人》写过三首：KICK BACK、IRIS OUT、JANE DOE",
+   "actions": [
+    "看全部作品",
+    "稍后听"
+   ]
+  },
+  {
+   "id": "utada",
+   "kind": "person",
+   "title": "宇多田光",
+   "subtitle": "词曲作者、歌手",
+   "artworkAsset": "verified-q234598",
+   "fallbackGlyph": null,
+   "hook": "《JANE DOE》是她和米津玄师的第一次合作",
+   "actions": [
+    "看全部作品",
+    "稍后听"
+   ]
+  },
+  {
+   "id": "csmtv",
+   "kind": "tv",
+   "title": "电锯人",
+   "subtitle": "TV 动画 · 2022",
+   "artworkAsset": null,
+   "fallbackGlyph": null,
+   "hook": "2022 年的 TV 动画，配乐也是牛尾宪辅",
+   "actions": [
+    "想看",
+    "豆瓣"
+   ]
+  },
+  {
+   "id": "kickback",
+   "kind": "song",
+   "title": "KICK BACK",
+   "subtitle": "米津玄师",
+   "artworkAsset": null,
+   "fallbackGlyph": null,
+   "hook": "TV 动画《电锯人》的片头曲，2022 年",
+   "actions": [
+    "下一首播放",
+    "稍后听"
+   ]
+  },
+  {
+   "id": "koe",
+   "kind": "film",
+   "title": "声之形",
+   "subtitle": "电影 · 2016",
+   "artworkAsset": null,
+   "fallbackGlyph": null,
+   "hook": "京都动画的电影，山田尚子导演",
+   "actions": [
+    "想看",
+    "豆瓣"
+   ]
+  },
+  {
+   "id": "devil",
+   "kind": "tv",
+   "title": "恶魔人 Crybaby",
+   "subtitle": "剧集 · 2018",
+   "artworkAsset": null,
+   "fallbackGlyph": null,
+   "hook": "汤浅政明导演的 Netflix 动画剧集",
+   "actions": [
+    "想看",
+    "豆瓣"
+   ]
+  },
+  {
+   "id": "olk",
+   "kind": "song",
+   "title": "One Last Kiss",
+   "subtitle": "宇多田光",
+   "artworkAsset": "editorial-one-last-kiss",
+   "fallbackGlyph": null,
+   "hook": "《新·福音战士剧场版：终》的主题曲",
+   "actions": [
+    "下一首播放",
+    "稍后听"
+   ]
+  },
+  {
+   "id": "olkmv",
+   "kind": "video",
+   "title": "One Last Kiss MV",
+   "subtitle": "官方 MV",
+   "artworkAsset": "editorial-one-last-kiss-mv",
+   "fallbackGlyph": null,
+   "hook": "MV 由庵野秀明执导",
+   "actions": [
+    "播放视频",
+    "稍后看"
+   ]
+  },
+  {
+   "id": "eva",
+   "kind": "film",
+   "title": "新·福音战士剧场版：终",
+   "subtitle": "电影 · 2021",
+   "artworkAsset": null,
+   "fallbackGlyph": null,
+   "hook": "庵野秀明为 EVA 画上句号的一部",
+   "actions": [
+    "想看",
+    "豆瓣"
+   ]
+  },
+  {
+   "id": "anno",
+   "kind": "person",
+   "title": "庵野秀明",
+   "subtitle": "导演",
+   "artworkAsset": "verified-q23261",
+   "fallbackGlyph": null,
+   "hook": "四部新剧场版的主题曲，都是宇多田光唱的",
+   "actions": [
+    "看全部作品",
+    "豆瓣"
+   ]
+  },
+  {
+   "id": "distance",
+   "kind": "album",
+   "title": "Distance",
+   "subtitle": "宇多田光 · 2001",
+   "artworkAsset": "distance",
+   "fallbackGlyph": null,
+   "hook": "宇多田光 2001 年的第二张专辑",
+   "actions": [
+    "在 Apple Music 打开",
+    "稍后听"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "from": "pool",
+   "to": "film",
+   "label": "配乐出自"
+  },
+  {
+   "from": "pool",
+   "to": "ushio",
+   "label": "作曲"
+  },
+  {
+   "from": "pool",
+   "to": "animenzv",
+   "label": "钢琴改编"
+  },
+  {
+   "from": "pool",
+   "to": "summer",
+   "label": "收录于"
+  },
+  {
+   "from": "summer",
+   "to": "ushio",
+   "label": "作曲"
+  },
+  {
+   "from": "film",
+   "to": "manga",
+   "label": "原作"
+  },
+  {
+   "from": "film",
+   "to": "jane",
+   "label": "片尾曲"
+  },
+  {
+   "from": "film",
+   "to": "iris",
+   "label": "主题曲"
+  },
+  {
+   "from": "film",
+   "to": "yoshihara",
+   "label": "导演"
+  },
+  {
+   "from": "ushio",
+   "to": "csmtv",
+   "label": "配乐"
+  },
+  {
+   "from": "ushio",
+   "to": "koe",
+   "label": "配乐"
+  },
+  {
+   "from": "ushio",
+   "to": "devil",
+   "label": "配乐"
+  },
+  {
+   "from": "animenzv",
+   "to": "animenz",
+   "label": "改编演奏"
+  },
+  {
+   "from": "manga",
+   "to": "fujimoto",
+   "label": "作者"
+  },
+  {
+   "from": "manga",
+   "to": "csmtv",
+   "label": "动画化"
+  },
+  {
+   "from": "manga",
+   "to": "film",
+   "label": "改编为"
+  },
+  {
+   "from": "jane",
+   "to": "yonezu",
+   "label": "词曲"
+  },
+  {
+   "from": "jane",
+   "to": "utada",
+   "label": "演唱"
+  },
+  {
+   "from": "jane",
+   "to": "janemv",
+   "label": "MV"
+  },
+  {
+   "from": "iris",
+   "to": "yonezu",
+   "label": "词曲演唱"
+  },
+  {
+   "from": "yonezu",
+   "to": "kickback",
+   "label": "词曲演唱"
+  },
+  {
+   "from": "yonezu",
+   "to": "iris",
+   "label": "词曲演唱"
+  },
+  {
+   "from": "yonezu",
+   "to": "jane",
+   "label": "词曲"
+  },
+  {
+   "from": "utada",
+   "to": "olk",
+   "label": "词曲演唱"
+  },
+  {
+   "from": "utada",
+   "to": "distance",
+   "label": "专辑"
+  },
+  {
+   "from": "csmtv",
+   "to": "kickback",
+   "label": "片头曲"
+  },
+  {
+   "from": "csmtv",
+   "to": "manga",
+   "label": "改编自"
+  },
+  {
+   "from": "kickback",
+   "to": "yonezu",
+   "label": "词曲演唱"
+  },
+  {
+   "from": "kickback",
+   "to": "csmtv",
+   "label": "片头曲"
+  },
+  {
+   "from": "olk",
+   "to": "eva",
+   "label": "主题曲"
+  },
+  {
+   "from": "olk",
+   "to": "olkmv",
+   "label": "MV"
+  },
+  {
+   "from": "olkmv",
+   "to": "anno",
+   "label": "导演"
+  },
+  {
+   "from": "eva",
+   "to": "anno",
+   "label": "总导演"
+  }
+ ]
+}

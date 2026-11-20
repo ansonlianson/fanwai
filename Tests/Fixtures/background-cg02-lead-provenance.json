@@ -1,0 +1,23 @@
+{
+  "scope": "Unmodified public MediaWiki API responses for a fixed revision; original cited interviews not independently verified.",
+  "records": [
+    {
+      "file": "background-Q114562491-zh-sections.json",
+      "url": "https://zh.wikipedia.org/w/api.php?action=parse&oldid=94853128&prop=sections&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1",
+      "sha256": "dd95b4f3f018292775191ddc75d5bdfc24660dd71d30c99017db0d69fa81b6d0",
+      "bytes": 915,
+      "recorded_at": "2026-11-03T21:26:24.923162+00:00",
+      "page_id": 8154410,
+      "revision": 94853128
+    },
+    {
+      "file": "background-Q114562491-zh-section-0.json",
+      "url": "https://zh.wikipedia.org/w/api.php?action=parse&oldid=94853128&prop=text&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1&section=0",
+      "sha256": "1f15571fda77e41aa5dd5ed7160ce817ade22e5df09286fff469c25c24c69089",
+      "bytes": 29550,
+      "recorded_at": "2026-11-03T21:26:26.372890+00:00",
+      "page_id": 8154410,
+      "revision": 94853128
+    }
+  ]
+}

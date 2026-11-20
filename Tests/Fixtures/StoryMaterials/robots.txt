@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /private
+Allow: /private/public
+
+User-agent: Pianwai
+Disallow: /blocked
+Allow: /blocked/public

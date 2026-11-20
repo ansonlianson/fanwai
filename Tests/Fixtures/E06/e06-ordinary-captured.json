@@ -1,0 +1,78 @@
+[
+  {
+    "case": "kaibutsu",
+    "source": "QA/E03/tasks/r1-gpt-kaibutsu.json",
+    "title": "怪物さん (feat. あいみょん)",
+    "creator": "平井 堅",
+    "raw": {
+      "leads": [
+        {
+          "name": "怪物さん feat.あいみょん MUSIC VIDEO",
+          "zh": "",
+          "en": "",
+          "kind": "video",
+          "label": "官方MV",
+          "why": "以「不许动」游戏表现恋爱中女性进退摇摆的心情。",
+          "creator": "田中裕介",
+          "wiki": "",
+          "url": "https://tape-inc.net/projects/kenhirai/"
+        },
+        {
+          "name": "あいみょん",
+          "zh": "爱缪",
+          "en": "Aimyon",
+          "kind": "person",
+          "label": "合唱歌手",
+          "why": "平井堅寄来亲笔信和约五首候选曲，首推这首合作曲。",
+          "creator": "",
+          "wiki": "ja:あいみょん",
+          "url": "https://news.radiko.jp/article/edit/43141/"
+        }
+      ],
+      "story": {
+        "text": "2020年6月，爱缪在电台回忆，约两年前她宣传《今夜このまま》时，在电视节目上向平井堅打招呼，对方当场提出一起合作。她起初以为只是客套，后来却收到了平井堅的亲笔信，以及他为合作写的约五首候选曲。其中，平井堅最推荐的就是《怪物さん》，这首歌最终成为两人的合唱作品。",
+        "subject": "song",
+        "source": "radiko电台访谈",
+        "url": "https://news.radiko.jp/article/edit/43141/"
+      }
+    }
+  },
+  {
+    "case": "shiroi",
+    "source": "QA/E03/tasks/r1-gpt-shiroi.json",
+    "title": "白い色は恋人の色 (ライブ)",
+    "creator": "桑田佳祐 & あいみょん",
+    "raw": {
+      "leads": [
+        {
+          "name": "クレヨンしんちゃん 嵐を呼ぶ モーレツ！オトナ帝国の逆襲",
+          "zh": "蜡笔小新：风起云涌 猛烈！大人帝国的反击",
+          "en": "Crayon Shin-chan: The Storm Called: The Adult Empire Strikes Back",
+          "kind": "film",
+          "label": "原曲插曲",
+          "why": "原唱版用于健与查子穿过夕阳町商店街、返回公寓的场景。",
+          "creator": "原恵一",
+          "wiki": "zh:蠟筆小新：風起雲湧 猛烈！大人帝國的反擊",
+          "url": "https://iroha48.com/ka/shinchan/dt_shinchan.html"
+        },
+        {
+          "name": "白い色は恋人の色",
+          "zh": "",
+          "en": "Shiroi Iro wa Koibito no Iro",
+          "kind": "song",
+          "label": "原曲",
+          "why": "官方曲目表确认，这次二重唱翻唱的是贝ッツィ＆クリス的作品。",
+          "creator": "ベッツィ&クリス",
+          "wiki": "ja:白い色は恋人の色",
+          "url": "https://southernallstars.jp/feature/kudanshitafolkfes25_album"
+        }
+      ],
+      "story": {
+        "text": "2025年，为纪念自己的广播节目开播30周年与TOKYO FM开台55周年，桑田佳祐发起了日本武道馆的民谣演出，并邀请あいみょん等人作为神秘嘉宾登台。他与あいみょん合唱了《白い色は恋人の色》。一年后，各参演艺人同意把当晚录音制成慈善现场专辑，所得利润全数交由日本红十字会，用于熊本等受灾地区的援助。",
+        "subject": "album",
+        "source": "专辑官方特设页",
+        "url": "https://southernallstars.jp/feature/kudanshitafolkfes25_album"
+      }
+    }
+  }
+]

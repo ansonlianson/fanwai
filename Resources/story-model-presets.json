@@ -1,0 +1,138 @@
+[
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "api": "openAI",
+    "baseURL": "https://api.deepseek.com",
+    "models": [
+      "deepseek-flash",
+      "deepseek-v4-pro"
+    ],
+    "modelsPath": "models",
+    "verifiedAt": "2026-11-05",
+    "source": "https://api-docs.deepseek.com/quick_start/pricing/",
+    "checkingModel": null
+  },
+  {
+    "id": "mimo",
+    "name": "小米 MiMo",
+    "api": "openAI",
+    "baseURL": "https://api.xiaomimimo.com/v1",
+    "models": [
+      "mimo-v2.6-flash",
+      "mimo-v2.6-pro"
+    ],
+    "modelsPath": "models",
+    "verifiedAt": "2026-11-05",
+    "source": "https://mimo.mi.com/docs/zh-CN/api/chat/openai-api-post",
+    "checkingModel": "mimo-v2.6-pro"
+  },
+  {
+    "id": "qwen",
+    "name": "通义千问",
+    "api": "openAI",
+    "baseURL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "models": [
+      "qwen-plus",
+      "qwen-max"
+    ],
+    "modelsPath": "models",
+    "verifiedAt": "2026-11-05",
+    "source": "https://help.aliyun.com/zh/model-studio/compatibility-of-openai-with-dashscope",
+    "checkingModel": null
+  },
+  {
+    "id": "kimi",
+    "name": "Kimi",
+    "api": "openAI",
+    "baseURL": "https://api.moonshot.cn/v1",
+    "models": [
+      "kimi-k3.1-pro",
+      "kimi-k3.1-pro-highspeed"
+    ],
+    "modelsPath": "models",
+    "verifiedAt": "2026-11-05",
+    "source": "https://platform.kimi.com/docs/get-api-key",
+    "checkingModel": null
+  },
+  {
+    "id": "glm",
+    "name": "智谱 GLM",
+    "api": "openAI",
+    "baseURL": "https://open.bigmodel.cn/api/paas/v4",
+    "models": [
+      "glm-5.3",
+      "glm-5.3-flash"
+    ],
+    "verifiedAt": "2026-11-05",
+    "source": "https://docs.bigmodel.cn/cn/guide/start/quick-start",
+    "checkingModel": null
+  },
+  {
+    "id": "doubao",
+    "name": "豆包",
+    "api": "openAI",
+    "baseURL": "https://ark.cn-beijing.volces.com/api/v3",
+    "models": [
+      "doubao-seed-2-1-lite-260915",
+      "doubao-seed-2-1-pro-260915"
+    ],
+    "verifiedAt": "2026-11-05",
+    "source": "https://console.volcengine.com/ark/region:cn-beijing/docs/model-list",
+    "checkingModel": null
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "api": "responses",
+    "baseURL": "https://api.openai.com/v1",
+    "models": [
+      "gpt-6.1-sol",
+      "gpt-6.1-terra",
+      "gpt-6-luna"
+    ],
+    "modelsPath": "models",
+    "verifiedAt": "2026-11-05",
+    "source": "https://developers.openai.com/api/docs/models",
+    "checkingModel": null
+  },
+  {
+    "id": "gemini",
+    "name": "Google Gemini",
+    "api": "openAI",
+    "baseURL": "https://generativelanguage.googleapis.com/v1beta/openai/",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "modelsPath": "models",
+    "verifiedAt": "2026-11-05",
+    "source": "https://aistudio.google.com/docs/openai",
+    "checkingModel": null
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "api": "anthropic",
+    "baseURL": "https://api.anthropic.com/v1/messages",
+    "models": [
+      "claude-haiku-5-5",
+      "claude-sonnet-5-5",
+      "claude-opus-5-5"
+    ],
+    "modelsPath": "models",
+    "verifiedAt": "2026-11-05",
+    "source": "https://platform.claude.com/docs/en/models/overview",
+    "checkingModel": null
+  },
+  {
+    "id": "custom",
+    "name": "自定义",
+    "api": "openAI",
+    "baseURL": "",
+    "models": [],
+    "modelsPath": "models",
+    "verifiedAt": "2026-11-05",
+    "source": "",
+    "checkingModel": null
+  }
+]

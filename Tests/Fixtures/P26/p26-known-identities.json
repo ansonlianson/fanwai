@@ -1,0 +1,1458 @@
+{
+  "version": 1,
+  "works": [
+    {
+      "storeCountry": "jp",
+      "detail": "",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/f3/a8/d5f3a8d3-2b3e-61fe-d747-9ec348aba810/THCA60055.jpg/600x600bb.jpg",
+      "id": "apple:album:1045471853",
+      "catalogID": "1045471853",
+      "catalogTrackCount": 15,
+      "catalogFetchedAt": 815972803.468784,
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "collectionId · jp",
+        "url": "https://music.apple.com/jp/album/catch-me-if-you-can/1045471853?i=1045472392&uo=4"
+      },
+      "url": "https://music.apple.com/jp/album/catch-me-if-you-can/1045471853?uo=4",
+      "linkedCreatorIDs": [],
+      "title": "TVアニメ「血界戦線」オリジナル・サウンドトラック",
+      "creator": "",
+      "kind": "专辑"
+    },
+    {
+      "storeCountry": "jp",
+      "linkedCreatorIDs": [
+        "apple:artist:678140651"
+      ],
+      "creator": "Creepy Nuts",
+      "catalogID": "1638257258",
+      "catalogSource": {
+        "url": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-%E3%83%97%E3%83%AC%E3%82%A4/1638257258?uo=4",
+        "title": "iTunes",
+        "detail": "collectionId · jp"
+      },
+      "kind": "专辑",
+      "detail": "2022",
+      "catalogFetchedAt": 815624515.996308,
+      "id": "apple:album:1638257258",
+      "title": "アンサンブル・プレイ",
+      "url": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-%E3%83%97%E3%83%AC%E3%82%A4/1638257258?uo=4",
+      "releaseDate": "2022-09-07T07:00:00Z",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f1/2e/7d/f12e7d8b-c430-24e8-c103-93f5f424c598/4547366579345.jpg/600x600bb.jpg",
+      "catalogTrackCount": 12
+    },
+    {
+      "url": "https://music.apple.com/jp/album/lilac/1658168421?uo=4",
+      "linkedCreatorIDs": [],
+      "storeCountry": "jp",
+      "kind": "专辑",
+      "catalogSource": {
+        "url": "https://music.apple.com/jp/album/lilac/1658168421?i=1658168434&uo=4",
+        "title": "iTunes",
+        "detail": "collectionId · jp"
+      },
+      "title": "First Love 初恋 (Soundtrack from the Netflix Series)",
+      "creator": "",
+      "catalogTrackCount": 47,
+      "catalogFetchedAt": 815972798.1784,
+      "detail": "",
+      "catalogID": "1658168421",
+      "id": "apple:album:1658168421",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/b4/28/e7b428a8-ff78-d0f2-6692-e173f0aa3456/081012316303.png/600x600bb.jpg"
+    },
+    {
+      "storeCountry": "jp",
+      "catalogSource": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/super-ball/1706072703?i=1706072707&uo=4",
+        "detail": "collectionId · jp"
+      },
+      "id": "apple:album:1706072703",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/84/29/87/84298736-cb15-5da8-97ba-f61247e27de4/PCCA_06223_A.jpg/600x600bb.jpg",
+      "catalogFetchedAt": 815654051.414529,
+      "linkedCreatorIDs": [],
+      "kind": "专辑",
+      "url": "https://music.apple.com/jp/album/super-ball/1706072703?uo=4",
+      "creator": "",
+      "catalogTrackCount": 13,
+      "catalogID": "1706072703",
+      "title": "TWO MOON",
+      "detail": ""
+    },
+    {
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/17/77/2d1777fe-9f3a-82db-d5a0-24b06f4a6a62/24UMGIM64777.rgb.jpg/600x600bb.jpg",
+      "storeCountry": "jp",
+      "kind": "专辑",
+      "catalogTrackCount": 1,
+      "id": "apple:album:1755182641",
+      "title": "忘れてください - Single",
+      "linkedCreatorIDs": [],
+      "catalogFetchedAt": 815912930.833304,
+      "catalogID": "1755182641",
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "collectionId · jp",
+        "url": "https://music.apple.com/jp/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1755182641?i=1755182819&uo=4"
+      },
+      "creator": "",
+      "url": "https://music.apple.com/jp/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1755182641?uo=4",
+      "detail": ""
+    },
+    {
+      "creator": "ano & 幾田りら",
+      "detail": "",
+      "url": "https://music.apple.com/jp/album/shinsekai%E3%82%88%E3%82%8A/1777375740?uo=4",
+      "catalogTrackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/2e/95/5e2e9593-297d-7086-e089-48247640b53a/COKM-45462.jpg/600x600bb.jpg",
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "collectionId · jp",
+        "url": "https://music.apple.com/jp/album/shinsekai%E3%82%88%E3%82%8A/1777375740?i=1777375741&uo=4"
+      },
+      "catalogID": "1777375740",
+      "catalogFetchedAt": 815915502.864439,
+      "linkedCreatorIDs": [
+        "apple:artist:1529999013"
+      ],
+      "title": "SHINSEKAIより - Single",
+      "id": "apple:album:1777375740",
+      "storeCountry": "jp",
+      "kind": "专辑",
+      "releaseDate": "2024-11-15T08:00:00Z"
+    },
+    {
+      "detail": "",
+      "linkedCreatorIDs": [],
+      "url": "https://music.apple.com/jp/album/in-the-pool/1840140991?uo=4",
+      "catalogTrackCount": 30,
+      "kind": "专辑",
+      "catalogID": "1840140991",
+      "creator": "",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/38/01/aa3801b0-3d1b-cd7c-9f08-5473f6396725/4517331097112.jpg/600x600bb.jpg",
+      "storeCountry": "jp",
+      "title": "CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack -summer's end-",
+      "catalogFetchedAt": 815915489.624936,
+      "id": "apple:album:1840140991",
+      "catalogSource": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/in-the-pool/1840140991?i=1840141274&uo=4",
+        "detail": "collectionId · jp"
+      }
+    },
+    {
+      "kind": "专辑",
+      "catalogTrackCount": 1,
+      "detail": "",
+      "url": "https://music.apple.com/jp/album/%E7%AB%A0/1888137119?uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/26/4e/d1264e59-10e5-c7d7-f2e5-83dfb6c95ccd/4547366815870.jpg/600x600bb.jpg",
+      "id": "apple:album:1888137119",
+      "catalogID": "1888137119",
+      "title": "章 - Single",
+      "linkedCreatorIDs": [],
+      "creator": "",
+      "storeCountry": "jp",
+      "catalogFetchedAt": 815673760.856679,
+      "catalogSource": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/%E7%AB%A0/1888137119?i=1888137120&uo=4",
+        "detail": "collectionId · jp"
+      }
+    },
+    {
+      "title": "Distance in Static",
+      "catalogTrackCount": 14,
+      "id": "apple:album:1895659203",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/7d/5e/8d7d5e2a-31a9-50ba-9e04-3ce2b53d0c8c/5054429211276.png/600x600bb.jpg",
+      "kind": "专辑",
+      "catalogSource": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/distance-in-static/1895659203?uo=4",
+        "detail": "collectionId · jp"
+      },
+      "storeCountry": "jp",
+      "detail": "2026",
+      "catalogFetchedAt": 815972696.543224,
+      "url": "https://music.apple.com/jp/album/distance-in-static/1895659203?uo=4",
+      "creator": "ボノボ",
+      "linkedCreatorIDs": [
+        "apple:artist:416281071"
+      ],
+      "catalogID": "1895659203",
+      "releaseDate": "2026-09-11T07:00:00Z"
+    },
+    {
+      "detail": "",
+      "catalogFetchedAt": 815913213.394804,
+      "catalogID": "6809339760",
+      "id": "apple:album:6809339760",
+      "linkedCreatorIDs": [],
+      "creator": "",
+      "url": "https://music.apple.com/jp/album/plastic-beauty-main-theme/6809339760?uo=4",
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "collectionId · jp",
+        "url": "https://music.apple.com/jp/album/plastic-beauty-main-theme/6809339760?i=6809339761&uo=4"
+      },
+      "kind": "专辑",
+      "storeCountry": "jp",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/b7/2c/82b72c23-2c54-0f84-4b72-f4bc8abe28f0/810236330150.png/600x600bb.jpg",
+      "title": "ダウンタイム (Soundtrack from the Netflix Series)",
+      "catalogTrackCount": 20
+    },
+    {
+      "catalogSource": {
+        "detail": "collectionId · jp",
+        "url": "https://music.apple.com/jp/album/%E5%81%8F%E5%81%8F%E5%96%9C%E6%AD%A1%E4%BD%A0/726243514?i=726243548&uo=4",
+        "title": "iTunes"
+      },
+      "kind": "专辑",
+      "catalogFetchedAt": 815972921.989008,
+      "url": "https://music.apple.com/jp/album/%E5%81%8F%E5%81%8F%E5%96%9C%E6%AD%A1%E4%BD%A0/726243514?uo=4",
+      "catalogID": "726243514",
+      "linkedCreatorIDs": [],
+      "detail": "",
+      "catalogTrackCount": 12,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ef/75/b0/ef75b0b7-1b63-155f-3551-e437433a3825/825646365180.jpg/600x600bb.jpg",
+      "title": "偏偏喜歡你",
+      "storeCountry": "jp",
+      "creator": "",
+      "id": "apple:album:726243514"
+    },
+    {
+      "catalogSource": {
+        "detail": "collectionId · jp",
+        "url": "https://music.apple.com/jp/album/%E5%BF%B5%E8%A6%AA%E6%81%A9/726294999?i=726295815&uo=4",
+        "title": "iTunes"
+      },
+      "kind": "专辑",
+      "catalogFetchedAt": 815972921.989774,
+      "url": "https://music.apple.com/jp/album/%E5%BF%B5%E8%A6%AA%E6%81%A9/726294999?uo=4",
+      "catalogID": "726294999",
+      "linkedCreatorIDs": [],
+      "detail": "",
+      "catalogTrackCount": 12,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ae/18/36/ae18368d-5adf-cb48-a672-0ee777012ffa/825646364992.jpg/600x600bb.jpg",
+      "title": "有了你",
+      "storeCountry": "jp",
+      "creator": "",
+      "id": "apple:album:726294999"
+    },
+    {
+      "title": "Love In L.A",
+      "linkedCreatorIDs": [],
+      "kind": "专辑",
+      "url": "https://music.apple.com/jp/album/%E5%8D%8A%E7%94%9F%E4%BA%BA/727214887?uo=4",
+      "catalogSource": {
+        "detail": "collectionId · jp",
+        "url": "https://music.apple.com/jp/album/%E5%8D%8A%E7%94%9F%E4%BA%BA/727214887?i=727214945&uo=4",
+        "title": "iTunes"
+      },
+      "id": "apple:album:727214887",
+      "catalogTrackCount": 10,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/85/3f/1d/853f1d03-db2e-82fb-06f5-8e2c85e2eeb1/825646365715.jpg/600x600bb.jpg",
+      "catalogID": "727214887",
+      "storeCountry": "jp",
+      "catalogFetchedAt": 815972917.786075,
+      "detail": "",
+      "creator": ""
+    },
+    {
+      "title": "Yorushika",
+      "id": "apple:artist:1250709916",
+      "detail": "",
+      "storeCountry": "jp",
+      "catalogSource": {
+        "detail": "artistId · jp",
+        "url": "https://music.apple.com/jp/artist/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/1250709916?uo=4",
+        "title": "iTunes"
+      },
+      "catalogFetchedAt": 815912930.832808,
+      "catalogID": "1250709916",
+      "kind": "创作者",
+      "art": "",
+      "url": "https://music.apple.com/jp/artist/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/1250709916?uo=4",
+      "linkedCreatorIDs": [],
+      "creator": "音乐人"
+    },
+    {
+      "title": "TOMOO",
+      "id": "apple:artist:1317217947",
+      "detail": "",
+      "storeCountry": "jp",
+      "catalogSource": {
+        "detail": "artistId · jp",
+        "url": "https://music.apple.com/jp/artist/tomoo/1317217947?uo=4",
+        "title": "iTunes"
+      },
+      "catalogFetchedAt": 815654096.633805,
+      "catalogID": "1317217947",
+      "kind": "创作者",
+      "art": "",
+      "url": "https://music.apple.com/jp/artist/tomoo/1317217947?uo=4",
+      "linkedCreatorIDs": [],
+      "creator": "音乐人"
+    },
+    {
+      "title": "Yuta Bandoh",
+      "id": "apple:artist:1441766447",
+      "detail": "",
+      "storeCountry": "jp",
+      "catalogSource": {
+        "detail": "artistId · jp",
+        "url": "https://music.apple.com/jp/artist/%E5%9D%82%E6%9D%B1%E7%A5%90%E5%A4%A7/1441766447?uo=4",
+        "title": "iTunes"
+      },
+      "catalogFetchedAt": 815913213.394138,
+      "catalogID": "1441766447",
+      "kind": "创作者",
+      "art": "",
+      "url": "https://music.apple.com/jp/artist/%E5%9D%82%E6%9D%B1%E7%A5%90%E5%A4%A7/1441766447?uo=4",
+      "linkedCreatorIDs": [],
+      "creator": "音乐人"
+    },
+    {
+      "title": "陳百強",
+      "id": "apple:artist:14871620",
+      "detail": "",
+      "storeCountry": "jp",
+      "catalogSource": {
+        "detail": "artistId · jp",
+        "url": "https://music.apple.com/jp/artist/%E3%83%80%E3%83%8B%E3%83%BC-%E3%83%81%E3%83%A3%E3%83%B3/14871620?uo=4",
+        "title": "iTunes"
+      },
+      "catalogFetchedAt": 815972921.988802,
+      "catalogID": "14871620",
+      "kind": "创作者",
+      "art": "",
+      "url": "https://music.apple.com/jp/artist/%E3%83%80%E3%83%8B%E3%83%BC-%E3%83%81%E3%83%A3%E3%83%B3/14871620?uo=4",
+      "linkedCreatorIDs": [],
+      "creator": "音乐人"
+    },
+    {
+      "catalogFetchedAt": 815915502.864405,
+      "title": "ano",
+      "kind": "创作者",
+      "catalogSource": {
+        "detail": "artistId · jp",
+        "url": "https://music.apple.com/jp/artist/ano/1529999013?uo=4",
+        "title": "iTunes"
+      },
+      "id": "apple:artist:1529999013",
+      "knowledgeID": "Q34861530",
+      "detail": "",
+      "linkedCreatorIDs": [],
+      "art": "",
+      "catalogID": "1529999013",
+      "creator": "音乐人",
+      "storeCountry": "jp",
+      "url": "https://music.apple.com/jp/artist/ano/1529999013?uo=4",
+      "seriesIDs": [],
+      "knowledgeIdentitySource": {
+        "detail": "P2850=1529999013",
+        "url": "https://www.wikidata.org/wiki/Q34861530",
+        "title": "Wikidata"
+      },
+      "bangumiID": "56720"
+    },
+    {
+      "title": "Taisei Iwasaki",
+      "creator": "音乐人",
+      "detail": "",
+      "art": "",
+      "linkedCreatorIDs": [],
+      "kind": "创作者",
+      "catalogID": "384865988",
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "artistId · jp",
+        "url": "https://music.apple.com/jp/artist/%E5%B2%A9%E5%B4%8E%E5%A4%AA%E6%95%B4/384865988?uo=4"
+      },
+      "id": "apple:artist:384865988",
+      "storeCountry": "jp",
+      "catalogFetchedAt": 815972803.468739,
+      "url": "https://music.apple.com/jp/artist/%E5%B2%A9%E5%B4%8E%E5%A4%AA%E6%95%B4/384865988?uo=4"
+    },
+    {
+      "catalogFetchedAt": 815972696.542898,
+      "title": "Bonobo",
+      "kind": "创作者",
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "artistId · jp",
+        "url": "https://music.apple.com/jp/artist/%E3%83%9C%E3%83%8E%E3%83%9C/416281071?uo=4"
+      },
+      "id": "apple:artist:416281071",
+      "knowledgeID": "Q707967",
+      "detail": "",
+      "linkedCreatorIDs": [],
+      "creator": "音乐人",
+      "art": "",
+      "catalogID": "416281071",
+      "storeCountry": "jp",
+      "url": "https://music.apple.com/jp/artist/%E3%83%9C%E3%83%8E%E3%83%9C/416281071?uo=4",
+      "knowledgeIdentitySource": {
+        "title": "Wikidata",
+        "detail": "P2850=416281071",
+        "url": "https://www.wikidata.org/wiki/Q707967"
+      }
+    },
+    {
+      "catalogFetchedAt": 815654263.620632,
+      "title": "Creepy Nuts",
+      "kind": "创作者",
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "artistId · jp",
+        "url": "https://music.apple.com/jp/artist/creepy-nuts/678140651?uo=4"
+      },
+      "id": "apple:artist:678140651",
+      "knowledgeID": "Q20039817",
+      "linkedCreatorIDs": [],
+      "detail": "",
+      "art": "",
+      "catalogID": "678140651",
+      "creator": "音乐人",
+      "storeCountry": "jp",
+      "url": "https://music.apple.com/jp/artist/creepy-nuts/678140651?uo=4",
+      "knowledgeIdentitySource": {
+        "title": "Wikidata",
+        "detail": "P2850=678140651",
+        "url": "https://www.wikidata.org/wiki/Q20039817"
+      },
+      "bangumiID": "45838"
+    },
+    {
+      "url": "https://music.apple.com/jp/artist/%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A/747734869?uo=4",
+      "id": "apple:artist:747734869",
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "artistId · jp",
+        "url": "https://music.apple.com/jp/artist/%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A/747734869?uo=4"
+      },
+      "art": "",
+      "linkedCreatorIDs": [],
+      "catalogID": "747734869",
+      "catalogFetchedAt": 815673760.855823,
+      "storeCountry": "jp",
+      "detail": "",
+      "creator": "音乐人",
+      "kind": "创作者",
+      "title": "Ryokuoushoku Shakai"
+    },
+    {
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/f3/a8/d5f3a8d3-2b3e-61fe-d747-9ec348aba810/THCA60055.jpg/600x600bb.jpg",
+      "linkedAlbumID": "apple:album:1045471853",
+      "creator": "岩崎太整",
+      "catalogID": "1045471858",
+      "id": "apple:song:1045471858",
+      "storeCountry": "jp",
+      "catalogFetchedAt": 815972803.469008,
+      "kind": "歌曲",
+      "catalogTrack": {
+        "track": 1,
+        "trackCount": 24,
+        "albumID": "1045471853",
+        "artistID": "384865988",
+        "disc": 1,
+        "milliseconds": 221280
+      },
+      "detail": "3:41 · 2015",
+      "title": "Theme of Blood Blockade Battlefront",
+      "linkedCreatorIDs": [
+        "apple:artist:384865988"
+      ],
+      "catalogSource": {
+        "url": "https://music.apple.com/jp/album/theme-of-blood-blockade-battlefront/1045471853?i=1045471858&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "releaseDate": "2015-07-15T12:00:00Z",
+      "url": "https://music.apple.com/jp/album/theme-of-blood-blockade-battlefront/1045471853?i=1045471858&uo=4"
+    },
+    {
+      "catalogID": "1638257260",
+      "linkedCreatorIDs": [
+        "apple:artist:678140651"
+      ],
+      "detail": "0:47 · 2022",
+      "linkedAlbumID": "apple:album:1638257258",
+      "title": "Intro",
+      "storeCountry": "jp",
+      "url": "https://music.apple.com/jp/album/intro/1638257258?i=1638257260&uo=4",
+      "catalogSource": {
+        "url": "https://music.apple.com/jp/album/intro/1638257258?i=1638257260&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "creator": "Creepy Nuts",
+      "kind": "歌曲",
+      "catalogFetchedAt": 815624515.996382,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f1/2e/7d/f12e7d8b-c430-24e8-c103-93f5f424c598/4547366579345.jpg/600x600bb.jpg",
+      "releaseDate": "2022-09-07T12:00:00Z",
+      "id": "apple:song:1638257260",
+      "catalogTrack": {
+        "track": 1,
+        "milliseconds": 47747,
+        "albumID": "1638257258",
+        "disc": 1,
+        "artistID": "678140651",
+        "trackCount": 12
+      }
+    },
+    {
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/b4/28/e7b428a8-ff78-d0f2-6692-e173f0aa3456/081012316303.png/600x600bb.jpg",
+      "linkedCreatorIDs": [
+        "apple:artist:384865988"
+      ],
+      "resolvedRegion": "jp",
+      "creator": "Taisei Iwasaki",
+      "catalogFetchedAt": 815972798.178428,
+      "catalogTrack": {
+        "track": 12,
+        "milliseconds": 119952,
+        "artistID": "384865988",
+        "disc": 1,
+        "trackCount": 47,
+        "albumID": "1658168421"
+      },
+      "catalogID": "1658168434",
+      "detail": "First Love 初恋 (Soundtrack from the Netflix Series)",
+      "releaseDate": "2022-11-18T12:00:00Z",
+      "kind": "歌曲",
+      "id": "apple:song:1658168434",
+      "catalogSource": {
+        "url": "https://music.apple.com/jp/album/lilac/1658168421?i=1658168434&uo=4",
+        "detail": "trackId · jp",
+        "title": "iTunes"
+      },
+      "url": "https://music.apple.com/jp/album/lilac/1658168421?i=1658168434&uo=4",
+      "title": "Lilac",
+      "regionOrigin": "appStore",
+      "storeCountry": "jp",
+      "linkedAlbumID": "apple:album:1658168421"
+    },
+    {
+      "linkedAlbumID": "apple:album:1706072703",
+      "id": "apple:song:1706072709",
+      "catalogSource": {
+        "detail": "trackId · jp",
+        "url": "https://music.apple.com/jp/album/ginger/1706072703?i=1706072709&uo=4",
+        "title": "iTunes"
+      },
+      "releaseDate": "2021-08-10T12:00:00Z",
+      "linkedCreatorIDs": [
+        "apple:artist:1317217947"
+      ],
+      "creator": "TOMOO",
+      "detail": "3:22 · 2021",
+      "catalogFetchedAt": 815654051.414814,
+      "kind": "歌曲",
+      "catalogID": "1706072709",
+      "storeCountry": "jp",
+      "url": "https://music.apple.com/jp/album/ginger/1706072703?i=1706072709&uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/84/29/87/84298736-cb15-5da8-97ba-f61247e27de4/PCCA_06223_A.jpg/600x600bb.jpg",
+      "title": "Ginger",
+      "catalogTrack": {
+        "milliseconds": 202042,
+        "track": 3,
+        "disc": 1,
+        "artistID": "1317217947",
+        "trackCount": 13,
+        "albumID": "1706072703"
+      }
+    },
+    {
+      "resolvedRegion": "jp",
+      "regionOrigin": "known",
+      "title": "忘れてください",
+      "detail": "忘れてください - Single",
+      "url": "https://music.apple.com/jp/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1755182641?i=1755182819&uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/17/77/2d1777fe-9f3a-82db-d5a0-24b06f4a6a62/24UMGIM64777.rgb.jpg/600x600bb.jpg",
+      "catalogTrack": {
+        "milliseconds": 218835,
+        "albumID": "1755182641",
+        "track": 1,
+        "artistID": "1250709916",
+        "disc": 1,
+        "trackCount": 1
+      },
+      "kind": "歌曲",
+      "catalogID": "1755182819",
+      "id": "apple:song:1755182819",
+      "catalogSource": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1755182641?i=1755182819&uo=4",
+        "detail": "trackId · jp"
+      },
+      "creator": "ヨルシカ",
+      "releaseDate": "2026-02-19T12:00:00Z",
+      "storeCountry": "jp",
+      "linkedAlbumID": "apple:album:1755182641",
+      "catalogFetchedAt": 815912930.833312,
+      "linkedCreatorIDs": [
+        "apple:artist:1250709916"
+      ]
+    },
+    {
+      "catalogID": "1777375741",
+      "kind": "歌曲",
+      "url": "https://music.apple.com/jp/album/shinsekai%E3%82%88%E3%82%8A/1777375740?i=1777375741&uo=4",
+      "catalogFetchedAt": 815915502.86445,
+      "title": "SHINSEKAIより",
+      "detail": "SHINSEKAIより - Single",
+      "releaseDate": "2024-11-15T12:00:00Z",
+      "linkedCreatorIDs": [
+        "apple:artist:1529999013"
+      ],
+      "catalogTrack": {
+        "milliseconds": 214800,
+        "albumID": "1777375740",
+        "track": 1,
+        "artistID": "1529999013",
+        "disc": 1,
+        "trackCount": 1
+      },
+      "resolvedRegion": "jp",
+      "creator": "ano & 幾田りら",
+      "linkedAlbumID": "apple:album:1777375740",
+      "id": "apple:song:1777375741",
+      "storeCountry": "jp",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/2e/95/5e2e9593-297d-7086-e089-48247640b53a/COKM-45462.jpg/600x600bb.jpg",
+      "catalogSource": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/shinsekai%E3%82%88%E3%82%8A/1777375740?i=1777375741&uo=4",
+        "detail": "trackId · jp"
+      },
+      "regionOrigin": "known"
+    },
+    {
+      "linkedCreatorIDs": [
+        "ushio"
+      ],
+      "id": "apple:song:1840141274",
+      "catalogTrack": {
+        "artistID": "939561587",
+        "track": 9,
+        "trackCount": 30,
+        "albumID": "1840140991",
+        "milliseconds": 245440,
+        "disc": 1
+      },
+      "storeCountry": "jp",
+      "title": "in the pool",
+      "creator": "牛尾憲輔",
+      "catalogFetchedAt": 815914615.530623,
+      "detail": "CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack -summer's end-",
+      "url": "https://music.apple.com/jp/album/in-the-pool/1840140991?i=1840141274&uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/38/01/aa3801b0-3d1b-cd7c-9f08-5473f6396725/4517331097112.jpg/600x600bb.jpg",
+      "catalogID": "1840141274",
+      "linkedAlbumID": "apple:album:1840140991",
+      "kind": "歌曲",
+      "releaseDate": "2025-09-19T12:00:00Z",
+      "catalogSource": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/in-the-pool/1840140991?i=1840141274&uo=4",
+        "detail": "trackId · jp"
+      },
+      "regionOrigin": "known",
+      "resolvedRegion": "jp"
+    },
+    {
+      "title": "章",
+      "releaseDate": "2026-04-09T12:00:00Z",
+      "storeCountry": "jp",
+      "catalogFetchedAt": 815673760.856731,
+      "creator": "緑黄色社会",
+      "linkedCreatorIDs": [
+        "apple:artist:747734869"
+      ],
+      "url": "https://music.apple.com/jp/album/%E7%AB%A0/1888137119?i=1888137120&uo=4",
+      "catalogSource": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/%E7%AB%A0/1888137119?i=1888137120&uo=4",
+        "detail": "trackId · jp"
+      },
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/26/4e/d1264e59-10e5-c7d7-f2e5-83dfb6c95ccd/4547366815870.jpg/600x600bb.jpg",
+      "regionOrigin": "known",
+      "catalogTrack": {
+        "track": 1,
+        "trackCount": 1,
+        "albumID": "1888137119",
+        "artistID": "747734869",
+        "milliseconds": 258147,
+        "disc": 1
+      },
+      "catalogID": "1888137120",
+      "id": "apple:song:1888137120",
+      "kind": "歌曲",
+      "resolvedRegion": "jp",
+      "linkedAlbumID": "apple:album:1888137119",
+      "detail": "4:18 · 2026"
+    },
+    {
+      "title": "Talk to Me",
+      "linkedCreatorIDs": [
+        "apple:artist:416281071"
+      ],
+      "creator": "ボノボ & Nicole Miglis",
+      "catalogFetchedAt": 815972692.068333,
+      "regionOrigin": "appStore",
+      "releaseDate": "2026-09-11T12:00:00Z",
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "trackId · jp",
+        "url": "https://music.apple.com/jp/album/talk-to-me/1895659203?i=6764144807&uo=4"
+      },
+      "kind": "歌曲",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/7d/5e/8d7d5e2a-31a9-50ba-9e04-3ce2b53d0c8c/5054429211276.png/600x600bb.jpg",
+      "linkedAlbumID": "apple:album:1895659203",
+      "catalogTrack": {
+        "disc": 1,
+        "artistID": "416281071",
+        "trackCount": 14,
+        "track": 5,
+        "albumID": "1895659203",
+        "milliseconds": 222769
+      },
+      "url": "https://music.apple.com/jp/album/talk-to-me/1895659203?i=6764144807&uo=4",
+      "catalogID": "6764144807",
+      "storeCountry": "jp",
+      "detail": "Distance in Static",
+      "id": "apple:song:6764144807",
+      "resolvedRegion": "jp"
+    },
+    {
+      "catalogID": "6809339761",
+      "releaseDate": "2026-09-17T12:00:00Z",
+      "id": "apple:song:6809339761",
+      "creator": "坂東祐大",
+      "linkedAlbumID": "apple:album:6809339760",
+      "linkedCreatorIDs": [
+        "apple:artist:1441766447"
+      ],
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/b7/2c/82b72c23-2c54-0f84-4b72-f4bc8abe28f0/810236330150.png/600x600bb.jpg",
+      "detail": "3:50 · 2026",
+      "catalogSource": {
+        "title": "iTunes",
+        "detail": "trackId · jp",
+        "url": "https://music.apple.com/jp/album/plastic-beauty-main-theme/6809339760?i=6809339761&uo=4"
+      },
+      "kind": "歌曲",
+      "title": "Plastic Beauty Main Theme",
+      "catalogTrack": {
+        "disc": 1,
+        "albumID": "6809339760",
+        "track": 1,
+        "artistID": "1441766447",
+        "trackCount": 20,
+        "milliseconds": 230965
+      },
+      "storeCountry": "jp",
+      "catalogFetchedAt": 815913213.39481,
+      "url": "https://music.apple.com/jp/album/plastic-beauty-main-theme/6809339760?i=6809339761&uo=4"
+    },
+    {
+      "catalogID": "726243548",
+      "catalogFetchedAt": 815972921.989021,
+      "detail": "3:32 · 1985",
+      "releaseDate": "1985-01-08T12:00:00Z",
+      "creator": "ダニー チャン",
+      "title": "偏偏喜歡你",
+      "url": "https://music.apple.com/jp/album/%E5%81%8F%E5%81%8F%E5%96%9C%E6%AD%A1%E4%BD%A0/726243514?i=726243548&uo=4",
+      "linkedCreatorIDs": [
+        "apple:artist:14871620"
+      ],
+      "id": "apple:song:726243548",
+      "kind": "歌曲",
+      "catalogTrack": {
+        "trackCount": 12,
+        "artistID": "14871620",
+        "track": 1,
+        "milliseconds": 212999,
+        "disc": 1,
+        "albumID": "726243514"
+      },
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ef/75/b0/ef75b0b7-1b63-155f-3551-e437433a3825/825646365180.jpg/600x600bb.jpg",
+      "linkedAlbumID": "apple:album:726243514",
+      "catalogSource": {
+        "url": "https://music.apple.com/jp/album/%E5%81%8F%E5%81%8F%E5%96%9C%E6%AD%A1%E4%BD%A0/726243514?i=726243548&uo=4",
+        "detail": "trackId · jp",
+        "title": "iTunes"
+      },
+      "storeCountry": "jp"
+    },
+    {
+      "catalogTrack": {
+        "trackCount": 12,
+        "artistID": "14871620",
+        "track": 4,
+        "milliseconds": 208467,
+        "disc": 1,
+        "albumID": "726294999"
+      },
+      "url": "https://music.apple.com/jp/album/%E5%BF%B5%E8%A6%AA%E6%81%A9/726294999?i=726295815&uo=4",
+      "id": "apple:song:726295815",
+      "catalogID": "726295815",
+      "creator": "ダニー チャン",
+      "detail": "3:28 · 1982",
+      "releaseDate": "1982-08-10T12:00:00Z",
+      "kind": "歌曲",
+      "linkedAlbumID": "apple:album:726294999",
+      "catalogSource": {
+        "detail": "trackId · jp",
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/%E5%BF%B5%E8%A6%AA%E6%81%A9/726294999?i=726295815&uo=4"
+      },
+      "catalogFetchedAt": 815972921.989786,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ae/18/36/ae18368d-5adf-cb48-a672-0ee777012ffa/825646364992.jpg/600x600bb.jpg",
+      "title": "念親恩",
+      "storeCountry": "jp",
+      "linkedCreatorIDs": [
+        "apple:artist:14871620"
+      ]
+    },
+    {
+      "catalogTrack": {
+        "trackCount": 10,
+        "artistID": "14871620",
+        "track": 9,
+        "milliseconds": 287773,
+        "disc": 1,
+        "albumID": "727214887"
+      },
+      "resolvedRegion": "jp",
+      "url": "https://music.apple.com/jp/album/%E5%8D%8A%E7%94%9F%E4%BA%BA/727214887?i=727214945&uo=4",
+      "id": "apple:song:727214945",
+      "catalogID": "727214945",
+      "creator": "ダニー チャン",
+      "detail": "Love In L.A",
+      "releaseDate": "1985-01-08T12:00:00Z",
+      "kind": "歌曲",
+      "linkedAlbumID": "apple:album:727214887",
+      "catalogSource": {
+        "detail": "trackId · jp",
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/%E5%8D%8A%E7%94%9F%E4%BA%BA/727214887?i=727214945&uo=4"
+      },
+      "catalogFetchedAt": 815972917.786161,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/85/3f/1d/853f1d03-db2e-82fb-06f5-8e2c85e2eeb1/825646365715.jpg/600x600bb.jpg",
+      "title": "半生人",
+      "storeCountry": "jp",
+      "linkedCreatorIDs": [
+        "apple:artist:14871620"
+      ],
+      "regionOrigin": "appStore"
+    },
+    {
+      "detail": "",
+      "url": "https://musicbrainz.org/artist/1b469a67-e69c-4f17-86fc-d21e6531dcf2",
+      "creator": "音乐人",
+      "kind": "创作者",
+      "linkedCreatorIDs": [],
+      "art": "",
+      "id": "musicbrainz:artist:1b469a67-e69c-4f17-86fc-d21e6531dcf2",
+      "title": "長屋晴子"
+    },
+    {
+      "detail": "",
+      "url": "https://musicbrainz.org/artist/55e42264-ef27-49d8-93fd-29f930dc96e4",
+      "creator": "音乐人",
+      "kind": "创作者",
+      "linkedCreatorIDs": [],
+      "art": "",
+      "id": "musicbrainz:artist:55e42264-ef27-49d8-93fd-29f930dc96e4",
+      "title": "幾田りら"
+    },
+    {
+      "detail": "",
+      "url": "https://musicbrainz.org/artist/6f7dbf5a-c2c2-41bc-bf50-2821ec091a75",
+      "creator": "音乐人",
+      "kind": "创作者",
+      "linkedCreatorIDs": [],
+      "art": "",
+      "id": "musicbrainz:artist:6f7dbf5a-c2c2-41bc-bf50-2821ec091a75",
+      "title": "穴見真吾"
+    },
+    {
+      "linkedCreatorIDs": [],
+      "title": "LASTorder",
+      "kind": "创作者",
+      "creator": "音乐人",
+      "detail": "",
+      "url": "https://musicbrainz.org/artist/9d937c90-ac8a-4af4-9635-d0951d3cb10f",
+      "art": "",
+      "id": "musicbrainz:artist:9d937c90-ac8a-4af4-9635-d0951d3cb10f"
+    },
+    {
+      "linkedCreatorIDs": [],
+      "title": "suis",
+      "kind": "创作者",
+      "creator": "音乐人",
+      "detail": "",
+      "url": "https://musicbrainz.org/artist/b2de971f-b3d6-409f-9ed0-ecfc09e8b4e3",
+      "art": "",
+      "id": "musicbrainz:artist:b2de971f-b3d6-409f-9ed0-ecfc09e8b4e3"
+    },
+    {
+      "linkedCreatorIDs": [],
+      "title": "浅野いにお",
+      "kind": "创作者",
+      "creator": "音乐人",
+      "detail": "",
+      "url": "https://musicbrainz.org/artist/b392cd76-6b4f-496e-8afe-7a60e2bc5a12",
+      "art": "",
+      "id": "musicbrainz:artist:b392cd76-6b4f-496e-8afe-7a60e2bc5a12"
+    },
+    {
+      "linkedCreatorIDs": [],
+      "title": "n-buna",
+      "kind": "创作者",
+      "creator": "音乐人",
+      "detail": "",
+      "url": "https://musicbrainz.org/artist/e963b252-7f3e-450e-b3d8-85bb495e96c1",
+      "art": "",
+      "id": "musicbrainz:artist:e963b252-7f3e-450e-b3d8-85bb495e96c1"
+    },
+    {
+      "catalogID": "939561587",
+      "creator": "作曲家",
+      "storeCountry": "us",
+      "detail": "《蕾塞篇》配乐",
+      "title": "牛尾宪辅",
+      "linkedCreatorIDs": [],
+      "knowledgeIdentitySource": {
+        "detail": "P2850=939561587",
+        "title": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q11190062"
+      },
+      "knowledgeID": "Q11190062",
+      "id": "ushio",
+      "seriesIDs": [],
+      "art": "",
+      "catalogFetchedAt": 815913389.186208,
+      "url": "https://music.apple.com/us/artist/kensuke-ushio/939561587",
+      "kind": "创作者",
+      "bangumiID": "14186"
+    }
+  ],
+  "relations": [
+    {
+      "predicate": "performedBy",
+      "source": {
+        "detail": "trackId · jp",
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/shinsekai%E3%82%88%E3%82%8A/1777375740?i=1777375741&uo=4"
+      },
+      "to": "apple:artist:1529999013",
+      "from": "apple:song:1777375741",
+      "label": "艺人",
+      "inverseLabel": "作品"
+    },
+    {
+      "predicate": "inAlbum",
+      "source": {
+        "detail": "trackId · jp",
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/shinsekai%E3%82%88%E3%82%8A/1777375740?i=1777375741&uo=4"
+      },
+      "to": "apple:album:1777375740",
+      "from": "apple:song:1777375741",
+      "label": "收录于",
+      "inverseLabel": "收录歌曲"
+    },
+    {
+      "predicate": "performedBy",
+      "source": {
+        "detail": "collectionId · jp",
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/shinsekai%E3%82%88%E3%82%8A/1777375740?i=1777375741&uo=4"
+      },
+      "to": "apple:artist:1529999013",
+      "from": "apple:album:1777375740",
+      "label": "发行艺人",
+      "inverseLabel": "发行作品"
+    },
+    {
+      "predicate": "performedBy",
+      "source": {
+        "detail": "trackId · jp",
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/in-the-pool/1840140991?i=1840141274&uo=4"
+      },
+      "to": "ushio",
+      "from": "apple:song:1840141274",
+      "label": "艺人",
+      "inverseLabel": "作品"
+    },
+    {
+      "predicate": "inAlbum",
+      "source": {
+        "detail": "trackId · jp",
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/in-the-pool/1840140991?i=1840141274&uo=4"
+      },
+      "to": "apple:album:1840140991",
+      "from": "apple:song:1840141274",
+      "label": "收录于",
+      "inverseLabel": "收录歌曲"
+    },
+    {
+      "inverseLabel": "发行作品",
+      "label": "发行艺人",
+      "source": {
+        "title": "iTunes",
+        "detail": "collectionId · jp",
+        "url": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-%E3%83%97%E3%83%AC%E3%82%A4/1638257258?uo=4"
+      },
+      "to": "apple:artist:678140651",
+      "from": "apple:album:1638257258",
+      "predicate": "performedBy"
+    },
+    {
+      "to": "apple:artist:678140651",
+      "label": "艺人",
+      "source": {
+        "url": "https://music.apple.com/jp/album/intro/1638257258?i=1638257260&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "from": "apple:song:1638257260",
+      "inverseLabel": "作品",
+      "predicate": "performedBy"
+    },
+    {
+      "to": "apple:album:1638257258",
+      "label": "收录于",
+      "source": {
+        "url": "https://music.apple.com/jp/album/intro/1638257258?i=1638257260&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "from": "apple:song:1638257260",
+      "inverseLabel": "收录歌曲",
+      "predicate": "inAlbum"
+    },
+    {
+      "inverseLabel": "作品",
+      "from": "apple:song:1706072709",
+      "to": "apple:artist:1317217947",
+      "source": {
+        "url": "https://music.apple.com/jp/album/ginger/1706072703?i=1706072709&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "label": "艺人",
+      "predicate": "performedBy"
+    },
+    {
+      "inverseLabel": "收录歌曲",
+      "from": "apple:song:1706072709",
+      "to": "apple:album:1706072703",
+      "source": {
+        "title": "iTunes",
+        "detail": "trackId · jp",
+        "url": "https://music.apple.com/jp/album/ginger/1706072703?i=1706072709&uo=4"
+      },
+      "label": "收录于",
+      "predicate": "inAlbum"
+    },
+    {
+      "label": "艺人",
+      "source": {
+        "url": "https://music.apple.com/jp/album/%E7%AB%A0/1888137119?i=1888137120&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "from": "apple:song:1888137120",
+      "to": "apple:artist:747734869",
+      "inverseLabel": "作品",
+      "predicate": "performedBy"
+    },
+    {
+      "label": "收录于",
+      "source": {
+        "url": "https://music.apple.com/jp/album/%E7%AB%A0/1888137119?i=1888137120&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "from": "apple:song:1888137120",
+      "to": "apple:album:1888137119",
+      "inverseLabel": "收录歌曲",
+      "predicate": "inAlbum"
+    },
+    {
+      "source": {
+        "url": "https://musicbrainz.org/recording/493f18bb-62cc-4069-bf02-c895c081632d",
+        "title": "MusicBrainz",
+        "detail": "recording · arranger · jp"
+      },
+      "from": "apple:song:1888137120",
+      "predicate": "arrangedBy",
+      "label": "编曲",
+      "inverseLabel": "作品",
+      "to": "musicbrainz:artist:6f7dbf5a-c2c2-41bc-bf50-2821ec091a75"
+    },
+    {
+      "source": {
+        "url": "https://musicbrainz.org/recording/493f18bb-62cc-4069-bf02-c895c081632d",
+        "title": "MusicBrainz",
+        "detail": "recording · arranger · jp"
+      },
+      "from": "apple:song:1888137120",
+      "predicate": "arrangedBy",
+      "label": "编曲",
+      "inverseLabel": "作品",
+      "to": "musicbrainz:artist:9d937c90-ac8a-4af4-9635-d0951d3cb10f"
+    },
+    {
+      "source": {
+        "url": "https://musicbrainz.org/recording/493f18bb-62cc-4069-bf02-c895c081632d",
+        "title": "MusicBrainz",
+        "detail": "recording · vocal · jp"
+      },
+      "from": "apple:song:1888137120",
+      "predicate": "performedBy",
+      "label": "演唱",
+      "inverseLabel": "作品",
+      "to": "musicbrainz:artist:1b469a67-e69c-4f17-86fc-d21e6531dcf2"
+    },
+    {
+      "source": {
+        "url": "https://musicbrainz.org/work/bc68700a-7211-4516-a4fc-b84fda2aab52",
+        "title": "MusicBrainz",
+        "detail": "work · composer · jp"
+      },
+      "from": "apple:song:1888137120",
+      "predicate": "composedBy",
+      "label": "作曲",
+      "inverseLabel": "作品",
+      "to": "musicbrainz:artist:6f7dbf5a-c2c2-41bc-bf50-2821ec091a75"
+    },
+    {
+      "source": {
+        "url": "https://musicbrainz.org/work/bc68700a-7211-4516-a4fc-b84fda2aab52",
+        "title": "MusicBrainz",
+        "detail": "work · lyricist · jp"
+      },
+      "from": "apple:song:1888137120",
+      "predicate": "publicRelation",
+      "label": "作词",
+      "inverseLabel": "作品",
+      "to": "musicbrainz:artist:1b469a67-e69c-4f17-86fc-d21e6531dcf2"
+    },
+    {
+      "source": {
+        "title": "iTunes",
+        "detail": "trackId · jp",
+        "url": "https://music.apple.com/jp/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1755182641?i=1755182819&uo=4"
+      },
+      "predicate": "performedBy",
+      "from": "apple:song:1755182819",
+      "to": "apple:artist:1250709916",
+      "label": "艺人",
+      "inverseLabel": "作品"
+    },
+    {
+      "source": {
+        "title": "iTunes",
+        "detail": "trackId · jp",
+        "url": "https://music.apple.com/jp/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1755182641?i=1755182819&uo=4"
+      },
+      "predicate": "inAlbum",
+      "from": "apple:song:1755182819",
+      "to": "apple:album:1755182641",
+      "label": "收录于",
+      "inverseLabel": "收录歌曲"
+    },
+    {
+      "inverseLabel": "作品",
+      "from": "apple:song:1755182819",
+      "label": "编曲",
+      "predicate": "arrangedBy",
+      "source": {
+        "detail": "recording · arranger · jp",
+        "title": "MusicBrainz",
+        "url": "https://musicbrainz.org/recording/c8172818-073d-478d-96b8-f40c92e623e6"
+      },
+      "to": "musicbrainz:artist:e963b252-7f3e-450e-b3d8-85bb495e96c1"
+    },
+    {
+      "inverseLabel": "作品",
+      "from": "apple:song:1755182819",
+      "label": "演唱",
+      "predicate": "performedBy",
+      "source": {
+        "detail": "recording · vocal · jp",
+        "title": "MusicBrainz",
+        "url": "https://musicbrainz.org/recording/c8172818-073d-478d-96b8-f40c92e623e6"
+      },
+      "to": "musicbrainz:artist:b2de971f-b3d6-409f-9ed0-ecfc09e8b4e3"
+    },
+    {
+      "inverseLabel": "作品",
+      "from": "apple:song:1755182819",
+      "label": "作曲",
+      "predicate": "composedBy",
+      "source": {
+        "detail": "work · composer · jp",
+        "title": "MusicBrainz",
+        "url": "https://musicbrainz.org/work/1d770d85-5764-40e7-9e32-7f78c83165f6"
+      },
+      "to": "musicbrainz:artist:e963b252-7f3e-450e-b3d8-85bb495e96c1"
+    },
+    {
+      "inverseLabel": "作品",
+      "from": "apple:song:1755182819",
+      "label": "作词",
+      "predicate": "publicRelation",
+      "source": {
+        "detail": "work · lyricist · jp",
+        "title": "MusicBrainz",
+        "url": "https://musicbrainz.org/work/1d770d85-5764-40e7-9e32-7f78c83165f6"
+      },
+      "to": "musicbrainz:artist:e963b252-7f3e-450e-b3d8-85bb495e96c1"
+    },
+    {
+      "predicate": "performedBy",
+      "inverseLabel": "作品",
+      "to": "apple:artist:1441766447",
+      "source": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/plastic-beauty-main-theme/6809339760?i=6809339761&uo=4",
+        "detail": "trackId · jp"
+      },
+      "from": "apple:song:6809339761",
+      "label": "艺人"
+    },
+    {
+      "from": "apple:song:6809339761",
+      "to": "apple:album:6809339760",
+      "source": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/plastic-beauty-main-theme/6809339760?i=6809339761&uo=4",
+        "detail": "trackId · jp"
+      },
+      "predicate": "inAlbum",
+      "inverseLabel": "收录歌曲",
+      "label": "收录于"
+    },
+    {
+      "from": "apple:song:1840141274",
+      "to": "ushio",
+      "source": {
+        "title": "MusicBrainz",
+        "url": "https://musicbrainz.org/recording/1ce0036d-77aa-453b-be9a-bb1e78e0e8a3",
+        "detail": "recording · arranger · jp"
+      },
+      "predicate": "arrangedBy",
+      "inverseLabel": "作品",
+      "label": "编曲"
+    },
+    {
+      "from": "apple:song:1840141274",
+      "to": "ushio",
+      "source": {
+        "title": "MusicBrainz",
+        "url": "https://musicbrainz.org/work/123ef1d8-9f61-430d-839b-d0423c1f28c9",
+        "detail": "work · composer · jp"
+      },
+      "predicate": "composedBy",
+      "inverseLabel": "作品",
+      "label": "作曲"
+    },
+    {
+      "predicate": "performedBy",
+      "to": "musicbrainz:artist:55e42264-ef27-49d8-93fd-29f930dc96e4",
+      "label": "演唱",
+      "from": "apple:song:1777375741",
+      "inverseLabel": "作品",
+      "source": {
+        "title": "MusicBrainz",
+        "url": "https://musicbrainz.org/recording/e25058b4-50f1-4b35-8410-ec8e97fff1b1",
+        "detail": "recording · vocal · jp"
+      }
+    },
+    {
+      "predicate": "composedBy",
+      "to": "musicbrainz:artist:b392cd76-6b4f-496e-8afe-7a60e2bc5a12",
+      "label": "作曲",
+      "from": "apple:song:1777375741",
+      "inverseLabel": "作品",
+      "source": {
+        "title": "MusicBrainz",
+        "url": "https://musicbrainz.org/work/5e6fd7e6-8488-4206-86f3-addb040045b0",
+        "detail": "work · composer · jp"
+      }
+    },
+    {
+      "predicate": "publicRelation",
+      "to": "musicbrainz:artist:b392cd76-6b4f-496e-8afe-7a60e2bc5a12",
+      "label": "作词",
+      "from": "apple:song:1777375741",
+      "inverseLabel": "作品",
+      "source": {
+        "title": "MusicBrainz",
+        "url": "https://musicbrainz.org/work/5e6fd7e6-8488-4206-86f3-addb040045b0",
+        "detail": "work · lyricist · jp"
+      }
+    },
+    {
+      "predicate": "performedBy",
+      "from": "apple:song:6764144807",
+      "label": "艺人",
+      "to": "apple:artist:416281071",
+      "source": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/talk-to-me/1895659203?i=6764144807&uo=4",
+        "detail": "trackId · jp"
+      },
+      "inverseLabel": "作品"
+    },
+    {
+      "predicate": "inAlbum",
+      "from": "apple:song:6764144807",
+      "label": "收录于",
+      "to": "apple:album:1895659203",
+      "source": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/talk-to-me/1895659203?i=6764144807&uo=4",
+        "detail": "trackId · jp"
+      },
+      "inverseLabel": "收录歌曲"
+    },
+    {
+      "predicate": "performedBy",
+      "from": "apple:album:1895659203",
+      "label": "发行艺人",
+      "to": "apple:artist:416281071",
+      "source": {
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/distance-in-static/1895659203?uo=4",
+        "detail": "collectionId · jp"
+      },
+      "inverseLabel": "发行作品"
+    },
+    {
+      "source": {
+        "url": "https://music.apple.com/jp/album/lilac/1658168421?i=1658168434&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "from": "apple:song:1658168434",
+      "to": "apple:artist:384865988",
+      "inverseLabel": "作品",
+      "predicate": "performedBy",
+      "label": "艺人"
+    },
+    {
+      "source": {
+        "url": "https://music.apple.com/jp/album/lilac/1658168421?i=1658168434&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "from": "apple:song:1658168434",
+      "to": "apple:album:1658168421",
+      "inverseLabel": "收录歌曲",
+      "predicate": "inAlbum",
+      "label": "收录于"
+    },
+    {
+      "to": "apple:artist:384865988",
+      "label": "艺人",
+      "predicate": "performedBy",
+      "from": "apple:song:1045471858",
+      "inverseLabel": "作品",
+      "source": {
+        "url": "https://music.apple.com/jp/album/theme-of-blood-blockade-battlefront/1045471853?i=1045471858&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      }
+    },
+    {
+      "to": "apple:album:1045471853",
+      "label": "收录于",
+      "predicate": "inAlbum",
+      "from": "apple:song:1045471858",
+      "inverseLabel": "收录歌曲",
+      "source": {
+        "url": "https://music.apple.com/jp/album/theme-of-blood-blockade-battlefront/1045471853?i=1045471858&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      }
+    },
+    {
+      "to": "apple:artist:14871620",
+      "label": "艺人",
+      "predicate": "performedBy",
+      "from": "apple:song:727214945",
+      "inverseLabel": "作品",
+      "source": {
+        "url": "https://music.apple.com/jp/album/%E5%8D%8A%E7%94%9F%E4%BA%BA/727214887?i=727214945&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      }
+    },
+    {
+      "to": "apple:album:727214887",
+      "label": "收录于",
+      "predicate": "inAlbum",
+      "from": "apple:song:727214945",
+      "inverseLabel": "收录歌曲",
+      "source": {
+        "url": "https://music.apple.com/jp/album/%E5%8D%8A%E7%94%9F%E4%BA%BA/727214887?i=727214945&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      }
+    },
+    {
+      "predicate": "performedBy",
+      "label": "艺人",
+      "inverseLabel": "作品",
+      "to": "apple:artist:14871620",
+      "source": {
+        "url": "https://music.apple.com/jp/album/%E5%81%8F%E5%81%8F%E5%96%9C%E6%AD%A1%E4%BD%A0/726243514?i=726243548&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "from": "apple:song:726243548"
+    },
+    {
+      "predicate": "inAlbum",
+      "label": "收录于",
+      "inverseLabel": "收录歌曲",
+      "to": "apple:album:726243514",
+      "source": {
+        "url": "https://music.apple.com/jp/album/%E5%81%8F%E5%81%8F%E5%96%9C%E6%AD%A1%E4%BD%A0/726243514?i=726243548&uo=4",
+        "title": "iTunes",
+        "detail": "trackId · jp"
+      },
+      "from": "apple:song:726243548"
+    },
+    {
+      "predicate": "performedBy",
+      "label": "艺人",
+      "from": "apple:song:726295815",
+      "inverseLabel": "作品",
+      "source": {
+        "detail": "trackId · jp",
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/%E5%BF%B5%E8%A6%AA%E6%81%A9/726294999?i=726295815&uo=4"
+      },
+      "to": "apple:artist:14871620"
+    },
+    {
+      "predicate": "inAlbum",
+      "label": "收录于",
+      "from": "apple:song:726295815",
+      "inverseLabel": "收录歌曲",
+      "source": {
+        "detail": "trackId · jp",
+        "title": "iTunes",
+        "url": "https://music.apple.com/jp/album/%E5%BF%B5%E8%A6%AA%E6%81%A9/726294999?i=726295815&uo=4"
+      },
+      "to": "apple:album:726294999"
+    }
+  ],
+  "stories": []
+}

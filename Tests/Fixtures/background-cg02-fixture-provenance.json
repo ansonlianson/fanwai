@@ -1,0 +1,77 @@
+{
+  "scope": "Unmodified public MediaWiki API responses for fixed revisions; original cited interviews not independently verified.",
+  "records": [
+    {
+      "file": "background-Q23925035-zh-sections.json",
+      "url": "https://zh.wikipedia.org/w/api.php?action=parse&oldid=95124741&prop=sections&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1",
+      "sha256": "9e342f7190d9f31cd96a861dc7ca963b52011eb07e321051bf93a6a22623fc3f",
+      "bytes": 2337,
+      "recorded_at": "2026-11-04T04:12:49.291839+08:00",
+      "page_id": 5625635,
+      "revision": 95124741
+    },
+    {
+      "file": "background-Q23925035-zh-section-3.json",
+      "url": "https://zh.wikipedia.org/w/api.php?action=parse&oldid=95124741&prop=text&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1&section=3",
+      "sha256": "f0ba0db12d6cdd3eadf48eab403aa16f78a7aab46966d96d649fab3e380ab606",
+      "bytes": 3585,
+      "recorded_at": "2026-11-04T04:12:50.972476+08:00",
+      "page_id": 5625635,
+      "revision": 95124741
+    },
+    {
+      "file": "background-Q23925035-zh-section-4.json",
+      "url": "https://zh.wikipedia.org/w/api.php?action=parse&oldid=95124741&prop=text&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1&section=4",
+      "sha256": "05f73c2bda7fbc746137698718ec0ce52a59ff25136eb1d122a3d186f5291597",
+      "bytes": 10064,
+      "recorded_at": "2026-11-04T04:12:52.954447+08:00",
+      "page_id": 5625635,
+      "revision": 95124741
+    },
+    {
+      "file": "background-Q59788987-en-sections.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&oldid=1383036815&prop=sections&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1",
+      "sha256": "05bbf1168b3c92bb7c3ef2856f3d253f739e8ac916c8c1d909cdcc6f75213fd4",
+      "bytes": 3335,
+      "recorded_at": "2026-11-04T04:12:48.491193+08:00",
+      "page_id": 60304198,
+      "revision": 1383036815
+    },
+    {
+      "file": "background-Q59788987-en-section-4.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&oldid=1383036815&prop=text&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1&section=4",
+      "sha256": "fed2ab65808915cdee040dfb4fbf9d894ac083e35dd172f6064cccbd64f33a57",
+      "bytes": 25016,
+      "recorded_at": "2026-11-04T04:12:50.005782+08:00",
+      "page_id": 60304198,
+      "revision": 1383036815
+    },
+    {
+      "file": "background-Q59788987-en-section-5.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&oldid=1383036815&prop=text&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1&section=5",
+      "sha256": "e1bd34154e3f9d1f7039ac88834296e5680ee4da3f8313f31ce75a86a2d8549d",
+      "bytes": 25803,
+      "recorded_at": "2026-11-04T04:12:51.475815+08:00",
+      "page_id": 60304198,
+      "revision": 1383036815
+    },
+    {
+      "file": "background-Q59788987-en-section-6.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&oldid=1383036815&prop=text&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1&section=6",
+      "sha256": "9ac29f045de2a1a6ed56ef6da6e945b6f9871ab834f3f74848165ba528d0458d",
+      "bytes": 17904,
+      "recorded_at": "2026-11-04T04:12:52.802208+08:00",
+      "page_id": 60304198,
+      "revision": 1383036815
+    },
+    {
+      "file": "background-Q59788987-en-section-7.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&oldid=1383036815&prop=text&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1&section=7",
+      "sha256": "aadbb798bc7b7a964294d16ac216cd43398410f123913a7ee60df7048892f7b9",
+      "bytes": 19769,
+      "recorded_at": "2026-11-04T04:12:54.029406+08:00",
+      "page_id": 60304198,
+      "revision": 1383036815
+    }
+  ]
+}

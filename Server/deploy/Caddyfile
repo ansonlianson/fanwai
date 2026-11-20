@@ -1,0 +1,22 @@
+# 番外: the home page, and the trial relay behind api.fanwai.xyz. Caddy gets and renews the certificates.
+fanwai.xyz {
+	root * /srv/fanwai/site
+	encode gzip
+	try_files {path} {path}.html {path}/index.html
+	file_server
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+	}
+}
+
+www.fanwai.xyz {
+	redir https://fanwai.xyz{uri} permanent
+}
+
+# No access log here on purpose: the relay keeps its own record, without tokens.
+api.fanwai.xyz {
+	encode gzip
+	reverse_proxy 127.0.0.1:8787
+}

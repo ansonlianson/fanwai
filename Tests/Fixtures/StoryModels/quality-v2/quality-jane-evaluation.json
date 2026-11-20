@@ -1,0 +1,297 @@
+{
+  "calls" : [
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"《JANE DOE》请来宇多田光当客座主唱\",\"body\":\"2025 年 9 月，米津玄师的《JANE DOE》发布时一并宣布：客座主唱是宇多田光。\",\"fact_ids\":[\"f2\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 1280,
+          "inputTokens" : 3348,
+          "outputTokens" : 70,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3418
+        }
+      },
+      "stage" : "rewrite"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"facts\":[{\"id\":\"f1\",\"text\":\"2025年8月14日宣布新曲《JANE DOE》是为动画电影《电锯人 蕾塞篇》创作的片尾曲。\",\"people\":[\"米津玄师\"],\"time\":\"2025年8月14日\",\"numbers\":[],\"quote\":\"8月14日、新曲「JANE DOE」をアニメ映画『チェンソーマン レゼ篇』のエンディング・テーマとして書き下ろしたことが発表され\",\"quote_zh\":\"8月14日宣布，新曲《JANE DOE》是为动画电影《链锯人 蕾塞篇》量身创作的片尾曲。\",\"source_index\":1,\"contrast\":0,\"links\":2,\"linked_nodes\":[\"电锯人 蕾塞篇\"]},{\"id\":\"f2\",\"text\":\"《JANE DOE》请来宇多田光担任客座主唱。\",\"people\":[\"宇多田光\"],\"time\":\"\",\"numbers\":[],\"quote\":\"ゲストボーカルとして宇多田ヒカルを迎えたことも併せて発表された[149]。\",\"quote_zh\":\"同时宣布邀请宇多田光担任客座主唱。\",\"source_index\":1,\"contrast\":1,\"links\":2,\"linked_nodes\":[\"宇多田光\"]},{\"id\":\"f3\",\"text\":\"《JANE DOE》与《IRIS OUT》组成双A面CD单曲《IRIS OUT/JANE DOE》。\",\"people\":[],\"time\":\"\",\"numbers\":[\"2\"],\"quote\":\"また、先述の「IRIS OUT」を含む両A面CDシングルのタイトルが『IRIS OUT\\\\/JANE DOE』であることも明らかになった[150]。\",\"quote_zh\":\"此外，包含前文所述《IRIS OUT》的双A面CD单曲标题被公布为《IRIS OUT/JANE DOE》。\",\"source_index\":1,\"contrast\":0,\"links\":1,\"linked_nodes\":[\"IRIS OUT\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 0,
+          "inputTokens" : 2697,
+          "outputTokens" : 442,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3139
+        }
+      },
+      "stage" : "extract"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"《JANE DOE》请宇多田光当客座主唱\",\"body\":\"米津玄师的《JANE DOE》请来宇多田光担任客座主唱，和歌曲的其他消息一起公布。\",\"fact_ids\":[\"f2\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 1280,
+          "inputTokens" : 3334,
+          "outputTokens" : 62,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3396
+        }
+      },
+      "stage" : "write"
+    },
+    {
+      "maxTokens" : 16384,
+      "reply" : {
+        "model" : "mimo-v2.6-pro",
+        "text" : "{\"checks\":[{\"index\":0,\"ok\":true,\"unsupported\":[]}],\"pick\":0,\"why\":\"米津玄师为《电锯人 蕾塞篇》写的主题曲请来宇多田光客座主唱，两位顶流歌手罕见合体，一句就有反差感。\"}",
+        "usage" : {
+          "cachedInputTokens" : 0,
+          "inputTokens" : 2698,
+          "outputTokens" : 736,
+          "reasoningTokens" : 669,
+          "totalTokens" : 3434
+        }
+      },
+      "stage" : "pick"
+    }
+  ],
+  "candidates" : [
+    {
+      "deterministicIssues" : [
+
+      ],
+      "factIDs" : [
+        "f2"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "米津玄师的《JANE DOE》请来宇多田光担任客座主唱，和歌曲的其他消息一起公布。",
+        "entityID" : "jane",
+        "entityLinks" : {
+
+        },
+        "id" : "model-jane-1",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 米津玄師",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+        },
+        "title" : "《JANE DOE》请宇多田光当客座主唱"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    }
+  ],
+  "entityID" : "jane",
+  "facts" : [
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 87",
+          "location" : "ja · 米津玄師 · 2025年 · 段落 87",
+          "quote" : "8月14日、新曲「JANE DOE」をアニメ映画『チェンソーマン レゼ篇』のエンディング・テーマとして書き下ろしたことが発表され"
+        }
+      },
+      "id" : "f1",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "statements" : [
+        "2025年8月14日宣布新曲《JANE DOE》是为动画电影《电锯人 蕾塞篇》创作的片尾曲。"
+      ],
+      "text" : "2025年8月14日宣布新曲《JANE DOE》是为动画电影《电锯人 蕾塞篇》创作的片尾曲。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 87",
+          "location" : "ja · 米津玄師 · 2025年 · 段落 87",
+          "quote" : "ゲストボーカルとして宇多田ヒカルを迎えたことも併せて発表された[149]。"
+        }
+      },
+      "id" : "f2",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "statements" : [
+        "《JANE DOE》请来宇多田光担任客座主唱。"
+      ],
+      "text" : "《JANE DOE》请来宇多田光担任客座主唱。"
+    }
+  ],
+  "selectionReasons" : [
+    "米津玄师为《电锯人 蕾塞篇》写的主题曲请来宇多田光客座主唱，两位顶流歌手罕见合体，一句就有反差感。"
+  ],
+  "sentences" : [
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 87",
+              "location" : "ja · 米津玄師 · 2025年 · 段落 87",
+              "quote" : "ゲストボーカルとして宇多田ヒカルを迎えたことも併せて発表された[149]。"
+            }
+          },
+          "id" : "f2",
+          "linkedEntityIDs" : [
+
+          ],
+          "people" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 米津玄師",
+            "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+          },
+          "statements" : [
+            "《JANE DOE》请来宇多田光担任客座主唱。"
+          ],
+          "text" : "《JANE DOE》请来宇多田光担任客座主唱。"
+        }
+      ],
+      "sentence" : "《JANE DOE》请宇多田光当客座主唱",
+      "storyID" : "model-jane-1"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 87",
+              "location" : "ja · 米津玄師 · 2025年 · 段落 87",
+              "quote" : "ゲストボーカルとして宇多田ヒカルを迎えたことも併せて発表された[149]。"
+            }
+          },
+          "id" : "f2",
+          "linkedEntityIDs" : [
+
+          ],
+          "people" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 米津玄師",
+            "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+          },
+          "statements" : [
+            "《JANE DOE》请来宇多田光担任客座主唱。"
+          ],
+          "text" : "《JANE DOE》请来宇多田光担任客座主唱。"
+        }
+      ],
+      "sentence" : "米津玄师的《JANE DOE》请来宇多田光担任客座主唱，和歌曲的其他消息一起公布",
+      "storyID" : "model-jane-1"
+    }
+  ],
+  "skippedMaterials" : [
+    "https://reissuerecords.net/profile/#段落 4：归属 yonezu",
+    "https://reissuerecords.net/profile/#段落 7：归属 yonezu",
+    "https://reissuerecords.net/profile/#段落 9：归属 yonezu",
+    "https://reissuerecords.net/profile/#段落 11：归属 yonezu",
+    "https://reissuerecords.net/profile/#段落 12：归属 yonezu",
+    "https://reissuerecords.net/profile/#段落 14：归属 kickback",
+    "https://reissuerecords.net/profile/#段落 15：归属 kickback",
+    "https://reissuerecords.net/profile/#段落 17：归属 kickback",
+    "https://reissuerecords.net/profile/#段落 18：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 导语 · 段落 1：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 概要 · 段落 3：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 12：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 15：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2014年 · 段落 23：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2015年：『Bremen』 · 段落 25：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2016年 · 段落 28：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2016年 · 段落 32：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2017年 · 段落 37：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2018年 · 段落 38：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2018年 · 段落 44：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2019年 · 段落 47：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2020年 · 段落 50：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2020年 · 段落 53：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2022年 · 段落 59：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2022年 · 段落 62：归属 kickback",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2023年 · 段落 64：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2024年 · 段落 74：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2024年 · 段落 77：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 78：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 82：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 83：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 音楽性 · 段落 102：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 音楽性 · 段落 104：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 影響を受けた人物・作品 · 段落 108：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · ライブ · 段落 118：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 导语 · 段落 8：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 导语 · 段落 9：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 导语 · 段落 10：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 11：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 12：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 14：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 15：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 16：归属 kickback",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 出道 · 段落 19：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 其他 · 段落 21：归属 yonezu",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 其他 · 段落 22：归属 yonezu",
+    "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · 导语 · 段落 2：归属 yonezu",
+    "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · Early life and career · 段落 6：归属 yonezu",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 概要 · 段落 8：归属 iris"
+  ],
+  "stories" : [
+    {
+      "body" : "米津玄师的《JANE DOE》请来宇多田光担任客座主唱，和歌曲的其他消息一起公布。",
+      "entityID" : "jane",
+      "entityLinks" : {
+
+      },
+      "id" : "model-jane-1",
+      "relatedEntityIDs" : [
+
+      ],
+      "score" : 0,
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "title" : "《JANE DOE》请宇多田光当客座主唱"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "calls" : [
+    {
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "```json\n{\"facts\":[{\"id\":\"f1\",\"text\":\"牛尾宪辅1983年3月1日生于日本东京都，幼儿园时因父母在邻居建议下开了音乐教室而开始学钢琴。\",\"people\":[\"牛尾宪辅\"],\"time\":\"1983年3月1日\",\"numbers\":[\"1983\",\"3\",\"1\"],\"quote\":\"牛尾宪辅于1983年3月1日生于日本东京都[1]。由于父母在邻居建议下开了音乐教室，牛尾遂于就读幼儿园时开始学钢琴。\",\"quote_zh\":\"牛尾宪辅于1983年3月1日生于日本东京都[1]。由于父母在邻居建议下开了音乐教室，牛尾遂于就读幼儿园时开始学钢琴。\",\"source_index\":6,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f2\",\"text\":\"牛尾小学时经由电视动画认识电子音乐组合access的作品，被浅仓大介谱写的合成器音色吸引，萌生成为电子音乐家的念头；父母希望他先学好钢琴，他虽不情愿但为成为音乐家的梦想继续学下去。\",\"people\":[\"牛尾宪辅\",\"浅仓大介\"],\"time\":\"小学时期\",\"numbers\":[],\"quote\":\"小学时期，牛尾经由电视动画认识了电子音乐组合access的作品，被乐团键盘手浅仓大介谱写的合成器音色深深吸引，因而萌生成为电子音乐家的念头。……父母希望牛尾先学好钢琴，他虽然不情愿，认为电子琴更有趣，但抱持着成为音乐家的梦想，便姑且继续学下去[2]。\",\"quote_zh\":\"小学时期，牛尾经由电视动画认识了电子音乐组合access的作品，被乐团键盘手浅仓大介谱写的合成器音色深深吸引，因而萌生成为电子音乐家的念头。……父母希望牛尾先学好钢琴，他虽然不情愿，认为电子琴更有趣，但抱持着成为音乐家的梦想，便姑且继续学下去[2]。\",\"source_index\":6,\"contrast\":1,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f3\",\"text\":\"2007年，kensuke ushio名下的首支乐曲《colours》收录于石野卓球主办的platik厂牌合辑《Gathering Traxx Vol.1》。\",\"people\":[\"牛尾宪辅\",\"石野卓球\"],\"time\":\"2007年\",\"numbers\":[\"2007\"],\"quote\":\"ソロアーティストとしては、2007年、石野卓球が主宰するレーベル『platik』からリリースされたコンピレーション・アルバム『Gathering Traxx Vol.1』にkensuke ushio名義の初の楽曲『colours』が収録される[4]。\",\"quote_zh\":\"作为个人艺术家，2007年，石野卓球主办的厂牌「platik」发行的合辑《Gathering Traxx Vol.1》收录了kensuke ushio名义的首支乐曲《colours》[4]。\",\"source_index\":3,\"contrast\":0,\"links\":1,\"linked_nodes\":[\"石野卓球\"]},{\"id\":\"f4\",\"text\":\"〈Colours〉2007年发行后，牛尾在助手工作之余写歌，却从没打算发表这些曲子；石野卓球听后非常喜欢，告诉他「一定要把它们公开给全世界听到」，唱片公司总监也提议将其作为个人专辑发行。\",\"people\":[\"牛尾宪辅\",\"石野卓球\"],\"time\":\"2007年\",\"numbers\":[\"2007\"],\"quote\":\"有次，在石野卓球的好奇之下，牛尾忐忑地让石野卓球听了几段自己写的试听带。令牛尾意想不到的是，石野卓球非常喜欢这些曲子，告诉他“一定要把它们公开给全世界听到”。石野卓球所属唱片公司Ki／oon Music的总监也很喜欢牛尾的试听带，提议要将其作为牛尾的个人专辑发行。\",\"quote_zh\":\"有次，在石野卓球的好奇之下，牛尾忐忑地让石野卓球听了几段自己写的试听带。令牛尾意想不到的是，石野卓球非常喜欢这些曲子，告诉他“一定要把它们公开给全世界听到”。石野卓球所属唱片公司Ki／oon Music的总监也很喜欢牛尾的试听带，提议要将其作为牛尾的个人专辑发行。\",\"source_index\":7,\"contrast\":2,\"links\":1,\"linked_nodes\":[\"石野卓球\"]},{\"id\":\"f5\",\"text\":\"牛尾想用有别于本名的艺名发行专辑，因为自己总受视觉事物启发而作曲，在石野卓球与川边浩志建议下，他将「graphic」改成「graph」再加上一个「a」，最终成为「agraph」。\",\"people\":[\"牛尾宪辅\",\"石野卓球\",\"川边浩志\"],\"time\":\"\",\"numbers\":[],\"quote\":\"在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。\",\"quote_zh\":\"在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。\",\"source_index\":7,\"contrast\":1,\"links\":2,\"linked_nodes\":[\"石野卓球\"]},{\"id\":\"f6\",\"text\":\"2008年，牛尾集结此前创作的歌曲，以agraph之名发行个人首张录音室专辑《a day, phase》。\",\"people\":[\"牛尾宪辅\"],\"time\":\"2008年\",\"numbers\":[\"2008\"],\"quote\":\"2008年，牛尾集结这段时间创作的歌曲，以agraph之名发行个人首张录音室专辑《a day, phase》[2]。\",\"quote_zh\":\"2008年，牛尾集结这段时间创作的歌曲，以agraph之名发行个人首张录音室专辑《a day, phase》[2]。\",\"source_index\":7,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f7\",\"text\":\"2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，以本名参与活动，有别于个人创作的agraph身份。\",\"people\":[\"牛尾宪辅\",\"中村弘二\",\"古川美季\",\"田渕久子\"],\"time\":\"2011年\",\"numbers\":[\"2011\"],\"quote\":\"于是在2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，并以本名参与乐团的活动，有别于个人创作的agraph身份[2]。\",\"quote_zh\":\"于是在2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，并以本名参与乐团的活动，有别于个人创作的agraph身份[2]。\",\"source_index\":8,\"contrast\":1,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f8\",\"text\":\"2012年起，牛尾担任电气魔轨（電気グルーヴ）的现场支持成员并参与该乐团演出。\",\"people\":[\"牛尾宪辅\"],\"time\":\"2012年起\",\"numbers\":[\"2012\"],\"quote\":\"2012年起，他也担任电气魔轨的现场支持成员，并参与该乐团的演出[6]。\",\"quote_zh\":\"2012年起，他也担任电气魔轨的现场支持成员，并参与该乐团的演出[6]。\",\"source_index\":8,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f9\",\"text\":\"「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。\",\"people\":[\"牛尾宪辅\",\"石野卓球\",\"川辺ヒロシ\"],\"time\":\"\",\"numbers\":[],\"quote\":\"『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。\",\"quote_zh\":\"「agraph」这个名字的由来是想把「グラフィック」这个词放进队名，于是向石野卓球和川辺ヒロシ咨询，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这个说法，于是定名agraph（アグラフ）。\",\"source_index\":4,\"contrast\":1,\"links\":2,\"linked_nodes\":[\"石野卓球\"]},{\"id\":\"f10\",\"text\":\"牛尾以Agraph名义于2007年开启个人生涯；其出道专辑《A Day, Phases》由Takkyu Ishino制作，于2008年12月发行。\",\"people\":[\"牛尾宪辅\",\"Takkyu Ishino\"],\"time\":\"2007年、2008年12月\",\"numbers\":[\"2007\",\"2008\",\"12\"],\"quote\":\"He started his solo career in 2007 under the moniker Agraph and began creating electronic music. His debut album A Day, Phases, which was produced by Takkyu Ishino, was released in December 2008.[4]\",\"quote_zh\":\"He started his solo career in 2007 under the moniker Agraph and began creating electronic music. His debut album A Day, Phases, which was produced by Takkyu Ishino, was released in December 2008.[4]（他于2007年以Agraph名义开启个人生涯并开始创作电子音乐。其出道专辑《A Day, Phases》由Takkyu Ishino制作，于2008年12月发行[4]。）\",\"source_index\":10,\"contrast\":0,\"links\":1,\"linked_nodes\":[\"石野卓球\"]},{\"id\":\"f11\",\"text\":\"2010年，牛尾受邀在该年度WIRE音乐节演出并获得热烈回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾。\",\"people\":[\"牛尾宪辅\"],\"time\":\"2010年\",\"numbers\":[\"2010\"],\"quote\":\"2010年，牛尾受邀于该年度的WIRE音乐节演出，获得相当热烈的回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾[4]。\",\"quote_zh\":\"2010年，牛尾受邀于该年度的WIRE音乐节演出，获得相当热烈的回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾[4]。\",\"source_index\":8,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f12\",\"text\":\"牛尾与身为同好也是同行的mito组成乐团「2 ANIMEny DJ's」，以「respect全世界的音乐宅与动漫宅」为宗旨，2010年起多次于地区性的动漫音乐节演出。\",\"people\":[\"牛尾宪辅\",\"mito\"],\"time\":\"2010年起\",\"numbers\":[\"2010\"],\"quote\":\"他与身为同好也是同行的mito组成乐团“2 ANIMEny DJ's”，并以“respect全世界的音乐宅与动漫宅”为宗旨，2010年起多次于地区性的动漫音乐节演出[7][8]。\",\"quote_zh\":\"他与身为同好也是同行的mito组成乐团“2 ANIMEny DJ's”，并以“respect全世界的音乐宅与动漫宅”为宗旨，2010年起多次于地区性的动漫音乐节演出[7][8]。\",\"source_index\":8,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f13\",\"text\":\"Kensuke Ushio在20岁时第一次接触techno等电子音乐。\",\"people\":[\"牛尾宪辅\"],\"time\":\"20岁\",\"numbers\":[\"20\"],\"quote\":\"At the age of 20, Ushio got his first contact with electronic music, such as techno.[4]\",\"quote_zh\":\"At the age of 20, Ushio got his first contact with electronic music, such as techno.[4]（20岁时，牛尾第一次接触了techno等电子音乐[4]。）\",\"source_index\":10,\"contrast\":1,\"links\":0,\"linked_nodes\":[]}]}\n```",
+        "usage" : {
+          "cachedInputTokens" : 2304,
+          "inputTokens" : 2347,
+          "outputTokens" : 2871,
+          "reasoningTokens" : 0,
+          "totalTokens" : 5218
+        }
+      },
+      "stage" : "extract"
+    },
+    {
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"牛尾宪辅的艺名，是从 graphic 改出来的\",\"body\":\"他本名牛尾宪輔，想用一个别于本名的名字发专辑，因为他总受视觉事物启发而作曲。石野卓球和川边浩志建议他把「graphic」改成「graph」，再加一个「a」，就成了「agraph」。\",\"fact_ids\":[\"f5\"]},{\"title\":\"一个字母，把 graphic 变成了 agraph\",\"body\":\"牛尾想发专辑，又不想用本名。石野卓球和川边浩志在旁出主意，他把「graphic」的尾部去掉，只剩「graph」，前面加一个「a」，这个艺名就定下来了。\",\"fact_ids\":[\"f5\"]},{\"title\":\"他给艺名加的那一个 a，是别人出的主意\",\"body\":\"牛尾宪辅因为总被视觉事物启发而作曲，想换个艺名。石野卓球和川边浩志建议他先删到「graph」，再补上「a」，他照做了，「agraph」从此用到现在。\",\"fact_ids\":[\"f5\"]},{\"title\":\"石野卓球建议他改名，只改了半截\",\"body\":\"牛尾想用艺名出专辑，原词是「graphic」。石野卓球和川边浩志让他砍到「graph」，他加了一个「a」，成了「agraph」，和本名牛尾宪輔彻底分开。\",\"fact_ids\":[\"f5\"]},{\"title\":\"牛尾宪輔要换艺名，从视觉二字改起\",\"body\":\"他本名牛尾宪輔，作曲总受视觉事物启发，所以想换个名字。石野卓球与川边浩志建议把「graphic」改成「graph」，他补上一个「a」，「agraph」就这么来的。\",\"fact_ids\":[\"f5\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 512,
+          "inputTokens" : 1025,
+          "outputTokens" : 415,
+          "reasoningTokens" : 0,
+          "totalTokens" : 1440
+        }
+      },
+      "stage" : "write"
+    },
+    {
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"checks\":[{\"index\":0,\"ok\":true,\"unsupported\":[]},{\"index\":1,\"ok\":true,\"unsupported\":[]},{\"index\":2,\"ok\":false,\"unsupported\":[\"他照做了，「agraph」从此用到现在——事实里只说改成了agraph，没有「照做」和「用到现在」的表述\"]},{\"index\":3,\"ok\":false,\"unsupported\":[\"和本名牛尾宪輔彻底分开——事实里没有「彻底分开」这一说法\",\"石野卓球建议他改名，只改了半截——标题中「只改了半截」是解读，事实无此表述\"]},{\"index\":4,\"ok\":false,\"unsupported\":[\"「从视觉二字改起」——事实里改的是graphic，不是「视觉」二字，标题表述不准确\"]},{\"index\":5}],\"pick\":1,\"why\":\"五条都讲艺名由来，第二条用「一个字母」做标题，反差具体、口语自然，不靠正文也能看懂。\"}",
+        "usage" : {
+          "cachedInputTokens" : 0,
+          "inputTokens" : 1092,
+          "outputTokens" : 215,
+          "reasoningTokens" : 0,
+          "totalTokens" : 1307
+        }
+      },
+      "stage" : "pick"
+    },
+    {
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"2011年，牛尾用本名组了 LAMA\",\"body\":\"2011 年，牛尾宪辅跟中村弘二、古川美季、田渕久子组成乐团 LAMA，用本名活动。个人创作时他用的是 agraph 这个名字。\",\"fact_ids\":[\"f7\"]},{\"title\":\"一个牛尾，两个名字\",\"body\":\"牛尾宪辅写自己的音乐时署名 agraph。2011 年组 LAMA 后，他改用本名参与活动，和另外三位音乐家一起。\",\"fact_ids\":[\"f7\"]},{\"title\":\"四位音乐家，2011 年凑成 LAMA\",\"body\":\"2011 年，牛尾和中村弘二、古川美季、田渕久子四个人组了 LAMA。他在这支乐团里用本名，跟 agraph 的个人身份分开。\",\"fact_ids\":[\"f7\"]},{\"title\":\"LAMA 里那个用本名的牛尾\",\"body\":\"2011 年之前的牛尾以 agraph 的身份做个人创作。同年他和中村弘二、古川美季、田渕久子组成 LAMA，用本名参加乐团活动。\",\"fact_ids\":[\"f7\"]},{\"title\":\"牛尾 2011 年组 LAMA，换了署名\",\"body\":\"2011 年，牛尾与中村弘二、古川美季、田渕久子组建 LAMA。他以本名参与，有别于个人创作时的 agraph 身份。\",\"fact_ids\":[\"f7\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 512,
+          "inputTokens" : 1027,
+          "outputTokens" : 365,
+          "reasoningTokens" : 0,
+          "totalTokens" : 1392
+        }
+      },
+      "stage" : "write"
+    },
+    {
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"checks\":[{\"index\":0,\"ok\":true,\"unsupported\":[]},{\"index\":1,\"ok\":true,\"unsupported\":[]},{\"index\":2,\"ok\":true,\"unsupported\":[]},{\"index\":3,\"ok\":false,\"unsupported\":[\"2011 年之前的牛尾以 agraph 的身份做个人创作（事实未说明时间范围）\"]},{\"index\":4,\"ok\":true,\"unsupported\":[]}],\"pick\":1,\"why\":\"一个名字两种身份，反差清楚，标题像随口一句话\"}",
+        "usage" : {
+          "cachedInputTokens" : 0,
+          "inputTokens" : 1076,
+          "outputTokens" : 109,
+          "reasoningTokens" : 0,
+          "totalTokens" : 1185
+        }
+      },
+      "stage" : "pick"
+    },
+    {
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"想把「グラフィック」写进队名，最后改成了agraph\",\"body\":\"牛尾宪辅当时想在队名里放「グラフィック」这个词，去问了石野卓球和川辺ヒロシ。对方说改叫グラフ（graph），能被理解成「頭でっかちのグラフ」（头很大的 graph）。队名就这么定了下来。\",\"fact_ids\":[\"f9\"]},{\"title\":\"牛尾宪辅问了两个人，队名变成了agraph\",\"body\":\"牛尾宪辅找石野卓球和川辺ヒロ西商量队名。对方给的点子是：别说グラフィック，说グラフ，可以理解成「頭でっかちのグラフ」。agraph 还有钢琴弦押さえ的意思。\",\"fact_ids\":[\"f9\"]},{\"title\":\"agraph：一句「头很大的 graph」定下的队名\",\"body\":\"牛尾宪辅想在队名里写进「グラフィック」，咨询石野卓球和川辺ヒロ西后，改成了agraph。这个词在日文里也是钢琴部件弦押さえ的名字。\",\"fact_ids\":[\"f9\"]},{\"title\":\"从グラフィック到agraph，中间只隔一句玩笑\",\"body\":\"牛尾宪辅原本要的是「グラフィック」入队名。石野卓球和川辺ヒロ西说，改成グラフ的话，能听成「頭でっかちのグラフ」。队名就定成agraph。\",\"fact_ids\":[\"f9\"]},{\"title\":\"牛尾宪辅：agraph 也有弦押さえ的意思\",\"body\":\"队名agraph来自一次商量。牛尾宪辅想把「グラフィック」写进去，石野卓球和川辺ヒロ西建议改成グラフ，还可以理解成「頭でっかちのグラフ」（头很大的 graph）。\",\"fact_ids\":[\"f9\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 512,
+          "inputTokens" : 1088,
+          "outputTokens" : 418,
+          "reasoningTokens" : 0,
+          "totalTokens" : 1506
+        }
+      },
+      "stage" : "write"
+    },
+    {
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"checks\":[{\"index\":0,\"ok\":true,\"unsupported\":[]},{\"index\":1,\"ok\":true,\"unsupported\":[]},{\"index\":2,\"ok\":true,\"unsupported\":[]},{\"index\":3,\"ok\":true,\"unsupported\":[]},{\"index\":4,\"ok\":true,\"unsupported\":[]}],\"pick\":3,\"why\":\"反差最明显：一个正式改名的动作，其实只隔了一句玩笑话，标题自己就把故事讲完了\"}",
+        "usage" : {
+          "cachedInputTokens" : 0,
+          "inputTokens" : 996,
+          "outputTokens" : 95,
+          "reasoningTokens" : 0,
+          "totalTokens" : 1091
+        }
+      },
+      "stage" : "pick"
+    }
+  ],
+  "candidates" : [
+    {
+      "factIDs" : [
+        "f5"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "他本名牛尾宪輔，想用一个别于本名的名字发专辑，因为他总受视觉事物启发而作曲。石野卓球和川边浩志建议他把「graphic」改成「graph」，再加一个「a」，就成了「agraph」。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-1",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "牛尾宪辅的艺名，是从 graphic 改出来的"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f5"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾想发专辑，又不想用本名。石野卓球和川边浩志在旁出主意，他把「graphic」的尾部去掉，只剩「graph」，前面加一个「a」，这个艺名就定下来了。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-2",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "一个字母，把 graphic 变成了 agraph"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f5"
+      ],
+      "modelApproved" : false,
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾宪辅因为总被视觉事物启发而作曲，想换个艺名。石野卓球和川边浩志建议他先删到「graph」，再补上「a」，他照做了，「agraph」从此用到现在。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-3",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "他给艺名加的那一个 a，是别人出的主意"
+      },
+      "unsupported" : [
+        "他照做了，「agraph」从此用到现在——事实里只说改成了agraph，没有「照做」和「用到现在」的表述"
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f5"
+      ],
+      "modelApproved" : false,
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾想用艺名出专辑，原词是「graphic」。石野卓球和川边浩志让他砍到「graph」，他加了一个「a」，成了「agraph」，和本名牛尾宪輔彻底分开。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-4",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "石野卓球建议他改名，只改了半截"
+      },
+      "unsupported" : [
+        "和本名牛尾宪輔彻底分开——事实里没有「彻底分开」这一说法",
+        "石野卓球建议他改名，只改了半截——标题中「只改了半截」是解读，事实无此表述"
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f5"
+      ],
+      "modelApproved" : false,
+      "rewritten" : false,
+      "story" : {
+        "body" : "他本名牛尾宪輔，作曲总受视觉事物启发，所以想换个名字。石野卓球与川边浩志建议把「graphic」改成「graph」，他补上一个「a」，「agraph」就这么来的。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-5",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "牛尾宪輔要换艺名，从视觉二字改起"
+      },
+      "unsupported" : [
+        "「从视觉二字改起」——事实里改的是graphic，不是「视觉」二字，标题表述不准确"
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f7"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "2011 年，牛尾宪辅跟中村弘二、古川美季、田渕久子组成乐团 LAMA，用本名活动。个人创作时他用的是 agraph 这个名字。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-6",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "2011年，牛尾用本名组了 LAMA"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f7"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾宪辅写自己的音乐时署名 agraph。2011 年组 LAMA 后，他改用本名参与活动，和另外三位音乐家一起。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-7",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "一个牛尾，两个名字"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f7"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "2011 年，牛尾和中村弘二、古川美季、田渕久子四个人组了 LAMA。他在这支乐团里用本名，跟 agraph 的个人身份分开。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-8",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "四位音乐家，2011 年凑成 LAMA"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f7"
+      ],
+      "modelApproved" : false,
+      "rewritten" : false,
+      "story" : {
+        "body" : "2011 年之前的牛尾以 agraph 的身份做个人创作。同年他和中村弘二、古川美季、田渕久子组成 LAMA，用本名参加乐团活动。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-9",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "LAMA 里那个用本名的牛尾"
+      },
+      "unsupported" : [
+        "2011 年之前的牛尾以 agraph 的身份做个人创作（事实未说明时间范围）"
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f7"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "2011 年，牛尾与中村弘二、古川美季、田渕久子组建 LAMA。他以本名参与，有别于个人创作时的 agraph 身份。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-10",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "牛尾 2011 年组 LAMA，换了署名"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f9"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾宪辅当时想在队名里放「グラフィック」这个词，去问了石野卓球和川辺ヒロシ。对方说改叫グラフ（graph），能被理解成「頭でっかちのグラフ」（头很大的 graph）。队名就这么定了下来。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-11",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "想把「グラフィック」写进队名，最后改成了agraph"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f9"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾宪辅找石野卓球和川辺ヒロ西商量队名。对方给的点子是：别说グラフィック，说グラフ，可以理解成「頭でっかちのグラフ」。agraph 还有钢琴弦押さえ的意思。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-12",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "牛尾宪辅问了两个人，队名变成了agraph"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f9"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾宪辅想在队名里写进「グラフィック」，咨询石野卓球和川辺ヒロ西后，改成了agraph。这个词在日文里也是钢琴部件弦押さえ的名字。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-13",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "agraph：一句「头很大的 graph」定下的队名"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f9"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾宪辅原本要的是「グラフィック」入队名。石野卓球和川辺ヒロ西说，改成グラフ的话，能听成「頭でっかちのグラフ」。队名就定成agraph。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-14",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "从グラフィック到agraph，中间只隔一句玩笑"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "factIDs" : [
+        "f9"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "队名agraph来自一次商量。牛尾宪辅想把「グラフィック」写进去，石野卓球和川辺ヒロ西建议改成グラフ，还可以理解成「頭でっかちのグラフ」（头很大的 graph）。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-15",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "牛尾宪辅：agraph 也有弦押さえ的意思"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    }
+  ],
+  "entityID" : "pool",
+  "facts" : [
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 童年时期 · 段落 2",
+          "location" : "zh · 牛尾宪辅 · 童年时期 · 段落 2",
+          "quote" : "牛尾宪辅于1983年3月1日生于日本东京都[1]。由于父母在邻居建议下开了音乐教室，牛尾遂于就读幼儿园时开始学钢琴。"
+        }
+      },
+      "id" : "f1",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "牛尾宪辅1983年3月1日生于日本东京都，幼儿园时因父母在邻居建议下开了音乐教室而开始学钢琴。"
+      ],
+      "text" : "牛尾宪辅1983年3月1日生于日本东京都，幼儿园时因父母在邻居建议下开了音乐教室而开始学钢琴。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 来歴 · 段落 6",
+          "location" : "ja · Agraph · 来歴 · 段落 6",
+          "quote" : "ソロアーティストとしては、2007年、石野卓球が主宰するレーベル『platik』からリリースされたコンピレーション・アルバム『Gathering Traxx Vol.1』にkensuke ushio名義の初の楽曲『colours』が収録される[4]。"
+        }
+      },
+      "id" : "f3",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "statements" : [
+        "2007年，kensuke ushio名下的首支乐曲《colours》收录于石野卓球主办的platik厂牌合辑《Gathering Traxx Vol.1》。"
+      ],
+      "text" : "2007年，kensuke ushio名下的首支乐曲《colours》收录于石野卓球主办的platik厂牌合辑《Gathering Traxx Vol.1》。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+          "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+          "quote" : "在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。"
+        }
+      },
+      "id" : "f5",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "牛尾想用有别于本名的艺名发行专辑，因为自己总受视觉事物启发而作曲，在石野卓球与川边浩志建议下，他将「graphic」改成「graph」再加上一个「a」，最终成为「agraph」。"
+      ],
+      "text" : "牛尾想用有别于本名的艺名发行专辑，因为自己总受视觉事物启发而作曲，在石野卓球与川边浩志建议下，他将「graphic」改成「graph」再加上一个「a」，最终成为「agraph」。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+          "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+          "quote" : "2008年，牛尾集结这段时间创作的歌曲，以agraph之名发行个人首张录音室专辑《a day, phase》[2]。"
+        }
+      },
+      "id" : "f6",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "2008年，牛尾集结此前创作的歌曲，以agraph之名发行个人首张录音室专辑《a day, phase》。"
+      ],
+      "text" : "2008年，牛尾集结此前创作的歌曲，以agraph之名发行个人首张录音室专辑《a day, phase》。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "quote" : "于是在2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，并以本名参与乐团的活动，有别于个人创作的agraph身份[2]。"
+        }
+      },
+      "id" : "f7",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，以本名参与活动，有别于个人创作的agraph身份。"
+      ],
+      "text" : "2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，以本名参与活动，有别于个人创作的agraph身份。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "quote" : "2012年起，他也担任电气魔轨的现场支持成员，并参与该乐团的演出[6]。"
+        }
+      },
+      "id" : "f8",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "2012年起，牛尾担任电气魔轨（電気グルーヴ）的现场支持成员并参与该乐团演出。"
+      ],
+      "text" : "2012年起，牛尾担任电气魔轨（電気グルーヴ）的现场支持成员并参与该乐团演出。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11",
+          "location" : "ja · Agraph · 人物・特徴 · 段落 11",
+          "quote" : "『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。"
+        }
+      },
+      "id" : "f9",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "statements" : [
+        "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+      ],
+      "text" : "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://en.wikipedia.org/w/index.php?oldid=1372765743#en · Kensuke Ushio · Biography · 段落 4",
+          "location" : "en · Kensuke Ushio · Biography · 段落 4",
+          "quote" : "He started his solo career in 2007 under the moniker Agraph and began creating electronic music. His debut album A Day, Phases, which was produced by Takkyu Ishino, was released in December 2008.[4]"
+        }
+      },
+      "id" : "f10",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Kensuke Ushio",
+        "url" : "https://en.wikipedia.org/w/index.php?oldid=1372765743"
+      },
+      "statements" : [
+        "牛尾以Agraph名义于2007年开启个人生涯；其出道专辑《A Day, Phases》由Takkyu Ishino制作，于2008年12月发行。"
+      ],
+      "text" : "牛尾以Agraph名义于2007年开启个人生涯；其出道专辑《A Day, Phases》由Takkyu Ishino制作，于2008年12月发行。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "quote" : "2010年，牛尾受邀于该年度的WIRE音乐节演出，获得相当热烈的回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾[4]。"
+        }
+      },
+      "id" : "f11",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "2010年，牛尾受邀在该年度WIRE音乐节演出并获得热烈回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾。"
+      ],
+      "text" : "2010年，牛尾受邀在该年度WIRE音乐节演出并获得热烈回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "quote" : "他与身为同好也是同行的mito组成乐团“2 ANIMEny DJ's”，并以“respect全世界的音乐宅与动漫宅”为宗旨，2010年起多次于地区性的动漫音乐节演出[7][8]。"
+        }
+      },
+      "id" : "f12",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "牛尾与身为同好也是同行的mito组成乐团「2 ANIMEny DJ's」，以「respect全世界的音乐宅与动漫宅」为宗旨，2010年起多次于地区性的动漫音乐节演出。"
+      ],
+      "text" : "牛尾与身为同好也是同行的mito组成乐团「2 ANIMEny DJ's」，以「respect全世界的音乐宅与动漫宅」为宗旨，2010年起多次于地区性的动漫音乐节演出。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://en.wikipedia.org/w/index.php?oldid=1372765743#en · Kensuke Ushio · Biography · 段落 4",
+          "location" : "en · Kensuke Ushio · Biography · 段落 4",
+          "quote" : "At the age of 20, Ushio got his first contact with electronic music, such as techno.[4]"
+        }
+      },
+      "id" : "f13",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Kensuke Ushio",
+        "url" : "https://en.wikipedia.org/w/index.php?oldid=1372765743"
+      },
+      "statements" : [
+        "Kensuke Ushio在20岁时第一次接触techno等电子音乐。"
+      ],
+      "text" : "Kensuke Ushio在20岁时第一次接触techno等电子音乐。"
+    }
+  ],
+  "sentences" : [
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "quote" : "在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。"
+            }
+          },
+          "id" : "f5",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 牛尾宪辅",
+            "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+          },
+          "statements" : [
+            "牛尾想用有别于本名的艺名发行专辑，因为自己总受视觉事物启发而作曲，在石野卓球与川边浩志建议下，他将「graphic」改成「graph」再加上一个「a」，最终成为「agraph」。"
+          ],
+          "text" : "牛尾想用有别于本名的艺名发行专辑，因为自己总受视觉事物启发而作曲，在石野卓球与川边浩志建议下，他将「graphic」改成「graph」再加上一个「a」，最终成为「agraph」。"
+        }
+      ],
+      "sentence" : "一个字母，把 graphic 变成了 agraph",
+      "storyID" : "model-pool-2"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "quote" : "在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。"
+            }
+          },
+          "id" : "f5",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 牛尾宪辅",
+            "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+          },
+          "statements" : [
+            "牛尾想用有别于本名的艺名发行专辑，因为自己总受视觉事物启发而作曲，在石野卓球与川边浩志建议下，他将「graphic」改成「graph」再加上一个「a」，最终成为「agraph」。"
+          ],
+          "text" : "牛尾想用有别于本名的艺名发行专辑，因为自己总受视觉事物启发而作曲，在石野卓球与川边浩志建议下，他将「graphic」改成「graph」再加上一个「a」，最终成为「agraph」。"
+        }
+      ],
+      "sentence" : "牛尾想发专辑，又不想用本名",
+      "storyID" : "model-pool-2"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "quote" : "在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。"
+            }
+          },
+          "id" : "f5",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 牛尾宪辅",
+            "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+          },
+          "statements" : [
+            "牛尾想用有别于本名的艺名发行专辑，因为自己总受视觉事物启发而作曲，在石野卓球与川边浩志建议下，他将「graphic」改成「graph」再加上一个「a」，最终成为「agraph」。"
+          ],
+          "text" : "牛尾想用有别于本名的艺名发行专辑，因为自己总受视觉事物启发而作曲，在石野卓球与川边浩志建议下，他将「graphic」改成「graph」再加上一个「a」，最终成为「agraph」。"
+        }
+      ],
+      "sentence" : "石野卓球和川边浩志在旁出主意，他把「graphic」的尾部去掉，只剩「graph」，前面加一个「a」，这个艺名就定下来了",
+      "storyID" : "model-pool-2"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+              "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+              "quote" : "于是在2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，并以本名参与乐团的活动，有别于个人创作的agraph身份[2]。"
+            }
+          },
+          "id" : "f7",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 牛尾宪辅",
+            "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+          },
+          "statements" : [
+            "2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，以本名参与活动，有别于个人创作的agraph身份。"
+          ],
+          "text" : "2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，以本名参与活动，有别于个人创作的agraph身份。"
+        }
+      ],
+      "sentence" : "一个牛尾，两个名字",
+      "storyID" : "model-pool-7"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+              "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+              "quote" : "于是在2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，并以本名参与乐团的活动，有别于个人创作的agraph身份[2]。"
+            }
+          },
+          "id" : "f7",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 牛尾宪辅",
+            "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+          },
+          "statements" : [
+            "2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，以本名参与活动，有别于个人创作的agraph身份。"
+          ],
+          "text" : "2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，以本名参与活动，有别于个人创作的agraph身份。"
+        }
+      ],
+      "sentence" : "牛尾宪辅写自己的音乐时署名 agraph",
+      "storyID" : "model-pool-7"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+              "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+              "quote" : "于是在2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，并以本名参与乐团的活动，有别于个人创作的agraph身份[2]。"
+            }
+          },
+          "id" : "f7",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 牛尾宪辅",
+            "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+          },
+          "statements" : [
+            "2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，以本名参与活动，有别于个人创作的agraph身份。"
+          ],
+          "text" : "2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，以本名参与活动，有别于个人创作的agraph身份。"
+        }
+      ],
+      "sentence" : "2011 年组 LAMA 后，他改用本名参与活动，和另外三位音乐家一起",
+      "storyID" : "model-pool-7"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11",
+              "location" : "ja · Agraph · 人物・特徴 · 段落 11",
+              "quote" : "『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。"
+            }
+          },
+          "id" : "f9",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · Agraph",
+            "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+          },
+          "statements" : [
+            "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+          ],
+          "text" : "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+        }
+      ],
+      "sentence" : "从グラフィック到agraph，中间只隔一句玩笑",
+      "storyID" : "model-pool-14"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11",
+              "location" : "ja · Agraph · 人物・特徴 · 段落 11",
+              "quote" : "『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。"
+            }
+          },
+          "id" : "f9",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · Agraph",
+            "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+          },
+          "statements" : [
+            "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+          ],
+          "text" : "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+        }
+      ],
+      "sentence" : "牛尾宪辅原本要的是「グラフィック」入队名",
+      "storyID" : "model-pool-14"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11",
+              "location" : "ja · Agraph · 人物・特徴 · 段落 11",
+              "quote" : "『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。"
+            }
+          },
+          "id" : "f9",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · Agraph",
+            "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+          },
+          "statements" : [
+            "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+          ],
+          "text" : "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+        }
+      ],
+      "sentence" : "石野卓球和川辺ヒロ西说，改成グラフ的话，能听成「頭でっかちのグラフ」",
+      "storyID" : "model-pool-14"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 1,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11",
+              "location" : "ja · Agraph · 人物・特徴 · 段落 11",
+              "quote" : "『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。"
+            }
+          },
+          "id" : "f9",
+          "linkedEntityIDs" : [
+
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · Agraph",
+            "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+          },
+          "statements" : [
+            "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+          ],
+          "text" : "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+        }
+      ],
+      "sentence" : "队名就定成agraph",
+      "storyID" : "model-pool-14"
+    }
+  ],
+  "stories" : [
+    {
+      "body" : "牛尾想发专辑，又不想用本名。石野卓球和川边浩志在旁出主意，他把「graphic」的尾部去掉，只剩「graph」，前面加一个「a」，这个艺名就定下来了。",
+      "entityID" : "pool",
+      "entityLinks" : {
+
+      },
+      "id" : "model-pool-2",
+      "relatedEntityIDs" : [
+
+      ],
+      "score" : 0,
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "title" : "一个字母，把 graphic 变成了 agraph"
+    },
+    {
+      "body" : "牛尾宪辅写自己的音乐时署名 agraph。2011 年组 LAMA 后，他改用本名参与活动，和另外三位音乐家一起。",
+      "entityID" : "pool",
+      "entityLinks" : {
+
+      },
+      "id" : "model-pool-7",
+      "relatedEntityIDs" : [
+
+      ],
+      "score" : 0,
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "title" : "一个牛尾，两个名字"
+    },
+    {
+      "body" : "牛尾宪辅原本要的是「グラフィック」入队名。石野卓球和川辺ヒロ西说，改成グラフ的话，能听成「頭でっかちのグラフ」。队名就定成agraph。",
+      "entityID" : "pool",
+      "entityLinks" : {
+
+      },
+      "id" : "model-pool-14",
+      "relatedEntityIDs" : [
+
+      ],
+      "score" : 0,
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "title" : "从グラフィック到agraph，中间只隔一句玩笑"
+    }
+  ]
+}

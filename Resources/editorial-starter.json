@@ -1,0 +1,847 @@
+{
+  "version": 1,
+  "works": [
+    {
+      "id": "editorial:one-last-kiss",
+      "title": "One Last Kiss",
+      "creator": "宇多田光",
+      "kind": "歌曲",
+      "art": "editorial-one-last-kiss",
+      "detail": "2021 · 电影主题歌",
+      "url": "https://music.apple.com/us/album/one-last-kiss/1542953969?i=1542953977",
+      "creatorIDs": [
+        "editorial:hikaru-utada"
+      ],
+      "albumID": "editorial:one-last-kiss-ep"
+    },
+    {
+      "id": "editorial:evangelion-3-0-plus-1-0",
+      "title": "新·福音战士剧场版：终",
+      "creator": "庵野秀明",
+      "kind": "电影",
+      "art": "",
+      "detail": "2021 · 动画电影",
+      "url": "https://www.evangelion.jp/final.html",
+      "creatorIDs": [
+        "editorial:hideaki-anno"
+      ]
+    },
+    {
+      "id": "editorial:hikaru-utada",
+      "title": "宇多田光",
+      "creator": "词曲作者、歌手",
+      "kind": "创作者",
+      "art": "",
+      "detail": "Hikaru Utada",
+      "url": "https://www.utadahikaru.jp/profile/",
+      "creatorIDs": []
+    },
+    {
+      "id": "editorial:one-last-kiss-ep",
+      "title": "One Last Kiss",
+      "creator": "宇多田光",
+      "kind": "专辑",
+      "art": "editorial-one-last-kiss",
+      "detail": "2021 · EP",
+      "url": "https://music.apple.com/us/album/one-last-kiss/1542953969",
+      "creatorIDs": [
+        "editorial:hikaru-utada"
+      ]
+    },
+    {
+      "id": "editorial:beautiful-world-da-capo",
+      "title": "Beautiful World (Da Capo Version)",
+      "creator": "宇多田光",
+      "kind": "歌曲",
+      "art": "editorial-one-last-kiss",
+      "detail": "2021 · 重新录制版",
+      "url": "https://music.apple.com/us/album/beautiful-world-da-capo-version/1542953969?i=1542953978",
+      "creatorIDs": [
+        "editorial:hikaru-utada"
+      ],
+      "albumID": "editorial:one-last-kiss-ep"
+    },
+    {
+      "id": "editorial:hideaki-anno",
+      "title": "庵野秀明",
+      "creator": "导演、编剧",
+      "kind": "创作者",
+      "art": "",
+      "detail": "《新·福音战士剧场版：终》总导演",
+      "url": "https://www.evangelion.jp/final.html",
+      "creatorIDs": []
+    },
+    {
+      "id": "editorial:merry-christmas-mr-lawrence-theme",
+      "title": "Merry Christmas Mr. Lawrence",
+      "creator": "坂本龙一",
+      "kind": "歌曲",
+      "art": "editorial-merry-christmas-mr-lawrence",
+      "detail": "1983 · 电影主题音乐",
+      "url": "https://music.apple.com/us/album/merry-christmas-mr-lawrence/1500818100?i=1500818105",
+      "creatorIDs": [
+        "editorial:ryuichi-sakamoto"
+      ]
+    },
+    {
+      "id": "editorial:merry-christmas-mr-lawrence-film",
+      "title": "圣诞快乐，劳伦斯先生",
+      "creator": "大岛渚",
+      "kind": "电影",
+      "art": "",
+      "detail": "1983 · 123 分钟",
+      "url": "https://www.janusfilms.com/films/1750",
+      "creatorIDs": []
+    },
+    {
+      "id": "editorial:ryuichi-sakamoto",
+      "title": "坂本龙一",
+      "creator": "作曲家、钢琴家",
+      "kind": "创作者",
+      "art": "",
+      "detail": "Ryuichi Sakamoto",
+      "url": "https://www.sitesakamoto.com/filmography/",
+      "creatorIDs": []
+    },
+    {
+      "id": "editorial:forbidden-colours",
+      "title": "Forbidden Colours",
+      "creator": "David Sylvian、坂本龙一",
+      "kind": "歌曲",
+      "art": "editorial-merry-christmas-mr-lawrence",
+      "detail": "1983 · 主题音乐的人声改编",
+      "url": "https://music.apple.com/us/album/forbidden-colors/1500818100?i=1500818278",
+      "creatorIDs": [
+        "editorial:david-sylvian",
+        "editorial:ryuichi-sakamoto"
+      ]
+    },
+    {
+      "id": "editorial:david-sylvian",
+      "title": "David Sylvian",
+      "creator": "歌手、音乐人",
+      "kind": "创作者",
+      "art": "",
+      "detail": "《Forbidden Colours》演唱",
+      "url": "https://www.davidsylvian.com/discography/singles/sylviansakamoto_forbidden_colours.html",
+      "creatorIDs": []
+    },
+    {
+      "id": "editorial:byakkoya-no-musume",
+      "title": "白虎野の娘",
+      "creator": "平泽进",
+      "kind": "歌曲",
+      "art": "editorial-paprika-soundtrack",
+      "detail": "2006 · 《红辣椒》片尾曲",
+      "url": "https://susumuhirasawa.com/free-music/",
+      "creatorIDs": [
+        "editorial:susumu-hirasawa"
+      ]
+    },
+    {
+      "id": "editorial:paprika-film",
+      "title": "红辣椒",
+      "creator": "今敏",
+      "kind": "电影",
+      "art": "",
+      "detail": "2006 · 动画电影 · 90 分钟",
+      "url": "https://www.sonypictures.jp/corp/press/2026-06-01",
+      "creatorIDs": [
+        "editorial:satoshi-kon"
+      ]
+    },
+    {
+      "id": "editorial:susumu-hirasawa",
+      "title": "平泽进",
+      "creator": "音乐人、歌手",
+      "kind": "创作者",
+      "art": "",
+      "detail": "Susumu Hirasawa",
+      "url": "https://susumuhirasawa.com/profile/",
+      "creatorIDs": []
+    },
+    {
+      "id": "editorial:paprika-novel",
+      "title": "红辣椒（パプリカ）",
+      "creator": "筒井康隆",
+      "kind": "书籍",
+      "art": "",
+      "detail": "科幻小说 · 《红辣椒》电影原作",
+      "url": "https://www.shinchosha.co.jp/book/117140/",
+      "creatorIDs": [
+        "editorial:yasutaka-tsutsui"
+      ]
+    },
+    {
+      "id": "editorial:yasutaka-tsutsui",
+      "title": "筒井康隆",
+      "creator": "小说家",
+      "kind": "创作者",
+      "art": "",
+      "detail": "《红辣椒》原作者",
+      "url": "https://www.shinchosha.co.jp/book/117140/",
+      "creatorIDs": []
+    },
+    {
+      "id": "editorial:byakkoya-song",
+      "title": "白虎野",
+      "creator": "平泽进",
+      "kind": "歌曲",
+      "art": "editorial-byakkoya",
+      "detail": "2006 · 同名专辑第 2 曲",
+      "url": "https://susumuhirasawa.com/discography/item-10/",
+      "creatorIDs": [
+        "editorial:susumu-hirasawa"
+      ]
+    },
+    {
+      "id": "editorial:satoshi-kon",
+      "title": "今敏",
+      "creator": "动画导演、编剧",
+      "kind": "创作者",
+      "art": "",
+      "detail": "《红辣椒》导演",
+      "url": "https://www.sonypictures.jp/corp/press/2026-06-01",
+      "creatorIDs": []
+    },
+    {
+      "id": "editorial:one-last-kiss-mv",
+      "title": "One Last Kiss — Music Video",
+      "creator": "宇多田光",
+      "kind": "音乐视频",
+      "art": "editorial-one-last-kiss-mv",
+      "detail": "官方 MV · 4:18",
+      "url": "https://www.youtube.com/watch?v=0Uhh62MUEic",
+      "creatorIDs": [
+        "editorial:hikaru-utada",
+        "editorial:hideaki-anno"
+      ]
+    },
+    {
+      "id": "editorial:millennium-actress",
+      "title": "千年女优",
+      "creator": "今敏",
+      "kind": "电影",
+      "art": "",
+      "detail": "动画电影",
+      "url": "https://konstone.s-kon.net/modules/interview/index.php?content_id=15",
+      "creatorIDs": [
+        "editorial:satoshi-kon"
+      ]
+    },
+    {
+      "id": "editorial:lotus-sim-city",
+      "title": "Lotus",
+      "creator": "平泽进",
+      "kind": "音乐作品",
+      "art": "",
+      "detail": "Sim City · 原版作品",
+      "url": "https://konstone.s-kon.net/modules/notebook/archives/162",
+      "creatorIDs": [
+        "editorial:susumu-hirasawa"
+      ],
+      "versionSearchQuery": "Lotus 平沢進 Sim City"
+    },
+    {
+      "id": "editorial:rotation-lotus-2",
+      "title": "ロタティオン（LOTUS-2）",
+      "creator": "平泽进",
+      "kind": "音乐作品",
+      "art": "",
+      "detail": "《千年女优》片尾曲",
+      "url": "https://susumuhirasawa.com/%E2%98%85%E6%96%B0%E8%AD%9C%E3%83%BB%E6%A5%BD%E6%9B%B2%E9%85%8D%E4%BF%A1%E7%AD%89/%E3%80%8C%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA%E3%80%8D%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cd-extramillennium-actress/",
+      "creatorIDs": [
+        "editorial:susumu-hirasawa"
+      ],
+      "versionSearchQuery": "ロタティオン LOTUS-2 平沢進 千年女優"
+    },
+    {
+      "id": "editorial:nagisa-oshima",
+      "title": "大岛渚",
+      "creator": "导演",
+      "kind": "创作者",
+      "art": "",
+      "detail": "电影导演",
+      "url": "https://www.wikidata.org/wiki/Q55403",
+      "creatorIDs": []
+    },
+    {
+      "id": "editorial:jane-doe-mv",
+      "title": "JANE DOE — Music Video",
+      "creator": "米津玄师、宇多田光",
+      "kind": "音乐视频",
+      "art": "editorial-jane-doe-mv",
+      "detail": "官方 MV",
+      "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+      "creatorIDs": [
+        "yonezu",
+        "utada"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "from": "editorial:one-last-kiss",
+      "to": "editorial:evangelion-3-0-plus-1-0",
+      "predicate": "endingOf",
+      "label": "片尾主题歌来自",
+      "inverseLabel": "片尾主题歌",
+      "source": {
+        "title": "两首主题歌与《One Last Kiss》发行说明",
+        "detail": "电影官网 · 2021.03.08",
+        "url": "https://www.evangelion.jp/news/shin_themesong/"
+      }
+    },
+    {
+      "from": "editorial:beautiful-world-da-capo",
+      "to": "editorial:evangelion-3-0-plus-1-0",
+      "predicate": "endingOf",
+      "label": "片尾主题歌来自",
+      "inverseLabel": "片尾主题歌",
+      "source": {
+        "title": "两首主题歌与《One Last Kiss》发行说明",
+        "detail": "电影官网 · 2021.03.08",
+        "url": "https://www.evangelion.jp/news/shin_themesong/"
+      }
+    },
+    {
+      "from": "editorial:one-last-kiss",
+      "to": "editorial:hikaru-utada",
+      "predicate": "composedBy",
+      "label": "词曲与演唱",
+      "inverseLabel": "词曲与演唱",
+      "source": {
+        "title": "《新·福音战士剧场版：终》音乐资料",
+        "detail": "电影官网 · 主题歌与曲目",
+        "url": "https://www.evangelion.jp/final_music.html"
+      }
+    },
+    {
+      "from": "editorial:beautiful-world-da-capo",
+      "to": "editorial:hikaru-utada",
+      "predicate": "performedBy",
+      "label": "重新演唱",
+      "inverseLabel": "重新演唱",
+      "source": {
+        "title": "两首主题歌与《One Last Kiss》发行说明",
+        "detail": "电影官网 · 2021.03.08",
+        "url": "https://www.evangelion.jp/news/shin_themesong/"
+      }
+    },
+    {
+      "from": "editorial:one-last-kiss",
+      "to": "editorial:one-last-kiss-ep",
+      "predicate": "inAlbum",
+      "label": "收录于",
+      "inverseLabel": "收录歌曲",
+      "source": {
+        "title": "One Last Kiss",
+        "detail": "宇多田光官网 · 2021.03.09 发行曲目",
+        "url": "https://www.utadahikaru.jp/music/d1mdm-d0p/"
+      }
+    },
+    {
+      "from": "editorial:beautiful-world-da-capo",
+      "to": "editorial:one-last-kiss-ep",
+      "predicate": "inAlbum",
+      "label": "收录于",
+      "inverseLabel": "收录歌曲",
+      "source": {
+        "title": "One Last Kiss",
+        "detail": "宇多田光官网 · 2021.03.09 发行曲目",
+        "url": "https://www.utadahikaru.jp/music/d1mdm-d0p/"
+      }
+    },
+    {
+      "from": "editorial:evangelion-3-0-plus-1-0",
+      "to": "editorial:hideaki-anno",
+      "predicate": "directedBy",
+      "label": "总导演",
+      "inverseLabel": "总导演作品",
+      "source": {
+        "title": "《新·福音战士剧场版：终》制作名单",
+        "detail": "电影官网 · 总导演与制作人员",
+        "url": "https://www.evangelion.jp/final.html"
+      }
+    },
+    {
+      "from": "editorial:merry-christmas-mr-lawrence-theme",
+      "to": "editorial:merry-christmas-mr-lawrence-film",
+      "predicate": "soundtrackOf",
+      "label": "主题音乐来自",
+      "inverseLabel": "主题音乐",
+      "source": {
+        "title": "Merry Christmas Mr. Lawrence 官方钢琴谱",
+        "detail": "坂本龙一官方乐谱商店 · 作曲与电影信息",
+        "url": "https://score-en.sitesakamoto.com/products/merry_christmas_mr_lawrence_piano_solo"
+      }
+    },
+    {
+      "from": "editorial:merry-christmas-mr-lawrence-theme",
+      "to": "editorial:ryuichi-sakamoto",
+      "predicate": "composedBy",
+      "label": "作曲",
+      "inverseLabel": "作曲作品",
+      "source": {
+        "title": "Merry Christmas Mr. Lawrence 官方钢琴谱",
+        "detail": "坂本龙一官方乐谱商店 · 作曲与电影信息",
+        "url": "https://score-en.sitesakamoto.com/products/merry_christmas_mr_lawrence_piano_solo"
+      }
+    },
+    {
+      "from": "editorial:merry-christmas-mr-lawrence-film",
+      "to": "editorial:ryuichi-sakamoto",
+      "predicate": "composedBy",
+      "label": "配乐",
+      "inverseLabel": "电影配乐作品",
+      "source": {
+        "title": "Merry Christmas Mr. Lawrence",
+        "detail": "Janus Films · 电影发行方资料",
+        "url": "https://www.janusfilms.com/films/1750"
+      }
+    },
+    {
+      "from": "editorial:forbidden-colours",
+      "to": "editorial:merry-christmas-mr-lawrence-theme",
+      "predicate": "adaptedFrom",
+      "label": "改编自",
+      "inverseLabel": "人声改编",
+      "source": {
+        "title": "Merry Christmas Mr. Lawrence 原声发行说明",
+        "detail": "Milan Records · 原曲与 Forbidden Colours",
+        "url": "https://www.milanrecords.com/release/merry-christmas-mr-lawrence-original-music/"
+      }
+    },
+    {
+      "from": "editorial:forbidden-colours",
+      "to": "editorial:david-sylvian",
+      "predicate": "performedBy",
+      "label": "演唱",
+      "inverseLabel": "演唱作品",
+      "source": {
+        "title": "Merry Christmas Mr. Lawrence 原声发行说明",
+        "detail": "Milan Records · 原曲与 Forbidden Colours",
+        "url": "https://www.milanrecords.com/release/merry-christmas-mr-lawrence-original-music/"
+      }
+    },
+    {
+      "from": "editorial:forbidden-colours",
+      "to": "editorial:ryuichi-sakamoto",
+      "predicate": "composedBy",
+      "label": "作曲",
+      "inverseLabel": "作曲作品",
+      "source": {
+        "title": "Merry Christmas Mr. Lawrence 原声发行说明",
+        "detail": "Milan Records · 原曲与 Forbidden Colours",
+        "url": "https://www.milanrecords.com/release/merry-christmas-mr-lawrence-original-music/"
+      }
+    },
+    {
+      "from": "editorial:byakkoya-no-musume",
+      "to": "editorial:paprika-film",
+      "predicate": "endingOf",
+      "label": "片尾曲来自",
+      "inverseLabel": "片尾曲",
+      "source": {
+        "title": "《红辣椒》电影原声",
+        "detail": "平泽进官网 · 2006.11.23 发行说明",
+        "url": "https://susumuhirasawa.com/discography/item-42/"
+      }
+    },
+    {
+      "from": "editorial:byakkoya-no-musume",
+      "to": "editorial:byakkoya-song",
+      "predicate": "adaptedFrom",
+      "label": "改编自",
+      "inverseLabel": "电影片尾改编",
+      "source": {
+        "title": "《红辣椒》电影原声",
+        "detail": "平泽进官网 · 2006.11.23 发行说明",
+        "url": "https://susumuhirasawa.com/discography/item-42/"
+      }
+    },
+    {
+      "from": "editorial:byakkoya-no-musume",
+      "to": "editorial:susumu-hirasawa",
+      "predicate": "composedBy",
+      "label": "创作",
+      "inverseLabel": "创作作品",
+      "source": {
+        "title": "《红辣椒》电影原声",
+        "detail": "平泽进官网 · 2006.11.23 发行说明",
+        "url": "https://susumuhirasawa.com/discography/item-42/"
+      }
+    },
+    {
+      "from": "editorial:byakkoya-song",
+      "to": "editorial:susumu-hirasawa",
+      "predicate": "performedBy",
+      "label": "演唱",
+      "inverseLabel": "演唱作品",
+      "source": {
+        "title": "白虎野",
+        "detail": "平泽进官网 · 2006.02.02 发行曲目",
+        "url": "https://susumuhirasawa.com/discography/item-10/"
+      }
+    },
+    {
+      "from": "editorial:paprika-film",
+      "to": "editorial:paprika-novel",
+      "predicate": "adaptedFrom",
+      "label": "原作小说",
+      "inverseLabel": "改编电影",
+      "source": {
+        "title": "《パプリカ》书籍资料",
+        "detail": "新潮社 · 筒井康隆原著",
+        "url": "https://www.shinchosha.co.jp/book/117140/"
+      }
+    },
+    {
+      "from": "editorial:paprika-film",
+      "to": "editorial:satoshi-kon",
+      "predicate": "directedBy",
+      "label": "导演",
+      "inverseLabel": "导演作品",
+      "source": {
+        "title": "《红辣椒》作品资料",
+        "detail": "Sony Pictures · 2026.06.01 · 含原始制作名单",
+        "url": "https://www.sonypictures.jp/corp/press/2026-06-01"
+      }
+    },
+    {
+      "from": "editorial:paprika-film",
+      "to": "editorial:susumu-hirasawa",
+      "predicate": "composedBy",
+      "label": "配乐",
+      "inverseLabel": "电影配乐作品",
+      "source": {
+        "title": "《红辣椒》电影原声",
+        "detail": "平泽进官网 · 2006.11.23 发行说明",
+        "url": "https://susumuhirasawa.com/discography/item-42/"
+      }
+    },
+    {
+      "from": "editorial:paprika-novel",
+      "to": "editorial:yasutaka-tsutsui",
+      "predicate": "authoredBy",
+      "label": "作者",
+      "inverseLabel": "小说作品",
+      "source": {
+        "title": "《パプリカ》书籍资料",
+        "detail": "新潮社 · 筒井康隆原著",
+        "url": "https://www.shinchosha.co.jp/book/117140/"
+      }
+    },
+    {
+      "from": "editorial:one-last-kiss-mv",
+      "to": "editorial:one-last-kiss",
+      "predicate": "musicVideoOf",
+      "label": "歌曲",
+      "inverseLabel": "官方 MV",
+      "source": {
+        "title": "宇多田ヒカル『One Last Kiss』 · 官方 MV 描述",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://www.youtube.com/watch?v=0Uhh62MUEic"
+      }
+    },
+    {
+      "from": "editorial:one-last-kiss-mv",
+      "to": "editorial:hideaki-anno",
+      "predicate": "directedBy",
+      "label": "导演",
+      "inverseLabel": "导演作品",
+      "source": {
+        "title": "宇多田ヒカル『One Last Kiss』 · 官方 MV 描述",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://www.youtube.com/watch?v=0Uhh62MUEic"
+      }
+    },
+    {
+      "from": "editorial:one-last-kiss-mv",
+      "to": "editorial:hikaru-utada",
+      "predicate": "performedBy",
+      "label": "演唱",
+      "inverseLabel": "音乐视频",
+      "source": {
+        "title": "宇多田ヒカル『One Last Kiss』 · 官方 MV 描述",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://www.youtube.com/watch?v=0Uhh62MUEic"
+      }
+    },
+    {
+      "from": "editorial:rotation-lotus-2",
+      "to": "editorial:millennium-actress",
+      "predicate": "endingOf",
+      "label": "片尾曲来自",
+      "inverseLabel": "片尾曲",
+      "source": {
+        "title": "「千年女優」オリジナルサウンドトラック",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://susumuhirasawa.com/%E2%98%85%E6%96%B0%E8%AD%9C%E3%83%BB%E6%A5%BD%E6%9B%B2%E9%85%8D%E4%BF%A1%E7%AD%89/%E3%80%8C%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA%E3%80%8D%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cd-extramillennium-actress/"
+      }
+    },
+    {
+      "from": "editorial:millennium-actress",
+      "to": "editorial:satoshi-kon",
+      "predicate": "directedBy",
+      "label": "导演",
+      "inverseLabel": "导演作品",
+      "source": {
+        "title": "2002年3月 国内の雑誌から「千年女優」に関するインタビュー",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://konstone.s-kon.net/modules/interview/index.php?content_id=15"
+      }
+    },
+    {
+      "from": "editorial:millennium-actress",
+      "to": "editorial:susumu-hirasawa",
+      "predicate": "composedBy",
+      "label": "配乐",
+      "inverseLabel": "电影配乐作品",
+      "source": {
+        "title": "「千年女優」オリジナルサウンドトラック",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://susumuhirasawa.com/%E2%98%85%E6%96%B0%E8%AD%9C%E3%83%BB%E6%A5%BD%E6%9B%B2%E9%85%8D%E4%BF%A1%E7%AD%89/%E3%80%8C%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA%E3%80%8D%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cd-extramillennium-actress/"
+      }
+    },
+    {
+      "from": "editorial:rotation-lotus-2",
+      "to": "editorial:lotus-sim-city",
+      "predicate": "commissionReference",
+      "label": "导演委约时的参考曲",
+      "inverseLabel": "以此为参考委约",
+      "source": {
+        "title": "会場に流れていた音楽",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://konstone.s-kon.net/modules/notebook/archives/162"
+      }
+    },
+    {
+      "from": "editorial:lotus-sim-city",
+      "to": "editorial:susumu-hirasawa",
+      "predicate": "performedBy",
+      "label": "演唱",
+      "inverseLabel": "作品",
+      "source": {
+        "title": "2002年3月 国内の雑誌から「千年女優」に関するインタビュー",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://konstone.s-kon.net/modules/interview/index.php?content_id=15"
+      }
+    },
+    {
+      "from": "editorial:rotation-lotus-2",
+      "to": "editorial:susumu-hirasawa",
+      "predicate": "performedBy",
+      "label": "演唱",
+      "inverseLabel": "作品",
+      "source": {
+        "title": "2002年3月 国内の雑誌から「千年女優」に関するインタビュー",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://konstone.s-kon.net/modules/interview/index.php?content_id=15"
+      }
+    },
+    {
+      "from": "editorial:merry-christmas-mr-lawrence-film",
+      "to": "editorial:nagisa-oshima",
+      "predicate": "directedBy",
+      "label": "导演",
+      "inverseLabel": "导演作品",
+      "source": {
+        "title": "Merry Christmas Mr. Lawrence · Official score store",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://score-en.sitesakamoto.com/products/merry_christmas_mr_lawrence_piano_solo"
+      }
+    },
+    {
+      "from": "editorial:jane-doe-mv",
+      "to": "jane",
+      "predicate": "musicVideoOf",
+      "label": "原曲",
+      "inverseLabel": "官方 MV",
+      "source": {
+        "title": "JANE DOE · 官方 MV",
+        "detail": "Kenshi Yonezu · 米津玄师官方频道",
+        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "editorial:story-sakamoto-asked-to-score",
+      "workID": "editorial:merry-christmas-mr-lawrence-theme",
+      "title": "音乐也让我来写吧",
+      "body": "大岛渚最初找坂本龙一，是请他演《圣诞快乐，劳伦斯先生》。坂本本来已经想答应，临开口却加了一句：音乐也让我来写吧。大岛渚立刻同意。他后来回忆，自己当时对演戏和电影配乐都没有经验。熟悉的这段旋律，就从这次临时起意开始了。",
+      "entityLinks": {
+        "大岛渚": "editorial:nagisa-oshima",
+        "坂本龙一": "editorial:ryuichi-sakamoto",
+        "圣诞快乐，劳伦斯先生": "editorial:merry-christmas-mr-lawrence-film"
+      },
+      "source": {
+        "title": "Alva Noto and Ryuichi Sakamoto · New York 2013",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://www.redbullmusicacademy.com/lectures/alva-noto-ryuichi-sakamoto/"
+      },
+      "additionalSources": [
+        {
+          "title": "Ryuichi Sakamoto Interview · Nolan Gasser",
+          "detail": "原始访谈 / 官方资料",
+          "url": "https://www.classicalarchives.com/feature/sakamoto_interview2.html"
+        },
+        {
+          "title": "Merry Christmas Mr. Lawrence · Official score store",
+          "detail": "原始访谈 / 官方资料",
+          "url": "https://score-en.sitesakamoto.com/products/merry_christmas_mr_lawrence_piano_solo"
+        }
+      ]
+    },
+    {
+      "id": "editorial:story-one-last-kiss-next-song",
+      "workID": "editorial:one-last-kiss",
+      "title": "接着响起的《Beautiful World》",
+      "body": "庵野秀明想让《Beautiful World》接在《One Last Kiss》后面。宇多田光为此从头重做了 Da Capo 版，两首在电影片尾连成一段。这也是她第一次重新演唱自己的旧作。",
+      "entityLinks": {
+        "庵野秀明": "editorial:hideaki-anno",
+        "Beautiful World": "editorial:beautiful-world-da-capo",
+        "One Last Kiss": "editorial:one-last-kiss",
+        "宇多田光": "editorial:hikaru-utada"
+      },
+      "source": {
+        "title": "两首主题歌与《One Last Kiss》发行说明",
+        "detail": "电影官网 · 2021.03.08",
+        "url": "https://www.evangelion.jp/news/shin_themesong/"
+      }
+    },
+    {
+      "id": "editorial:story-lawrence-vocal-version",
+      "workID": "editorial:merry-christmas-mr-lawrence-theme",
+      "title": "这段旋律也有人声版",
+      "body": "《圣诞快乐，劳伦斯先生》的主题也有人声版：《Forbidden Colours》。David Sylvian 负责演唱，坂本龙一的原主题被改编成了一首歌。两首都收在电影原声里，可以接着听。",
+      "entityLinks": {
+        "圣诞快乐，劳伦斯先生": "editorial:merry-christmas-mr-lawrence-film",
+        "Forbidden Colours": "editorial:forbidden-colours",
+        "David Sylvian": "editorial:david-sylvian",
+        "坂本龙一": "editorial:ryuichi-sakamoto"
+      },
+      "source": {
+        "title": "Merry Christmas Mr. Lawrence 原声发行说明",
+        "detail": "Milan Records · 原曲与 Forbidden Colours",
+        "url": "https://www.milanrecords.com/release/merry-christmas-mr-lawrence-original-music/"
+      }
+    },
+    {
+      "id": "editorial:story-lawrence-composer-on-screen",
+      "workID": "editorial:merry-christmas-mr-lawrence-film",
+      "title": "音乐也让我来写吧",
+      "body": "大岛渚最初找坂本龙一，是请他演《圣诞快乐，劳伦斯先生》。坂本本来已经想答应，临开口却加了一句：音乐也让我来写吧。大岛渚立刻同意。他后来回忆，自己当时对演戏和电影配乐都没有经验。熟悉的这段旋律，就从这次临时起意开始了。",
+      "entityLinks": {
+        "大岛渚": "editorial:nagisa-oshima",
+        "坂本龙一": "editorial:ryuichi-sakamoto",
+        "圣诞快乐，劳伦斯先生": "editorial:merry-christmas-mr-lawrence-film"
+      },
+      "source": {
+        "title": "Alva Noto and Ryuichi Sakamoto · New York 2013",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://www.redbullmusicacademy.com/lectures/alva-noto-ryuichi-sakamoto/"
+      },
+      "additionalSources": [
+        {
+          "title": "Ryuichi Sakamoto Interview · Nolan Gasser",
+          "detail": "原始访谈 / 官方资料",
+          "url": "https://www.classicalarchives.com/feature/sakamoto_interview2.html"
+        },
+        {
+          "title": "Merry Christmas Mr. Lawrence · Official score store",
+          "detail": "原始访谈 / 官方资料",
+          "url": "https://score-en.sitesakamoto.com/products/merry_christmas_mr_lawrence_piano_solo"
+        }
+      ]
+    },
+    {
+      "id": "editorial:story-byakkoya-original",
+      "workID": "editorial:byakkoya-no-musume",
+      "title": "《白虎野》进入电影之后",
+      "body": "《白虎野の娘》是平泽进为《红辣椒》改编的片尾曲，原曲叫《白虎野》，出自他同年的个人专辑。听完电影里的版本，可以回到原曲，比较两首怎样展开同一段旋律。",
+      "entityLinks": {
+        "白虎野の娘": "editorial:byakkoya-no-musume",
+        "平泽进": "editorial:susumu-hirasawa",
+        "红辣椒": "editorial:paprika-film",
+        "《白虎野》": "editorial:byakkoya-song"
+      },
+      "source": {
+        "title": "《红辣椒》电影原声",
+        "detail": "平泽进官网 · 2006.11.23 发行说明",
+        "url": "https://susumuhirasawa.com/discography/item-42/"
+      }
+    },
+    {
+      "id": "editorial:story-paprika-two-voices",
+      "workID": "editorial:paprika-film",
+      "title": "作者和导演都去配音了",
+      "body": "《红辣椒》原作者筒井康隆和导演今敏，都在电影里的 Radio Club 酒吧献了声：筒井配服务生玖珂，今敏配酒保阵内。这件事，筒井后来还在谈《红辣椒》时专门提起。",
+      "entityLinks": {
+        "红辣椒": "editorial:paprika-film",
+        "原作者": "editorial:paprika-novel",
+        "筒井康隆": "editorial:yasutaka-tsutsui",
+        "今敏": "editorial:satoshi-kon"
+      },
+      "source": {
+        "title": "筒井康隆：关于《红辣椒》",
+        "detail": "新潮社《波》· 2026 年 7 月号 · 作者自述",
+        "url": "https://ebook.shinchosha.co.jp/nami/202607_01/"
+      }
+    },
+    {
+      "id": "editorial:story-one-last-kiss-remote-mv",
+      "workID": "editorial:one-last-kiss",
+      "title": "这支 MV，导演没到场",
+      "body": "庵野秀明执导《One Last Kiss》的 MV，却没有到伦敦拍摄现场。疫情期间，他只发邮件提出看镜头、对口型等要求。宇多田光带少量工作人员在伦敦郊外拍，再把包括手机画面在内的素材交给日本的庵野团队剪辑。",
+      "entityLinks": {
+        "庵野秀明": "editorial:hideaki-anno",
+        "One Last Kiss": "editorial:one-last-kiss",
+        "MV": "editorial:one-last-kiss-mv",
+        "宇多田光": "editorial:hikaru-utada"
+      },
+      "source": {
+        "title": "宇多田ヒカル『One Last Kiss』 · 官方 MV 描述",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://www.youtube.com/watch?v=0Uhh62MUEic"
+      },
+      "additionalSources": []
+    },
+    {
+      "id": "editorial:story-kon-lotus-reference",
+      "workID": "editorial:susumu-hirasawa",
+      "title": "今敏原本想在片尾放这首歌",
+      "body": "今敏写《千年女优》时，脑中已经有了片尾响起《Lotus》的画面。那首歌最后没能用上，平泽进另写了《ロタティオン（LOTUS-2）》。今敏还特地把两首排在同一份歌单里，说明前一首是他提出配乐要求时的参考。",
+      "entityLinks": {
+        "今敏": "editorial:satoshi-kon",
+        "千年女优": "editorial:millennium-actress",
+        "Lotus": "editorial:lotus-sim-city",
+        "平泽进": "editorial:susumu-hirasawa",
+        "ロタティオン（LOTUS-2）": "editorial:rotation-lotus-2"
+      },
+      "source": {
+        "title": "2002年3月 国内の雑誌から「千年女優」に関するインタビュー",
+        "detail": "原始访谈 / 官方资料",
+        "url": "https://konstone.s-kon.net/modules/interview/index.php?content_id=15"
+      },
+      "additionalSources": [
+        {
+          "title": "会場に流れていた音楽",
+          "detail": "原始访谈 / 官方资料",
+          "url": "https://konstone.s-kon.net/modules/notebook/archives/162"
+        },
+        {
+          "title": "「千年女優」オリジナルサウンドトラック",
+          "detail": "原始访谈 / 官方资料",
+          "url": "https://susumuhirasawa.com/%E2%98%85%E6%96%B0%E8%AD%9C%E3%83%BB%E6%A5%BD%E6%9B%B2%E9%85%8D%E4%BF%A1%E7%AD%89/%E3%80%8C%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA%E3%80%8D%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cd-extramillennium-actress/"
+        }
+      ]
+    }
+  ],
+  "entryPoints": [
+    "editorial:one-last-kiss",
+    "editorial:merry-christmas-mr-lawrence-theme",
+    "editorial:byakkoya-no-musume"
+  ]
+}

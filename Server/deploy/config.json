@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "dailySongs": 150,
+  "dailyCostCNY": 15,
+  "model": "deepseek-flash",
+  "maxTokens": 4000,
+  "chatPerRun": 10,
+  "searchPerRun": 12,
+  "fetchPerRun": 6,
+  "runsPerCharge": 3,
+  "chargeMinutes": 15,
+  "cacheDays": 7,
+  "devicesPerPass": 3,
+  "redeemPerIPHourly": 12,
+  "app": {
+    "homepage": "https://fanwai.xyz",
+    "defaultModels": { "deepseek": "deepseek-flash" },
+    "notice": null
+  }
+}

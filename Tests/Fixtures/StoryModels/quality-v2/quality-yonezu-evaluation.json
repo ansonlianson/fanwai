@@ -1,0 +1,411 @@
+{
+  "calls" : [
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"facts\":[{\"id\":\"f1\",\"text\":\"米津玄师的KICK BACK封面插画由他本人绘制。\",\"people\":[\"米津玄师\"],\"time\":\"\",\"numbers\":[],\"quote\":\"Jacket 作画　　　　米津玄師\",\"quote_zh\":\"封面作画 米津玄师\",\"source_index\":11,\"contrast\":0,\"links\":1,\"linked_nodes\":[\"KICK BACK\"]},{\"id\":\"f2\",\"text\":\"KICK BACK的作词、作曲、编曲均为米津玄师，编曲另有常田大希参与。\",\"people\":[\"米津玄师\",\"常田大希\"],\"time\":\"\",\"numbers\":[],\"quote\":\"Music 作詞・作曲　米津玄師 編曲　　　　米津玄師　常田大希 (King Gnu \\\\ millennium parade)\",\"quote_zh\":\"Music 作词·作曲 米津玄师 编曲 米津玄师 常田大希 (King Gnu / millennium parade)\",\"source_index\":12,\"contrast\":0,\"links\":1,\"linked_nodes\":[\"KICK BACK\"]},{\"id\":\"f3\",\"text\":\"KICK BACK中包含由つんく作词作曲的“そうだ！We’re ALIVE”的采样。\",\"people\":[\"つんく\"],\"time\":\"2002\",\"numbers\":[],\"quote\":\"Contains a sample of “そうだ！We’re ALIVE” 作詞・作曲 つんく (C)2002 by UP FRONT MUSIC INC. \\\\ TV TOKYO Music, Inc.\",\"quote_zh\":\"包含“そうだ！We’re ALIVE”的采样，作词·作曲 つんく (C)2002 by UP FRONT MUSIC INC. / TV TOKYO Music, Inc.\",\"source_index\":12,\"contrast\":1,\"links\":1,\"linked_nodes\":[\"KICK BACK\"]},{\"id\":\"f4\",\"text\":\"米津玄师的生日是1991年3月10日。\",\"people\":[\"米津玄师\"],\"time\":\"1991-03-10\",\"numbers\":[\"1991-03-10\"],\"quote\":\"P569 = +1991-03-10T00:00:00Z；precision = 11；calendarmodel = http://www.wikidata.org/entity/Q1985727\",\"quote_zh\":\"P569 = +1991-03-10T00:00:00Z；精度 = 11\",\"source_index\":22,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f5\",\"text\":\"米津玄师作为歌手、词曲作者出道前，曾以ハチ名义在ニコニコ動画发布原创曲，其中「マトリョシカ」「パンダヒーロー」大获成功。\",\"people\":[\"米津玄师\"],\"time\":\"2009\",\"numbers\":[\"2009\"],\"quote\":\"2009年前後より、ボカロP・ハチとしてインターネットを中心に活動し、「マトリョシカ」や「パンダヒーロー」で大ヒットを記録している。\",\"quote_zh\":\"2009年前后起，以Vocaloid制作人ハチ的身份主要在网络上活动，「マトリョシカ」和「パンダヒーロー」创下大热记录。\",\"source_index\":24,\"contrast\":1,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f6\",\"text\":\"米津玄师在ハチ时期曾用「ミナソコ」这一名义活动。\",\"people\":[\"米津玄师\"],\"time\":\"\",\"numbers\":[],\"quote\":\"また、ハチとしての活動の前には「ミナソコ」という名義で活動を行っていた[28]。\",\"quote_zh\":\"另外，在以ハチ名义活动之前，曾以「ミナソコ」的名义进行活动。\",\"source_index\":25,\"contrast\":1,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f7\",\"text\":\"米津玄师以ハチ名义在ニコニコ動画发表了约30首本人演唱的原创曲，之后又将它们全部删除。\",\"people\":[\"米津玄师\"],\"time\":\"\",\"numbers\":[\"30\"],\"quote\":\"パソコンの新調を機にDTMを始め、ハチという名義で約30曲程度の本人歌唱のオリジナル曲をニコニコ動画などにて発表したが、しばらくしてすべて削除している。\",\"quote_zh\":\"借更换电脑之机开始DTM创作，以ハチ的名义在ニコニコ動画等处发表了约30首本人演唱的原创曲，但不久后将其全部删除。\",\"source_index\":25,\"contrast\":1,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f8\",\"text\":\"米津玄师2011年7月2日赴美国洛杉矶参加初音ミク的演唱会『MIKUNOPOLIS in Los Angeles』相关活动，次日以ハチ名义在艾动漫博览会（Anime Expo）的周边摊位与人合影签名。\",\"people\":[\"米津玄师\",\"wowaka\"],\"time\":\"2011-07-02\",\"numbers\":[\"2011-07-02\",\"3\"],\"quote\":\"2011年7月2日にアメリカ合衆国ロサンゼルスのノキアシアターで開催された、初音ミクのライブコンサート『MIKUNOPOLIS in Los Angeles』の関連イベントにボーカロイドクリエイターとして参加するために渡米した[33]。\",\"quote_zh\":\"2011年7月2日，为了以Vocaloid创作者身份参加在美国洛杉矶诺基亚剧院举办的初音ミク演唱会『MIKUNOPOLIS in Los Angeles』的相关活动，前往美国。\",\"source_index\":26,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f9\",\"text\":\"米津玄师2023年7月2日在神奈川·横滨体育馆举行全国巡演『米津玄師 2023 TOUR / 空想』的最终场。\",\"people\":[\"米津玄师\"],\"time\":\"2023-07-02\",\"numbers\":[\"2023-07-02\"],\"quote\":\"米津玄師が7月2日に神奈川・横浜アリーナで全国ツアー『米津玄師 2023 TOUR \\\\ 空想』のツアーファイナルを迎えた。\",\"quote_zh\":\"米津玄师于7月2日在神奈川·横滨体育馆迎来全国巡演『米津玄師 2023 TOUR / 空想』的巡演最终场。\",\"source_index\":14,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f10\",\"text\":\"『米津玄師 2023 TOUR / 空想』自4月22日在兵库·神户世界纪念厅首演起，在全国11个会场共举办24场演出，动员观众21万人。\",\"people\":[\"米津玄师\"],\"time\":\"2023-04-22\",\"numbers\":[\"4月22日\",\"11\",\"24\",\"21万\"],\"quote\":\"『米津玄師 2023 TOUR \\\\ 空想』は、4月22日の兵庫・神戸ワールド記念ホール公演を皮切りに、全国11の会場で全24公演を開催。本ツアーで米津は、21万人を動員した。\",\"quote_zh\":\"『米津玄師 2023 TOUR / 空想』以4月22日在兵库·神户世界纪念厅的公演为首，在全国11个会场共举办24场公演。本次巡演米津动员了21万人。\",\"source_index\":15,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f11\",\"text\":\"在『米津玄師 2023 TOUR / 空想』最终场演出中，米津玄师演唱了他以米津玄师名义发表的第一首歌曲「街」。\",\"people\":[\"米津玄师\"],\"time\":\"2023-07-02\",\"numbers\":[],\"quote\":\"続く曲は1stアルバム『diorama』の1曲目「街」。イントロから会場内に驚きの歓声があがり、天井からLEDによる白のキャンバスが下降、メンバーの頭上に着地した。\",\"quote_zh\":\"接下来的曲目是1st专辑『diorama』的第1首「街」。从开头起会场内便响起惊讶的欢呼，从天花板降下由LED构成的白色幕布，落在乐队成员头顶上。\",\"source_index\":17,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f12\",\"text\":\"在2023年巡演最终场的安可环节，米津玄师用一首未发表的新曲重新开始演出。\",\"people\":[\"米津玄师\"],\"time\":\"2023-07-02\",\"numbers\":[],\"quote\":\"アンコールの大きな拍手が巻き起こるなか、客席では多くのファンが『米津玄師 2020 TOUR \\\\ HYPE』のグッズであったタオルを掲げ、その蛍光オレンジ色が、青色の照明を反射して美しく浮かび上がる。米津は未発表の新曲でライブを再開させた。\",\"quote_zh\":\"在安可环节的热烈掌声中，观众席上许多粉丝举起了『米津玄師 2020 TOUR / HYPE』的周边毛巾，荧光橙色反射着蓝色灯光，美丽地浮现出来。米津用一首未发表的新曲重新开始了演出。\",\"source_index\":18,\"contrast\":1,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f13\",\"text\":\"米津玄师在2020年2月1日启动了自己第二次体育馆巡演『米津玄師 2020 TOUR / HYPE』，因新冠疫情，2月27日之后的公演被宣布延期及取消。\",\"people\":[\"米津玄师\"],\"time\":\"2020-02-01\",\"numbers\":[\"2020-02-01\",\"2\",\"27\"],\"quote\":\"2月1日より、自身2度目となるアリーナツアー「米津玄師 2020 TOUR \\\\ HYPE」をスタートしたが、新型コロナウイルスの感染拡大により、2月27日以降の公演の延期、および中止が発表された[86]。\",\"quote_zh\":\"自2月1日起，自身第二次体育馆巡演「米津玄師 2020 TOUR / HYPE」开跑，但因新冠病毒疫情扩大，2月27日之后的公演被宣布延期及取消。\",\"source_index\":31,\"contrast\":1,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f14\",\"text\":\"2015年4月1日至28日，米津玄师在全7个会场举办了10场巡演「米津玄師 2015 TOUR / 花ゆり落ちる」。\",\"people\":[\"米津玄师\"],\"time\":\"2015-04-01\",\"numbers\":[\"4月1日\",\"28日\",\"7\",\"10\"],\"quote\":\"4月1日から28日にかけて、全7会場10公演のワンマンツアー「米津玄師 2015 TOUR \\\\ 花ゆり落ちる」を開催[46]。\",\"quote_zh\":\"从4月1日到28日，在全7个会场共10场公演的个人巡演「米津玄師 2015 TOUR / 花ゆり落ちる」举办。\",\"source_index\":28,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f15\",\"text\":\"米津玄师2014年6月曾举办一夜限定的个人演唱会「米津玄師 Premium Live \\\"帰りの会\\\"」。\",\"people\":[\"米津玄师\"],\"time\":\"2014-06\",\"numbers\":[\"6月\"],\"quote\":\"本アルバムのリリースを記念するワンマンライブ「米津玄師 Premium Live \\\"帰りの会\\\"」が企画され、6月に一夜限りで開催された。\",\"quote_zh\":\"为纪念本专辑发售而策划的个人演唱会「米津玄師 Premium Live \\\"帰りの会\\\"」于6月一夜限定举办。\",\"source_index\":27,\"contrast\":1,\"links\":0,\"linked_nodes\":[]}]",
+        "usage" : {
+          "cachedInputTokens" : 0,
+          "inputTokens" : 7886,
+          "outputTokens" : 2866,
+          "reasoningTokens" : 0,
+          "totalTokens" : 10752
+        }
+      },
+      "stage" : "extract"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"《KICK BACK》的封面插画是米津玄师画的\",\"body\":\"《KICK BACK》的封面上，作画一栏写的是米津玄师。他本人给这首歌画了封面插画。\",\"fact_ids\":[\"f1\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 1024,
+          "inputTokens" : 3298,
+          "outputTokens" : 63,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3361
+        }
+      },
+      "stage" : "write"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"KICK BACK 封面，是米津玄师自己画的\",\"body\":\"《KICK BACK》的封面插画一栏写着「Jacket 作画　米津玄師」。这张图出自米津玄师本人之手。\",\"fact_ids\":[\"f1\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 1024,
+          "inputTokens" : 3312,
+          "outputTokens" : 68,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3380
+        }
+      },
+      "stage" : "rewrite"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[]}",
+        "usage" : {
+          "cachedInputTokens" : 1024,
+          "inputTokens" : 3364,
+          "outputTokens" : 5,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3369
+        }
+      },
+      "stage" : "write"
+    }
+  ],
+  "candidates" : [
+    {
+      "deterministicIssues" : [
+        {
+          "detail" : "所引事实及实体信息没有数字 一",
+          "rule" : "number",
+          "token" : "一"
+        }
+      ],
+      "factIDs" : [
+        "f1"
+      ],
+      "rewritten" : false,
+      "story" : {
+        "body" : "《KICK BACK》的封面上，作画一栏写的是米津玄师。他本人给这首歌画了封面插画。",
+        "entityID" : "yonezu",
+        "entityLinks" : {
+
+        },
+        "id" : "model-yonezu-1",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "",
+          "title" : "「KICK BACK」配信リリース | 米津玄師 official site「REISSUE RECORDS」",
+          "url" : "https://reissuerecords.net/2022/10/12/kick-back-haishinrelease/"
+        },
+        "title" : "《KICK BACK》的封面插画是米津玄师画的"
+      },
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "deterministicIssues" : [
+        {
+          "detail" : "所引事实及实体信息没有数字 一",
+          "rule" : "number",
+          "token" : "一"
+        },
+        {
+          "detail" : "名称或引文未逐字见于名称表及所引事实：Jacket 作画　米津玄師",
+          "rule" : "name",
+          "token" : "Jacket 作画　米津玄師"
+        }
+      ],
+      "factIDs" : [
+        "f1"
+      ],
+      "rewritten" : true,
+      "story" : {
+        "body" : "《KICK BACK》的封面插画一栏写着「Jacket 作画　米津玄師」。这张图出自米津玄师本人之手。",
+        "entityID" : "yonezu",
+        "entityLinks" : {
+
+        },
+        "id" : "model-yonezu-2",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "",
+          "title" : "「KICK BACK」配信リリース | 米津玄師 official site「REISSUE RECORDS」",
+          "url" : "https://reissuerecords.net/2022/10/12/kick-back-haishinrelease/"
+        },
+        "title" : "KICK BACK 封面，是米津玄师自己画的"
+      },
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    }
+  ],
+  "entityID" : "yonezu",
+  "facts" : [
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://reissuerecords.net/2022/10/12/kick-back-haishinrelease/#段落 4",
+          "location" : "段落 4",
+          "quote" : "Jacket 作画　　　　米津玄師"
+        }
+      },
+      "id" : "f1",
+      "linkedEntityIDs" : [
+        "KICK BACK"
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "",
+        "title" : "「KICK BACK」配信リリース | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/2022/10/12/kick-back-haishinrelease/"
+      },
+      "statements" : [
+        "米津玄师的KICK BACK封面插画由他本人绘制。"
+      ],
+      "text" : "米津玄师的KICK BACK封面插画由他本人绘制。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://www.wikidata.org/wiki/Q11604296#P569#Q11604296 · P569 · Q11604296$84E2293C-98C1-4AB8-B2A8-0C81D7634644",
+          "location" : "Q11604296 · P569 · Q11604296$84E2293C-98C1-4AB8-B2A8-0C81D7634644",
+          "quote" : "P569 = +1991-03-10T00:00:00Z；precision = 11；calendarmodel = http://www.wikidata.org/entity/Q1985727"
+        }
+      },
+      "id" : "f4",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "社区维护的结构化资料",
+        "title" : "Wikidata · 米津玄師",
+        "url" : "https://www.wikidata.org/wiki/Q11604296#P569"
+      },
+      "statements" : [
+        "米津玄师的生日是1991年3月10日。"
+      ],
+      "text" : "米津玄师的生日是1991年3月10日。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 概要 · 段落 3",
+          "location" : "ja · 米津玄師 · 概要 · 段落 3",
+          "quote" : "2009年前後より、ボカロP・ハチとしてインターネットを中心に活動し、「マトリョシカ」や「パンダヒーロー」で大ヒットを記録している。"
+        }
+      },
+      "id" : "f5",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "statements" : [
+        "米津玄师作为歌手、词曲作者出道前，曾以ハチ名义在ニコニコ動画发布原创曲，其中「マトリョシカ」「パンダヒーロー」大获成功。"
+      ],
+      "text" : "米津玄师作为歌手、词曲作者出道前，曾以ハチ名义在ニコニコ動画发布原创曲，其中「マトリョシカ」「パンダヒーロー」大获成功。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 12",
+          "location" : "ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 12",
+          "quote" : "また、ハチとしての活動の前には「ミナソコ」という名義で活動を行っていた[28]。"
+        }
+      },
+      "id" : "f6",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "statements" : [
+        "米津玄师在ハチ时期曾用「ミナソコ」这一名义活动。"
+      ],
+      "text" : "米津玄师在ハチ时期曾用「ミナソコ」这一名义活动。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 12",
+          "location" : "ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 12",
+          "quote" : "パソコンの新調を機にDTMを始め、ハチという名義で約30曲程度の本人歌唱のオリジナル曲をニコニコ動画などにて発表したが、しばらくしてすべて削除している。"
+        }
+      },
+      "id" : "f7",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "statements" : [
+        "米津玄师以ハチ名义在ニコニコ動画发表了约30首本人演唱的原创曲，之后又将它们全部删除。"
+      ],
+      "text" : "米津玄师以ハチ名义在ニコニコ動画发表了约30首本人演唱的原创曲，之后又将它们全部删除。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 15",
+          "location" : "ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 15",
+          "quote" : "2011年7月2日にアメリカ合衆国ロサンゼルスのノキアシアターで開催された、初音ミクのライブコンサート『MIKUNOPOLIS in Los Angeles』の関連イベントにボーカロイドクリエイターとして参加するために渡米した[33]。"
+        }
+      },
+      "id" : "f8",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+        "wowaka"
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "statements" : [
+        "米津玄师2011年7月2日赴美国洛杉矶参加初音ミク的演唱会『MIKUNOPOLIS in Los Angeles』相关活动，次日以ハチ名义在艾动漫博览会（Anime Expo）的周边摊位与人合影签名。"
+      ],
+      "text" : "米津玄师2011年7月2日赴美国洛杉矶参加初音ミク的演唱会『MIKUNOPOLIS in Los Angeles』相关活动，次日以ハチ名义在艾动漫博览会（Anime Expo）的周边摊位与人合影签名。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://www.thefirsttimes.jp/report/0000299947/#段落 10",
+          "location" : "段落 10",
+          "quote" : "続く曲は1stアルバム『diorama』の1曲目「街」。イントロから会場内に驚きの歓声があがり、天井からLEDによる白のキャンバスが下降、メンバーの頭上に着地した。"
+        }
+      },
+      "id" : "f11",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "",
+        "title" : "米津玄師『米津玄師 2023 TOUR / 空想』ファイナル公演のライブレポート到着 – THE FIRST TIMES",
+        "url" : "https://www.thefirsttimes.jp/report/0000299947/"
+      },
+      "statements" : [
+        "在『米津玄師 2023 TOUR / 空想』最终场演出中，米津玄师演唱了他以米津玄师名义发表的第一首歌曲「街」。"
+      ],
+      "text" : "在『米津玄師 2023 TOUR / 空想』最终场演出中，米津玄师演唱了他以米津玄师名义发表的第一首歌曲「街」。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2014年 · 段落 23",
+          "location" : "ja · 米津玄師 · 2014年 · 段落 23",
+          "quote" : "本アルバムのリリースを記念するワンマンライブ「米津玄師 Premium Live \"帰りの会\"」が企画され、6月に一夜限りで開催された。"
+        }
+      },
+      "id" : "f15",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "statements" : [
+        "米津玄师2014年6月曾举办一夜限定的个人演唱会「米津玄師 Premium Live \"帰りの会\"」。"
+      ],
+      "text" : "米津玄师2014年6月曾举办一夜限定的个人演唱会「米津玄師 Premium Live \"帰りの会\"」。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://www.wikidata.org/wiki/Q11604296#P569#Q11604296 · P569 · Q11604296$84E2293C-98C1-4AB8-B2A8-0C81D7634644",
+          "location" : "Q11604296 · P569 · Q11604296$84E2293C-98C1-4AB8-B2A8-0C81D7634644",
+          "quote" : "P569 = +1991-03-10T00:00:00Z；precision = 11；calendarmodel = http://www.wikidata.org/entity/Q1985727"
+        }
+      },
+      "id" : "https://www.wikidata.org/wiki/Q11604296#P569#Q11604296 · P569 · Q11604296$84E2293C-98C1-4AB8-B2A8-0C81D7634644",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "社区维护的结构化资料",
+        "title" : "Wikidata · 米津玄師",
+        "url" : "https://www.wikidata.org/wiki/Q11604296#P569"
+      },
+      "statements" : [
+        "米津玄師的出生日期是1991-03-10。"
+      ],
+      "text" : "米津玄師的出生日期是1991-03-10。"
+    }
+  ],
+  "sentences" : [
+
+  ],
+  "skippedMaterials" : [
+    "https://reissuerecords.net/profile/#段落 14：归属 kickback",
+    "https://reissuerecords.net/profile/#段落 15：归属 kickback",
+    "https://reissuerecords.net/profile/#段落 17：归属 kickback",
+    "https://reissuerecords.net/2022/10/12/kick-back-haishinrelease/#段落 1：归属 kickback",
+    "https://reissuerecords.net/2022/10/12/kick-back-haishinrelease/#段落 2：归属 kickback",
+    "https://reissuerecords.net/2022/10/12/kick-back-haishinrelease/#段落 7：归属 kickback",
+    "https://www.thefirsttimes.jp/report/0000299947/#段落 22：归属 kickback",
+    "https://www.thefirsttimes.jp/report/0000299947/#段落 48：归属 kickback",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 概要 · 段落 7：归属 kickback",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 概要 · 段落 8：归属 iris",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2022年 · 段落 60：归属 kickback",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2022年 · 段落 62：归属 kickback",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 86：归属 iris",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 87：该段已有故事",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 89：归属 iris",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 90：归属 kickback",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 91：归属 iris",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 93：归属 iris",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 94：归属 iris",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2026年 · 段落 95：归属 iris",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2026年 · 段落 98：归属 iris",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 16：归属 kickback",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 17：归属 iris",
+    "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · 导语 · 段落 3：归属 kickback",
+    "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · Major label debut · 段落 11：归属 kickback",
+    "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · Major label debut · 段落 14：归属 iris"
+  ],
+  "stories" : [
+
+  ]
+}

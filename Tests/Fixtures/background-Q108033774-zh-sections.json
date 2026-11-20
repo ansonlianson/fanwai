@@ -1,0 +1,194 @@
+{
+  "warnings": {
+    "main": {
+      "warnings": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+    },
+    "parse": {
+      "warnings": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+    }
+  },
+  "parse": {
+    "title": "One Last Kiss (歌曲)",
+    "pageid": 7600319,
+    "revid": 94012122,
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "背景與發行",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 1597,
+        "anchor": "背景與發行",
+        "linkAnchor": "背景與發行"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "創作與製作",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 4638,
+        "anchor": "創作與製作",
+        "linkAnchor": "創作與製作"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "詞曲",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 7089,
+        "anchor": "詞曲",
+        "linkAnchor": "詞曲"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "專業評價",
+        "number": "4",
+        "index": "4",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 11021,
+        "anchor": "專業評價",
+        "linkAnchor": "專業評價"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "榮譽",
+        "number": "4.1",
+        "index": "5",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 14701,
+        "anchor": "榮譽",
+        "linkAnchor": "榮譽"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "商業成績",
+        "number": "5",
+        "index": "6",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 16014,
+        "anchor": "商業成績",
+        "linkAnchor": "商業成績"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "音樂影片",
+        "number": "6",
+        "index": "7",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 22846,
+        "anchor": "音樂影片",
+        "linkAnchor": "音樂影片"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "背景與概念",
+        "number": "6.1",
+        "index": "8",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 22857,
+        "anchor": "背景與概念",
+        "linkAnchor": "背景與概念"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "發布與反響",
+        "number": "6.2",
+        "index": "9",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 25016,
+        "anchor": "發布與反響",
+        "linkAnchor": "發布與反響"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "現場表演",
+        "number": "7",
+        "index": "10",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 27289,
+        "anchor": "現場表演",
+        "linkAnchor": "現場表演"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "製作名單",
+        "number": "8",
+        "index": "11",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 29361,
+        "anchor": "製作名單",
+        "linkAnchor": "製作名單"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "榜單排名",
+        "number": "9",
+        "index": "12",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 29934,
+        "anchor": "榜單排名",
+        "linkAnchor": "榜單排名"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "週榜單",
+        "number": "9.1",
+        "index": "13",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 29969,
+        "anchor": "週榜單",
+        "linkAnchor": "週榜單"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "年榜單",
+        "number": "9.2",
+        "index": "14",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 33953,
+        "anchor": "年榜單",
+        "linkAnchor": "年榜單"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "認證",
+        "number": "10",
+        "index": "15",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 36165,
+        "anchor": "認證",
+        "linkAnchor": "認證"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "資料來源",
+        "number": "11",
+        "index": "16",
+        "fromtitle": "One_Last_Kiss_(歌曲)",
+        "byteoffset": 36750,
+        "anchor": "資料來源",
+        "linkAnchor": "資料來源"
+      }
+    ],
+    "showtoc": true
+  }
+}

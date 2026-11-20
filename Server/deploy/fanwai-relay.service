@@ -1,0 +1,23 @@
+[Unit]
+Description=番外 trial relay
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=fanwai
+Group=fanwai
+# DEEPSEEK_API_KEY=... lives in this file only (root, 0600). systemd reads it before dropping to the service user.
+EnvironmentFile=/etc/fanwai/relay.env
+Environment=FANWAI_CONFIG=/var/lib/fanwai/config.json FANWAI_DATA=/var/lib/fanwai
+ExecStart=/usr/local/bin/fanwai-relay serve
+Restart=always
+RestartSec=2
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/var/lib/fanwai
+MemoryMax=200M
+
+[Install]
+WantedBy=multi-user.target

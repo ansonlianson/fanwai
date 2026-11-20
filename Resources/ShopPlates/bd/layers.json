@@ -1,0 +1,1 @@
+{"size": [1206, 2622], "slots": {"hero": {"quad": [[105.7, 149.61], [618.07, 149.61], [617.74, 867.21], [116.47, 867.21]], "over": "hero_over.png", "frame": [87, 130, 549, 755]}}, "order": ["hero"], "bg": "bg.jpg", "front": {"over": "front_over.png", "frame": [0, 854, 1206, 62]}}

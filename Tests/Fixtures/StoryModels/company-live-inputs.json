@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sakamoto",
+    "name": "Merry Christmas, Mr. Lawrence",
+    "text": "On Friday, October 1, 2010, Artistic Director Nolan Gasser spoke with celebrated Japanese composer, pianist, and environmental activist Ryuichi Sakamoto – whose debut Decca release combines two recent albums, Playing the Piano and Out of Noise.\nRS: This too was a lucky accident: in 1982, the director Nagisa Ôshima asked me to act in a film [Merry Christmas, Mr. Lawrence, with David Bowie]; I then asked him if I could also write the music, and he immediately said, “Yes.” It was really lucky – I had no experience, either in acting or writing film music; but still he said “yes.”",
+    "source_title": "Ryuichi Sakamoto Interview · Nolan Gasser",
+    "source_url": "https://www.classicalarchives.com/feature/sakamoto_interview2.html",
+    "expect_story": true
+  },
+  {
+    "id": "pool",
+    "name": "in the pool",
+    "text": "──その中でも今回特に大きなキーとなる曲は、やはり物語の山場のひとつとなるシーンに使われた「in the pool」だと窺っています。\n牛尾：この曲が、先ほどから何度か話に登場したデンジとレゼのプールのシーンで使われた曲ですね。2023年のティザーPV制作時のB案としてあった「俺らの曲」です。元々監督や演出陣と話している時は「もう少し曲自体を細切れのトラックにしようか」と話していたんですが、繋がって“組曲”とした方が美しいかな、と思って勝手に作っちゃったんですよね。",
+    "source_title": "Real Sound 访谈",
+    "source_url": "https://realsound.jp/2025/10/post-2167153_2.html",
+    "expect_story": true
+  },
+  {
+    "id": "credits-only",
+    "name": "in the pool",
+    "text": "in the pool 的作曲与编曲是牛尾宪辅，发行日期为 2025 年 9 月 19 日。",
+    "source_title": "目录字段负例",
+    "source_url": "https://example.org/catalog-negative-control",
+    "expect_story": false
+  }
+]

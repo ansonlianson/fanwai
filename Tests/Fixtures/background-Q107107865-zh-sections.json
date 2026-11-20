@@ -1,0 +1,139 @@
+{
+  "warnings": {
+    "main": {
+      "warnings": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+    },
+    "parse": {
+      "warnings": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+    }
+  },
+  "parse": {
+    "title": "驾驶我的车",
+    "pageid": 7761498,
+    "revid": 94442484,
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "剧情概要",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 5561,
+        "anchor": "剧情概要",
+        "linkAnchor": "剧情概要"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "主要演員",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 6710,
+        "anchor": "主要演員",
+        "linkAnchor": "主要演員"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "幕後人員",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 6878,
+        "anchor": "幕後人員",
+        "linkAnchor": "幕後人員"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "制作花絮",
+        "number": "4",
+        "index": "4",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 7247,
+        "anchor": "制作花絮",
+        "linkAnchor": "制作花絮"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "媒體评价",
+        "number": "5",
+        "index": "5",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 10960,
+        "anchor": "媒體评价",
+        "linkAnchor": "媒體评价"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "發行",
+        "number": "6",
+        "index": "6",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 11514,
+        "anchor": "發行",
+        "linkAnchor": "發行"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "奖项",
+        "number": "7",
+        "index": "7",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 15409,
+        "anchor": "奖项",
+        "linkAnchor": "奖项"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "另見條目",
+        "number": "8",
+        "index": "8",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 68641,
+        "anchor": "另見條目",
+        "linkAnchor": "另見條目"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "註釋",
+        "number": "9",
+        "index": "9",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 68702,
+        "anchor": "註釋",
+        "linkAnchor": "註釋"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "参考资料",
+        "number": "10",
+        "index": "10",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 68725,
+        "anchor": "参考资料",
+        "linkAnchor": "参考资料"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "外部链接",
+        "number": "11",
+        "index": "11",
+        "fromtitle": "驾驶我的车",
+        "byteoffset": 68749,
+        "anchor": "外部链接",
+        "linkAnchor": "外部链接"
+      }
+    ],
+    "showtoc": true
+  }
+}

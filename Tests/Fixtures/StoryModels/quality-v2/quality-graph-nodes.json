@@ -1,0 +1,218 @@
+[
+  {
+    "id": "pool",
+    "name": "in the pool",
+    "kind": "song",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "summer",
+    "name": "summer's end",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "film",
+    "name": "电锯人 蕾塞篇",
+    "kind": "work",
+    "externalIDs": [
+      "Q123906765"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "ushio",
+    "name": "牛尾宪辅",
+    "kind": "person",
+    "externalIDs": [
+      "Q11190062"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "animenzv",
+    "name": "Animenz 钢琴版",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "animenz",
+    "name": "Animenz",
+    "kind": "person",
+    "externalIDs": [
+      "Q61102629"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "manga",
+    "name": "电锯人",
+    "kind": "work",
+    "externalIDs": [
+      "Q65240543"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "fujimoto",
+    "name": "藤本树",
+    "kind": "person",
+    "externalIDs": [
+      "Q24864023"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "yoshihara",
+    "name": "吉原达矢",
+    "kind": "person",
+    "externalIDs": [
+      "Q125871279"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "jane",
+    "name": "JANE DOE",
+    "kind": "song",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "iris",
+    "name": "IRIS OUT",
+    "kind": "song",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "janemv",
+    "name": "JANE DOE MV",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "yonezu",
+    "name": "米津玄师",
+    "kind": "person",
+    "externalIDs": [
+      "Q11604296"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "utada",
+    "name": "宇多田光",
+    "kind": "person",
+    "externalIDs": [
+      "Q234598"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "csmtv",
+    "name": "电锯人",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "kickback",
+    "name": "KICK BACK",
+    "kind": "song",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "koe",
+    "name": "声之形",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "devil",
+    "name": "恶魔人 Crybaby",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "olk",
+    "name": "One Last Kiss",
+    "kind": "song",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "olkmv",
+    "name": "One Last Kiss MV",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "eva",
+    "name": "新·福音战士剧场版：终",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "anno",
+    "name": "庵野秀明",
+    "kind": "person",
+    "externalIDs": [
+      "Q23261"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "distance",
+    "name": "Distance",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "actor",
+    "name": "Actor",
+    "kind": "song",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "ikuta",
+    "name": "几田莉拉",
+    "kind": "person",
+    "externalIDs": [
+      "Q96711898"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "spy",
+    "name": "间谍过家家 第三季",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "yoasobi",
+    "name": "YOASOBI",
+    "kind": "person",
+    "externalIDs": [],
+    "aliases": []
+  },
+  {
+    "id": "actormv",
+    "name": "Actor MV",
+    "kind": "work",
+    "externalIDs": [],
+    "aliases": []
+  }
+]

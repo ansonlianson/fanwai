@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>番外：听歌的时候，翻出这首歌背后的故事</title>
+<meta name="description" content="番外是一个 iPhone App。在 Apple Music 放一首歌，它去找这首歌的来历，以及和它有关的电影、动画、游戏、原曲和翻唱。">
+<meta name="theme-color" content="#17130e">
+<meta property="og:title" content="番外">
+<meta property="og:description" content="听歌的时候，翻出这首歌背后的故事。">
+<meta property="og:image" content="https://fanwai.xyz/assets/icon-512.png">
+<meta property="og:url" content="https://fanwai.xyz/">
+<link rel="icon" href="assets/icon-180.png">
+<link rel="apple-touch-icon" href="assets/icon-180.png">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<div class="wall">
+  <header class="wrap top">
+    <a class="mark" href="/"><img src="assets/icon-180.png" alt="" width="36" height="36">番外</a>
+    <nav><a href="/privacy">隐私</a><a href="/support">使用和反馈</a></nav>
+  </header>
+  <div class="wrap stand">
+    <div class="says">
+      <h1>番外</h1>
+      <p class="line">听歌的时候，<br>翻出这首歌背后的故事。</p>
+      <p class="what">在 Apple Music 放一首歌，番外去找它的来历，还有和它有关的电影、动画、游戏、原曲和翻唱。每段故事都带着出处，点开就能看原文。</p>
+      <!-- TestFlight 公开链接有了之后，把下面这一行换成：
+           <a class="install" href="https://testflight.apple.com/join/XXXXXXXX">在 TestFlight 安装</a> -->
+      <p class="where">需要 iPhone 和 iOS 27。内测版通过 TestFlight 发放，正在准备。</p>
+    </div>
+    <figure class="shot">
+      <img src="assets/shot-rydeen.jpg" width="718" height="1560" alt="番外的「此刻」页：架子上是正在播放的《RYDEEN》，下面是它的故事——原曲出自 Yellow Magic Orchestra，后来改编成行进乐版本；再往下是唱片箱里的相关作品。">
+    </figure>
+  </div>
+  <div class="ledge" role="presentation"></div>
+</div>
+
+<main class="wrap">
+  <section>
+    <h2>一首歌能翻出什么</h2>
+    <dl class="finds">
+      <dt>原曲和翻唱</dt>
+      <dd>这首歌改编自哪一首，又被谁翻唱、采样过。</dd>
+      <dt>出自哪部作品</dt>
+      <dd>它是哪部电影、动画或游戏里的歌；如果是改编版，原声带里对应哪一首。</dd>
+      <dt>同一部作品的其他歌</dt>
+      <dd>片头曲旁边，放着同一部的片尾曲和插曲。</dd>
+      <dt>幕后</dt>
+      <dd>谁写的，为什么写，录的时候发生了什么。只收找得到出处的；找不到就空着，不编。</dd>
+    </dl>
+  </section>
+
+  <section>
+    <h2>开始用</h2>
+    <ol class="steps">
+      <li><div><b>在 TestFlight 里安装番外</b><span>链接准备好后会放在这一页。</span></div></li>
+      <li><div><b>选你听歌用的 App</b><span>Apple Music 会自动跟着正在播放的歌。QQ 音乐和网易云音乐：在歌曲页点「分享」，复制链接，回到番外粘贴。</span></div></li>
+      <li><div><b>接一个大模型</b><span>番外用它联网查找和写故事，目前用 DeepSeek 最完整。费用按 DeepSeek 的价格从你自己的账户扣，每查一首歌大约 ¥0.1。App 里有一步步的开通说明。</span></div></li>
+      <li><div><b>放一首歌</b><span>卡片先出来，故事要多等一会儿。</span></div></li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>资料从哪来</h2>
+    <div class="prose">
+      <p>卡片上的关系来自 Wikidata、维基百科、MusicBrainz 这些公开资料库，以及联网搜索到的网页。故事由你选的模型根据搜到的网页写成；写好后番外拿它和原文核对，对不上的不显示。</p>
+      <p>番外没有账号系统，不放广告，不做统计追踪。你的收藏和浏览记录只在手机上。细节见<a href="/privacy">隐私说明</a>。</p>
+      <p>番外的源码公开在 <a href="https://github.com/ansonlianson/fanwai">GitHub</a> 上，可以看，著作权归作者所有。</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap"><a href="/privacy">隐私说明</a><a href="/support">使用和反馈</a><a href="mailto:anson138@126.com">anson138@126.com</a><span>番外 2026</span></div>
+</footer>
+</body>
+</html>

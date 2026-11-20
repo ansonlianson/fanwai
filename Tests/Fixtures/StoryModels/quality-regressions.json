@@ -1,0 +1,97 @@
+[
+  {
+    "provenance": "Recorded #9: Research/StoryModelEval/p5c/pool.json#model-pool-12",
+    "candidate": {
+      "story": {
+        "body": "牛尾宪辅找石野卓球和川辺ヒロ西商量队名。对方给的点子是：别说グラフィック，说グラフ，可以理解成「頭でっかちのグラフ」。agraph 还有钢琴弦押さえ的意思。",
+        "entityID": "pool",
+        "entityLinks": {},
+        "id": "model-pool-12",
+        "relatedEntityIDs": [],
+        "score": 0,
+        "source": {
+          "detail": "CC BY-SA 4.0",
+          "title": "维基百科 · Agraph",
+          "url": "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title": "牛尾宪辅问了两个人，队名变成了agraph"
+      },
+      "factIDs": [
+        "f9"
+      ]
+    },
+    "facts": [
+      {
+        "contrast": 1,
+        "evidence": {
+          "passage": {
+            "id": "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11",
+            "location": "ja · Agraph · 人物・特徴 · 段落 11",
+            "quote": "『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。"
+          }
+        },
+        "id": "f9",
+        "linkedEntityIDs": [],
+        "source": {
+          "detail": "CC BY-SA 4.0",
+          "title": "维基百科 · Agraph",
+          "url": "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "statements": [
+          "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+        ],
+        "text": "「agraph」这一队名的由来是想把「グラフィック」写进队名，牛尾向石野卓球与川辺ヒロシ咨询后，得到「不说グラフィック而说グラフ的话，可以理解成头很大（頭でっかち）的graph」这一说法，遂定名agraph；agraph也有钢琴部件弦押さえ的意思。"
+      }
+    ],
+    "expectedToken": "川辺ヒロ西"
+  },
+  {
+    "provenance": "Recorded #9: Research/StoryModelEval/p5c/jane.json#model-jane-1",
+    "candidate": {
+      "story": {
+        "body": "2025 年 8 月 14 日，米津玄师宣布「JANE DOE」是给动画电影《链锯人 蕾洁篇》写的片尾曲。同一天他还宣布，客座主唱请的是宇多田ヒカル。",
+        "entityID": "jane",
+        "entityLinks": {},
+        "id": "model-jane-1",
+        "relatedEntityIDs": [],
+        "score": 0,
+        "source": {
+          "detail": "CC BY-SA 4.0",
+          "title": "维基百科 · 米津玄師",
+          "url": "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+        },
+        "title": "8 月 14 日，宇多田ヒカル当了「JANE DOE」客座主唱"
+      },
+      "factIDs": [
+        "f1"
+      ]
+    },
+    "facts": [
+      {
+        "contrast": 1,
+        "evidence": {
+          "passage": {
+            "id": "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 87",
+            "location": "ja · 米津玄師 · 2025年 · 段落 87",
+            "quote": "8月14日、新曲「JANE DOE」をアニメ映画『チェンソーマン レゼ篇』のエンディング・テーマとして書き下ろしたことが発表され、ゲストボーカルとして宇多田ヒカルを迎えたことも併せて発表された"
+          }
+        },
+        "id": "f1",
+        "linkedEntityIDs": [
+          "宇多田ヒカル",
+          "Hikaru Utada"
+        ],
+        "source": {
+          "detail": "CC BY-SA 4.0",
+          "title": "维基百科 · 米津玄師",
+          "url": "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+        },
+        "statements": [
+          "2025年8月14日，米津玄师宣布为动画电影《链锯人 蕾洁篇》量身打造片尾曲「JANE DOE」，并同时宣布邀请宇多田ヒカル担任客座主唱。"
+        ],
+        "text": "2025年8月14日，米津玄师宣布为动画电影《链锯人 蕾洁篇》量身打造片尾曲「JANE DOE」，并同时宣布邀请宇多田ヒカル担任客座主唱。"
+      }
+    ],
+    "expectedToken": "蕾洁篇"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "scope": "Additional section for the existing pinned One Last Kiss regression; only section 3 fetched in this repair.",
+  "records": [
+    {
+      "file": "background-Q108033774-zh-section-3.json",
+      "url": "https://zh.wikipedia.org/w/api.php?action=parse&oldid=94012122&prop=text&section=3&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1",
+      "sha256": "5a6a240366dac70e452d59c8f07565b9108ca697ae9d157066b2ad058b3bd9e8",
+      "bytes": 26791,
+      "recorded_at": "2026-11-04T04:26:19.451359+08:00",
+      "page_id": 7600319,
+      "revision": 94012122
+    },
+    {
+      "file": "background-Q108033774-zh-sections.json",
+      "sha256": "e49b9d3cc8434a626319afa734efff9397af7dfde7d8b5801bcc448bee5e6bdb",
+      "page_id": 7600319,
+      "revision": 94012122,
+      "status": "Existing unmodified fixed-revision fixture reused; not refetched in this repair."
+    },
+    {
+      "file": "background-Q108033774-zh-section-2.json",
+      "sha256": "12b8c13b7a045e31ab43337067a0258ec4d5f8a3066de3306bca7506740d7a71",
+      "page_id": 7600319,
+      "revision": 94012122,
+      "status": "Existing unmodified fixed-revision fixture reused; not refetched in this repair."
+    },
+    {
+      "file": "background-Q108033774-zh-section-8.json",
+      "sha256": "78004d1b9a73009259f652e372f86c1f39eae5003af321535937bc1a3ecaf93e",
+      "page_id": 7600319,
+      "revision": 94012122,
+      "status": "Existing unmodified fixed-revision fixture reused; not refetched in this repair."
+    }
+  ]
+}

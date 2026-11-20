@@ -1,0 +1,12 @@
+Pianwai.xcodeproj/
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+__pycache__/
+**/InternalStoryAccess.plist
+*.env
+*.p8
+*.p12
+*.mobileprovision

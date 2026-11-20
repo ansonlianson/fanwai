@@ -1,0 +1,1252 @@
+{
+  "cacheHit" : false,
+  "cachedResponseURLs" : [
+    "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=1&ids=Q11604296&languages=ja%7Czh%7Czh-hans%7Cen&props=labels%7Caliases%7Cclaims%7Csitelinks&sitefilter=jawiki%7Czhwiki%7Cenwiki",
+    "https://ja.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB&prop=text%7Cproperties%7Crevid&redirects=1",
+    "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB&prop=text%7Cproperties%7Crevid&redirects=1",
+    "https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Kenshi%20Yonezu&prop=text%7Cproperties%7Crevid&redirects=1"
+  ],
+  "collectedAt" : "2026-11-05T04:26:39Z",
+  "discoveredURLs" : [
+    "https://x.com/hachi_08/status/468758483311947777",
+    "https://x.com/hachi_08/status/560086438172057600",
+    "https://reissuerecords.net/profile/",
+    "https://natalie.mu/profile/9945",
+    "https://www.excite.co.jp/news/dictionary/person/PEa756cec671e491186204ed1da3a2defd24b82c40/",
+    "https://news.j-wave.co.jp/2019/02/25-11.html",
+    "https://www.billboard-japan.com/d_news/detail/154530/2",
+    "https://www.j-wave.co.jp/original/otoajito/171.html",
+    "https://dengekionline.com/elem/000/000/229/229821/index-2.html",
+    "https://web.archive.org/web/20210228050537/http://nicovideo.jp/watch/sm6907046",
+    "https://weekly.ascii.jp/elem/000/002/605/2605849/",
+    "https://weekly.ascii.jp/elem/000/002/605/2605844/",
+    "https://web.archive.org/web/20141025112637/http://music.emtg.jp/news/2014100447560dcc0",
+    "https://natalie.mu/music/news/134751",
+    "https://natalie.mu/music/news/152864",
+    "https://rockinon.com/news/detail/131651",
+    "https://natalie.mu/music/news/158452",
+    "https://natalie.mu/music/news/178633",
+    "https://natalie.mu/music/news/197143",
+    "https://natalie.mu/music/news/197076",
+    "https://natalie.mu/music/news/248900",
+    "https://natalie.mu/music/news/233276",
+    "https://natalie.mu/music/news/247940",
+    "https://rockinon.com/news/detail/171944",
+    "https://barks.jp/news/809520/",
+    "https://natalie.mu/music/news/301258",
+    "https://natalie.mu/music/news/329034",
+    "https://natalie.mu/music/news/369865",
+    "https://www.phileweb.com/sp/news/hobby/202008/05/3565.html",
+    "https://av.watch.impress.co.jp/docs/news/1269484.html",
+    "https://natalie.mu/music/news/475463",
+    "https://natalie.mu/music/news/499255",
+    "https://www.thefirsttimes.jp/report/0000299947/",
+    "https://natalie.mu/music/news/593115",
+    "https://www.oricon.co.jp/news/2360082/full/",
+    "https://natalie.mu/music/news/605008",
+    "https://natalie.mu/music/news/581010",
+    "https://natalie.mu/music/news/587238",
+    "https://natalie.mu/music/news/619994",
+    "https://www.thefirsttimes.jp/report/0000600830/",
+    "https://natalie.mu/music/news/625411",
+    "https://reissuerecords.net/2025/08/14/janedoe_chainsawman/",
+    "https://www.billboard-japan.com/d_news/detail/152512/2",
+    "https://barks.jp/news/1019441/",
+    "https://natalie.mu/music/news/641224",
+    "https://reissuerecords.net/2025/09/22/irisout_janedoe_0924/",
+    "https://reissuerecords.net/2026/01/27/irisout_jane-doe_vinyl_release/",
+    "https://www.m-on-music.jp/0000095460/2/",
+    "https://natalie.mu/music/pp/yonezukenshi03",
+    "https://natalie.mu/music/pp/yonezukenshi03/page/2",
+    "https://rollingstonejapan.com/articles/detail/29490",
+    "https://x.com/hachi_08/status/1065469945612402688",
+    "https://www.oricon.co.jp/news/2125924/full/",
+    "https://www.billboard-japan.com/d_news/detail/53701/2",
+    "https://twitter.com/hachi_08/status/468758483311947777",
+    "https://twitter.com/hachi_08/status/560086438172057600",
+    "https://tower.jp/article/news/2020/05/20/tg005",
+    "https://web.archive.org/web/20210606173202/https://tower.jp/article/news/2020/05/20/tg005",
+    "https://www.am730.com.hk/%E5%A8%9B%E6%A8%82/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E5%86%8D%E5%89%B5%E7%B4%80%E9%8C%84-lemon-mv%E7%AA%81%E7%A0%B48%E5%84%84%E8%A7%80%E7%9C%8B%E6%AC%A1%E6%95%B8/368744",
+    "https://web.archive.org/web/20230416174932/https://www.am730.com.hk/%E5%A8%9B%E6%A8%82/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E5%86%8D%E5%89%B5%E7%B4%80%E9%8C%84-lemon-mv%E7%AA%81%E7%A0%B48%E5%84%84%E8%A7%80%E7%9C%8B%E6%AC%A1%E6%95%B8/368744",
+    "https://spice.eplus.jp/articles/284139",
+    "https://web.archive.org/web/20210606033652/https://spice.eplus.jp/articles/284139",
+    "https://web.archive.org/web/20210430233927/https://natalie.mu/music/news/68569",
+    "https://news.tvbs.com.tw/entertainment/1068670",
+    "https://web.archive.org/web/20210418205759/https://news.tvbs.com.tw/entertainment/1068670",
+    "https://web.archive.org/web/20130629153820/http://news.dengeki.com/elem/000/000/229/229821/",
+    "https://web.archive.org/web/20130929130304/http://www.oricon.co.jp/news/music/85426/full/",
+    "https://web.archive.org/web/20210418203925/https://natalie.mu/music/news/84260",
+    "https://av.watch.impress.co.jp/docs/news/1210017.html",
+    "https://web.archive.org/web/20210418205757/https://av.watch.impress.co.jp/docs/news/1210017.html",
+    "https://web.archive.org/web/20200609025130/http://www.billboard-japan.com/charts/detail?a=hot100_year&year=2019",
+    "https://news.eigafan.com/kaijunokodomo/2019/04/24/%E4%B8%BB%E9%A1%8C%E6%AD%8C%E3%81%8C%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E3%81%AE%E6%96%B0%E6%9B%B2%E3%80%8C%E6%B5%B7%E3%81%AE%E5%B9%BD%E9%9C%8A%E3%80%8D%E3%81%AB%E6%B1%BA%E5%AE%9A%EF%BC%81/",
+    "https://web.archive.org/web/20190522093523/https://news.eigafan.com/kaijunokodomo/2019/04/24/%E4%B8%BB%E9%A1%8C%E6%AD%8C%E3%81%8C%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E3%81%AE%E6%96%B0%E6%9B%B2%E3%80%8C%E6%B5%B7%E3%81%AE%E5%B9%BD%E9%9C%8A%E3%80%8D%E3%81%AB%E6%B1%BA%E5%AE%9A%EF%BC%81/",
+    "https://www.tokyohive.com/article/2019/01/yonezu-kenshi-to-hold-first-overseas-concerts-in-china-and-taiwan",
+    "https://web.archive.org/web/20230424042308/https://www.tokyohive.com/article/2019/01/yonezu-kenshi-to-hold-first-overseas-concerts-in-china-and-taiwan",
+    "https://www.epicgames.com/fortnite/en-US/news/kenshi-yonezu-at-party-royale",
+    "https://web.archive.org/web/20230105120951/https://www.epicgames.com/fortnite/en-US/news/kenshi-yonezu-at-party-royale",
+    "https://aramajapan.com/featured/winners-and-nominees-for-the-62nd-japan-record-awards-announced/110091/",
+    "https://web.archive.org/web/20210512220026/https://aramajapan.com/featured/winners-and-nominees-for-the-62nd-japan-record-awards-announced/110091/",
+    "https://natalie.mu/music/news/473092",
+    "https://web.archive.org/web/20230406235022/https://natalie.mu/music/news/473092",
+    "https://www.cbr.com/chainsaw-man-anime-opening-ending-song-artsits/",
+    "https://web.archive.org/web/20221013194316/https://www.cbr.com/chainsaw-man-anime-opening-ending-song-artsits/",
+    "https://www.oricon.co.jp/news/2287031/full/",
+    "https://web.archive.org/web/20230718141405/https://www.oricon.co.jp/news/2287031/full/",
+    "https://www.billboard-japan.com/d_news/detail/151140/2",
+    "https://web.archive.org/web/20250812174703/https://www.billboard-japan.com/d_news/detail/151140/2",
+    "https://natalie.mu/music/news/634554",
+    "https://web.archive.org/web/20250911091024/https://natalie.mu/music/news/634554",
+    "https://web.archive.org/web/20250814115918/https://reissuerecords.net/2025/08/14/janedoe_chainsawman/",
+    "https://web.archive.org/web/20210418202605/https://natalie.mu/music/pp/yonezukenshi02/page/2",
+    "https://cakes.mu/posts/11822",
+    "https://web.archive.org/web/20210420231658/https://cakes.mu/posts/11822",
+    "https://twitter.com/hachi_08/status/600318679524315138",
+    "https://web.archive.org/web/20210418203150/https://twitter.com/hachi_08/status/600318679524315138",
+    "https://highsnobiety.jp/p/hsjp-mag-issue-01-kenshi-yonezu-interview/",
+    "https://web.archive.org/web/20210424192108/https://highsnobiety.jp/p/hsjp-mag-issue-01-kenshi-yonezu-interview/",
+    "https://web.archive.org/web/20131031121323/http://www.tfm.co.jp/lock/staff/onair/2012/0613/",
+    "https://web.archive.org/web/20251128100245/https://www.j-wave.co.jp/original/otoajito/171.html",
+    "https://web.archive.org/web/20130927080625/http://dengekionline.com/elem/000/000/229/229821/index-2.html",
+    "https://web.archive.org/web/20210228050537/https://www.nicovideo.jp/watch/sm6907046",
+    "https://www.nicovideo.jp/watch/sm6907046",
+    "https://web.archive.org/web/20130927080537/http://dengekionline.com/elem/000/000/229/229821/",
+    "https://web.archive.org/web/20130717045837/http://www.webmoney.jp/award2009/enjoy/award/yakari.html",
+    "https://ascii.jp/elem/000/000/491/491279/",
+    "https://natalie.mu/music/news/100263",
+    "https://electricbloomwebzine.com/2025/10/kenshi-yonezu-iris-out-breaks-japan-streaming-record-100-million.html",
+    "https://www.billboard.com/articles/news/international/7890238/kenshi-yonezu-profile-popularity-japan",
+    "https://web.archive.org/web/20140424025725/http://realsound.jp/2014/04/post-444.html",
+    "https://web.archive.org/web/20140424033953/http://natalie.mu/music/pp/yonezukenshi04/page/2",
+    "https://web.archive.org/web/20220518235655/https://www.mikufan.com/hatsune-miku-magical-mirai-2017-official-album-announced-preorders-now-open/",
+    "https://reissuerecords.net/"
+  ],
+  "entity" : {
+    "artistName" : "米津玄师",
+    "artistQID" : "Q11604296",
+    "editorialNotes" : [
+
+    ],
+    "externalIDs" : {
+      "apple-song" : "1840081736"
+    },
+    "id" : "jane",
+    "isSong" : true,
+    "name" : "JANE DOE",
+    "neighbors" : [
+      "米津玄師",
+      "宇多田ヒカル",
+      "Hikaru Utada"
+    ],
+    "releaseDate" : "2025-09-22"
+  },
+  "facts" : [
+
+  ],
+  "kinds" : {
+    "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · Early life and career · 段落 6" : "Wikipedia",
+    "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · 导语 · 段落 2" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 12" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 15" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2014年 · 段落 23" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2015年：『Bremen』 · 段落 25" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2016年 · 段落 28" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2016年 · 段落 32" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2017年 · 段落 37" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2018年 · 段落 38" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2018年 · 段落 44" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2019年 · 段落 47" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2020年 · 段落 50" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2020年 · 段落 53" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2022年 · 段落 59" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2022年 · 段落 62" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2023年 · 段落 64" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2024年 · 段落 74" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2024年 · 段落 77" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 78" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 82" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 83" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 87" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · ライブ · 段落 118" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 导语 · 段落 1" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 影響を受けた人物・作品 · 段落 108" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 概要 · 段落 3" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 概要 · 段落 8" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 音楽性 · 段落 102" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 音楽性 · 段落 104" : "Wikipedia",
+    "https://reissuerecords.net/profile/#段落 11" : "官网",
+    "https://reissuerecords.net/profile/#段落 12" : "官网",
+    "https://reissuerecords.net/profile/#段落 14" : "官网",
+    "https://reissuerecords.net/profile/#段落 15" : "官网",
+    "https://reissuerecords.net/profile/#段落 17" : "官网",
+    "https://reissuerecords.net/profile/#段落 18" : "官网",
+    "https://reissuerecords.net/profile/#段落 4" : "官网",
+    "https://reissuerecords.net/profile/#段落 7" : "官网",
+    "https://reissuerecords.net/profile/#段落 9" : "官网",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 其他 · 段落 21" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 其他 · 段落 22" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 出道 · 段落 19" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 导语 · 段落 10" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 导语 · 段落 8" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 导语 · 段落 9" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 11" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 12" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 14" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 15" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 16" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 自主制作作品 · 段落 26" : "Wikipedia"
+  },
+  "materials" : [
+    {
+      "id" : "https://reissuerecords.net/profile/#段落 4",
+      "location" : "段落 4",
+      "source" : {
+        "detail" : "",
+        "title" : "PROFILE | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/profile/"
+      },
+      "text" : "2012年には、本名の “米津玄師” 名義で、自身がボーカルをとったアルバム「diorama」をリリース。 その独特なサウンドメイクをした楽曲の強さと、リアルな言葉の数々は圧倒的で、今の音楽シーンにはない新鮮さを鮮烈に刻み話題に。全曲に渡り、作詞・作曲・アレンジ・プログラミング・歌唱・演奏・ミックスを自身で手掛けているのに加え、動画・アートワークも独りで制作するという、驚異の才能を見せる。"
+    },
+    {
+      "id" : "https://reissuerecords.net/profile/#段落 7",
+      "location" : "段落 7",
+      "source" : {
+        "detail" : "",
+        "title" : "PROFILE | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/profile/"
+      },
+      "text" : "2015年1月、3rdシングル「Flowerwall」をリリース。ニコンD5500 TV-CMソングに起用された。合わせて、初の全国ツアー「花ゆりおちる」、そして初の夏フェス出演を果たした。同年9月、4thシングル「アンビリーバーズ」を、10月には3rdアルバム「Bremen」をリリース。オリコンチャート1位、iTunes週間アルバムランキング1位、Billboard JAPAN HOT Albumチャート1位の三冠を達成。日本レコード大賞「優秀アルバム賞」を受賞。「アンビリーバーズ」は、MIZUNO WAVE ENIGMA5のCMに起用された。2016年1月からは全国ツアー「米津玄師 2016 TOUR / 音楽隊」を開催。"
+    },
+    {
+      "id" : "https://reissuerecords.net/profile/#段落 9",
+      "location" : "段落 9",
+      "source" : {
+        "detail" : "",
+        "title" : "PROFILE | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/profile/"
+      },
+      "text" : "2017年2月にはTVアニメ「３月のライオン」EDとなるシングル「orion」、6月にはTVアニメ「僕のヒーローアカデミア」OPとなるシングル「ピースサイン」をリリース。8月は、二つのプロデュースワークを手がける。初音ミク10周年「マジカルミライ2017」テーマソングとして、約4年ぶりにハチ名義として「砂の惑星 feat.初音ミク」を発表し、ニコニコ動画におけるボーカロイド曲最速ミリオン達成記録を樹立。また、アニメ映画「打ち上げ花火、下から見るか？横から見るか？」主題歌を作詞・作曲・プロデュースし、DAOKO×米津玄師「打上花火」として発表。11月、4thアルバム「BOOTLEG」をリリース。菅田将暉氏を迎えた「灰色と青」、池田エライザ氏を迎えた「fogbound」、共同アレンジ&Gt. King Gnu常田大希氏/B.マーガレット廣井氏 八十八ヶ所巡礼/Dr.やおたくや氏を迎えた「爱丽丝」等、積極的なコラボと挑戦的なサウンドにより、初週チャート23冠という結果を残し、第10回CDショップ大賞の大賞受賞。SSTVアワードでは、BEST MALE ARTIST受賞、「灰色と青（＋菅田将暉）」がBEST COLLABORATION受賞。発売同日よりワンマンツアー「米津玄師 2017 TOUR / Fogbound」を開催。"
+    },
+    {
+      "id" : "https://reissuerecords.net/profile/#段落 11",
+      "location" : "段落 11",
+      "source" : {
+        "detail" : "",
+        "title" : "PROFILE | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/profile/"
+      },
+      "text" : "2019年1月より「米津玄師 2019 TOUR / 脊椎がオパールになる頃」を実施。初の海外公演となる上海、台北公演も大成功におさめた。4月、菅田将暉氏の新曲として「まちがいさがし」を作詞・作曲・プロデュース。6月、五十嵐大介原作、映画「海獣の子供」主題歌として「海の幽霊」を発表。8月、NHK「みんなのうた」8-9月の曲として「パプリカ」のセルフカバーを発表。9月、TBS日曜劇場「ノーサイド・ゲーム」主題歌として「馬と鹿」をシングルリリース。同曲は、ラグビーWCの会場でも曲がかかるなど、スポーツにおける感動のシーンでも鳴り響き大きな広がりを見せた。また、「Lemon」は、2019年上半期ランキングでも首位25冠となり、Billboard JAPAN年間ランキングでは「史上初」の２年連続首位を獲得。日本レコード協会「史上最速」300万DLを記録した。12月、「NHK2020ソング」として、嵐の「カイト」を作詞、作曲、プロデュースし、「第70回 NHK紅白歌合戦」にて初披露された。"
+    },
+    {
+      "id" : "https://reissuerecords.net/profile/#段落 12",
+      "location" : "段落 12",
+      "source" : {
+        "detail" : "",
+        "title" : "PROFILE | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/profile/"
+      },
+      "text" : "2020年2月より、「米津玄師 2020 TOUR / HYPE」を開催。COVID-19による影響で、開催途中で延期決定を余儀なくされる。3月、TBS金曜ドラマ「MIU404」の主題歌として「感電」を発表。「感電」のMVは公開より1時間50分での100万再生となり自身初の記録を更新。8月5日、米津玄師5thアルバム「STRAY SHEEP」をリリース。「Lemon」「馬と鹿」「感電」といったドラマ主題歌に加え、Foorin「パプリカ」、菅田将暉「まちがいさがし」のセルフカバー、「海の幽霊」「Flamingo」「TEENAGE RIOT」など大ヒットナンバーが並び、新曲として、野田洋次郎氏とのコラボ曲「PLACEBO＋野田洋次郎」、「カロリーメイト」CMに起用された「迷える羊」などを収録。合わせて、TOUR HYPEの延期公演の中止に伴い、3億5,000万人のユーザーを誇るオンラインゲームFORTNITEにて、「FORTNITE×米津玄師バーチャルイベント」が全世界開催され、圧倒的な視聴数を記録。同時に、ユニクロとのコラボで「米津玄師オリジナルUT」の全世界発売を展開し、コロナ禍での新しいライブとグッズの世界展開が国外含め大きな話題となった。11月、アルバム「STRAY SHEEP」より、是枝裕和監督による「カナリヤ」MVを公開。12月、「感電」がApple MusicのCMに起用。アルバム「STRAY SHEEP」は、発売から１週間で100万セールスを記録し、その後200万セールスに到達。2020年の年間ランキングは46冠。AAC Awardや、Forbesが選ぶ「アジアのデジタルスター100」、芸術選奨「文部科学大臣新人賞」など多くの賞を受賞した。"
+    },
+    {
+      "id" : "https://reissuerecords.net/profile/#段落 14",
+      "location" : "段落 14",
+      "source" : {
+        "detail" : "",
+        "title" : "PROFILE | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/profile/"
+      },
+      "text" : "2022年、「PlayStation」CMソングとして「POP SONG」を書き下ろし、自身もCM出演。映画「シン・ウルトラマン」主題歌として「M八七」を書き下ろし、TVアニメ「チェンソーマン」のOPテーマとして「KICK BACK」を書き下ろした。「KICK BACK」は、SpotifyグローバルランキングでTOP50にランクインと国内アーティスト初の記録を達成。さらに、「オリコン週間シングルランキング」（12/5付）ではソロアーティストとしては令和初となる初週売上30万枚越えを果たし、初登場1位を獲得。Billboard JAPANアニメチャートでは21週連続首位を記録。9月より「米津玄師 2022 TOUR / 変身」を実施。"
+    },
+    {
+      "id" : "https://reissuerecords.net/profile/#段落 15",
+      "location" : "段落 15",
+      "source" : {
+        "detail" : "",
+        "title" : "PROFILE | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/profile/"
+      },
+      "text" : "2023年、「ジョージア」のCMソングとして「LADY」を、「FINAL FANTASY XVI」テーマソングとして「月を見ていた」を書き下ろした。7月には、スタジオジブリ最新作、宮﨑駿監督の「君たちはどう生きるか」主題歌として「地球儀」を書き下ろし、米津玄師名義としては１００曲目を迎えた。「米津玄師 2023 TOUR / 空想」を開催。また、アジアで最も影響力のあるアーティストとして「LOEWE」FW23メンズコレクションに登場。８月には「KICK BACK」が、アメリカレコード協会(RIAA)によりゴールド認定を受け、日本語詞楽曲として史上初の快挙を達成。同協会が今年活躍したアーティストを総括する“RIAA Class of 2023”においては史上初、そして唯一の日本人アーティストとして選出され2023年のハイライトとして大きくピックアップされ伝えられた。"
+    },
+    {
+      "id" : "https://reissuerecords.net/profile/#段落 17",
+      "location" : "段落 17",
+      "source" : {
+        "detail" : "",
+        "title" : "PROFILE | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/profile/"
+      },
+      "text" : "2025年1月、TVアニメ『メダリスト』オープニング主題歌として「BOW AND ARROW」を発表。MVでは、羽生結弦氏との共演が大きな話題となった。同じく１月、スタジオカラーとサンライズがタッグを組んだ『機動戦士Gundam GQuuuuuuX』主題歌として「Plazma」を発表し、6月には、15thシングル「Plazma / BOW AND ARROW」をリリース。自身最大規模となった「米津玄師 2025 TOUR / JUNK」では、国内ドーム公演を経て、アジア、ヨーロッパ、アメリカを廻るワールドツアーを完走し44万人を動員。9月には「KICK BACK」が、アメリカレコード協会(RIAA)によりプラチナ認定を受け、日本語詞楽曲として史上初の快挙を達成した。劇場版『チェンソーマン レゼ篇』主題歌として「IRIS OUT」、エンディング・テーマとして 米津玄師, 宇多田ヒカル「JANE DOE」を書き下ろし、ダブルA面シングル「IRIS OUT / JANE DOE」をリリース。「IRIS OUT」は、国内ストリーミングで、史上最高の週間再生数、史上最速での１億回再生など数々の記録を樹立したほか、グローバルチャートでも日本語楽曲の歴代最高位を記録。10月、映画『秒速5センチメートル』主題歌として「1991」をリリース。12月31日は「第76回紅白歌合戦」に出場。「IRIS OUT」を初パフォーマンスした。"
+    },
+    {
+      "id" : "https://reissuerecords.net/profile/#段落 18",
+      "location" : "段落 18",
+      "source" : {
+        "detail" : "",
+        "title" : "PROFILE | 米津玄師 official site「REISSUE RECORDS」",
+        "url" : "https://reissuerecords.net/profile/"
+      },
+      "text" : "2026年4月、「2026 NHKサッカーテーマ」として「烏」を発表。5月には「ピースサイン」がアメリカレコード協会（RIAA）よりゴールド認定を受け、日本語詞で唯一無二の3冠を達成した。『キングダム 魂の決戦』主題歌として「夜鷹」を書き下ろしたことを発表。11月には「米津玄師 2026 TOUR / GHOST」を開催予定。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 导语 · 段落 1",
+      "location" : "ja · 米津玄師 · 导语 · 段落 1",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "米津 玄師（よねづ けんし[4][1]、1991年〈平成3年〉3月10日 - ）は、日本のシンガーソングライター、ボカロP、イラストレーター、映像作家[5][6][7]。本名は同じ[5]。ボカロPとしての名義は、ハチ[8]。別名義として、蛙屋（かわずや）という名義も存在した。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 概要 · 段落 3",
+      "location" : "ja · 米津玄師 · 概要 · 段落 3",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "身長188 cm[1]。血液型O型[7]。2009年前後より、ボカロP・ハチとしてインターネットを中心に活動し、「マトリョシカ」や「パンダヒーロー」で大ヒットを記録している。その後、2012年に本人名義のアルバム『diorama』でソロデビュー。翌年、ユニバーサルシグマよりメジャーデビュー。2016年よりソニー・ミュージックレコーズへ移籍。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 12",
+      "location" : "ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 12",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "ニコニコ動画で平沢進の存在を知り、創作に強い影響を受ける[26]。パソコンの新調を機にDTMを始め、ハチという名義で約30曲程度の本人歌唱のオリジナル曲をニコニコ動画などにて発表したが、しばらくしてすべて削除している。これは、楽曲に自身が影響されたものが色濃く反映されすぎていることが理由として挙げられている[27]。また、ハチとしての活動の前には「ミナソコ」という名義で活動を行っていた[28]。この時には、ゲーム実況なども行っている。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 15",
+      "location" : "ja · 米津玄師 · 2008年 - 2011年：クリエイター「ハチ」として · 段落 15",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "2011年7月2日にアメリカ合衆国ロサンゼルスのノキアシアターで開催された、初音ミクのライブコンサート『MIKUNOPOLIS in Los Angeles』の関連イベントにボーカロイドクリエイターとして参加するために渡米した[33]。ライブは『アニメ・エキスポ2011』内のイベントで、「マトリョシカ」に登場するパーカーのコスプレをするファンもおり[34]、翌3日には、ハチとしてwowakaや「南方研究所」のタスクなどと共にエキスポの物販ブースでサイン会に挑み、「海外に広まってるってことは嬉しいです」と感想を述べた[33]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2014年 · 段落 23",
+      "location" : "ja · 米津玄師 · 2014年 · 段落 23",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "本アルバムのリリースを記念するワンマンライブ「米津玄師 Premium Live \"帰りの会\"」が企画され、6月に一夜限りで開催された。12月には、東京・大阪・福岡の3都市で「米津玄師 LIVE \"帰りの会・続編\"」を開催[43]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2015年：『Bremen』 · 段落 25",
+      "location" : "ja · 米津玄師 · 2015年：『Bremen』 · 段落 25",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "4月1日から28日にかけて、全7会場10公演のワンマンツアー「米津玄師 2015 TOUR / 花ゆり落ちる」を開催[46]。8月には「ROCK IN JAPAN FESTIVAL 2015」を始めとする複数のフェスイベントへ出演した。9月2日には、4枚目のシングル『アンビリーバーズ』を発売[47]。表題曲は、MIZUNO「WAVE ENIGMA 5」CMソングに採用された[48]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2016年 · 段落 28",
+      "location" : "ja · 米津玄師 · 2016年 · 段落 28",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "1月9日より、3枚目のアルバム『Bremen』を引っ提げたワンマンツアー「米津玄師 2016 TOUR / 音楽隊」をスタート[49]。また、本アルバムの収録曲「メトロノーム」ミュージックビデオが、3月19日に徳島国際短編映画祭にて上映された[54]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2016年 · 段落 32",
+      "location" : "ja · 米津玄師 · 2016年 · 段落 32",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "10月15日には、作詞・ゲストボーカルとして参加した中田ヤスタカ「NANIMONO」を主題歌とした映画『何者』が劇場公開された[58]。11月23日から12月8日にかけて、ワンマンツアー「米津玄師 2016 TOUR / はうる」を開催[59]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2017年 · 段落 37",
+      "location" : "ja · 米津玄師 · 2017年 · 段落 37",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "11月1日、前作『Bremen』よりおよそ2年ぶりのアルバム『BOOTLEG』を発売[67]。本アルバムは、過去のアルバムを大きく凌ぐ初動売上を記録し、20を超えるチャートで初登場1位を獲得した。また、2017年のCDショップ大賞、翌年の日本レコード大賞でいずれも最高賞を獲得した。アルバムリリース日の11月1日から12月24日にかけて、ワンマンツアー「米津玄師 2017 TOUR / Fogbound」を開催[68]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2018年 · 段落 38",
+      "location" : "ja · 米津玄師 · 2018年 · 段落 38",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "2018年1月9日・10日、ワンマンツアー「米津玄師 2017 TOUR / Fogbound」の追加公演として、ワンマンライブ「米津玄師 2018 LIVE / Fogbound」を日本武道館にて開催[69]。10日公演では、ダンサーの辻本知彦や菅原小春、4枚目のアルバム『BOOTLEG』収録曲「灰色と青」でコラボレーションを果たした菅田将暉が、ゲストとして出演した[70]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2018年 · 段落 44",
+      "location" : "ja · 米津玄師 · 2018年 · 段落 44",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "10月27日・28日、幕張メッセにて「米津玄師 2018 LIVE / Flamingo」を開催[78]。本公演では、シングル『Lemon』および月末にリリースを控える『Flamingo/TEENAGE RIOT』収録曲が初披露された。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2019年 · 段落 47",
+      "location" : "ja · 米津玄師 · 2019年 · 段落 47",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "1月19日から3月11日にかけて、自身初となるアリーナツアー「米津玄師 2019 TOUR / 脊椎がオパールになる頃」を開催[82]。5月14日には、菅田将暉に提供を行った楽曲「まちがいさがし」が配信リリースされた。菅田とのコラボレーションは「灰色と青」以来2度目となった[83]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2020年 · 段落 50",
+      "location" : "ja · 米津玄師 · 2020年 · 段落 50",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "2月1日より、自身2度目となるアリーナツアー「米津玄師 2020 TOUR / HYPE」をスタートしたが、新型コロナウイルスの感染拡大により、2月27日以降の公演の延期、および中止が発表された[86]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2020年 · 段落 53",
+      "location" : "ja · 米津玄師 · 2020年 · 段落 53",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "8月5日、5枚目のアルバム『STRAY SHEEP』を発売。また同日、音楽配信サービスにて、ハチ名義の楽曲を含む全楽曲が配信された[95][96]。8月1日には、本アルバムのリリースに先がけて、ラジオ番組『Monthly Artist File-THE VOICE-』（TOKYO FM）に出演。1ヶ月限定でパーソナリティを担当した。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2022年 · 段落 59",
+      "location" : "ja · 米津玄師 · 2022年 · 段落 59",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "7月21日、ハチ名義の楽曲「砂の惑星」が、ニコニコ動画にて1,000万回再生を意味する「VOCALOID神話入り」を達成した。これは、ニコニコ動画史上11曲目[注釈 4]となる神話入りであり、これにより、VOCALOID神話入り楽曲が2曲となった（DECO*27に次ぎ2人目）。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2022年 · 段落 62",
+      "location" : "ja · 米津玄師 · 2022年 · 段落 62",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "9月23日より、2年半ぶりとなるツアー「米津玄師 2022 TOUR / 変身」をスタート[112]。辻本知彦率いるグループによるダンスパフォーマンスのほか、さいたまスーパーアリーナにて開催されたファイナル公演には、常田大希がサプライズ登場し、米津と共に「爱丽丝」「KICK BACK」の2曲を披露した[113]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2023年 · 段落 64",
+      "location" : "ja · 米津玄師 · 2023年 · 段落 64",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "4月22日、ライブツアー「米津玄師 2023 TOUR / 空想」をスタート。7月2日まで全国11の会場で全24公演を開催し、約21万人を動員した[118]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2024年 · 段落 74",
+      "location" : "ja · 米津玄師 · 2024年 · 段落 74",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "9月30日、GODIVAの新商品「GODIVA × HACHI ドーナツホール コレクション」の発売が発表された。これに伴い、ハチ名義で2013年にリリースされた楽曲「ドーナツホール」の新ミュージックビデオが公開された[131]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2024年 · 段落 77",
+      "location" : "ja · 米津玄師 · 2024年 · 段落 77",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "12月31日、第75回NHK紅白歌合戦に特別企画で出場。『虎に翼』のキャストらと共演し「さよーならまたいつか!」を歌唱した[134][135]。なお、米津玄師の同番組出場およびテレビ番組での歌唱は第69回以来6年ぶり、2度目となった。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 78",
+      "location" : "ja · 米津玄師 · 2025年 · 段落 78",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "1月9日より、約1年半ぶりとなるツアー「米津玄師 2025 TOUR / JUNK」がスタート。自身初となる東京ドーム公演を含む国内8都市16公演を開催[136]。また、世界6都市での海外公演も開催され[注釈 5]、約6年ぶりとなる上海、台北での公演のほか、ロンドンやニューヨークなど、自身初となる欧米圏での公演も開催された[137]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 82",
+      "location" : "ja · 米津玄師 · 2025年 · 段落 82",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "2月27日、東京ドーム公演をもって「米津玄師 2025 TOUR / JUNK」の国内公演が終了。国内ツアーに続いて開催された7都市[注釈 6]10公演のワールドツアー「KENSHI YONEZU 2025 WORLD TOUR / JUNK」は4月6日のYouTubeシアター公演でファイナルを迎えた[142][143]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 83",
+      "location" : "ja · 米津玄師 · 2025年 · 段落 83",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "5月27日、2026年11月から全国6箇所14公演のアリーナツアー「米津玄師 2026 TOUR / GHOST」が開催されることが発表された[144]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 87",
+      "location" : "ja · 米津玄師 · 2025年 · 段落 87",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "8月14日、新曲「JANE DOE」をアニメ映画『チェンソーマン レゼ篇』のエンディング・テーマとして書き下ろしたことが発表され、ゲストボーカルとして宇多田ヒカルを迎えたことも併せて発表された[149]。また、先述の「IRIS OUT」を含む両A面CDシングルのタイトルが『IRIS OUT/JANE DOE』であることも明らかになった[150]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 音楽性 · 段落 102",
+      "location" : "ja · 米津玄師 · 音楽性 · 段落 102",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "おとぎ話のような物語性の色濃い楽曲が、ニコニコ動画上で若いユーザーを中心に人気を博した。メジャーデビュー以前は、作詞・作曲・編曲だけでなく、ミュージックビデオやジャケットワークに至るビジュアルデザインまで自らこなしていた[173]。当時は、DTMによる打ち込みが主体であり、ハチ名義で活動していた中期から、本人名義のアルバム『diorama』リリースした頃は、下手をすれば不協和音になりかねないメロディラインやガチャガチャとしたリズム構成をしつつも、キャッチーさを損なわない音作りが特徴的であった[174]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 音楽性 · 段落 104",
+      "location" : "ja · 米津玄師 · 音楽性 · 段落 104",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "「作曲においては他人と同じことをしていてもしょうがない」というのは第一にあるといい、ハチ名義で楽曲制作していたときは、実際にドラムで叩こうとすると、腕が2本では叩けないフレーズが入っていたという。これは、意図的なものではなく、本当のドラムがどのようであるかということを知らずにいた米津の知識の欠如によるものである。「そこからガチャガチャしたいろんな音を重ねた曲ができてもそれが従来のレコーディングでは行われないっていう認識もなかった」と公言している[175]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 影響を受けた人物・作品 · 段落 108",
+      "location" : "ja · 米津玄師 · 影響を受けた人物・作品 · 段落 108",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "ザ・ウィークエンドを深く敬愛している。ウィークエンドのライブにおいて共演を果たしており、ウィークエンドがアジア公演においてゲスト・ミュージシャンを招待するのは米津玄師が初となった[181][182][183]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · ライブ · 段落 118",
+      "location" : "ja · 米津玄師 · ライブ · 段落 118",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "米津は、2013年にメジャーデビューし、翌年にアルバム『YANKEE』を発売して以来、ライブ活動を続けている。基本的にサポートメンバーを迎え入れたバンドスタイルでの演奏に徹しており、初ライブ以来、メンバーはほとんど固定されている。「米津玄師 2023 TOUR / 空想」からはキーボーディストが加わり、現在では、米津含め計5名のバンドスタイルとなっている。ギタリストの中島宏士は、小学生時代からの幼馴染で、ライブでのMCでは、度々おどけた掛け合いを見せている[261]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 导语 · 段落 8",
+      "location" : "zh · 米津玄師 · 导语 · 段落 8",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "米津玄师（日语：米津 玄師／よねづ けんし，罗马化：Yonezu Kenshi[2][3]；1991年3月10日—）是日本男创作歌手、音乐家、插画家、镜像作家，德岛县出身，为近年日本流行音乐的代表歌手之一。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 导语 · 段落 9",
+      "location" : "zh · 米津玄師 · 导语 · 段落 9",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "于2009年左右开始以“Hachi（ハチ）”的VOCALOID职人艺名在互联网[注 2]发表以VOCALOID歌声合成软件制作的音乐，其后在2012年以专辑《diorama》出道。2016年他从环球音乐转投日本索尼音乐旗下，其后发表的专辑《BOOTLEG》大获成功，不仅获得了日本唱片大赏的优秀专辑奖，在商业上亦取得不俗的成绩。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 导语 · 段落 10",
+      "location" : "zh · 米津玄師 · 导语 · 段落 10",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "在2018年发售的第八张单曲《Lemon》作为日剧《法医女王》的主题曲，全球的实体与数字数量超过300万张，并连续两年位列日本公告牌百强单曲榜排行榜榜首，为米津玄师的代表作[4]。此曲的MV在Youtube上的浏览量超越9亿次[5]，为日本最多浏览次数的视频之一。在2020年发行的第五张专辑《STRAY SHEEP》位列国际唱片业协会全球销量榜第7名，为日本歌手最高纪录[6]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 11",
+      "location" : "zh · 米津玄師 · 经历 · 段落 11",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "米津玄师于中学二年级至高中时期参加乐团，但与团员在创作方向和型态上不合，遂在网络独自发表乐曲[7]。二十岁时被诊断出具有高功能自闭症[8]。最初发表的乐曲皆为自作自唱，更新电脑设备后开始使用电脑音乐软件制作音乐。2009年，使用VOCALOID软件（初音未来、巡音流歌、Megpoid等）创作歌曲并附上手绘音乐视频，以Hachi名义投稿作品一夕成名，至今已累积七首VOCALOID创作歌曲拥有千万甚至亿点阅率，发行两张自主制作CD[7][9]。较为热门的歌曲为《Matryoshka》、《甜甜圈洞》、《Panda Hero》。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 12",
+      "location" : "zh · 米津玄師 · 经历 · 段落 12",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "2010年，参与“南方研究所”独立动画制作社团、合作音乐视频。2011年，加入网络音乐家所组成的音乐公司BALLOOM[10]。2012年，以本名“米津玄师”发行第一张个人专辑《diorama》，作词、作曲、编曲、演唱、演奏、混音到宣传动画和专辑设计皆由自己一手包办，获得Oricon唱片周间排行榜第六名，入选第五回CD店大奖[11]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 14",
+      "location" : "zh · 米津玄師 · 经历 · 段落 14",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "2017年，为动画《三月的狮子》制作片尾曲《Orion》，并于同年发行第六张同名单曲《Orion》。同年，为《我的英雄学院》动画第二期制作动画主题曲《Peace Sign》，并于同年发行第七张同名单曲《Peace Sign》。同年为Magical Mirai 魔法未来2017创作主题曲《砂之行星》，由初音未来演唱；此首歌曲是米津玄师作为VOCALOID音乐家与其相关的最后一首作品。2018年，发行第四张专辑《BOOTLEG》，同年与第二年连续进入排行榜业获得第10回CD店大奖。接着为日本连续剧《法医女王》制作主题曲《Lemon》的下载累计销售超过250万，成为年内最热门的歌曲。另外，这首歌是平成出生的歌手史上第一首超过300万下载的歌曲[12]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 15",
+      "location" : "zh · 米津玄師 · 经历 · 段落 15",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "2019年，米津玄师为歌手菅田将晖创作歌曲《找茬》；它在2019年日本MTV音乐录影带大奖中获得了最佳流行歌曲奖。在当年日本公告牌杂志公布年终排行榜时，《马与鹿》和《找茬》分别排名第五和第六名[13]。在12月30日举行的第61届日本唱片大奖中以《红辣椒》获得特别奖。其创作的歌曲《海之幽灵》被选为动画电影《海兽的孩子》的主题曲[14]。米津玄师的巨大影响力也延伸至大中华地区，他在同年于中国和台湾举办首次海外演唱会[15]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 16",
+      "location" : "zh · 米津玄師 · 经历 · 段落 16",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "2020年，米津玄师为日本男子乐队岚共同创作了歌曲《风筝》，作为NHK报导2020年夏季奥林匹克运动会的主题曲。同年7月6日，米津玄师发行了为电视剧《MIU404》创作的歌曲《感电》，在次月5日被收录于专辑《STRAY SHEEP》。8月7日，他在《堡垒之夜》的Party Royale中表演，演唱了两天前发行的最新专辑《STRAY SHEEP》中的歌曲[16]。12月，他成为第62届日本唱片大奖特别成就奖的五位获得者之一[17]。2021年以《STRAY SHEEP》获得第13回CD店大奖。 2022年，先后发行了《M八七》和《KICK BACK》，该歌曲被用作特摄电影《新·奥特曼》的主题曲[18]和动漫《电锯人》的片头主题曲[19]。2023年，米津玄师创作的歌曲《地球仪》作为宫崎骏同年发行的动画电影《你想活出怎样的人生》主题曲[20]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 出道 · 段落 19",
+      "location" : "zh · 米津玄師 · 出道 · 段落 19",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "原以VOCALOID职人成名的米津玄师，认为“不想藏在VOCALOID的隐形斗篷里头”，因而使用本名发行个人专辑[7]。在Niconico动画网站投稿的音乐视频，也确实分类为“Hachi”和“米津玄师”两方作品。加入环球唱片，则是抱持“和拥有相同热量、相同方向的人们一起制作音乐会是最正确的姿态”的理念，决定加入商业音乐公司[26]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 其他 · 段落 21",
+      "location" : "zh · 米津玄師 · 其他 · 段落 21",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "除了音乐活动外，米津玄师也有从事插画工作，像是他自己的专辑、替动画制作的主题曲、购买CD的特典、现场演出的收集品都是他自己绘制的作品，他也有为动画《3月的狮子》第25话结束画面绘制插图。根据米津自己的说法，小时候他就很喜欢画画[28]，在从事音乐工作前他其实是想当漫画家的[29]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 其他 · 段落 22",
+      "location" : "zh · 米津玄師 · 其他 · 段落 22",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "艺名Hachi（ハチ）的由来：自认本名难念，想取一个好记的名字，参考姐姐喜爱的日本少女漫画《NANA》角色小松奈奈（日语奈奈与七同音）就叫“ハチ”（日语八的发音）[30]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 自主制作作品 · 段落 26",
+      "location" : "zh · 米津玄師 · 自主制作作品 · 段落 26",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296"
+      },
+      "text" : "以Hachi名义发表，基本旋律和歌声部分使用VOCALOID。"
+    },
+    {
+      "id" : "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · 导语 · 段落 2",
+      "location" : "en · Kenshi Yonezu · 导语 · 段落 2",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Kenshi Yonezu",
+        "url" : "https://en.wikipedia.org/w/index.php?oldid=1383609841"
+      },
+      "text" : "Kenshi Yonezu (米津 玄師, Yonezu Kenshi; born March 10, 1991) is a Japanese singer-songwriter, musician, producer, and illustrator. He started releasing Vocaloid music under the stage name Hachi (ハチ) in 2009. In 2012, he debuted under his real name, releasing music with his own voice. He has sold at least 4.2 million physical copies and over 7 million digital copies in Japan."
+    },
+    {
+      "id" : "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · Early life and career · 段落 6",
+      "location" : "en · Kenshi Yonezu · Early life and career · 段落 6",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Kenshi Yonezu",
+        "url" : "https://en.wikipedia.org/w/index.php?oldid=1383609841"
+      },
+      "text" : "Yonezu moved to Osaka after high school and attended a fine arts school.[21] He discovered Japanese musician Susumu Hirasawa on Nico Nico Douga and was strongly influenced by his work.[22] After upgrading his computer, he began desktop music (DTM) and released about 30 original songs under the name Hachi, featuring his own vocals, on platforms like Nico Nico Douga. However, he later deleted all of them. The reason cited was that his own influences were too heavily reflected in the songs.[12] Additionally, prior to his activities as Hachi, he was active under the name MinasoKo.[23] Since 2009, he began uploading songs using the Vocaloid software Hatsune Miku alongside his band activities, gaining popularity. His 2009 song \"Musunde Hiraite Rasetsu to Mukuro\" (結ンデ開イテ羅刹ト骸) was his first song to receive over a million views on the site.[24] Yonezu uploaded over thirty songs, but he deleted them when his Vocaloid songs became popular.[12] He renamed his blog Denshi-chō Hachibangai (電子帖八番街; \"Electronic Notebook 8th Avenue\"), and it was one of five blogs awarded the Diamond Award at the 2009 WebMoney Awards.[25]"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 概要 · 段落 8",
+      "location" : "ja · 米津玄師 · 概要 · 段落 8",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 米津玄師",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272"
+      },
+      "text" : "2025年に発売された16枚目のシングル「IRIS OUT/JANE DOE」の表題曲「IRIS OUT」は、配信リリース後4週でストリーミング再生1億回を達成、「アイドル」（YOASOBI）を上回り史上最速を更新した。さらに同年10月4日付のBillboard Global 200では、日本語楽曲として史上最高位となる5位をマークした[21]。"
+    }
+  ],
+  "requests" : [
+    {
+      "purpose" : "Wikidata 精确 ID、别名与陈述",
+      "status" : 200,
+      "url" : "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=1&ids=Q11604296&languages=ja%7Czh%7Czh-hans%7Cen&props=labels%7Caliases%7Cclaims%7Csitelinks&sitefilter=jawiki%7Czhwiki%7Cenwiki"
+    },
+    {
+      "purpose" : "维基正文与身份核对",
+      "status" : 200,
+      "url" : "https://ja.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose" : "维基正文与身份核对",
+      "status" : 200,
+      "url" : "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose" : "维基正文与身份核对",
+      "status" : 200,
+      "url" : "https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Kenshi%20Yonezu&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 405,
+      "url" : "https://natalie.mu/robots.txt"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 200,
+      "url" : "https://realsound.jp/robots.txt"
+    },
+    {
+      "purpose" : "新歌站内发现",
+      "status" : 200,
+      "url" : "https://realsound.jp/?s=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%88"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 200,
+      "url" : "https://reissuerecords.net/robots.txt"
+    },
+    {
+      "purpose" : "官网",
+      "status" : 200,
+      "url" : "https://reissuerecords.net/profile/"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 200,
+      "url" : "https://www.billboard-japan.com/robots.txt"
+    },
+    {
+      "purpose" : "新闻／访谈",
+      "status" : 200,
+      "url" : "https://www.billboard-japan.com/d_news/detail/154530/2"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 200,
+      "url" : "https://www.thefirsttimes.jp/robots.txt"
+    }
+  ],
+  "skipped" : [
+    {
+      "reason" : "尚无已核对的 Wikidata ID，不按同名归并",
+      "url" : "jane"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://x.com/hachi_08/status/468758483311947777"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://x.com/hachi_08/status/560086438172057600"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/profile/9945"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.excite.co.jp/news/dictionary/person/PEa756cec671e491186204ed1da3a2defd24b82c40/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://news.j-wave.co.jp/2019/02/25-11.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.j-wave.co.jp/original/otoajito/171.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://dengekionline.com/elem/000/000/229/229821/index-2.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210228050537/http://nicovideo.jp/watch/sm6907046"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://weekly.ascii.jp/elem/000/002/605/2605849/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://weekly.ascii.jp/elem/000/002/605/2605844/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20141025112637/http://music.emtg.jp/news/2014100447560dcc0"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/134751"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/152864"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://rockinon.com/news/detail/131651"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/158452"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/178633"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/197143"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/197076"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/248900"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/233276"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/247940"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://rockinon.com/news/detail/171944"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://barks.jp/news/809520/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/301258"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/329034"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/369865"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.phileweb.com/sp/news/hobby/202008/05/3565.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://av.watch.impress.co.jp/docs/news/1269484.html"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/475463"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/499255"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://www.thefirsttimes.jp/report/0000299947/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/593115"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://www.oricon.co.jp/robots.txt"
+    },
+    {
+      "reason" : "robots 无法读取，保守跳过",
+      "url" : "https://www.oricon.co.jp/news/2360082/full/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/605008"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/581010"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/587238"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/619994"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://www.thefirsttimes.jp/report/0000600830/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/625411"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://reissuerecords.net/2025/08/14/janedoe_chainsawman/"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://www.billboard-japan.com/d_news/detail/152512/2"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://barks.jp/news/1019441/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/641224"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://reissuerecords.net/2025/09/22/irisout_janedoe_0924/"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://reissuerecords.net/2026/01/27/irisout_jane-doe_vinyl_release/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.m-on-music.jp/0000095460/2/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/pp/yonezukenshi03"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/pp/yonezukenshi03/page/2"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://rollingstonejapan.com/articles/detail/29490"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://x.com/hachi_08/status/1065469945612402688"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://www.oricon.co.jp/news/2125924/full/"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://www.billboard-japan.com/d_news/detail/53701/2"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://twitter.com/hachi_08/status/468758483311947777"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://twitter.com/hachi_08/status/560086438172057600"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://tower.jp/article/news/2020/05/20/tg005"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210606173202/https://tower.jp/article/news/2020/05/20/tg005"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.am730.com.hk/%E5%A8%9B%E6%A8%82/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E5%86%8D%E5%89%B5%E7%B4%80%E9%8C%84-lemon-mv%E7%AA%81%E7%A0%B48%E5%84%84%E8%A7%80%E7%9C%8B%E6%AC%A1%E6%95%B8/368744"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20230416174932/https://www.am730.com.hk/%E5%A8%9B%E6%A8%82/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E5%86%8D%E5%89%B5%E7%B4%80%E9%8C%84-lemon-mv%E7%AA%81%E7%A0%B48%E5%84%84%E8%A7%80%E7%9C%8B%E6%AC%A1%E6%95%B8/368744"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://spice.eplus.jp/articles/284139"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210606033652/https://spice.eplus.jp/articles/284139"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210430233927/https://natalie.mu/music/news/68569"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://news.tvbs.com.tw/entertainment/1068670"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210418205759/https://news.tvbs.com.tw/entertainment/1068670"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20130629153820/http://news.dengeki.com/elem/000/000/229/229821/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20130929130304/http://www.oricon.co.jp/news/music/85426/full/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210418203925/https://natalie.mu/music/news/84260"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://av.watch.impress.co.jp/docs/news/1210017.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210418205757/https://av.watch.impress.co.jp/docs/news/1210017.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20200609025130/http://www.billboard-japan.com/charts/detail?a=hot100_year&year=2019"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://news.eigafan.com/kaijunokodomo/2019/04/24/%E4%B8%BB%E9%A1%8C%E6%AD%8C%E3%81%8C%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E3%81%AE%E6%96%B0%E6%9B%B2%E3%80%8C%E6%B5%B7%E3%81%AE%E5%B9%BD%E9%9C%8A%E3%80%8D%E3%81%AB%E6%B1%BA%E5%AE%9A%EF%BC%81/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20190522093523/https://news.eigafan.com/kaijunokodomo/2019/04/24/%E4%B8%BB%E9%A1%8C%E6%AD%8C%E3%81%8C%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E3%81%AE%E6%96%B0%E6%9B%B2%E3%80%8C%E6%B5%B7%E3%81%AE%E5%B9%BD%E9%9C%8A%E3%80%8D%E3%81%AB%E6%B1%BA%E5%AE%9A%EF%BC%81/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.tokyohive.com/article/2019/01/yonezu-kenshi-to-hold-first-overseas-concerts-in-china-and-taiwan"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20230424042308/https://www.tokyohive.com/article/2019/01/yonezu-kenshi-to-hold-first-overseas-concerts-in-china-and-taiwan"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.epicgames.com/fortnite/en-US/news/kenshi-yonezu-at-party-royale"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20230105120951/https://www.epicgames.com/fortnite/en-US/news/kenshi-yonezu-at-party-royale"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://aramajapan.com/featured/winners-and-nominees-for-the-62nd-japan-record-awards-announced/110091/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210512220026/https://aramajapan.com/featured/winners-and-nominees-for-the-62nd-japan-record-awards-announced/110091/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/473092"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20230406235022/https://natalie.mu/music/news/473092"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.cbr.com/chainsaw-man-anime-opening-ending-song-artsits/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20221013194316/https://www.cbr.com/chainsaw-man-anime-opening-ending-song-artsits/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://www.oricon.co.jp/news/2287031/full/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20230718141405/https://www.oricon.co.jp/news/2287031/full/"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://www.billboard-japan.com/d_news/detail/151140/2"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20250812174703/https://www.billboard-japan.com/d_news/detail/151140/2"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/634554"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20250911091024/https://natalie.mu/music/news/634554"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20250814115918/https://reissuerecords.net/2025/08/14/janedoe_chainsawman/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210418202605/https://natalie.mu/music/pp/yonezukenshi02/page/2"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://cakes.mu/posts/11822"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210420231658/https://cakes.mu/posts/11822"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://twitter.com/hachi_08/status/600318679524315138"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210418203150/https://twitter.com/hachi_08/status/600318679524315138"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://highsnobiety.jp/p/hsjp-mag-issue-01-kenshi-yonezu-interview/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210424192108/https://highsnobiety.jp/p/hsjp-mag-issue-01-kenshi-yonezu-interview/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20131031121323/http://www.tfm.co.jp/lock/staff/onair/2012/0613/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20251128100245/https://www.j-wave.co.jp/original/otoajito/171.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20130927080625/http://dengekionline.com/elem/000/000/229/229821/index-2.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20210228050537/https://www.nicovideo.jp/watch/sm6907046"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.nicovideo.jp/watch/sm6907046"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20130927080537/http://dengekionline.com/elem/000/000/229/229821/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20130717045837/http://www.webmoney.jp/award2009/enjoy/award/yakari.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://ascii.jp/elem/000/000/491/491279/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/100263"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://electricbloomwebzine.com/2025/10/kenshi-yonezu-iris-out-breaks-japan-streaming-record-100-million.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.billboard.com/articles/news/international/7890238/kenshi-yonezu-profile-popularity-japan"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20140424025725/http://realsound.jp/2014/04/post-444.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20140424033953/http://natalie.mu/music/pp/yonezukenshi04/page/2"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20220518235655/https://www.mikufan.com/hatsune-miku-magical-mirai-2017-official-album-announced-preorders-now-open/"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://reissuerecords.net/"
+    },
+    {
+      "reason" : "12,000 字上限，保留整段原文",
+      "url" : "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · Early life and career · 段落 7"
+    },
+    {
+      "reason" : "12,000 字上限，保留整段原文",
+      "url" : "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · Major label debut · 段落 14"
+    },
+    {
+      "reason" : "12,000 字上限，保留整段原文",
+      "url" : "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · Artistry · 段落 17"
+    },
+    {
+      "reason" : "12,000 字上限，保留整段原文",
+      "url" : "https://en.wikipedia.org/w/index.php?oldid=1383609841#en · Kenshi Yonezu · Artistry · 段落 18"
+    },
+    {
+      "reason" : "12,000 字上限，保留整段原文",
+      "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2025年 · 段落 89"
+    },
+    {
+      "reason" : "12,000 字上限，保留整段原文",
+      "url" : "https://ja.wikipedia.org/w/index.php?oldid=111632272#ja · 米津玄師 · 2026年 · 段落 95"
+    },
+    {
+      "reason" : "12,000 字上限，保留整段原文",
+      "url" : "https://zh.wikipedia.org/w/index.php?oldid=95395296#zh · 米津玄師 · 经历 · 段落 17"
+    }
+  ],
+  "version" : 1
+}

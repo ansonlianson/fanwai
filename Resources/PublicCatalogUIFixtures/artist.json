@@ -1,0 +1,15 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "kensuke ushio",
+      "artistLinkUrl": "https://music.apple.com/jp/artist/%E7%89%9B%E5%B0%BE%E6%86%B2%E8%BC%94/939561587?uo=4",
+      "artistId": 939561587,
+      "amgArtistId": 3481191,
+      "primaryGenreName": "サウンドトラック",
+      "primaryGenreId": 16
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "song": {
+    "data": [
+      {
+        "id": "91001",
+        "type": "songs",
+        "attributes": {
+          "name": "Fixture Song",
+          "artistName": "Fixture Artist",
+          "composerName": "Fixture Composer",
+          "genreNames": [
+            "Alternative"
+          ],
+          "isrc": "JPTST2600001",
+          "releaseDate": "2026-10-01",
+          "editorialNotes": {
+            "standard": "<p>Fixture Song began at the piano.</p>"
+          },
+          "durationInMillis": 180000
+        },
+        "relationships": {
+          "artists": {
+            "data": [
+              {
+                "id": "93001",
+                "type": "artists",
+                "attributes": {
+                  "name": "Fixture Artist",
+                  "genreNames": [
+                    "Alternative"
+                  ],
+                  "editorialNotes": {
+                    "standard": "<p>Fixture Artist writes songs.</p>"
+                  }
+                }
+              }
+            ]
+          },
+          "composers": {
+            "data": [
+              {
+                "id": "93002",
+                "type": "artists",
+                "attributes": {
+                  "name": "Fixture Composer"
+                }
+              }
+            ]
+          },
+          "albums": {
+            "data": [
+              {
+                "id": "92001",
+                "type": "albums",
+                "attributes": {
+                  "name": "Fixture Album",
+                  "artistName": "Fixture Artist",
+                  "recordLabel": "Fixture Records",
+                  "copyright": "2026 Fixture",
+                  "upc": "000000000000",
+                  "releaseDate": "2026-10-01",
+                  "editorialNotes": {
+                    "standard": "<p>Fixture Album liner notes.</p>"
+                  }
+                }
+              }
+            ]
+          },
+          "music-videos": {
+            "data": [
+              {
+                "id": "94001",
+                "type": "music-videos",
+                "attributes": {
+                  "name": "Fixture MV"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "album": {
+    "data": [
+      {
+        "id": "92001",
+        "type": "albums",
+        "attributes": {
+          "name": "Fixture Album",
+          "artistName": "Fixture Artist",
+          "recordLabel": "Fixture Records",
+          "copyright": "2026 Fixture",
+          "upc": "000000000000",
+          "releaseDate": "2026-10-01",
+          "editorialNotes": {
+            "standard": "<p>Fixture Album liner notes.</p>"
+          }
+        },
+        "relationships": {
+          "artists": {
+            "data": [
+              {
+                "id": "93001",
+                "type": "artists",
+                "attributes": {
+                  "name": "Fixture Artist",
+                  "genreNames": [
+                    "Alternative"
+                  ],
+                  "editorialNotes": {
+                    "standard": "<p>Fixture Artist writes songs.</p>"
+                  }
+                }
+              }
+            ]
+          },
+          "tracks": {
+            "data": [
+              {
+                "id": "91001",
+                "type": "songs",
+                "attributes": {
+                  "name": "Fixture Song"
+                }
+              },
+              {
+                "id": "91002",
+                "type": "songs",
+                "attributes": {
+                  "name": "Fixture B-side"
+                }
+              }
+            ]
+          }
+        },
+        "views": {
+          "other-versions": {
+            "data": [
+              {
+                "id": "92002",
+                "type": "albums",
+                "attributes": {
+                  "name": "Fixture Deluxe"
+                }
+              }
+            ]
+          },
+          "related-albums": {
+            "data": [
+              {
+                "id": "92003",
+                "type": "albums",
+                "attributes": {
+                  "name": "Fixture Related"
+                }
+              }
+            ],
+            "next": "/v1/catalog/jp/albums/92001/view/related-albums?offset=1"
+          },
+          "appears-on": {
+            "data": [
+              {
+                "id": "95001",
+                "type": "playlists",
+                "attributes": {
+                  "name": "Fixture Playlist"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "artist": {
+    "data": [
+      {
+        "id": "93001",
+        "type": "artists",
+        "attributes": {
+          "name": "Fixture Artist",
+          "genreNames": [
+            "Alternative"
+          ],
+          "editorialNotes": {
+            "standard": "<p>Fixture Artist writes songs.</p>"
+          }
+        },
+        "views": {
+          "similar-artists": {
+            "data": [
+              {
+                "id": "93003",
+                "type": "artists",
+                "attributes": {
+                  "name": "Fixture Similar"
+                }
+              }
+            ]
+          },
+          "latest-release": {
+            "data": [
+              {
+                "id": "92004",
+                "type": "albums",
+                "attributes": {
+                  "name": "Fixture Latest"
+                }
+              }
+            ]
+          },
+          "top-songs": {
+            "data": [
+              {
+                "id": "91001",
+                "type": "songs",
+                "attributes": {
+                  "name": "Fixture Song"
+                }
+              }
+            ]
+          },
+          "appears-on-albums": {
+            "data": [
+              {
+                "id": "92005",
+                "type": "albums",
+                "attributes": {
+                  "name": "Fixture Compilation"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "search": {
+    "results": {
+      "songs": {
+        "data": [
+          {
+            "id": "91001",
+            "type": "songs",
+            "attributes": {
+              "name": "Fixture Song",
+              "artistName": "Fixture Artist",
+              "composerName": "Fixture Composer",
+              "genreNames": [
+                "Alternative"
+              ],
+              "isrc": "JPTST2600001",
+              "releaseDate": "2026-10-01",
+              "editorialNotes": {
+                "standard": "<p>Fixture Song began at the piano.</p>"
+              },
+              "durationInMillis": 180000
+            },
+            "relationships": {
+              "artists": {
+                "data": [
+                  {
+                    "id": "93001",
+                    "type": "artists",
+                    "attributes": {
+                      "name": "Fixture Artist",
+                      "genreNames": [
+                        "Alternative"
+                      ],
+                      "editorialNotes": {
+                        "standard": "<p>Fixture Artist writes songs.</p>"
+                      }
+                    }
+                  }
+                ]
+              },
+              "composers": {
+                "data": [
+                  {
+                    "id": "93002",
+                    "type": "artists",
+                    "attributes": {
+                      "name": "Fixture Composer"
+                    }
+                  }
+                ]
+              },
+              "albums": {
+                "data": [
+                  {
+                    "id": "92001",
+                    "type": "albums",
+                    "attributes": {
+                      "name": "Fixture Album",
+                      "artistName": "Fixture Artist",
+                      "recordLabel": "Fixture Records",
+                      "copyright": "2026 Fixture",
+                      "upc": "000000000000",
+                      "releaseDate": "2026-10-01",
+                      "editorialNotes": {
+                        "standard": "<p>Fixture Album liner notes.</p>"
+                      }
+                    }
+                  }
+                ]
+              },
+              "music-videos": {
+                "data": [
+                  {
+                    "id": "94001",
+                    "type": "music-videos",
+                    "attributes": {
+                      "name": "Fixture MV"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "wikidata-search": {
+    "query": {
+      "search": [
+        {
+          "title": "Q99901"
+        }
+      ]
+    }
+  },
+  "wikidata-entity": {
+    "entities": {
+      "Q99901": {
+        "id": "Q99901",
+        "type": "item",
+        "labels": {
+          "en": {
+            "value": "Fixture Song"
+          }
+        },
+        "claims": {
+          "P1243": [
+            {
+              "id": "Q99901$11111111-1111-1111-1111-111111111111",
+              "rank": "normal",
+              "mainsnak": {
+                "snaktype": "value",
+                "datatype": "external-id",
+                "datavalue": {
+                  "value": "JPTST2600001"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "artist-search": {
+    "query": {
+      "search": [
+        {
+          "title": "Q99902"
+        }
+      ]
+    }
+  },
+  "artist-entity": {
+    "entities": {
+      "Q99902": {
+        "id": "Q99902",
+        "type": "item",
+        "labels": {
+          "en": {
+            "value": "Fixture Artist"
+          }
+        },
+        "claims": {
+          "P2850": [
+            {
+              "id": "Q99902$11111111-1111-1111-1111-111111111111",
+              "rank": "normal",
+              "mainsnak": {
+                "snaktype": "value",
+                "datatype": "external-id",
+                "datavalue": {
+                  "value": "93001"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "mb-isrc": {
+    "isrc": "JPTST2600001",
+    "recordings": [
+      {
+        "id": "11111111-2222-3333-4444-555555555555",
+        "title": "Fixture Song"
+      }
+    ]
+  },
+  "mb-recording": {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "title": "Fixture Song",
+    "isrcs": [
+      "JPTST2600001"
+    ],
+    "relations": [
+      {
+        "type": "performance",
+        "work": {
+          "id": "22222222-2222-3333-4444-555555555555",
+          "relations": [
+            {
+              "type": "composer",
+              "artist": {
+                "id": "33333333-2222-3333-4444-555555555555",
+                "name": "Fixture Composer"
+              }
+            },
+            {
+              "type": "lyricist",
+              "artist": {
+                "id": "33333333-2222-3333-4444-555555555555",
+                "name": "Fixture Composer"
+              }
+            },
+            {
+              "type": "arranger",
+              "artist": {
+                "id": "33333333-2222-3333-4444-555555555555",
+                "name": "Fixture Composer"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

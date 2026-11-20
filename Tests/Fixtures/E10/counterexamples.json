@@ -1,0 +1,658 @@
+[
+  {
+    "row": {
+      "case": "kickback",
+      "lane": "pro-dev",
+      "edge": {
+        "from": "mw_kickback",
+        "to": "mw_souda",
+        "relation": "arrangement_of",
+        "why": "音乐作品《KICK BACK》采样了《そうだ！We're ALIVE》，属于改编关系。",
+        "source_id": "S6",
+        "quote": "モーニング娘。の「そうだ！We're ALIVE」をサンプリング。"
+      },
+      "fromNode": {
+        "ref": "mw_kickback",
+        "name": "KICK BACK",
+        "target_type": "music_work",
+        "creator": "米津玄師",
+        "composer": "米津玄師",
+        "arranger": "米津玄師, 常田大希"
+      },
+      "toNode": {
+        "ref": "mw_souda",
+        "name": "そうだ！We're ALIVE",
+        "target_type": "music_work",
+        "creator": "モーニング娘。",
+        "composer": "つんく",
+        "identity_source_id": "S5"
+      },
+      "source": {
+        "id": "S6",
+        "title": "KICK BACK【映像盤】 | 米津玄師 | ソニーミュージックオフィシャルサイト",
+        "url": "https://www.sonymusic.co.jp/artist/kenshiyonezu/discography/SECL-2817",
+        "publisher": "ソニーミュージックオフィシャルサイト"
+      },
+      "id": "counter-0",
+      "expected": "sampleIsNotArrangement"
+    },
+    "packet": {
+      "fetchSeconds": 0.0018510818481445312,
+      "fetchedAt": 816433886.443032,
+      "fetches": 0,
+      "queries": [
+        {
+          "purpose": "identity",
+          "text": "KICK BACK 米津玄師"
+        },
+        {
+          "purpose": "lineage",
+          "text": "KICK BACK 米津玄師 原曲 原作 出典"
+        },
+        {
+          "purpose": "story",
+          "text": "KICK BACK 米津玄師 インタビュー 制作"
+        },
+        {
+          "purpose": "downstream",
+          "text": "KICK BACK サンプリング カバー 使用 アレンジ"
+        },
+        {
+          "purpose": "context",
+          "text": "KICK BACK - Single 米津玄師 インタビュー 创作"
+        }
+      ],
+      "searchSeconds": 0.5944030284881592,
+      "searches": 5,
+      "selectionSeconds": 0.12672507762908936,
+      "sources": [
+        {
+          "authority": 4,
+          "id": "S6",
+          "publishedAt": "2022-11-22T16:00:00+00:00",
+          "publisher": "ソニーミュージックオフィシャルサイト",
+          "purposes": [
+            "identity",
+            "lineage"
+          ],
+          "text": "# KICK BACK【映像盤】\n\n話題沸騰のTVアニメ『チェンソーマン』オープニング・テーマ！\n\n¥2,200税込\n\nSECL-2817 ～ SECL-2818\n\n- 1 KICK BACK\n\n- 2 恥ずかしくってしょうがねえ\n\n- 3 KICK BACK -ANIME edit\n\n- 1 TVアニメ『チェンソーマン』ノンクレジットオープニングムービー\n\n- 2 M八七 (Music Video)\n\nTVアニメ『チェンソーマン』オープニング・テーマとして、米津玄師が書きおろした「KICK BACK」。\n\n先行配信ではデイリーチャート１位を３１冠獲得し、話題沸騰の楽曲をシングルリリース。\n\n「KICK BACK」は、作詞・作曲、米津玄師。アレンジに、常田大希(King Gnu/millennium parade)を迎え、パワフルなオルタナティブサウンドに仕上げたほか、モーニング娘。の「そうだ！We're ALIVE」をサンプリング。\n\nジャケットは、米津玄師がチェンソーマンを描いた作品となっています。\n\n『チェンソーマン』は、藤本タツキ原作、コミックス累計部数1500万部を突破し、現在第2部「学園編」が「少年ジャンプ+」で連載中のワールドワイドで人気を集めるマンガ。アニメーション化にあたっては、数々のヒットアニメを制作するMAPPAが制作を担当。\n\n5月にリリースしたシングル「M八七」（読み：エム ハチジュウナナ／映画『シン・ウルトラマン』主題歌）はBillboard JAPAN総合ランキング・Hot 100で１位を獲得、Billboard HOT BUZZ SONGでも４週連続１位を記録するなど、快進撃を続ける米津玄師のニューシングルをお見逃しなく！\n\n©藤本タツキ／集英社・ＭＡＰＰＡ ©2022 米津玄師／REISSUE RECORDS\n\n【映像盤】\n\n■CD＋DVD\n\n【タイアップ】\n\n■TVアニメ『チェンソーマン』オープニング・テーマ\n\n## LATEST DISCOGRAPHY\n\n- 夜鷹\n\n『キングダム 魂の決戦』主題歌\n\n- 烏\n\n2026 NHKサッカーテーマ\n\n- IRIS OUT / JANE DOE (Vinyl)\n\n米津玄師とチェンソーマン、奇跡のタッグで生まれた全曲入りアナログ盤\n\n- 1991\n\n『秒速5センチメートル』主題歌\n\n- IRIS OUT / JANE DOE 【IRIS OUT盤(初回限定)】\n\n米津玄師、16thシングルは 劇場版『チェンソーマン レゼ篇』 主題歌 、そして 宇多田ヒカルを迎えたエンディング・テーマのダブルA面シングル！\n\n- IRIS OUT / JANE DOE【JANE DOE盤(初回限定)】\n\n米津玄師、16thシングルは 劇場版『チェンソーマン レゼ篇』 主題歌 、そして 宇多田ヒカルを迎えたエンディング・テーマのダブルA面シングル！",
+          "title": "KICK BACK【映像盤】 | 米津玄師 | ソニーミュージックオフィシャルサイト",
+          "url": "https://www.sonymusic.co.jp/artist/kenshiyonezu/discography/SECL-2817"
+        }
+      ],
+      "topic": {
+        "album": "KICK BACK - Single",
+        "creator": "米津玄師",
+        "id": "apple:song:1648272180",
+        "layer": "recording",
+        "title": "KICK BACK"
+      },
+      "version": 1
+    }
+  },
+  {
+    "row": {
+      "case": "kickback",
+      "lane": "pro-dev",
+      "edge": {
+        "from": "current",
+        "to": "game_chainsaw",
+        "relation": "created_for",
+        "why": "该录音是为电视动画《チェンソーマン》的片头曲而创作。",
+        "source_id": "S6",
+        "quote": "TVアニメ『チェンソーマン』オープニング・テーマとして、米津玄師が書きおろした「KICK BACK」。"
+      },
+      "fromNode": {
+        "ref": "current",
+        "name": "KICK BACK",
+        "target_type": "recording",
+        "creator": "米津玄師",
+        "identity_source_id": "S6"
+      },
+      "toNode": {
+        "ref": "game_chainsaw",
+        "name": "チェンソーマン",
+        "target_type": "game",
+        "creator": "MAPPA",
+        "identity_source_id": "S6"
+      },
+      "source": {
+        "id": "S6",
+        "title": "KICK BACK【映像盤】 | 米津玄師 | ソニーミュージックオフィシャルサイト",
+        "url": "https://www.sonymusic.co.jp/artist/kenshiyonezu/discography/SECL-2817",
+        "publisher": "ソニーミュージックオフィシャルサイト"
+      },
+      "id": "counter-1",
+      "expected": "mediaContradiction"
+    },
+    "packet": {
+      "fetchSeconds": 0.0018510818481445312,
+      "fetchedAt": 816433886.443032,
+      "fetches": 0,
+      "queries": [
+        {
+          "purpose": "identity",
+          "text": "KICK BACK 米津玄師"
+        },
+        {
+          "purpose": "lineage",
+          "text": "KICK BACK 米津玄師 原曲 原作 出典"
+        },
+        {
+          "purpose": "story",
+          "text": "KICK BACK 米津玄師 インタビュー 制作"
+        },
+        {
+          "purpose": "downstream",
+          "text": "KICK BACK サンプリング カバー 使用 アレンジ"
+        },
+        {
+          "purpose": "context",
+          "text": "KICK BACK - Single 米津玄師 インタビュー 创作"
+        }
+      ],
+      "searchSeconds": 0.5944030284881592,
+      "searches": 5,
+      "selectionSeconds": 0.12672507762908936,
+      "sources": [
+        {
+          "authority": 4,
+          "id": "S6",
+          "publishedAt": "2022-11-22T16:00:00+00:00",
+          "publisher": "ソニーミュージックオフィシャルサイト",
+          "purposes": [
+            "identity",
+            "lineage"
+          ],
+          "text": "# KICK BACK【映像盤】\n\n話題沸騰のTVアニメ『チェンソーマン』オープニング・テーマ！\n\n¥2,200税込\n\nSECL-2817 ～ SECL-2818\n\n- 1 KICK BACK\n\n- 2 恥ずかしくってしょうがねえ\n\n- 3 KICK BACK -ANIME edit\n\n- 1 TVアニメ『チェンソーマン』ノンクレジットオープニングムービー\n\n- 2 M八七 (Music Video)\n\nTVアニメ『チェンソーマン』オープニング・テーマとして、米津玄師が書きおろした「KICK BACK」。\n\n先行配信ではデイリーチャート１位を３１冠獲得し、話題沸騰の楽曲をシングルリリース。\n\n「KICK BACK」は、作詞・作曲、米津玄師。アレンジに、常田大希(King Gnu/millennium parade)を迎え、パワフルなオルタナティブサウンドに仕上げたほか、モーニング娘。の「そうだ！We're ALIVE」をサンプリング。\n\nジャケットは、米津玄師がチェンソーマンを描いた作品となっています。\n\n『チェンソーマン』は、藤本タツキ原作、コミックス累計部数1500万部を突破し、現在第2部「学園編」が「少年ジャンプ+」で連載中のワールドワイドで人気を集めるマンガ。アニメーション化にあたっては、数々のヒットアニメを制作するMAPPAが制作を担当。\n\n5月にリリースしたシングル「M八七」（読み：エム ハチジュウナナ／映画『シン・ウルトラマン』主題歌）はBillboard JAPAN総合ランキング・Hot 100で１位を獲得、Billboard HOT BUZZ SONGでも４週連続１位を記録するなど、快進撃を続ける米津玄師のニューシングルをお見逃しなく！\n\n©藤本タツキ／集英社・ＭＡＰＰＡ ©2022 米津玄師／REISSUE RECORDS\n\n【映像盤】\n\n■CD＋DVD\n\n【タイアップ】\n\n■TVアニメ『チェンソーマン』オープニング・テーマ\n\n## LATEST DISCOGRAPHY\n\n- 夜鷹\n\n『キングダム 魂の決戦』主題歌\n\n- 烏\n\n2026 NHKサッカーテーマ\n\n- IRIS OUT / JANE DOE (Vinyl)\n\n米津玄師とチェンソーマン、奇跡のタッグで生まれた全曲入りアナログ盤\n\n- 1991\n\n『秒速5センチメートル』主題歌\n\n- IRIS OUT / JANE DOE 【IRIS OUT盤(初回限定)】\n\n米津玄師、16thシングルは 劇場版『チェンソーマン レゼ篇』 主題歌 、そして 宇多田ヒカルを迎えたエンディング・テーマのダブルA面シングル！\n\n- IRIS OUT / JANE DOE【JANE DOE盤(初回限定)】\n\n米津玄師、16thシングルは 劇場版『チェンソーマン レゼ篇』 主題歌 、そして 宇多田ヒカルを迎えたエンディング・テーマのダブルA面シングル！",
+          "title": "KICK BACK【映像盤】 | 米津玄師 | ソニーミュージックオフィシャルサイト",
+          "url": "https://www.sonymusic.co.jp/artist/kenshiyonezu/discography/SECL-2817"
+        }
+      ],
+      "topic": {
+        "album": "KICK BACK - Single",
+        "creator": "米津玄師",
+        "id": "apple:song:1648272180",
+        "layer": "recording",
+        "title": "KICK BACK"
+      },
+      "version": 1
+    }
+  },
+  {
+    "row": {
+      "case": "richter",
+      "lane": "pro-dev",
+      "edge": {
+        "from": "L1",
+        "to": "L6",
+        "relation": "composed_by",
+        "why": "Max Richter 是 Spring 1 的作曲者。",
+        "source_id": "S2",
+        "quote": "\"Spring 1\" was produced by Max Richter."
+      },
+      "fromNode": {
+        "ref": "L1",
+        "name": "Spring 1",
+        "target_type": "music_work",
+        "composer": "Max Richter",
+        "zh": "春 1",
+        "en": "Spring 1"
+      },
+      "toNode": {
+        "ref": "L6",
+        "name": "Max Richter",
+        "target_type": "person",
+        "creator": "Max Richter",
+        "en": "Max Richter",
+        "zh": "马克斯·里希特"
+      },
+      "source": {
+        "id": "S2",
+        "title": "Spring 1 by Max Richter on WhoSampled",
+        "url": "https://www.whosampled.com/Max-Richter/Spring-1/",
+        "publisher": "WhoSampled"
+      },
+      "id": "counter-2",
+      "expected": "creditRoleContradiction",
+      "note": "命题本身可能为真，但这条引文只说produced，不能证明composed。应拒绝该证明，不将Richter给自己作品作曲判为事实错误。另保留合成的真实作曲正向控制。"
+    },
+    "packet": {
+      "fetchSeconds": 0.0012040138244628906,
+      "fetchedAt": 816434214.203491,
+      "fetches": 0,
+      "queries": [
+        {
+          "purpose": "identity",
+          "text": "Spring 1 Max Richter"
+        },
+        {
+          "purpose": "lineage",
+          "text": "Spring 1 Max Richter original sample adaptation"
+        },
+        {
+          "purpose": "story",
+          "text": "Spring 1 Max Richter interview making recording"
+        },
+        {
+          "purpose": "downstream",
+          "text": "Spring 1 sampled by covered adaptation"
+        },
+        {
+          "purpose": "context",
+          "text": "Recomposed By Max Richter: Vivaldi, The Four Seasons Max Richter interview inspiration"
+        },
+        {
+          "purpose": "lineage",
+          "text": "Spring 1 Max Richter original composer game concerto movement"
+        },
+        {
+          "purpose": "context",
+          "text": "Spring 1 Max Richter original work catalogue movement source"
+        }
+      ],
+      "searchSeconds": 1.053076982498169,
+      "searches": 7,
+      "selectionSeconds": 0.10756409168243408,
+      "sources": [
+        {
+          "authority": 3,
+          "id": "S2",
+          "publisher": "WhoSampled",
+          "purposes": [
+            "identity",
+            "lineage"
+          ],
+          "text": "# Spring 1\n\n## Song Connections\n\n### Contains samples of 1 song\n\n### Sampled in 1 song\n\nLucky Again  | Lykke Li  | 2026  | Multiple Elements  \n\n## Questions & Answers\n\n- Which songs were sampled in \"Spring 1\" by Max Richter?\n\n- \"Spring 1\" contains samples of \"Concerto No. 1 in E Major, Op. 8, RV 269, \"La Primavera\" (Spring)\" by Antonio Vivaldi.\n\n- Who produced \"Spring 1\" by Max Richter?\n\n- \"Spring 1\" was produced by Max Richter.\n\n## Discussion\n\nBe the first to comment on this track!\n\nYou must be logged in to comment. Please sign in or sign up.",
+          "title": "Spring 1 by Max Richter on WhoSampled",
+          "url": "https://www.whosampled.com/Max-Richter/Spring-1/"
+        }
+      ],
+      "topic": {
+        "album": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "creator": "Max Richter, Daniel Hope, Konzerthaus Kammerorchester Berlin & André de Ridder",
+        "id": "apple:song:1440745587",
+        "layer": "recording",
+        "title": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 (2012)"
+      },
+      "version": 1
+    }
+  },
+  {
+    "row": {
+      "case": "richter",
+      "lane": "pro-dev",
+      "edge": {
+        "from": "L2",
+        "to": "L6",
+        "relation": "composed_by",
+        "why": "Antonio Vivaldi 是原协奏曲的作曲者。",
+        "source_id": "S2",
+        "quote": "\"Spring 1\" contains samples of \"Concerto No. 1 in E Major, Op. 8, RV 269, \"La Primavera\" (Spring)\" by Antonio Vivaldi."
+      },
+      "fromNode": {
+        "ref": "L2",
+        "name": "Concerto No. 1 in E Major, Op. 8, RV 269, \"La Primavera\" (Spring)",
+        "target_type": "music_work",
+        "composer": "Antonio Vivaldi",
+        "work_number": "Op. 8, RV 269"
+      },
+      "toNode": {
+        "ref": "L6",
+        "name": "Max Richter",
+        "target_type": "person",
+        "creator": "Max Richter",
+        "en": "Max Richter",
+        "zh": "马克斯·里希特"
+      },
+      "source": {
+        "id": "S2",
+        "title": "Spring 1 by Max Richter on WhoSampled",
+        "url": "https://www.whosampled.com/Max-Richter/Spring-1/",
+        "publisher": "WhoSampled"
+      },
+      "id": "counter-3",
+      "expected": "creditPersonNotQuoted",
+      "note": "原作目标人名是Max Richter，引文却仅为Antonio Vivaldi；目标人名不在局部署名引文，拒绝错绑。"
+    },
+    "packet": {
+      "fetchSeconds": 0.0012040138244628906,
+      "fetchedAt": 816434214.203491,
+      "fetches": 0,
+      "queries": [
+        {
+          "purpose": "identity",
+          "text": "Spring 1 Max Richter"
+        },
+        {
+          "purpose": "lineage",
+          "text": "Spring 1 Max Richter original sample adaptation"
+        },
+        {
+          "purpose": "story",
+          "text": "Spring 1 Max Richter interview making recording"
+        },
+        {
+          "purpose": "downstream",
+          "text": "Spring 1 sampled by covered adaptation"
+        },
+        {
+          "purpose": "context",
+          "text": "Recomposed By Max Richter: Vivaldi, The Four Seasons Max Richter interview inspiration"
+        },
+        {
+          "purpose": "lineage",
+          "text": "Spring 1 Max Richter original composer game concerto movement"
+        },
+        {
+          "purpose": "context",
+          "text": "Spring 1 Max Richter original work catalogue movement source"
+        }
+      ],
+      "searchSeconds": 1.053076982498169,
+      "searches": 7,
+      "selectionSeconds": 0.10756409168243408,
+      "sources": [
+        {
+          "authority": 3,
+          "id": "S2",
+          "publisher": "WhoSampled",
+          "purposes": [
+            "identity",
+            "lineage"
+          ],
+          "text": "# Spring 1\n\n## Song Connections\n\n### Contains samples of 1 song\n\n### Sampled in 1 song\n\nLucky Again  | Lykke Li  | 2026  | Multiple Elements  \n\n## Questions & Answers\n\n- Which songs were sampled in \"Spring 1\" by Max Richter?\n\n- \"Spring 1\" contains samples of \"Concerto No. 1 in E Major, Op. 8, RV 269, \"La Primavera\" (Spring)\" by Antonio Vivaldi.\n\n- Who produced \"Spring 1\" by Max Richter?\n\n- \"Spring 1\" was produced by Max Richter.\n\n## Discussion\n\nBe the first to comment on this track!\n\nYou must be logged in to comment. Please sign in or sign up.",
+          "title": "Spring 1 by Max Richter on WhoSampled",
+          "url": "https://www.whosampled.com/Max-Richter/Spring-1/"
+        }
+      ],
+      "topic": {
+        "album": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "creator": "Max Richter, Daniel Hope, Konzerthaus Kammerorchester Berlin & André de Ridder",
+        "id": "apple:song:1440745587",
+        "layer": "recording",
+        "title": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 (2012)"
+      },
+      "version": 1
+    }
+  },
+  {
+    "row": {
+      "case": "edge2022",
+      "lane": "pro-dev",
+      "edge": {
+        "from": "current",
+        "to": "L3",
+        "relation": "part_of",
+        "why": "S1 lists the track on the album Forge Ahead: FINAL FANTASY XIV ～ Arrangement Album ～.",
+        "source_id": "S1",
+        "quote": "The song is number 13 out of 19 in Forge Ahead: FINAL FANTASY XIV ～ Arrangement Album ～ by THE PRIMALS, Keiko."
+      },
+      "fromNode": {
+        "ref": "current",
+        "name": "BtS: To the Edge",
+        "target_type": "recording",
+        "creator": "THE PRIMALS",
+        "identity_source_id": "S1"
+      },
+      "toNode": {
+        "ref": "L3",
+        "name": "Forge Ahead: FINAL FANTASY XIV ～ Arrangement Album ～",
+        "target_type": "release",
+        "creator": "THE PRIMALS",
+        "release_title": "Forge Ahead: FINAL FANTASY XIV ～ Arrangement Album ～"
+      },
+      "source": {
+        "id": "S1",
+        "title": "Band: To the Edge by THE PRIMALS BPM and Key - Band: To the Edge by THE PRIMALS Song Details",
+        "url": "https://songdata.io/track/5gISQkEJzYCThxSoZ3ESXL/Band-To-the-Edge-by-THE-PRIMALS",
+        "publisher": "SongData"
+      },
+      "id": "counter-4",
+      "expected": "currentReleaseMismatch"
+    },
+    "packet": {
+      "fetchSeconds": 0.004315972328186035,
+      "fetchedAt": 816434212.433002,
+      "fetches": 0,
+      "queries": [
+        {
+          "purpose": "identity",
+          "text": "To the Edge THE PRIMALS"
+        },
+        {
+          "purpose": "lineage",
+          "text": "To the Edge THE PRIMALS original sample adaptation"
+        },
+        {
+          "purpose": "story",
+          "text": "To the Edge THE PRIMALS interview making recording"
+        },
+        {
+          "purpose": "downstream",
+          "text": "To the Edge sampled by covered adaptation"
+        },
+        {
+          "purpose": "context",
+          "text": "THE PRIMALS Live in Japan - Beyond the Shadow THE PRIMALS interview inspiration"
+        },
+        {
+          "purpose": "lineage",
+          "text": "To the Edge THE PRIMALS original composer game concerto movement"
+        },
+        {
+          "purpose": "context",
+          "text": "To the Edge THE PRIMALS original work catalogue movement source"
+        }
+      ],
+      "searchSeconds": 1.1304298639297485,
+      "searches": 7,
+      "selectionSeconds": 0.27275097370147705,
+      "sources": [
+        {
+          "authority": 2,
+          "id": "S1",
+          "publisher": "SongData",
+          "purposes": [
+            "identity"
+          ],
+          "text": "# Band: To the Edge by THE PRIMALS Song Details\n\nTHE PRIMALS's 'Band: To the Edge' had a release date set for 2020. Since This song is still less than 10 minute long, it is still considered a pretty long duration song compared to the average song length. This song does not appear to be explicit due to the lack of the \"E\" tag. The song is number 13 out of 19 in Forge Ahead: FINAL FANTASY XIV ～ Arrangement Album ～ by THE PRIMALS, Keiko. Going off of the ISRC code of this track, we detected that the origin of this track is from Japan. In terms of popularity, Band: To the Edge is currently unknown. Although the tone can be danceable to some, this track does projects more of a negative sound rather than a postive one.\n\n## BPM and Tempo\n\nThe tempo marking of Band: To the Edge by THE PRIMALS is Andante (at a walking pace), since this song has a tempo of 100 BPM. With that information, we can conclude that the song has a slow tempo. The time signature for this track is 4/4.\n\n## Music Key\n\nThis song has a musical key of E♭ Minor. Because this track belongs in the E♭ Minor key, the camelot key is 2A. So, the perfect camelot match for 2A would be either 2A or 1B. While, a low energy boost can consist of either 2B or 3A. For moderate energy boost, you would use 11A and a high energy boost can either be 4A or 9A. However, if you are looking for a low energy drop, finding a song with a camelot key of 1A would be a great choice. Where 5A would give you a moderate drop, and 12A or 7A would be a high energy drop. Lastly, 5B allows you to change the mood.\n\nWant to find the BPM and music key for other songs? Check out our BPM and Key Finder page!\n\n- Popularity\n\n- 0%\n\n- Loudness\n\n- -7.384 dB\n\n- Acousticness\n\n- 0%\n\n- Danceability\n\n- 48%\n\n- Energy\n\n- 90%\n\n- Instrumentalness\n\n- 0%\n\n- Liveness\n\n- 34%\n\n- Loudness\n\n- 88%\n\n- Speechiness\n\n- 4%\n\n- Valence\n\n- 30%\n\n## Recommendations\n\nTrack | Artist | Key | Energy | Camelot | BPM \n\n---|---|---|---|---|---\n\nChildish killer II | Mary Dale Sanchez | E Minor | 10 | 9A | 155 BPM \n\nFor Whom Do We Fight | MONACA | D♭ Minor | 8 | 12A | 115 BPM \n\nanima ataraxia | KATE | D Minor | 3 | 7A | 80 BPM \n\nMass Destruction | Lotus Juice | D Major | 10 | 10B | 85 BPM \n\nXenoblade Chronicles 3 (Chain Attack) - Metal Version | Lame Genie | D♭ Major | 10 | 3B | 130 BPM \n\nFive | Hideyuki Fukasawa | D♭ Major | 8 | 3B | 130 BPM \n\n君は僕の希望 | REVO | B Minor | 8 | 10A | 164 BPM \n\nMutual SituaIon (Hyde vs Seth) - UNI2 Mix | 来兎 | C Minor | 8 | 5A | 98 BPM \n\nYOMOTSUHIRASAKA | Arc System Works | G Minor | 9 | 6A | 164 BPM \n\nTrapdoor | Casey Lee Williams, Martin Gonzalez | C Minor | 7 | 5A | 136 BPM \n\nBand: eScape | THE PRIMALS | D Major | 10 | 10B | 145 BPM \n\nSymphony | NAOKI, Arc System Works | E Minor | 10 | 9A | 174 BPM \n\nWings of Terror | 遠藤フビト, Stella Magna, Tsutomu Narita | E Minor | 6 | 9A | 78 BPM \n\nXenoblade Chronicles 3 (New Battle!!!) - Metal Version | Lame Genie | E Major | 9 | 12B | 127 BPM \n\nBlackout | Kota Hoshino | D Major | 9 | 10B | 91 BPM \n\nPulse: I Am the Sea (Remixed by Daiki Ishikawa) | 石川 大樹 | D Major | 8 | 10B | 134 BPM \n\nGood Night, Good Morning | 東山 奈央, Tsutomu Narita | D Major | 1 | \n\nPulse: Beauty's Wicked Wiles (Remixed by Daiki Ishikawa) | 石川 大樹 | A Major | 10 | 11B | 118 BPM \n\nBattle at the Big Bridge - Ver.2 FFRK Ver. arrange | 鈴木克崇 | F Minor | 9 | 4A | 90 BPM \n\nWith Hearts Aligned | 祖堅 正慶 | F♯ Minor | 10 | 11A | 115 BPM ",
+          "title": "Band: To the Edge by THE PRIMALS BPM and Key - Band: To the Edge by THE PRIMALS Song Details",
+          "url": "https://songdata.io/track/5gISQkEJzYCThxSoZ3ESXL/Band-To-the-Edge-by-THE-PRIMALS"
+        }
+      ],
+      "topic": {
+        "album": "THE PRIMALS Live in Japan - Beyond the Shadow",
+        "creator": "THE PRIMALS",
+        "id": "apple:song:1641255720",
+        "layer": "recording",
+        "title": "BtS: To the Edge"
+      },
+      "version": 1
+    }
+  },
+  {
+    "row": {
+      "case": "edge2022",
+      "lane": "pro-dev",
+      "edge": {
+        "from": "L4",
+        "to": "L5",
+        "relation": "part_of",
+        "why": "S3 lists Players' Video - To the Edge as a bonus video on the Blu-ray.",
+        "source_id": "S3",
+        "quote": "特典映像として、舞台裏に密着した「Backstage with THE PRIMALS」を収録！...「Players' Video - To the Edge」を収録！"
+      },
+      "fromNode": {
+        "ref": "L4",
+        "name": "Players' Video - To the Edge",
+        "target_type": "video",
+        "creator": "Square Enix"
+      },
+      "toNode": {
+        "ref": "L5",
+        "name": "THE PRIMALS Live in Japan - Beyond the Shadow",
+        "target_type": "release",
+        "creator": "THE PRIMALS",
+        "release_title": "THE PRIMALS Live in Japan - Beyond the Shadow"
+      },
+      "source": {
+        "id": "S3",
+        "title": "SPEC | THE PRIMALS Live in Japan - Beyond the Shadow [Blu-ray] | SQUARE ENIX",
+        "url": "https://www.jp.square-enix.com/music/sem/page/ff14/primals/btsBD/spec/",
+        "publisher": "Square Enix"
+      },
+      "id": "counter-5",
+      "expected": "invalidRelationProof",
+      "note": "这条来自视频→发行，不是current→发行；原引文含省略号且不逐字存在，应作为无效引文诊断，不能冒充错误当前发行反例。"
+    },
+    "packet": {
+      "fetchSeconds": 0.004315972328186035,
+      "fetchedAt": 816434212.433002,
+      "fetches": 0,
+      "queries": [
+        {
+          "purpose": "identity",
+          "text": "To the Edge THE PRIMALS"
+        },
+        {
+          "purpose": "lineage",
+          "text": "To the Edge THE PRIMALS original sample adaptation"
+        },
+        {
+          "purpose": "story",
+          "text": "To the Edge THE PRIMALS interview making recording"
+        },
+        {
+          "purpose": "downstream",
+          "text": "To the Edge sampled by covered adaptation"
+        },
+        {
+          "purpose": "context",
+          "text": "THE PRIMALS Live in Japan - Beyond the Shadow THE PRIMALS interview inspiration"
+        },
+        {
+          "purpose": "lineage",
+          "text": "To the Edge THE PRIMALS original composer game concerto movement"
+        },
+        {
+          "purpose": "context",
+          "text": "To the Edge THE PRIMALS original work catalogue movement source"
+        }
+      ],
+      "searchSeconds": 1.1304298639297485,
+      "searches": 7,
+      "selectionSeconds": 0.27275097370147705,
+      "sources": [
+        {
+          "authority": 3,
+          "id": "S3",
+          "publisher": "Square Enix",
+          "purposes": [
+            "story"
+          ],
+          "text": "日本語\n\n- English\n\n# THE PRIMALS Live in Japan - Beyond the Shadow\n\n- SQEX-20089\n\n- ¥6,050 (税抜価格 ¥5,500)\n\n- Blu-ray Disc1枚\n\n- 特装デジパック仕様\n\n- 本編・特典映像 英語字幕付き\n\nPoint1\n\n会場や配信で全世界を熱狂の渦に巻き込んだ\n\n「THE PRIMALS Live in Japan - Beyond the Shadow」\n\n6月4日公演の映像を収録！\n\n※Blu-ray収録用に編集した映像となります\n\nPoint2\n\n高音質の音源を映像と共に楽しめる！\n\nおなじみのBlu-ray Disc Musicを採用！\n\nPoint3\n\n光の戦士を驚かせた！\n\nエメトセルクのナレーションも、英語字幕付きで収録！\n\nPoint4\n\n音源ダウンロード機能も搭載！\n\n本編21曲がMP3音源でダウンロード可能に！\n\n※「悠久の風」「メイン・テーマ～マトーヤの洞窟メドレー」「ビッグブリッヂの死闘」を除く\n\nPoint5\n\n特典映像として、舞台裏に密着した\n\n「Backstage with THE PRIMALS」を収録！\n\nPoint6\n\n事前にプレイ動画を募集し、演奏に合わせて\n\nスクリーンに投影された「Players' Video - 貪欲」、\n\n「Players' Video - To the Edge」を収録！",
+          "title": "SPEC | THE PRIMALS Live in Japan - Beyond the Shadow [Blu-ray] | SQUARE ENIX",
+          "url": "https://www.jp.square-enix.com/music/sem/page/ff14/primals/btsBD/spec/"
+        }
+      ],
+      "topic": {
+        "album": "THE PRIMALS Live in Japan - Beyond the Shadow",
+        "creator": "THE PRIMALS",
+        "id": "apple:song:1641255720",
+        "layer": "recording",
+        "title": "BtS: To the Edge"
+      },
+      "version": 1
+    }
+  },
+  {
+    "row": {
+      "case": "night",
+      "lane": "pro-probe",
+      "edge": {
+        "from": "work1",
+        "to": "person1",
+        "relation": "composed_by",
+        "why": "ビートまりお is the arranger/composer of ナイト・オブ・ナイツ",
+        "source_id": "S2",
+        "quote": "編曲:ビートまりお"
+      },
+      "fromNode": {
+        "ref": "work1",
+        "name": "ナイト・オブ・ナイツ",
+        "target_type": "music_work",
+        "creator": "ビートまりお",
+        "composer": "ビートまりお"
+      },
+      "toNode": {
+        "ref": "person1",
+        "name": "ビートまりお",
+        "target_type": "person",
+        "creator": "ビートまりお"
+      },
+      "source": {
+        "id": "S2",
+        "title": "オールナイト・オブ・ナイツ プロジェクト（COOL&CREATE）の通販・購入はメロンブックス",
+        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2915573",
+        "publisher": "メロンブックス"
+      },
+      "id": "counter-6",
+      "expected": "creditRoleContradiction"
+    },
+    "packet": {
+      "fetchSeconds": 0.0010510683059692383,
+      "fetchedAt": 816433896.790428,
+      "fetches": 0,
+      "queries": [
+        {
+          "purpose": "identity",
+          "text": "ナイト・オブ・ナイツ COOL&CREATE"
+        },
+        {
+          "purpose": "lineage",
+          "text": "ナイト・オブ・ナイツ COOL&CREATE 原曲 原作 出典"
+        },
+        {
+          "purpose": "story",
+          "text": "ナイト・オブ・ナイツ COOL&CREATE インタビュー 制作"
+        },
+        {
+          "purpose": "downstream",
+          "text": "ナイト・オブ・ナイツ サンプリング カバー 使用 アレンジ"
+        },
+        {
+          "purpose": "context",
+          "text": "東方インストライク (feat.ビートまりお) COOL&CREATE インタビュー 创作"
+        }
+      ],
+      "searchSeconds": 0.4832170009613037,
+      "searches": 5,
+      "selectionSeconds": 0.08443403244018555,
+      "sources": [
+        {
+          "authority": 3,
+          "id": "S2",
+          "publishedAt": "2025-05-04T16:00:00+00:00",
+          "publisher": "メロンブックス",
+          "purposes": [
+            "identity",
+            "lineage",
+            "story"
+          ],
+          "text": "同人音楽同人一般\n\n# オールナイト・オブ・ナイツ プロジェクト\n\n### サークル(先生)からのコメント/作品詳細\n\n■内容\n\n「セカイを変えろ、ナイト・オブ・ナイツ」\n\n東方と音ゲーを繋いできたナイト・オブ・ナイツが\n\n境界を越えた超アーティスト達によって更に深化する!\n\n全曲「ナイト・オブ・ナイツ」アレンジ・リミックスCD第三弾!\n\n新時代が今、始まる!!\n\n■特設サイト\n\nhttp://cool-create.cc/cd/cccd75/\n\n■型番\n\nCCCD-0075\n\n■スタッフリスト\n\nナイト・オブ・ナイツ\n\n編曲:ビートまりお\n\n原曲:フラワリングナイト、月時計 ～ ルナ・ダイアル / 原作:東方花映塚、東方紅魔郷\n\nジャケットイラスト\n\nはまふぐ\n\n参加アーティスト\n\nビートまりお×まろん\n\nかいりきベア & PHOENIX Project\n\ncosMo@暴走P\n\nマサラダ\n\n黒魔\n\nサツキ\n\n原口沙輔\n\n南ノ南\n\nなみぐる\n\n八王子P\n\nSAWTOWNE\n\nまらしぃ\n\nデザイン\n\ncoda\n\nマスタリング\n\nShibayan(ShibayanRecords)\n\nスペシャルサンクス\n\nあまね\n\nスーパーサポート\n\nまろん\n\n企画\n\nビートまりお\n\n制作\n\nCOOL&CREATE\n\nhttp://cool-create.cc/\n\n東方Project\n\n上海アリス幻樂団\n\nこの作品は同人サークル「COOL&CREATE」による「東方Project」二次創作アレンジCDです。\n\nこのCDを権利者に無断で複製コピー、データ配布、賃貸業、その他営利目的で使用することは禁止されています。\n\nインターネット上での楽曲使用については http://cool-create.cc/ をご確認ください。\n\n### スタッフのオススメポイント\n\nサークル:COOL&CREATEがお贈り売る、境界を超えたアーティストによる「ナイト・オブ・ナイツ」アレンジリミックスCD第3弾の登場です☆\n\nただアレンジしただけでしょ?そんなぬるい質問などすぐにしたことを後悔してしまうほどに集合したアーティストたちが豪華すぎて思わず言葉を失ってしまいそうになります♪\n\nそれぞれの特色を生かした「ナイト・オブ・ナイツ」に最初から最後まで気分が盛り上がって、テンションが上がったまま収まることがありません☆\n\nジャケットになっているいつもとは違うギャルしている可愛い咲夜さんも合わさって最高過ぎる、極上のアルバムをご堪能ください♪\n\n### トラックリスト\n\n■トラックリスト\n\n01. 超ナイト・オブ・ナイツ\n\nビートまりお×まろん\n\n02. ナイト・オブ・ナイツ (かいりきベア & PHOENIX Project REMIX)\n\nかいりきベア & PHOENIX Project\n\n03. ナイト・オブ・ナイツ (CosMo.B.S.P.398 Remix)\n\ncosMo@暴走P\n\n04. ナイト・オブ・ナイツ (マサラダRemix)\n\nマサラダ\n\n05. ナイト・オブ・ナイツ (Chroma Remix)\n\n黒魔\n\n06. ナイト・オブ・ナイツ (32ki DOSANCORE Remix)\n\nサツキ\n\n07. ナイト・オブ・ナイツ (原口・オブ・リミックス)\n\n原口沙輔\n\n08. ナイト・オブ・ナイツ (南ノ南AhwowREMIX)\n\n南ノ南\n\n09. ナイト・オブ・ナイツ (namigroove remix)\n\nなみぐる\n\n10. ナイト・オブ・ナイツ (八王子P Remix)\n\n八王子P\n\n11. ナイト・オブ・ナイツ feat. Aokiro! (SAWTOWNE Remix)\n\nSAWTOWNE\n\n12. Re:ナイト・オブ・ナイツ\n\nまらしぃ\n\nサークル名 | COOL&CREATE (作品数:72)  \n\n---|---\n\n作家名 | ビートまりお  \n\nジャンル | 東方Project , プロジェクトセカイ カラフルステージ feat.初音ミク  \n\n発行日 | 2025/05/05 \n\n版型・メディア | CD \n\nイベント | 博麗神社 例大祭(第22回)  \n\n作品種別 | 一般向け  \n\n### このサークルのほかの作品\n\nもっと見る \n\n### よく一緒に買われている商品\n\n### ほかの人はこんな商品もチェックしています\n\n### 最近チェックした商品\n\n読み込み中です...",
+          "title": "オールナイト・オブ・ナイツ プロジェクト（COOL&CREATE）の通販・購入はメロンブックス",
+          "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2915573"
+        }
+      ],
+      "topic": {
+        "album": "東方インストライク (feat.ビートまりお)",
+        "creator": "COOL&CREATE",
+        "id": "apple:song:1437762258",
+        "layer": "recording",
+        "title": "ナイト・オブ・ナイツ (feat.ビートまりお)"
+      },
+      "version": 1
+    }
+  }
+]

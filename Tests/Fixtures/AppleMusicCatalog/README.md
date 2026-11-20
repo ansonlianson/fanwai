@@ -1,0 +1,1 @@
+离线协议样例，不是 B2/B3 实测录制。所有名称、ID 和 ISRC 均为测试数据。依据 Apple Music API 官方资源 schema 与 MusicBrainz v2 文档构造，用来验证 URL、解码、ID 对齐、来源字段、预算和失败处理。真实调查因 MusicKit developerTokenRequestFailed 受阻；详见 Research/AppleMusicSurvey/summary.md。

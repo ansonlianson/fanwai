@@ -1,0 +1,296 @@
+{
+  "cacheHit" : false,
+  "cachedResponseURLs" : [
+    "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=1&ids=Q11190062&languages=ja%7Czh%7Czh-hans%7Cen&props=labels%7Caliases%7Cclaims%7Csitelinks&sitefilter=jawiki%7Czhwiki%7Cenwiki",
+    "https://ja.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Agraph&prop=text%7Cproperties%7Crevid&redirects=1",
+    "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E7%89%9B%E5%B0%BE%E5%AE%AA%E8%BE%85&prop=text%7Cproperties%7Crevid&redirects=1",
+    "https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Kensuke%20Ushio&prop=text%7Cproperties%7Crevid&redirects=1"
+  ],
+  "collectedAt" : "2026-11-05T04:26:38Z",
+  "discoveredURLs" : [
+    "https://tower.jp/artist/1939691",
+    "https://natalie.mu/music/pp/agraph/page/2",
+    "https://natalie.mu/music/pp/agraph/page/3",
+    "https://web.archive.org/web/20241130114950/https://tower.jp/artist/1939691",
+    "https://japan.steinberg.net/jp/artists/steinberg_stories/agraph.html",
+    "https://web.archive.org/web/20241208045552/https://japan.steinberg.net/jp/artists/steinberg_stories/agraph.html",
+    "https://www.cdjournal.com/main/news/agraph/34139",
+    "https://web.archive.org/web/20190518030322/https://www.oricon.co.jp/prof/466100/rank/album/",
+    "https://www.oricon.co.jp/prof/466100/rank/album/",
+    "https://www.agraph.jp/biography/",
+    "https://web.archive.org/web/20250121002442/http://www.agraph.jp/biography/",
+    "https://natalie.mu/music/news/39936",
+    "https://web.archive.org/web/20171116134251/http://natalie.mu/music/news/39936",
+    "https://natalie.mu/music/news/43460",
+    "https://natalie.mu/music/pp/agraph",
+    "https://www.oricon.co.jp/news/85250/",
+    "https://www.oricon.co.jp/prof/541711/rank/album/",
+    "http://www.agraph.jp/"
+  ],
+  "entity" : {
+    "artistName" : "牛尾宪辅",
+    "artistQID" : "Q11190062",
+    "editorialNotes" : [
+
+    ],
+    "externalIDs" : {
+      "apple-song" : "1837522108"
+    },
+    "id" : "pool",
+    "isSong" : true,
+    "name" : "in the pool",
+    "neighbors" : [
+      "牛尾宪辅",
+      "牛尾憲輔",
+      "Kensuke Ushio",
+      "蕾塞"
+    ],
+    "releaseDate" : "2025-09-19"
+  },
+  "facts" : [
+
+  ],
+  "kinds" : {
+    "https://en.wikipedia.org/w/index.php?oldid=1372765743#en · Kensuke Ushio · Biography · 段落 4" : "Wikipedia",
+    "https://en.wikipedia.org/w/index.php?oldid=1372765743#en · Kensuke Ushio · 导语 · 段落 1" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 导语 · 段落 1" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 导语 · 段落 2" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 来歴 · 段落 6" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 导语 · 段落 1" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 童年时期 · 段落 2" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7" : "Wikipedia"
+  },
+  "materials" : [
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 导语 · 段落 1",
+      "location" : "ja · Agraph · 导语 · 段落 1",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "text" : "agraph（アグラフ）は、牛尾 憲輔（うしお けんすけ、1983年3月1日 - ）[1]によるソロユニットである。ソニー・ミュージックアーティスツ所属。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 导语 · 段落 2",
+      "location" : "ja · Agraph · 导语 · 段落 2",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "text" : "agraph名義での活動のほか、牛尾憲輔名義で電気グルーヴのサポートメンバーやLAMAのメンバーとして、劇伴制作なども手掛けている。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 来歴 · 段落 6",
+      "location" : "ja · Agraph · 来歴 · 段落 6",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "text" : "ソロアーティストとしては、2007年、石野卓球が主宰するレーベル『platik』からリリースされたコンピレーション・アルバム『Gathering Traxx Vol.1』にkensuke ushio名義の初の楽曲『colours』が収録される[4]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11",
+      "location" : "ja · Agraph · 人物・特徴 · 段落 11",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "text" : "『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。アグラフとはピアノの部品の弦押さえという意味もある[11]。テクノをジャンルとしているが四つ打ちを使用した楽曲はほとんどなくレイ・ハラカミのようなエレクトロニカに近い。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 导语 · 段落 1",
+      "location" : "zh · 牛尾宪辅 · 导语 · 段落 1",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "text" : "牛尾宪辅（1983年3月1日—），日本作曲家与电子音乐音乐制作人，以艺名agraph发表个人创作，2008年发行首张个人专辑《a day, phase》。他也以本名名义担任乐团LAMA成员，同时参与乐团电气魔轨的音乐制作与演出，并为多部影视作品创作配乐。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 童年时期 · 段落 2",
+      "location" : "zh · 牛尾宪辅 · 童年时期 · 段落 2",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "text" : "牛尾宪辅于1983年3月1日生于日本东京都[1]。由于父母在邻居建议下开了音乐教室，牛尾遂于就读幼儿园时开始学钢琴。小学时期，牛尾经由电视动画认识了电子音乐组合access的作品，被乐团键盘手浅仓大介谱写的合成器音色深深吸引，因而萌生成为电子音乐家的念头。为了更了解电子乐，当时的牛尾除了到图书馆翻找相关的书籍，也接触了TM NETWORK、黄色魔术交响乐团、Kraftwerk等电子乐团的作品。父母希望牛尾先学好钢琴，他虽然不情愿，认为电子琴更有趣，但抱持着成为音乐家的梦想，便姑且继续学下去[2]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+      "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "text" : "〈Colours〉于2007年发行后，牛尾持续在助手工作之余写歌，但他很少再去夜店看DJ的演出，而是回家创作自己喜欢的音乐，他也从来没有将这些曲子发表出去的打算。有次，在石野卓球的好奇之下，牛尾忐忑地让石野卓球听了几段自己写的试听带。令牛尾意想不到的是，石野卓球非常喜欢这些曲子，告诉他“一定要把它们公开给全世界听到”。石野卓球所属唱片公司Ki/oon Music的总监也很喜欢牛尾的试听带，提议要将其作为牛尾的个人专辑发行。牛尾想用一个有别于本名的艺名发行个人专辑，鉴于自己总受视觉事物启发而作曲，若这个名字与图形或视觉元素有关是最合适的。他很喜欢“graphic”这个字的读音，希望找出一个包含这个字的全新混成词，在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。2008年，牛尾集结这段时间创作的歌曲，以agraph之名发行个人首张录音室专辑《a day, phase》[2]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+      "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "text" : "2010年，牛尾受邀于该年度的WIRE音乐节演出，获得相当热烈的回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾[4]。不久后，牛尾发行第二张个人录音室专辑《equal》，舍去前张专辑中残存的舞曲元素，形成更纯粹的曲风[2]，而专辑也颇受欢迎，并名列Oricon公信榜[5]。《equal》的成功带动了牛尾的名气，他也开始接到其他音乐家的合作邀请。虽然牛尾自认不是热中于玩乐团的人，但与其他音乐家交换声音，对他而言是非常新奇的事。于是在2011年，牛尾与音乐家中村弘二、古川美季、田渕久子组成乐团LAMA，并以本名参与乐团的活动，有别于个人创作的agraph身份[2]。2012年起，他也担任电气魔轨的现场支持成员，并参与该乐团的演出[6]。此外，牛尾一直是ACG的爱好者，他与身为同好也是同行的mito组成乐团“2 ANIMEny DJ's”，并以“respect全世界的音乐宅与动漫宅”为宗旨，2010年起多次于地区性的动漫音乐节演出[7][8]。"
+    },
+    {
+      "id" : "https://en.wikipedia.org/w/index.php?oldid=1372765743#en · Kensuke Ushio · 导语 · 段落 1",
+      "location" : "en · Kensuke Ushio · 导语 · 段落 1",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Kensuke Ushio",
+        "url" : "https://en.wikipedia.org/w/index.php?oldid=1372765743"
+      },
+      "text" : "Kensuke Ushio (Japanese: 牛尾 憲輔, Hepburn: Ushio Kensuke; born March 1, 1983) (stylized as kensuke ushio) is a Japanese composer, rock and EBM musician. He also releases work under the moniker Agraph."
+    },
+    {
+      "id" : "https://en.wikipedia.org/w/index.php?oldid=1372765743#en · Kensuke Ushio · Biography · 段落 4",
+      "location" : "en · Kensuke Ushio · Biography · 段落 4",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Kensuke Ushio",
+        "url" : "https://en.wikipedia.org/w/index.php?oldid=1372765743"
+      },
+      "text" : "As a child, Ushio learned playing piano. He studied arts and music at university. At the same time, he learned the usage of the audio editor software Pro Tools. At the age of 20, Ushio got his first contact with electronic music, such as techno.[4] He started his solo career in 2007 under the moniker Agraph and began creating electronic music. His debut album A Day, Phases, which was produced by Takkyu Ishino, was released in December 2008.[4] Two years later, his second album Equal was released, which ranked in the Japanese Albums Charts.[2] In 2011, Ushio and some former musicians of bands like Supercar and Number Girl formed a rock band called Lama.[5][6] The band released two albums, which both ranked on the official Albums Charts of Japan.[1]"
+    }
+  ],
+  "requests" : [
+    {
+      "purpose" : "Wikidata 精确 ID、别名与陈述",
+      "status" : 200,
+      "url" : "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=1&ids=Q11190062&languages=ja%7Czh%7Czh-hans%7Cen&props=labels%7Caliases%7Cclaims%7Csitelinks&sitefilter=jawiki%7Czhwiki%7Cenwiki"
+    },
+    {
+      "purpose" : "维基正文与身份核对",
+      "status" : 200,
+      "url" : "https://ja.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Agraph&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose" : "维基正文与身份核对",
+      "status" : 200,
+      "url" : "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E7%89%9B%E5%B0%BE%E5%AE%AA%E8%BE%85&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose" : "维基正文与身份核对",
+      "status" : 200,
+      "url" : "https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Kensuke%20Ushio&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 405,
+      "url" : "https://natalie.mu/robots.txt"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 200,
+      "url" : "https://www.oricon.co.jp/robots.txt"
+    },
+    {
+      "purpose" : "新歌站内发现",
+      "status" : 404,
+      "url" : "https://www.oricon.co.jp/prof/466100/news/"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 200,
+      "url" : "https://realsound.jp/robots.txt"
+    },
+    {
+      "purpose" : "新歌站内发现",
+      "status" : 200,
+      "url" : "https://realsound.jp/?s=%E7%89%9B%E5%B0%BE%E5%AE%AA%E8%BE%85"
+    },
+    {
+      "purpose" : "新闻／访谈",
+      "status" : 404,
+      "url" : "https://www.oricon.co.jp/prof/466100/rank/album/"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 301,
+      "url" : "https://www.agraph.jp/robots.txt"
+    },
+    {
+      "purpose" : "新闻／访谈",
+      "status" : 200,
+      "url" : "https://www.oricon.co.jp/news/85250/"
+    }
+  ],
+  "skipped" : [
+    {
+      "reason" : "尚无已核对的 Wikidata ID，不按同名归并",
+      "url" : "pool"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://tower.jp/artist/1939691"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/pp/agraph/page/2"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/pp/agraph/page/3"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20241130114950/https://tower.jp/artist/1939691"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://japan.steinberg.net/jp/artists/steinberg_stories/agraph.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20241208045552/https://japan.steinberg.net/jp/artists/steinberg_stories/agraph.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.cdjournal.com/main/news/agraph/34139"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20190518030322/https://www.oricon.co.jp/prof/466100/rank/album/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://www.agraph.jp/biography/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20250121002442/http://www.agraph.jp/biography/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/39936"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20171116134251/http://natalie.mu/music/news/39936"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/43460"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/pp/agraph"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://www.oricon.co.jp/prof/541711/rank/album/"
+    }
+  ],
+  "version" : 1
+}

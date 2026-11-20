@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "recordingIDs": [
+        "1839387171",
+        "1857886409"
+      ],
+      "artistID": "1489581870",
+      "works": [
+        {
+          "id": "wikidata:Q109333365",
+          "title": "间谍过家家",
+          "creator": "电视动画",
+          "kind": "电视剧",
+          "art": "",
+          "detail": "SPY×FAMILY",
+          "url": "https://spy-family.net/tvseries/",
+          "knowledgeID": "Q109333365",
+          "linkedCreatorIDs": []
+        },
+        {
+          "id": "wikidata:Q96711898",
+          "title": "幾田りら",
+          "creator": "音乐人 · ikura",
+          "kind": "创作者",
+          "art": "",
+          "detail": "YOASOBI 主唱，亦以本名创作和演唱。",
+          "url": "https://lilasikuta.jp/",
+          "knowledgeID": "Q96711898",
+          "linkedCreatorIDs": []
+        },
+        {
+          "id": "editorial:actor-mv",
+          "title": "Actor · 官方 MV",
+          "creator": "幾田りら",
+          "kind": "音乐视频",
+          "art": "https://i.ytimg.com/vi/fH8hLLww2JI/hqdefault.jpg",
+          "detail": "官方音乐影像",
+          "url": "https://www.youtube.com/watch?v=fH8hLLww2JI",
+          "linkedCreatorIDs": [
+            "wikidata:Q96711898"
+          ]
+        }
+      ],
+      "connections": [
+        {
+          "target": "wikidata:Q109333365",
+          "predicate": "endingOf",
+          "label": "第三季片尾曲",
+          "inverseLabel": "第三季片尾曲",
+          "source": {
+            "title": "《间谍过家家》官方网站",
+            "detail": "2025.09.09 · 第三季片尾曲公告与创作者留言",
+            "url": "https://spy-family.net/news/?p=2024"
+          }
+        },
+        {
+          "target": "editorial:actor-mv",
+          "predicate": "musicVideoOf",
+          "label": "官方 MV",
+          "inverseLabel": "原曲",
+          "source": {
+            "title": "幾田りら · 官方曲目页",
+            "detail": "《Laugh》曲目 Actor 对应的官方视频链接",
+            "url": "https://lilasikuta.jp/laugh/"
+          }
+        }
+      ],
+      "stories": [
+        {
+          "id": "actor-interview-v1",
+          "title": "幾田りら谈《Actor》",
+          "body": "幾田りら说，ikura 既有表演的一面，也有真实的一面。她想到母亲努力做好“母亲”这个角色，觉得扮演也可以来自爱和体贴。接纳了自己的不同面貌后，她才写得出这个题材。",
+          "entityLinks": {
+            "幾田りら": "wikidata:Q96711898",
+            "ikura": "wikidata:Q96711898"
+          },
+          "source": {
+            "title": "幾田りら · 官方访谈",
+            "detail": "《Laugh》发行访谈 · 小栁大輔采访 · 中文编译",
+            "url": "https://lilasikuta.jp/laugh/"
+          }
+        }
+      ]
+    }
+  ]
+}

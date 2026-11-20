@@ -1,0 +1,157 @@
+{
+  "calls" : [
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"facts\":[{\"id\":\"f1\",\"text\":\"2007年，牛尾宪辅以kensuke ushio名义的首支乐曲《colours》被收录进石野卓球主宰的platik厂牌发行的合辑《Gathering Traxx Vol.1》。\",\"people\":[\"石野卓球\",\"牛尾宪辅\"],\"time\":\"2007年\",\"numbers\":[\"2007\"],\"quote\":\"ソロアーティストとしては、2007年、石野卓球が主宰するレーベル『platik』からリリースされたコンピレーション・アルバム『Gathering Traxx Vol.1』にkensuke ushio名義の初の楽曲『colours』が収録される[4]。\",\"quote_zh\":\"作为个人艺人，2007年，由石野卓球主宰的厂牌『platik』发行的合辑《Gathering Traxx Vol.1》中收录了以kensuke ushio名义发表的首支乐曲《colours》。\",\"source_index\":1,\"contrast\":1,\"links\":1,\"linked_nodes\":[\"牛尾宪辅\"]},{\"id\":\"f2\",\"text\":\"2010年，牛尾宪受邀于当年的WIRE音乐节演出，同年受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾。\",\"people\":[\"牛尾宪\"],\"time\":\"2010年\",\"numbers\":[\"2010\"],\"quote\":\"2010年，牛尾受邀于该年度的WIRE音乐节演出，获得相当热烈的回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾[4]。\",\"quote_zh\":\"2010年，牛尾受邀于该年度的WIRE音乐节演出，获得相当热烈的回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾。\",\"source_index\":2,\"contrast\":1,\"links\":0,\"linked_nodes\":[]}]}",
+        "usage" : {
+          "cachedInputTokens" : 0,
+          "inputTokens" : 2933,
+          "outputTokens" : 440,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3373
+        }
+      },
+      "stage" : "extract"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"2007 年，牛尾宪辅的第一支曲子进了石野卓球的厂牌合辑\",\"body\":\"那首曲子叫《colours》，以 kensuke ushio 名义收录在 platik 发行的《Gathering Traxx Vol.1》里。这个厂牌由石野卓球主宰。\",\"fact_ids\":[\"f1\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 1280,
+          "inputTokens" : 3426,
+          "outputTokens" : 89,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3515
+        }
+      },
+      "stage" : "write"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\n  \"candidates\": []\n}",
+        "usage" : {
+          "cachedInputTokens" : 1024,
+          "inputTokens" : 3441,
+          "outputTokens" : 8,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3449
+        }
+      },
+      "stage" : "rewrite"
+    }
+  ],
+  "candidates" : [
+    {
+      "deterministicIssues" : [
+
+      ],
+      "factIDs" : [
+        "f1"
+      ],
+      "rewritten" : false,
+      "story" : {
+        "body" : "那首曲子叫《colours》，以 kensuke ushio 名义收录在 platik 发行的《Gathering Traxx Vol.1》里。这个厂牌由石野卓球主宰。",
+        "entityID" : "pool",
+        "entityLinks" : {
+
+        },
+        "id" : "model-pool-1",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "2007 年，牛尾宪辅的第一支曲子进了石野卓球的厂牌合辑"
+      },
+      "validation" : {
+        "issues" : [
+          {
+            "detail" : "标题 25 字，超过 24 字",
+            "rule" : "titleWidth"
+          }
+        ]
+      }
+    }
+  ],
+  "entityID" : "pool",
+  "facts" : [
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 来歴 · 段落 6",
+          "location" : "ja · Agraph · 来歴 · 段落 6",
+          "quote" : "ソロアーティストとしては、2007年、石野卓球が主宰するレーベル『platik』からリリースされたコンピレーション・アルバム『Gathering Traxx Vol.1』にkensuke ushio名義の初の楽曲『colours』が収録される[4]。"
+        }
+      },
+      "id" : "f1",
+      "linkedEntityIDs" : [
+        "牛尾宪辅"
+      ],
+      "people" : [
+        "石野卓球"
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "statements" : [
+        "2007年，牛尾宪辅以kensuke ushio名义的首支乐曲《colours》被收录进石野卓球主宰的platik厂牌发行的合辑《Gathering Traxx Vol.1》。"
+      ],
+      "text" : "2007年，牛尾宪辅以kensuke ushio名义的首支乐曲《colours》被收录进石野卓球主宰的platik厂牌发行的合辑《Gathering Traxx Vol.1》。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 7",
+          "quote" : "2010年，牛尾受邀于该年度的WIRE音乐节演出，获得相当热烈的回响，同年也受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾[4]。"
+        }
+      },
+      "id" : "f2",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "2010年，牛尾宪受邀于当年的WIRE音乐节演出，同年受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾。"
+      ],
+      "text" : "2010年，牛尾宪受邀于当年的WIRE音乐节演出，同年受邀担任电音组合Underworld巡回演唱会东京场的开场嘉宾。"
+    }
+  ],
+  "sentences" : [
+
+  ],
+  "skippedMaterials" : [
+    "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 导语 · 段落 1：归属 ushio",
+    "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 导语 · 段落 2：归属 ushio",
+    "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11：归属 ushio",
+    "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 导语 · 段落 1：归属 ushio",
+    "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 童年时期 · 段落 2：归属 ushio",
+    "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6：归属 ushio",
+    "https://en.wikipedia.org/w/index.php?oldid=1372765743#en · Kensuke Ushio · 导语 · 段落 1：归属 ushio",
+    "https://en.wikipedia.org/w/index.php?oldid=1372765743#en · Kensuke Ushio · Biography · 段落 4：归属 ushio"
+  ],
+  "stories" : [
+
+  ]
+}

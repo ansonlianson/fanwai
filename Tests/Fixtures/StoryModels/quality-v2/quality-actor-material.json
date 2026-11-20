@@ -1,0 +1,241 @@
+{
+  "cacheHit" : false,
+  "cachedResponseURLs" : [
+    "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=1&ids=Q96711898&languages=ja%7Czh%7Czh-hans%7Cen&props=labels%7Caliases%7Cclaims%7Csitelinks&sitefilter=jawiki%7Czhwiki%7Cenwiki",
+    "https://ja.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E5%B9%BE%E7%94%B0%E3%82%8A%E3%82%89&prop=text%7Cproperties%7Crevid&redirects=1",
+    "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E5%B9%BE%E7%94%B0%E8%8E%89%E6%8B%89&prop=text%7Cproperties%7Crevid&redirects=1"
+  ],
+  "collectedAt" : "2026-11-05T04:26:41Z",
+  "discoveredURLs" : [
+    "https://nlab.itmedia.co.jp/cont/articles/3324281/",
+    "https://ototoy.jp/news/100710",
+    "https://news.utamap.com/music/239050/",
+    "https://web.archive.org/web/20220810153335/http://strobe-cafe.com/harajuku/schedule/2019/11/201911161.html",
+    "https://music.fanplus.co.jp/news/2020031499411734c",
+    "https://www.youtube.com/watch?v=A9FbozDjyEs",
+    "https://natalie.mu/music/news/458713",
+    "https://www.thefirsttimes.jp/column/0000125182/",
+    "https://www.thefirsttimes.jp/news/0000129321/",
+    "https://web.archive.org/web/20220814192010/https://avexnet.jp/release/detail.php?id=1034636",
+    "https://avexnet.jp/release/detail.php?id=1034636",
+    "https://www.yoasobi-music.jp/profile",
+    "https://web.archive.org/web/20220210154955/https://www.yoasobi-music.jp/profile/",
+    "https://nlab.itmedia.co.jp/nl/articles/2108/21/news046.html",
+    "https://web.archive.org/web/20220111135446/https://nlab.itmedia.co.jp/nl/articles/2108/21/news046.html",
+    "https://lilasikuta.jp/"
+  ],
+  "entity" : {
+    "artistName" : "幾田りら",
+    "artistQID" : "Q96711898",
+    "editorialNotes" : [
+
+    ],
+    "externalIDs" : {
+      "apple-song" : "1839387171"
+    },
+    "id" : "actor",
+    "isSong" : true,
+    "name" : "Actor",
+    "neighbors" : [
+      "幾田りら",
+      "SPY×FAMILY"
+    ],
+    "releaseDate" : "2025-10-11"
+  },
+  "facts" : [
+
+  ],
+  "kinds" : {
+    "https://ja.wikipedia.org/w/index.php?oldid=111588980#ja · 幾田りら · 导语 · 段落 3" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111588980#ja · 幾田りら · 経歴 · 段落 10" : "Wikipedia",
+    "https://ja.wikipedia.org/w/index.php?oldid=111588980#ja · 幾田りら · 経歴 · 段落 13" : "Wikipedia",
+    "https://zh.wikipedia.org/w/index.php?oldid=94635036#zh · 幾田莉拉 · 导语 · 段落 1" : "Wikipedia"
+  },
+  "materials" : [
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111588980#ja · 幾田りら · 导语 · 段落 3",
+      "location" : "ja · 幾田りら · 导语 · 段落 3",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 幾田りら",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111588980"
+      },
+      "text" : "自身の音楽活動の他にユニット形態での活動も同時並行で行っている。2017年から2021年8月までぷらそにかに参加[8]。2019年10月からはAyaseとYOASOBIを結成し、ikura（いくら）名義でボーカルを担当[9]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111588980#ja · 幾田りら · 経歴 · 段落 10",
+      "location" : "ja · 幾田りら · 経歴 · 段落 10",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 幾田りら",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111588980"
+      },
+      "text" : "2019年7月2日に幾田がスキマスイッチの「全力少年」をカバーした東京海上日動あんしん生命保険のテレビコマーシャルのオンエアが開始された[4]。10月にボーカロイドプロデューサーのAyaseと共に、「小説を音楽にする」というコンセプトのもと、YOASOBIを結成し、「ikura」名義でボーカルを担当。翌月に同ユニットの1stシングルとしてリリースした「夜に駆ける」は、累計再生回数がストリーミング、MVで1億回再生を記録。11月16日にレコード発売ワンマンライブ「bouquet」を原宿STROBECAFEで開催し、2ndミニ・アルバム『Jukebox』をライブ会場限定で発売[27][28]。12月15日に幾田が「Love in Color」を歌唱したミュージック・ビデオが、カメラアプリSNOWのYouTube公式チャンネルより配信開始[29]。"
+    },
+    {
+      "id" : "https://ja.wikipedia.org/w/index.php?oldid=111588980#ja · 幾田りら · 経歴 · 段落 13",
+      "location" : "ja · 幾田りら · 経歴 · 段落 13",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 幾田りら",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111588980"
+      },
+      "text" : "2022年3月20日、同時期に『Creepy Nutsのオールナイトニッポン0(ZERO)』でパーソナリティを担当していたCreepy NutsとYOASOBIのAyaseとともに、オールナイトニッポン55周年記念公演「あの夜を覚えてる」の主題歌として楽曲「ばかまじめ」の歌唱に参加した[40]。5月20日と6月1日に投稿されたYouTubeチャンネル「THE FIRST TAKE」に出演し、「スパークル」と「レンズ」を歌唱した[41][42]。7月22日、東京スカパラダイスオーケストラの楽曲「Free Free Free feat.幾田りら」にゲストボーカルとトランペット奏者として参加した[43]。"
+    },
+    {
+      "id" : "https://zh.wikipedia.org/w/index.php?oldid=94635036#zh · 幾田莉拉 · 导语 · 段落 1",
+      "location" : "zh · 幾田莉拉 · 导语 · 段落 1",
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 幾田莉拉",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=94635036"
+      },
+      "text" : "几田莉拉（日语：幾田 りら／いくた りら，罗马化：Ikuta Rira[注 1]，2000年9月25日—[3]）是日本女性创作歌手，同时为音乐组合YOASOBI成员、以及不插电音乐组合Plusonica前成员[4]，东京都出身。作为YOASOBI成员时，另以“ikura”（いくら）的名义进行活动。本身也有以其本名及“Lilas”之名义进行独立歌手身份活动。"
+    }
+  ],
+  "requests" : [
+    {
+      "purpose" : "Wikidata 精确 ID、别名与陈述",
+      "status" : 200,
+      "url" : "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=1&ids=Q96711898&languages=ja%7Czh%7Czh-hans%7Cen&props=labels%7Caliases%7Cclaims%7Csitelinks&sitefilter=jawiki%7Czhwiki%7Cenwiki"
+    },
+    {
+      "purpose" : "维基正文与身份核对",
+      "status" : 200,
+      "url" : "https://ja.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E5%B9%BE%E7%94%B0%E3%82%8A%E3%82%89&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose" : "维基正文与身份核对",
+      "status" : 200,
+      "url" : "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E5%B9%BE%E7%94%B0%E8%8E%89%E6%8B%89&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose" : "维基正文与身份核对",
+      "status" : 429,
+      "url" : "https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Lilas%20Ikuta&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 405,
+      "url" : "https://natalie.mu/robots.txt"
+    },
+    {
+      "purpose" : "robots.txt",
+      "status" : 200,
+      "url" : "https://realsound.jp/robots.txt"
+    },
+    {
+      "purpose" : "新歌站内发现",
+      "status" : 200,
+      "url" : "https://realsound.jp/?s=%E5%B9%BE%E7%94%B0%E3%82%8A%E3%82%89"
+    },
+    {
+      "purpose" : "新闻／访谈",
+      "status" : 200,
+      "url" : "https://realsound.jp/2025/12/post-2261078.html"
+    },
+    {
+      "purpose" : "新闻／访谈",
+      "status" : 200,
+      "url" : "https://realsound.jp/2025/10/post-2199927.html"
+    },
+    {
+      "purpose" : "新闻／访谈",
+      "status" : 200,
+      "url" : "https://realsound.jp/2025/10/post-2182804.html"
+    },
+    {
+      "purpose" : "新闻／访谈",
+      "status" : 200,
+      "url" : "https://realsound.jp/2025/10/post-2177558.html"
+    },
+    {
+      "purpose" : "新闻／访谈",
+      "status" : 200,
+      "url" : "https://realsound.jp/2025/09/post-2167311.html"
+    }
+  ],
+  "skipped" : [
+    {
+      "reason" : "尚无已核对的 Wikidata ID，不按同名归并",
+      "url" : "actor"
+    },
+    {
+      "reason" : "百科正文与 sitelink／QID 不一致或不可读取",
+      "url" : "en:Q96711898"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://nlab.itmedia.co.jp/cont/articles/3324281/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://ototoy.jp/news/100710"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://news.utamap.com/music/239050/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20220810153335/http://strobe-cafe.com/harajuku/schedule/2019/11/201911161.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://music.fanplus.co.jp/news/2020031499411734c"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.youtube.com/watch?v=A9FbozDjyEs"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://natalie.mu/music/news/458713"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://www.thefirsttimes.jp/robots.txt"
+    },
+    {
+      "reason" : "robots 无法读取，保守跳过",
+      "url" : "https://www.thefirsttimes.jp/column/0000125182/"
+    },
+    {
+      "reason" : "robots 拒绝或不可验证",
+      "url" : "https://www.thefirsttimes.jp/news/0000129321/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20220814192010/https://avexnet.jp/release/detail.php?id=1034636"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://avexnet.jp/release/detail.php?id=1034636"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://www.yoasobi-music.jp/profile"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20220210154955/https://www.yoasobi-music.jp/profile/"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://nlab.itmedia.co.jp/nl/articles/2108/21/news046.html"
+    },
+    {
+      "reason" : "引用网站未列入已核对的新闻／官网范围，留待来源审核",
+      "url" : "https://web.archive.org/web/20220111135446/https://nlab.itmedia.co.jp/nl/articles/2108/21/news046.html"
+    },
+    {
+      "reason" : "每实体 12 次请求上限",
+      "url" : "https://lilasikuta.jp/robots.txt"
+    },
+    {
+      "reason" : "robots 无法读取，保守跳过",
+      "url" : "https://lilasikuta.jp/"
+    }
+  ],
+  "version" : 1
+}

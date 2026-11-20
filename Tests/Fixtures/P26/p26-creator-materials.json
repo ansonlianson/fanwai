@@ -1,0 +1,837 @@
+{
+  "cacheHit": false,
+  "cachedResponseURLs": [],
+  "collectedAt": 815979532.0612,
+  "discoveredURLs": [
+    "https://oncon.mainichi-classic.net/winners/81-90/",
+    "https://web.archive.org/web/20230330142703/https://oncon.mainichi-classic.net/winners/81-90/",
+    "https://www.animenewsnetwork.com/news/2022-03-11/evangelion-3.0-1.0-film-wins-japan-academy-film-prizes-animation-of-the-year/.183465",
+    "https://www.screendaily.com/news/raya-and-the-last-dragon-and-belle-among-annie-nominees/5166221.article",
+    "https://animania.de/animania-award-2023-die-gewinner/",
+    "https://realsound.jp/2021/04/post-735212.html",
+    "https://realsound.jp/2020/06/post-567915.html"
+  ],
+  "elapsedSeconds": 14.71459698677063,
+  "entity": {
+    "artistName": "Yuta Bandoh",
+    "artistQID": "Q97031491",
+    "editorialNotes": [],
+    "externalIDs": {
+      "apple": "1441766447",
+      "wikidata": "Q97031491"
+    },
+    "graphNodes": [
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q61102629"
+        ],
+        "id": "animenz",
+        "kind": "person",
+        "name": "Animenz"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q23261"
+        ],
+        "id": "anno",
+        "kind": "person",
+        "name": "庵野秀明"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q97031491"
+        ],
+        "id": "apple:artist:1441766447",
+        "kind": "person",
+        "name": "Yuta Bandoh"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q34861530"
+        ],
+        "id": "apple:artist:1529999013",
+        "kind": "person",
+        "name": "ano"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q707967"
+        ],
+        "id": "apple:artist:416281071",
+        "kind": "person",
+        "name": "Bonobo"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q20039817"
+        ],
+        "id": "apple:artist:678140651",
+        "kind": "person",
+        "name": "Creepy Nuts"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q4700"
+        ],
+        "id": "debussy",
+        "kind": "person",
+        "name": "德彪西"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q519273"
+        ],
+        "id": "editorial:david-sylvian",
+        "kind": "person",
+        "name": "David Sylvian"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q939736"
+        ],
+        "id": "editorial:millennium-actress",
+        "kind": "work",
+        "name": "千年女优"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q55403"
+        ],
+        "id": "editorial:nagisa-oshima",
+        "kind": "person",
+        "name": "大岛渚"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q578595"
+        ],
+        "id": "editorial:paprika-film",
+        "kind": "work",
+        "name": "红辣椒"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q7133130"
+        ],
+        "id": "editorial:paprika-novel",
+        "kind": "work",
+        "name": "红辣椒（パプリカ）"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q345494"
+        ],
+        "id": "editorial:ryuichi-sakamoto",
+        "kind": "person",
+        "name": "坂本龙一"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q333643"
+        ],
+        "id": "editorial:satoshi-kon",
+        "kind": "person",
+        "name": "今敏"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q930143"
+        ],
+        "id": "editorial:susumu-hirasawa",
+        "kind": "person",
+        "name": "平泽进"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q719250"
+        ],
+        "id": "editorial:yasutaka-tsutsui",
+        "kind": "person",
+        "name": "筒井康隆"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q123906765"
+        ],
+        "id": "film",
+        "kind": "work",
+        "name": "电锯人 蕾塞篇"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q24864023"
+        ],
+        "id": "fujimoto",
+        "kind": "person",
+        "name": "藤本树"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q96711898"
+        ],
+        "id": "ikuta",
+        "kind": "person",
+        "name": "几田莉拉"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q65240543"
+        ],
+        "id": "manga",
+        "kind": "work",
+        "name": "电锯人"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q1178"
+        ],
+        "id": "ravel",
+        "kind": "person",
+        "name": "拉威尔"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q11190062"
+        ],
+        "id": "ushio",
+        "kind": "person",
+        "name": "牛尾宪辅"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q234598"
+        ],
+        "id": "utada",
+        "kind": "person",
+        "name": "宇多田光"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q11604296"
+        ],
+        "id": "yonezu",
+        "kind": "person",
+        "name": "米津玄师"
+      },
+      {
+        "aliases": [],
+        "externalIDs": [
+          "Q125871279"
+        ],
+        "id": "yoshihara",
+        "kind": "person",
+        "name": "吉原达矢"
+      }
+    ],
+    "id": "apple:artist:1441766447",
+    "isSong": false,
+    "name": "Yuta Bandoh",
+    "neighbors": [],
+    "referenceSources": [],
+    "requestLimit": 8,
+    "subjectKind": "creator"
+  },
+  "facts": [
+    {
+      "contrast": 0,
+      "evidence": {
+        "passage": {
+          "id": "https://www.wikidata.org/wiki/Q97031491#P569#Q97031491 · P569 · Q97031491$ea31874a-40f4-4010-e8e3-06abd957141d",
+          "location": "Q97031491 · P569 · Q97031491$ea31874a-40f4-4010-e8e3-06abd957141d",
+          "quote": "P569 = +1991-01-25T00:00:00Z；precision = 11；calendarmodel = http://www.wikidata.org/entity/Q1985727"
+        }
+      },
+      "id": "https://www.wikidata.org/wiki/Q97031491#P569#Q97031491 · P569 · Q97031491$ea31874a-40f4-4010-e8e3-06abd957141d",
+      "linkedEntityIDs": [],
+      "source": {
+        "detail": "社区维护的结构化资料",
+        "title": "Wikidata · 坂東祐大",
+        "url": "https://www.wikidata.org/wiki/Q97031491#P569"
+      },
+      "statements": [
+        "《Yuta Bandoh》的出生日期是1991-01-25。"
+      ],
+      "structured": {
+        "category": "WD",
+        "level": "item",
+        "relation": "P569",
+        "subjectID": "Q97031491"
+      },
+      "text": "《Yuta Bandoh》的出生日期是1991-01-25。"
+    }
+  ],
+  "identityNames": {
+    "Q97031491": [
+      "坂東祐大",
+      "坂東祐大",
+      "Yūta Bandō",
+      "Yuta Bando",
+      "Yuuta Bandou",
+      "Bandō Yūta",
+      "Bando Yuta",
+      "Bandou Yuuta",
+      "Yuta Bandoh"
+    ]
+  },
+  "kinds": {
+    "https://en.wikipedia.org/w/index.php?oldid=1351675355#en · Yuta Bandoh · 导语 · 段落 2": "Wikipedia",
+    "https://realsound.jp/2020/06/post-567915.html#段落 1": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 10": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 11": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 12": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 13": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 14": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 15": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 16": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 17": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 18": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 19": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 20": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 21": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 22": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 23": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 24": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 25": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 26": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 27": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 30": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 31": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 32": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 33": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 34": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 35": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 36": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 37": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 38": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 39": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 4": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 5": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 6": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 7": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 8": "媒体检索正文",
+    "https://realsound.jp/2020/06/post-567915.html#段落 9": "媒体检索正文",
+    "https://realsound.jp/2021/04/post-735212.html#段落 1": "媒体检索正文",
+    "https://realsound.jp/2021/04/post-735212.html#段落 2": "媒体检索正文",
+    "https://realsound.jp/2021/04/post-735212.html#段落 3": "媒体检索正文",
+    "https://realsound.jp/2021/04/post-735212.html#段落 7": "媒体检索正文",
+    "https://realsound.jp/2021/04/post-735212.html#段落 8": "媒体检索正文",
+    "https://realsound.jp/2021/04/post-735212.html#段落 9": "媒体检索正文",
+    "https://www.wikidata.org/wiki/Q97031491#P569#Q97031491 · P569 · Q97031491$ea31874a-40f4-4010-e8e3-06abd957141d": "WD"
+  },
+  "materials": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q97031491#P569#Q97031491 · P569 · Q97031491$ea31874a-40f4-4010-e8e3-06abd957141d",
+      "location": "Q97031491 · P569 · Q97031491$ea31874a-40f4-4010-e8e3-06abd957141d",
+      "source": {
+        "detail": "社区维护的结构化资料",
+        "title": "Wikidata · 坂東祐大",
+        "url": "https://www.wikidata.org/wiki/Q97031491#P569"
+      },
+      "text": "《Yuta Bandoh》的出生日期是1991-01-25。\nP569 = +1991-01-25T00:00:00Z；precision = 11；calendarmodel = http://www.wikidata.org/entity/Q1985727"
+    },
+    {
+      "id": "https://realsound.jp/2021/04/post-735212.html#段落 1",
+      "location": "段落 1",
+      "source": {
+        "detail": "",
+        "title": "作曲家 坂東祐大、新レーベルを設立 　第1弾作品『ドレミのうた』配信リリース - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2021/04/post-735212.html"
+      },
+      "text": "坂東祐大が新レーベル＜yuta bandoh studio＞を設立し、第1弾作品『ドレミのうた』を配信リリースした。"
+    },
+    {
+      "id": "https://realsound.jp/2021/04/post-735212.html#段落 2",
+      "location": "段落 2",
+      "source": {
+        "detail": "",
+        "title": "作曲家 坂東祐大、新レーベルを設立 　第1弾作品『ドレミのうた』配信リリース - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2021/04/post-735212.html"
+      },
+      "text": "坂東は、クラシックや現代音楽に軸足を置きながら、宇多田ヒカルや米津玄師などの編曲、映画・テレビドラマ・アニメのサウンドトラックも手掛ける音楽家である。＜yuta bandoh studio＞は、坂東自ら設立した＜FOVE Records＞に続いての自主レーベルとなる。"
+    },
+    {
+      "id": "https://realsound.jp/2021/04/post-735212.html#段落 3",
+      "location": "段落 3",
+      "source": {
+        "detail": "",
+        "title": "作曲家 坂東祐大、新レーベルを設立 　第1弾作品『ドレミのうた』配信リリース - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2021/04/post-735212.html"
+      },
+      "text": "『ドレミのうた』は、身近なモチーフである“ドレミ”を解体して“違和感”が楽しめる作品となっており、配信流通はナクソス・ジャパン株式会社（本社：東京都世田谷区、代表取締役社長CEO：西﨑博）が行っている。"
+    },
+    {
+      "id": "https://realsound.jp/2021/04/post-735212.html#段落 7",
+      "location": "段落 7",
+      "source": {
+        "detail": "",
+        "title": "作曲家 坂東祐大、新レーベルを設立 　第1弾作品『ドレミのうた』配信リリース - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2021/04/post-735212.html"
+      },
+      "text": "坂東祐大 Official HP"
+    },
+    {
+      "id": "https://realsound.jp/2021/04/post-735212.html#段落 8",
+      "location": "段落 8",
+      "source": {
+        "detail": "",
+        "title": "作曲家 坂東祐大、新レーベルを設立 　第1弾作品『ドレミのうた』配信リリース - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2021/04/post-735212.html"
+      },
+      "text": "あなたが知りたい音楽情報をいち早くお届け。シーンの最新トレンドや今気になるアーティストをピックアップし、わかりやすく、そして詳しくお伝えしていきます。毎月更新の特集企画もお楽しみに。最新情報はTwitter、撮り下ろしのインタビュー写真はInstagram、オリジナル動画はYouTubeをチェック。"
+    },
+    {
+      "id": "https://realsound.jp/2021/04/post-735212.html#段落 9",
+      "location": "段落 9",
+      "source": {
+        "detail": "",
+        "title": "作曲家 坂東祐大、新レーベルを設立 　第1弾作品『ドレミのうた』配信リリース - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2021/04/post-735212.html"
+      },
+      "text": "リアルサウンド編集部の記事一覧はこちら"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 1",
+      "location": "段落 1",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "東村アキコの原作コミックを中村倫也主演で実写化した連続ドラマ『美食探偵 明智五郎』（日本テレビ系）が人気だ。新型コロナ感染拡大防止の影響から第6話放送までで一旦ストップし、Huluオリジナルストーリーを加えた特別編が3週にわたって放送されていたが、6月14日から最終章へ向けての放送が再開する。美食家の探偵・明智（中村）が連続殺人鬼・マグダラのマリア（小池栄子）の真相とハートに迫る異色サスペンスで、その世界観を、作曲家・音楽家の坂東祐大による音楽がより盛り上げている。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 4",
+      "location": "段落 4",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "独特の世界観を象徴するドラマチックなメインテーマには一度聴いたら忘れられない中毒性があり、SNSなどでも「クラシックの匂いがして好き」「音楽だけで世界観が分かる」「ミステリアスでゾクゾクする」と評判を集めている。1991年生まれで、東京藝術大学作曲科を首席で卒業した坂東は、クラシック、現代音楽のメインフィールドだけでなく、中島哲也監督の映画『来る』や、米津玄師 「海の幽霊」「馬と鹿」「パプリカ」「カイト（NHK2020ソング・歌唱は嵐）」にて共同編曲を務めるなど、ジャンルを超えて活躍する新進気鋭の音楽家だ。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 5",
+      "location": "段落 5",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "2016年にはクラシックの演奏家によって結成された次世代型アンサンブルの「Ensemble FOVE（アンサンブル フォーヴ）」を立ち上げ、現在、Ensemble FOVEも参加した『美食探偵  明智五郎』のオリジナルサウンドトラックが発売中。そんな坂東に『美食探偵』の音楽についてはもとより、劇伴への意識や、こうした状況下だからこそ改めて感じる音楽の意義、今後のビジョンなどを聞いた。（望月ふみ）"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 6",
+      "location": "段落 6",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーードラマとともに音楽も好評です。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 7",
+      "location": "段落 7",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東祐大（以下、坂東）：ありがとうございます。アニメーションの『ユーリ!!! on ICE』（松司馬拓名義）と映画『来る』で映像音楽の経験はありますが、実はドラマは初めてなんです。いわゆるゴールデンプライムタイムに地上波で流れるので、Twitterのトレンドに「美食探偵」と出てくるのが面白いです。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 8",
+      "location": "段落 8",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーーリアルタイムで反応が分かりますからね。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 9",
+      "location": "段落 9",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：ただ9割が「中村さん、かっこいい」ですけどね（笑）。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 10",
+      "location": "段落 10",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーー作曲にあたって、制作側から最初に何かリクエストはあったのでしょうか。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 11",
+      "location": "段落 11",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：特別、こういうトーンで、みたいなものはありませんでした。原作のコミックと第1話の台本が仕上がっていたので、それを読みこんで、全体の道筋をある程度立て、最初の会議のときにアイデアをこちらからプレゼンさせていただきました。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 12",
+      "location": "段落 12",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーー台本、原作を読んで、まずはどんな印象を抱きましたか？"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 13",
+      "location": "段落 13",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：とにかく物語のふり幅が大きいな、と。サスペンスになったりコメディになったり。それから主人公の明智が浮世離れしているんですよね。漫画だったらそのままでも違和感なくいけると思うのですが、実写だときちんとチューニングしないと難しい。実際には中村さんの圧巻の演技と監督をはじめとした見事な演出で難なくクリアしていますが、原作を読んだ最初の印象としては、主人公の浮世離れした雰囲気を音楽でも正当化してあげたいと感じました。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 14",
+      "location": "段落 14",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーー結果的には演出も舞台色がありますし、ドラマチックな音楽が非常に合っています。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 15",
+      "location": "段落 15",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：撮影と制作のスケジュールの都合上、音楽制作時点で映像はなかなか見られませんでしたが、キャストさん全員が入っての読み合わせには参加できたんです。そのときに、やっぱり音楽はこの路線で、このチューニングでいいんだなと感じました。実際にお芝居を見ると、こういう風に仕掛けてくるんだな、と台本の時点では掴めなかった感覚も見えますし。特に苺ちゃん（小芝風花）のテンションやテンポは、読み合わせが大変参考になりました。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 16",
+      "location": "段落 16",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーー先ほど坂東さんがお話されたように、本当にふり幅が大きな作品です。そうした作品に音楽をつけるのはよりやりがいを感じますか？"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 17",
+      "location": "段落 17",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：そうですね。シリアスなだけのものも面白いですが、いろいろなことをやれるのは作る上では面白く感じます。バラエティの豊かさは必要ですが、ただ同時に統一感もなくてはいけなくて、そこのバランスは重要でした。サウンドに幅があっても作曲家30人が集まって作ったみたいなものだと、ドラマとして見づらくなってしまうので。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 18",
+      "location": "段落 18",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーーなかでもメインテーマが印象的です。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 19",
+      "location": "段落 19",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：最近サントラのトレンドに関して言うと、全面的にメインテーマが目立つ作品って少なくなっていると思うんです。『アベンジャーズ』のようにテーマ曲が浮かぶ作品もありますが、ある時期から割合としては少なくなってきた。たぶん意図的に音楽を主役に持っていかせないための演出としてそうしていると思うのですが、ただ、今回のテーマに関しては、ドラマですし作品とともに印象に残るものを作ろうと。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 20",
+      "location": "段落 20",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーー具体的にはどんなことを意識されたのでしょうか。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 21",
+      "location": "段落 21",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：作品のどこのシーンにあてても合って、作品の象徴となるようなもの。原作の表紙にぴったり合うというか。今回、中村さんの衣装も特徴的ですが、あの雰囲気やほかの登場人物にも似合うもの、というのを強く考えました。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 22",
+      "location": "段落 22",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーーとてもドラマチックで、メインテーマがかかると、家でタクトを振りたくなります。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 23",
+      "location": "段落 23",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：ははは（笑）。もうひとつ意識したのが、プロデューサーの荻野哲弘さんが最初にコメントされていたように、この作品は“ネオ火サス”のようなサスペンスだということ。心理描写はリアルですが、でも「こんなこと実際にはないだろう」というサスペンス。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 24",
+      "location": "段落 24",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーー第1話でマリアが崖から落ちていく感じとか。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 25",
+      "location": "段落 25",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：こういう世界観なんだと提示して、かつ肯定できるもの。『火曜サスペンス劇場』や、『ヒッチコック劇場』のようなトーンが少しでも出せればいいなと思って作曲しました。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 26",
+      "location": "段落 26",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーーサントラ6曲目のマグダラのマリアのテーマ「罪深い女」も、流れた瞬間に、マリアの世界に引き込まれます。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 27",
+      "location": "段落 27",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：ソプラノの佐藤裕希恵さんにお願いしました。彼女はヨーロッパでルネサンスの時代の歌唱をきっちりと勉強された方なんです。バッハより以前の音楽といえばイメージがつきやすいでしょうか?"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 30",
+      "location": "段落 30",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーーいわゆる宗教曲ということでしょうか。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 31",
+      "location": "段落 31",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：ざっくり言うとそうですね。他の曲との整合性を持たせながら、全体を組み立てているときに、マリアには現代から遠いところにあるボーカリーズが一番合うと思いました。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 32",
+      "location": "段落 32",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーー今回のサントラで特に冒険できたと感じている曲がありましたら教えてください。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 33",
+      "location": "段落 33",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：サントラの25曲目に入っている「Eclipse S」かな。もちろん軸はありますが、50年代の実験音楽のようなテイストで、ドラマーの石若駿君とスタジオで即興的にやってみようと取り組みました。50年代のシュトックハウゼンの電子音楽のような、アナログテープを使ったような超前衛的な感じでやってみようと。今のテレビではあまりかからないテイストの曲だと思います。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 34",
+      "location": "段落 34",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーーサントラのラストに収録されている、宇多田ヒカルさんの主題歌「Time」編曲版もすごくステキで聴くだけで切なくなります。第6話のラスト、明智と苺の二人のシーンは、今回の新型コロナの影響で撮影法が変わりましたが、より印象的なシーンに仕上がっていて、この「Time」が本当にハマっていました。特別編第1夜で志田未来さん演じる茜のバックでかかったときも本当に切なかったです。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 35",
+      "location": "段落 35",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：ヒカルさんの曲がいいから、のひと言に尽きると思うのですが（笑）。ただ編曲にあたって、定番の編曲の感じにはしたくなくて。単純にテンポを落として弦楽器のバラードにすればお涙頂戴な感じになるだろう、というような。言い方が難しいですが（苦笑）。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 36",
+      "location": "段落 36",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーー宇多田さんの曲のエッセンスをもらって、再構築した感じでしょうか。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 37",
+      "location": "段落 37",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：そうですね。これかなというところを見つけ出して、サスペンスの心理描写と、サスペンスが終わったあとの切ない感じが、また違った形で響き合うように。"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 38",
+      "location": "段落 38",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "ーー編曲という作業はお好きですか？"
+    },
+    {
+      "id": "https://realsound.jp/2020/06/post-567915.html#段落 39",
+      "location": "段落 39",
+      "source": {
+        "detail": "",
+        "title": "中村倫也主演ドラマ『美食探偵 明智五郎』、世界観を盛り上げる音楽はどう生まれた？　音楽家 坂東祐大インタビュー - Real Sound｜リアルサウンド",
+        "url": "https://realsound.jp/2020/06/post-567915.html"
+      },
+      "text": "坂東：特別、中毒のように大好きというわけではないですよ（笑）。専業の編曲家ではないですし（笑）。ただ今回のサントラで、何曲かは僕が書いたものではなくて選曲しています。たとえば1曲目のジョヴァンニ・ガブリエーリの作品とか。編曲というよりはキュレーションのような方向で、サウンドトラック全体の幅が広がればと考えました。"
+    },
+    {
+      "id": "https://en.wikipedia.org/w/index.php?oldid=1351675355#en · Yuta Bandoh · 导语 · 段落 2",
+      "location": "en · Yuta Bandoh · 导语 · 段落 2",
+      "source": {
+        "detail": "CC BY-SA 4.0",
+        "title": "维基百科 · Yuta Bandoh",
+        "url": "https://en.wikipedia.org/w/index.php?oldid=1351675355"
+      },
+      "text": "Yuta Bandoh (Japanese: 坂東 祐大, Hepburn: Bandō Yūta; born January 25, 1991), also known as Taku Matsushiba (松司馬拓), is a Japanese composer. He is best known for his work on Belle (2021), Yuri on Ice (2016), Kaiju No. 8 (2024), and Poupelle of Chimney Town (2020), as well as his collaborations with Kenshi Yonezu. Bandoh won the 45th Japan Academy Film Prize for Outstanding Achievement in Music for his work on Belle."
+    }
+  ],
+  "requests": [
+    {
+      "purpose": "Wikidata 精确 ID、别名与陈述",
+      "status": 200,
+      "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=1&ids=Q97031491&languages=ja%7Czh%7Czh-hans%7Cen&props=labels%7Caliases%7Cclaims%7Csitelinks&sitefilter=jawiki%7Czhwiki%7Cenwiki"
+    },
+    {
+      "purpose": "维基正文与固定版本身份核对",
+      "status": 200,
+      "url": "https://ja.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=%E5%9D%82%E6%9D%B1%E7%A5%90%E5%A4%A7&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose": "维基正文与固定版本身份核对",
+      "status": 200,
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&page=Yuta%20Bandoh&prop=text%7Cproperties%7Crevid&redirects=1"
+    },
+    {
+      "purpose": "robots.txt",
+      "status": 200,
+      "url": "https://realsound.jp/robots.txt"
+    },
+    {
+      "purpose": "媒体站内发现",
+      "status": 200,
+      "url": "https://realsound.jp/?s=Yuta%20Bandoh&pt%5B%5D=music&pt%5B%5D=movie&pt%5B%5D=book"
+    },
+    {
+      "purpose": "媒体检索正文",
+      "status": 200,
+      "url": "https://realsound.jp/2021/04/post-735212.html"
+    },
+    {
+      "purpose": "媒体检索正文",
+      "status": 200,
+      "url": "https://realsound.jp/2020/06/post-567915.html"
+    }
+  ],
+  "skipped": [
+    {
+      "reason": "参考来源主机不在白名单，不请求（含存档／转载／粉丝站）",
+      "url": "https://oncon.mainichi-classic.net/winners/81-90/"
+    },
+    {
+      "reason": "参考来源主机不在白名单，不请求（含存档／转载／粉丝站）",
+      "url": "https://web.archive.org/web/20230330142703/https://oncon.mainichi-classic.net/winners/81-90/"
+    },
+    {
+      "reason": "参考来源主机不在白名单，不请求（含存档／转载／粉丝站）",
+      "url": "https://www.animenewsnetwork.com/news/2022-03-11/evangelion-3.0-1.0-film-wins-japan-academy-film-prizes-animation-of-the-year/.183465"
+    },
+    {
+      "reason": "参考来源主机不在白名单，不请求（含存档／转载／粉丝站）",
+      "url": "https://www.screendaily.com/news/raya-and-the-last-dragon-and-belle-among-annie-nominees/5166221.article"
+    },
+    {
+      "reason": "参考来源主机不在白名单，不请求（含存档／转载／粉丝站）",
+      "url": "https://animania.de/animania-award-2023-die-gewinner/"
+    }
+  ],
+  "version": 9
+}

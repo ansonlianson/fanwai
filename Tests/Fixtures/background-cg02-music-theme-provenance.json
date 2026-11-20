@@ -1,0 +1,32 @@
+{
+  "scope": "Unmodified public MediaWiki API responses for a fixed revision; original cited reviews not independently verified.",
+  "records": [
+    {
+      "file": "background-Q579744-en-sections.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&oldid=1379925795&prop=sections&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1",
+      "sha256": "2a9feb8f6988e13d04d795b85ac7aa50931f0a9fe8fc0965fa723d666e87642f",
+      "bytes": 2587,
+      "recorded_at": "2026-11-03T21:35:24.600381+00:00",
+      "page_id": 1769858,
+      "revision": 1379925795
+    },
+    {
+      "file": "background-Q579744-en-section-1.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&oldid=1379925795&prop=text&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1&section=1",
+      "sha256": "3476d3f1d0c875fbbfd4fa04ff71ae719730ba5ca913e18331500dfe1781a873",
+      "bytes": 7539,
+      "recorded_at": "2026-11-03T21:35:24.949006+00:00",
+      "page_id": 1769858,
+      "revision": 1379925795
+    },
+    {
+      "file": "background-Q579744-en-section-3.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&oldid=1379925795&prop=text&format=json&formatversion=2&disablelimitreport=1&disableeditsection=1&section=3",
+      "sha256": "98456884ba142acc131ce8d66a4c0416ee7c43219a655ed8bb19439760679f02",
+      "bytes": 8470,
+      "recorded_at": "2026-11-03T21:35:24.808539+00:00",
+      "page_id": 1769858,
+      "revision": 1379925795
+    }
+  ]
+}

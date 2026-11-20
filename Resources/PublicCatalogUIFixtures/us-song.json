@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 939561587,
+      "collectionId": 1837521647,
+      "trackId": 1837522108,
+      "artistName": "kensuke ushio",
+      "collectionName": "CHAINSAW MAN THE MOVIE: REZE ARC (original soundtrack) -summer's end-",
+      "trackName": "in the pool",
+      "collectionCensoredName": "CHAINSAW MAN THE MOVIE: REZE ARC (original soundtrack) -summer's end-",
+      "trackCensoredName": "in the pool",
+      "artistViewUrl": "https://music.apple.com/us/artist/kensuke-ushio/939561587?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/in-the-pool/1837521647?i=1837522108&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/in-the-pool/1837521647?i=1837522108&uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/33/c9/2d33c93c-bc27-2673-3b96-478d5b4c9477/196873552675.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/33/c9/2d33c93c-bc27-2673-3b96-478d5b4c9477/196873552675.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/33/c9/2d33c93c-bc27-2673-3b96-478d5b4c9477/196873552675.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2025-09-19T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 30,
+      "trackNumber": 9,
+      "trackTimeMillis": 245440,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Soundtrack",
+      "isStreamable": true
+    }
+  ]
+}

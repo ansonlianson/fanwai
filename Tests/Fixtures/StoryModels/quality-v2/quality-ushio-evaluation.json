@@ -1,0 +1,616 @@
+{
+  "calls" : [
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"facts\":[{\"id\":\"f1\",\"text\":\"牛尾宪辅在2016年9月公开、山田尚子执导的《声之形》中，首次为电影作品创作配乐。\",\"people\":[\"牛尾宪辅\",\"山田尚子\"],\"time\":\"2016年9月\",\"numbers\":[\"2016年9月\"],\"quote\":\"同年9月公開の山田尚子監督作『映画 聲の形』では、自身初となる映画作品の劇伴を手がけた[10]。\",\"quote_zh\":\"同年9月上映的山田尚子导演作品《电影 声之形》，他首次担任了电影作品的配乐。\",\"source_index\":1,\"contrast\":1,\"links\":1,\"linked_nodes\":[\"声之形\"]},{\"id\":\"f2\",\"text\":\"牛尾宪辅的艺名agraph的由来是：他想把「graphic」这个词放进组合名，向石野卓球和川边浩志咨询后，对方说「不是说graphic，说成graph的话，可以理解成头重脚轻的graph（图表）」，于是就成了agraph。\",\"people\":[\"牛尾宪辅\",\"石野卓球\",\"川辺ヒロシ\"],\"time\":\"\",\"numbers\":[],\"quote\":\"『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。\",\"quote_zh\":\"agraph这个名字的由来是：他想把「graphic」这个词放进组合名，于是找石野卓球和川辺ヒロシ商量，对方说「与其说graphic，不如说成graph，可以理解成头重脚轻的graph（图表）」，由此变成了agraph。\",\"source_index\":6,\"contrast\":1,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f3\",\"text\":\"牛尾宪辅在以agraph之名发行个人专辑之前，用本名kensuke ushio这个名字首次发表的乐曲〈colours〉，收录于2007年由石野卓球主导的厂牌「platik」发行的合辑《Gathering Traxx Vol.1》。\",\"people\":[\"牛尾宪辅\",\"石野卓球\"],\"time\":\"2007年\",\"numbers\":[\"2007\"],\"quote\":\"2007年、石野卓球が主宰するレーベル『platik』からリリースされたコンピレーション・アルバム『Gathering Traxx Vol.1』にkensuke ushio名義の初の楽曲『colours』が収録される[4]。\",\"quote_zh\":\"2007年，在石野卓球所主导的厂牌「platik」发行的合辑《Gathering Traxx Vol.1》中，收录了kensuke ushio名义的首支乐曲《colours》。\",\"source_index\":5,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f4\",\"text\":\"牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，但他从未打算发表这些曲子；在石野卓球的好奇之下他忐忑地让石野卓球听了试听带，石野卓球非常喜欢并告诉他「一定要把它们公开给全世界听到」。\",\"people\":[\"牛尾宪辅\",\"石野卓球\"],\"time\":\"\",\"numbers\":[],\"quote\":\"有次，在石野卓球的好奇之下，牛尾忐忑地让石野卓球听了几段自己写的试听带。令牛尾意想不到的是，石野卓球非常喜欢这些曲子，告诉他“一定要把它们公开给全世界听到”。\",\"quote_zh\":\"有一次，在石野卓球的好奇之下，牛尾忐忑地让石野卓球听了几段自己写的试听带。令牛尾意想不到的是，石野卓球非常喜欢这些曲子，告诉他“一定要把它们公开给全世界听到”。\",\"source_index\":9,\"contrast\":2,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f5\",\"text\":\"牛尾宪辅本想用一个有别于本名的艺名发行个人专辑，因为他总受视觉事物启发而作曲；在石野卓球与川边浩志的建议下，他把「graphic」改成「graph」，最后加上「a」，成为「agraph」。\",\"people\":[\"牛尾宪辅\",\"石野卓球\",\"川边浩志\"],\"time\":\"\",\"numbers\":[],\"quote\":\"在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。\",\"quote_zh\":\"在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。\",\"source_index\":9,\"contrast\":1,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f6\",\"text\":\"牛尾宪辅的小学时期，通过电视动画认识了电子音乐组合access的作品，被键盘手浅仓大介谱写的合成器音色深深吸引，因而萌生成为电子音乐家的念头。\",\"people\":[\"牛尾宪辅\",\"浅仓大介\"],\"time\":\"\",\"numbers\":[],\"quote\":\"小学时期，牛尾经由电视动画认识了电子音乐组合access的作品，被乐团键盘手浅仓大介谱写的合成器音色深深吸引，因而萌生成为电子音乐家的念头。\",\"quote_zh\":\"小学时期，牛尾经由电视动画认识了电子音乐组合access的作品，被乐团键盘手浅仓大介谱写的合成器音色深深吸引，因而萌生成为电子音乐家的念头。\",\"source_index\":8,\"contrast\":0,\"links\":0,\"linked_nodes\":[]},{\"id\":\"f7\",\"text\":\"牛尾宪辅的父母希望他先学好钢琴，他本人不情愿、认为电子琴更有趣，但抱持着成为音乐家的梦想便姑且继续学下去。\",\"people\":[\"牛尾宪辅\"],\"time\":\"\",\"numbers\":[],\"quote\":\"父母希望牛尾先学好钢琴，他虽然不情愿，认为电子琴更有趣，但抱持着成为音乐家的梦想，便姑且继续学下去[2]。\",\"quote_zh\":\"父母希望牛尾先学好钢琴，他虽然不情愿，认为电子琴更有趣，但抱持着成为音乐家的梦想，便姑且继续学下去。\",\"source_index\":8,\"contrast\":1,\"links\":0,\"linked_nodes\":[]}]}",
+        "usage" : {
+          "cachedInputTokens" : 0,
+          "inputTokens" : 4617,
+          "outputTokens" : 1459,
+          "reasoningTokens" : 0,
+          "totalTokens" : 6076
+        }
+      },
+      "stage" : "extract"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"牛尾没打算发表，石野卓球听完说一定要公开\",\"body\":\"牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，却从未打算发表这些曲子。石野卓球听了他的试听带后非常喜欢，告诉他「一定要把它们公开给全世界听到」。\",\"fact_ids\":[\"f4\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 1024,
+          "inputTokens" : 3393,
+          "outputTokens" : 80,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3473
+        }
+      },
+      "stage" : "write"
+    },
+    {
+      "maxTokens" : 16384,
+      "reply" : {
+        "model" : "mimo-v2.6-pro",
+        "text" : "{\"checks\":[{\"index\":0,\"ok\":true,\"unsupported\":[]}],\"pick\":0,\"why\":\"本没打算发表的试听带，被石野卓球听完一句「一定要公开给全世界听到」推向了世界\"}",
+        "usage" : {
+          "cachedInputTokens" : 0,
+          "inputTokens" : 2879,
+          "outputTokens" : 436,
+          "reasoningTokens" : 386,
+          "totalTokens" : 3315
+        }
+      },
+      "stage" : "pick"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"2016年9月，牛尾宪辅第一次给电影写配乐\",\"body\":\"山田尚子执导的《声之形》在2016年9月公开。这部片的电影配乐，是牛尾宪辅自己的第一次。\",\"fact_ids\":[\"f1\"]},{\"title\":\"《声之形》公开那月，配乐交给了牛尾宪辅\",\"body\":\"2016年9月，《声之形》公开，导演是山田尚子。牛尾宪辅为这部片写了电影配乐，这是他第一次做电影作品的配乐。\",\"fact_ids\":[\"f1\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 1024,
+          "inputTokens" : 3350,
+          "outputTokens" : 144,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3494
+        }
+      },
+      "stage" : "write"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"2016 年 9 月，《声之形》请牛尾宪辅写配乐\",\"body\":\"山田尚子执导的《声之形》在 2016 年 9 月公开。这是牛尾宪辅第一次为电影作品创作配乐。\",\"fact_ids\":[\"f1\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 1024,
+          "inputTokens" : 3375,
+          "outputTokens" : 78,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3453
+        }
+      },
+      "stage" : "rewrite"
+    },
+    {
+      "maxTokens" : 8192,
+      "reply" : {
+        "model" : "mimo-v2.6-flash",
+        "text" : "{\"candidates\":[{\"title\":\"想把graphic放进组合名，石野卓球给了另一个词\",\"body\":\"牛尾宪辅本来想把「graphic」这个词放进组合名，向石野卓球和川边浩志咨询。对方说改说成「graph」的话，可以理解成头重脚轻的graph（图表），于是就成了agraph。\",\"fact_ids\":[\"f2\"]}]}",
+        "usage" : {
+          "cachedInputTokens" : 1280,
+          "inputTokens" : 3415,
+          "outputTokens" : 84,
+          "reasoningTokens" : 0,
+          "totalTokens" : 3499
+        }
+      },
+      "stage" : "write"
+    }
+  ],
+  "candidates" : [
+    {
+      "deterministicIssues" : [
+
+      ],
+      "factIDs" : [
+        "f4"
+      ],
+      "modelApproved" : true,
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，却从未打算发表这些曲子。石野卓球听了他的试听带后非常喜欢，告诉他「一定要把它们公开给全世界听到」。",
+        "entityID" : "ushio",
+        "entityLinks" : {
+
+        },
+        "id" : "model-ushio-1",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · 牛尾宪辅",
+          "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+        },
+        "title" : "牛尾没打算发表，石野卓球听完说一定要公开"
+      },
+      "unsupported" : [
+
+      ],
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "deterministicIssues" : [
+        {
+          "detail" : "所引事实及实体信息没有数字 一",
+          "rule" : "number",
+          "token" : "一"
+        }
+      ],
+      "factIDs" : [
+        "f1"
+      ],
+      "rewritten" : false,
+      "story" : {
+        "body" : "山田尚子执导的《声之形》在2016年9月公开。这部片的电影配乐，是牛尾宪辅自己的第一次。",
+        "entityID" : "ushio",
+        "entityLinks" : {
+
+        },
+        "id" : "model-ushio-2",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "2016年9月，牛尾宪辅第一次给电影写配乐"
+      },
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "deterministicIssues" : [
+        {
+          "detail" : "所引事实及实体信息没有数字 一",
+          "rule" : "number",
+          "token" : "一"
+        }
+      ],
+      "factIDs" : [
+        "f1"
+      ],
+      "rewritten" : false,
+      "story" : {
+        "body" : "2016年9月，《声之形》公开，导演是山田尚子。牛尾宪辅为这部片写了电影配乐，这是他第一次做电影作品的配乐。",
+        "entityID" : "ushio",
+        "entityLinks" : {
+
+        },
+        "id" : "model-ushio-3",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "《声之形》公开那月，配乐交给了牛尾宪辅"
+      },
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "deterministicIssues" : [
+        {
+          "detail" : "所引事实及实体信息没有数字 一",
+          "rule" : "number",
+          "token" : "一"
+        }
+      ],
+      "factIDs" : [
+        "f1"
+      ],
+      "rewritten" : true,
+      "story" : {
+        "body" : "山田尚子执导的《声之形》在 2016 年 9 月公开。这是牛尾宪辅第一次为电影作品创作配乐。",
+        "entityID" : "ushio",
+        "entityLinks" : {
+
+        },
+        "id" : "model-ushio-4",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "2016 年 9 月，《声之形》请牛尾宪辅写配乐"
+      },
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    },
+    {
+      "deterministicIssues" : [
+        {
+          "detail" : "所引事实及实体信息没有数字 一",
+          "rule" : "number",
+          "token" : "一"
+        },
+        {
+          "detail" : "名称或引文未逐字见于名称表及所引事实：对方说改",
+          "rule" : "name",
+          "token" : "对方说改"
+        }
+      ],
+      "factIDs" : [
+        "f2"
+      ],
+      "rewritten" : false,
+      "story" : {
+        "body" : "牛尾宪辅本来想把「graphic」这个词放进组合名，向石野卓球和川边浩志咨询。对方说改说成「graph」的话，可以理解成头重脚轻的graph（图表），于是就成了agraph。",
+        "entityID" : "ushio",
+        "entityLinks" : {
+
+        },
+        "id" : "model-ushio-5",
+        "relatedEntityIDs" : [
+
+        ],
+        "score" : 0,
+        "source" : {
+          "detail" : "CC BY-SA 4.0",
+          "title" : "维基百科 · Agraph",
+          "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+        },
+        "title" : "想把graphic放进组合名，石野卓球给了另一个词"
+      },
+      "validation" : {
+        "issues" : [
+
+        ]
+      }
+    }
+  ],
+  "entityID" : "ushio",
+  "facts" : [
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 来歴 · 段落 9",
+          "location" : "ja · Agraph · 来歴 · 段落 9",
+          "quote" : "同年9月公開の山田尚子監督作『映画 聲の形』では、自身初となる映画作品の劇伴を手がけた[10]。"
+        }
+      },
+      "id" : "f1",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+        "山田尚子"
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "statements" : [
+        "牛尾宪辅在2016年9月公开、山田尚子执导的《声之形》中，首次为电影作品创作配乐。"
+      ],
+      "text" : "牛尾宪辅在2016年9月公开、山田尚子执导的《声之形》中，首次为电影作品创作配乐。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 人物・特徴 · 段落 11",
+          "location" : "ja · Agraph · 人物・特徴 · 段落 11",
+          "quote" : "『agraph』名前の由来は『グラフィック』という文字をユニット名に入れたく石野卓球と川辺ヒロシに相談したところ「グラフィックじゃなくてグラフって言い方にすれば、頭でっかちのグラフととれる」、という話からagraph（アグラフ）となったという。"
+        }
+      },
+      "id" : "f2",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+        "石野卓球",
+        "川辺ヒロシ"
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "statements" : [
+        "牛尾宪辅的艺名agraph的由来是：他想把「graphic」这个词放进组合名，向石野卓球和川边浩志咨询后，对方说「不是说graphic，说成graph的话，可以理解成头重脚轻的graph（图表）」，于是就成了agraph。"
+      ],
+      "text" : "牛尾宪辅的艺名agraph的由来是：他想把「graphic」这个词放进组合名，向石野卓球和川边浩志咨询后，对方说「不是说graphic，说成graph的话，可以理解成头重脚轻的graph（图表）」，于是就成了agraph。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://ja.wikipedia.org/w/index.php?oldid=111100030#ja · Agraph · 来歴 · 段落 6",
+          "location" : "ja · Agraph · 来歴 · 段落 6",
+          "quote" : "2007年、石野卓球が主宰するレーベル『platik』からリリースされたコンピレーション・アルバム『Gathering Traxx Vol.1』にkensuke ushio名義の初の楽曲『colours』が収録される[4]。"
+        }
+      },
+      "id" : "f3",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+        "石野卓球"
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · Agraph",
+        "url" : "https://ja.wikipedia.org/w/index.php?oldid=111100030"
+      },
+      "statements" : [
+        "牛尾宪辅在以agraph之名发行个人专辑之前，用本名kensuke ushio这个名字首次发表的乐曲〈colours〉，收录于2007年由石野卓球主导的厂牌「platik」发行的合辑《Gathering Traxx Vol.1》。"
+      ],
+      "text" : "牛尾宪辅在以agraph之名发行个人专辑之前，用本名kensuke ushio这个名字首次发表的乐曲〈colours〉，收录于2007年由石野卓球主导的厂牌「platik」发行的合辑《Gathering Traxx Vol.1》。"
+    },
+    {
+      "contrast" : 2,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+          "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+          "quote" : "有次，在石野卓球的好奇之下，牛尾忐忑地让石野卓球听了几段自己写的试听带。令牛尾意想不到的是，石野卓球非常喜欢这些曲子，告诉他“一定要把它们公开给全世界听到”。"
+        }
+      },
+      "id" : "f4",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+        "石野卓球"
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，但他从未打算发表这些曲子；在石野卓球的好奇之下他忐忑地让石野卓球听了试听带，石野卓球非常喜欢并告诉他「一定要把它们公开给全世界听到」。"
+      ],
+      "text" : "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，但他从未打算发表这些曲子；在石野卓球的好奇之下他忐忑地让石野卓球听了试听带，石野卓球非常喜欢并告诉他「一定要把它们公开给全世界听到」。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+          "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+          "quote" : "在石野卓球与其同业友人川边浩志建议下，他将“graphic”改成了“graph”，最后加上一个“a”，成为“agraph”。"
+        }
+      },
+      "id" : "f5",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+        "石野卓球",
+        "川边浩志"
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "牛尾宪辅本想用一个有别于本名的艺名发行个人专辑，因为他总受视觉事物启发而作曲；在石野卓球与川边浩志的建议下，他把「graphic」改成「graph」，最后加上「a」，成为「agraph」。"
+      ],
+      "text" : "牛尾宪辅本想用一个有别于本名的艺名发行个人专辑，因为他总受视觉事物启发而作曲；在石野卓球与川边浩志的建议下，他把「graphic」改成「graph」，最后加上「a」，成为「agraph」。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 童年时期 · 段落 2",
+          "location" : "zh · 牛尾宪辅 · 童年时期 · 段落 2",
+          "quote" : "小学时期，牛尾经由电视动画认识了电子音乐组合access的作品，被乐团键盘手浅仓大介谱写的合成器音色深深吸引，因而萌生成为电子音乐家的念头。"
+        }
+      },
+      "id" : "f6",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+        "牛尾宪辅",
+        "浅仓大介"
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "牛尾宪辅的小学时期，通过电视动画认识了电子音乐组合access的作品，被键盘手浅仓大介谱写的合成器音色深深吸引，因而萌生成为电子音乐家的念头。"
+      ],
+      "text" : "牛尾宪辅的小学时期，通过电视动画认识了电子音乐组合access的作品，被键盘手浅仓大介谱写的合成器音色深深吸引，因而萌生成为电子音乐家的念头。"
+    },
+    {
+      "contrast" : 1,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 童年时期 · 段落 2",
+          "location" : "zh · 牛尾宪辅 · 童年时期 · 段落 2",
+          "quote" : "父母希望牛尾先学好钢琴，他虽然不情愿，认为电子琴更有趣，但抱持着成为音乐家的梦想，便姑且继续学下去[2]。"
+        }
+      },
+      "id" : "f7",
+      "linkedEntityIDs" : [
+
+      ],
+      "people" : [
+        "牛尾宪辅"
+      ],
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "statements" : [
+        "牛尾宪辅的父母希望他先学好钢琴，他本人不情愿、认为电子琴更有趣，但抱持着成为音乐家的梦想便姑且继续学下去。"
+      ],
+      "text" : "牛尾宪辅的父母希望他先学好钢琴，他本人不情愿、认为电子琴更有趣，但抱持着成为音乐家的梦想便姑且继续学下去。"
+    },
+    {
+      "contrast" : 0,
+      "evidence" : {
+        "passage" : {
+          "id" : "https://www.wikidata.org/wiki/Q11190062#P569#Q11190062 · P569 · Q11190062$9114C7B0-AD61-4E9A-84F4-0CE789E7DDD5",
+          "location" : "Q11190062 · P569 · Q11190062$9114C7B0-AD61-4E9A-84F4-0CE789E7DDD5",
+          "quote" : "P569 = +1983-03-01T00:00:00Z；precision = 11；calendarmodel = http://www.wikidata.org/entity/Q1985727"
+        }
+      },
+      "id" : "https://www.wikidata.org/wiki/Q11190062#P569#Q11190062 · P569 · Q11190062$9114C7B0-AD61-4E9A-84F4-0CE789E7DDD5",
+      "linkedEntityIDs" : [
+
+      ],
+      "source" : {
+        "detail" : "社区维护的结构化资料",
+        "title" : "Wikidata · 牛尾憲輔",
+        "url" : "https://www.wikidata.org/wiki/Q11190062#P569"
+      },
+      "statements" : [
+        "牛尾憲輔的出生日期是1983-03-01。"
+      ],
+      "text" : "牛尾憲輔的出生日期是1983-03-01。"
+    }
+  ],
+  "selectionReasons" : [
+    "本没打算发表的试听带，被石野卓球听完一句「一定要公开给全世界听到」推向了世界"
+  ],
+  "sentences" : [
+    {
+      "facts" : [
+        {
+          "contrast" : 2,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "quote" : "有次，在石野卓球的好奇之下，牛尾忐忑地让石野卓球听了几段自己写的试听带。令牛尾意想不到的是，石野卓球非常喜欢这些曲子，告诉他“一定要把它们公开给全世界听到”。"
+            }
+          },
+          "id" : "f4",
+          "linkedEntityIDs" : [
+
+          ],
+          "people" : [
+            "石野卓球"
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 牛尾宪辅",
+            "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+          },
+          "statements" : [
+            "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，但他从未打算发表这些曲子；在石野卓球的好奇之下他忐忑地让石野卓球听了试听带，石野卓球非常喜欢并告诉他「一定要把它们公开给全世界听到」。"
+          ],
+          "text" : "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，但他从未打算发表这些曲子；在石野卓球的好奇之下他忐忑地让石野卓球听了试听带，石野卓球非常喜欢并告诉他「一定要把它们公开给全世界听到」。"
+        }
+      ],
+      "sentence" : "牛尾没打算发表，石野卓球听完说一定要公开",
+      "storyID" : "model-ushio-1"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 2,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "quote" : "有次，在石野卓球的好奇之下，牛尾忐忑地让石野卓球听了几段自己写的试听带。令牛尾意想不到的是，石野卓球非常喜欢这些曲子，告诉他“一定要把它们公开给全世界听到”。"
+            }
+          },
+          "id" : "f4",
+          "linkedEntityIDs" : [
+
+          ],
+          "people" : [
+            "石野卓球"
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 牛尾宪辅",
+            "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+          },
+          "statements" : [
+            "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，但他从未打算发表这些曲子；在石野卓球的好奇之下他忐忑地让石野卓球听了试听带，石野卓球非常喜欢并告诉他「一定要把它们公开给全世界听到」。"
+          ],
+          "text" : "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，但他从未打算发表这些曲子；在石野卓球的好奇之下他忐忑地让石野卓球听了试听带，石野卓球非常喜欢并告诉他「一定要把它们公开给全世界听到」。"
+        }
+      ],
+      "sentence" : "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，却从未打算发表这些曲子",
+      "storyID" : "model-ushio-1"
+    },
+    {
+      "facts" : [
+        {
+          "contrast" : 2,
+          "evidence" : {
+            "passage" : {
+              "id" : "https://zh.wikipedia.org/w/index.php?oldid=95154686#zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "location" : "zh · 牛尾宪辅 · 职业生涯 · 段落 6",
+              "quote" : "有次，在石野卓球的好奇之下，牛尾忐忑地让石野卓球听了几段自己写的试听带。令牛尾意想不到的是，石野卓球非常喜欢这些曲子，告诉他“一定要把它们公开给全世界听到”。"
+            }
+          },
+          "id" : "f4",
+          "linkedEntityIDs" : [
+
+          ],
+          "people" : [
+            "石野卓球"
+          ],
+          "source" : {
+            "detail" : "CC BY-SA 4.0",
+            "title" : "维基百科 · 牛尾宪辅",
+            "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+          },
+          "statements" : [
+            "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，但他从未打算发表这些曲子；在石野卓球的好奇之下他忐忑地让石野卓球听了试听带，石野卓球非常喜欢并告诉他「一定要把它们公开给全世界听到」。"
+          ],
+          "text" : "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，但他从未打算发表这些曲子；在石野卓球的好奇之下他忐忑地让石野卓球听了试听带，石野卓球非常喜欢并告诉他「一定要把它们公开给全世界听到」。"
+        }
+      ],
+      "sentence" : "石野卓球听了他的试听带后非常喜欢，告诉他「一定要把它们公开给全世界听到」",
+      "storyID" : "model-ushio-1"
+    }
+  ],
+  "skippedMaterials" : [
+
+  ],
+  "stories" : [
+    {
+      "body" : "牛尾宪辅发行〈Colours〉后继续在助手工作之余写歌，却从未打算发表这些曲子。石野卓球听了他的试听带后非常喜欢，告诉他「一定要把它们公开给全世界听到」。",
+      "entityID" : "ushio",
+      "entityLinks" : {
+
+      },
+      "id" : "model-ushio-1",
+      "relatedEntityIDs" : [
+
+      ],
+      "score" : 0,
+      "source" : {
+        "detail" : "CC BY-SA 4.0",
+        "title" : "维基百科 · 牛尾宪辅",
+        "url" : "https://zh.wikipedia.org/w/index.php?oldid=95154686"
+      },
+      "title" : "牛尾没打算发表，石野卓球听完说一定要公开"
+    }
+  ]
+}

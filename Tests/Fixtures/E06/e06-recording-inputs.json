@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "badapple",
+    "catalogID": "1437761659",
+    "country": "JP"
+  },
+  {
+    "slug": "night",
+    "catalogID": "1437762258",
+    "country": "JP"
+  },
+  {
+    "slug": "cirno",
+    "catalogID": "1437877501",
+    "country": "JP"
+  },
+  {
+    "slug": "zanarkand",
+    "catalogID": "1439124954",
+    "country": "US"
+  },
+  {
+    "slug": "winged",
+    "catalogID": "1439125559",
+    "country": "US"
+  },
+  {
+    "slug": "edge2022",
+    "catalogID": "1641255720",
+    "country": "JP"
+  },
+  {
+    "slug": "edge2024",
+    "catalogID": "1765495221",
+    "country": "JP"
+  },
+  {
+    "slug": "richter",
+    "catalogID": "1440745587",
+    "country": "US"
+  },
+  {
+    "slug": "pictures",
+    "catalogID": "968867424",
+    "country": "US"
+  },
+  {
+    "slug": "paganini",
+    "catalogID": "1452515111",
+    "country": "US"
+  },
+  {
+    "slug": "iroha",
+    "catalogID": "1438499010",
+    "country": "JP"
+  },
+  {
+    "slug": "zanarkand_piano",
+    "catalogID": "75897751",
+    "country": "US"
+  }
+]

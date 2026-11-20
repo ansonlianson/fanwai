@@ -48,7 +48,7 @@ Each version is one commit with the same code as the TestFlight build of that nu
 
 ## Feedback
 
-Use “Send Beta Feedback” in TestFlight, or write to [anson138@126.com](mailto:anson138@126.com). For security issues, see [SECURITY.md](.github/SECURITY.md). Issues and pull requests are not accepted here.
+Use “Send Beta Feedback” in TestFlight; other ways to reach the author are on [fanwai.xyz](https://fanwai.xyz/support). Report security issues privately under this repository's [Security › Report a vulnerability](https://github.com/ansonlianson/fanwai/security/advisories/new). Issues and pull requests are not accepted here.
 
 ## License
 

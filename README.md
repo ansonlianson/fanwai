@@ -86,8 +86,8 @@ project.yml       XcodeGen 工程配置
 ## 反馈
 
 - 在 TestFlight 里用「发送 Beta 版反馈」，截屏后也会弹出。
-- 或者写信到 [anson138@126.com](mailto:anson138@126.com)。
-- 安全问题请按 [SECURITY.md](.github/SECURITY.md) 私下联系，不要公开发布。
+- 其他联系方式见 [fanwai.xyz](https://fanwai.xyz/support)。
+- 安全问题请在本仓库的 [Security › Report a vulnerability](https://github.com/ansonlianson/fanwai/security/advisories/new) 私下提交，不要公开发布。
 
 这个仓库不收 Issue 和 Pull Request。
 

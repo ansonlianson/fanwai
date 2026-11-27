@@ -38,6 +38,8 @@ struct ShopNowPage: View, @MainActor Equatable {
     @Environment(PullOutReaders.self) private var readers
     @Environment(\.playbackTop) private var playbackTop
     @State private var visit = ShopBinVisit()
+    @State private var feedbackDraft: ResultFeedbackDraft?
+    @State private var feedbackMessage: String?
 
     static let base = Color(red: 0.090, green: 0.074, blue: 0.055)
     fileprivate static let ink = Color(red: 0.93, green: 0.92, blue: 0.89)
@@ -116,7 +118,21 @@ struct ShopNowPage: View, @MainActor Equatable {
         .toolbar {
             ToolbarItemGroup(placement: .topBarTrailing) {
                 ShopPageGraphAction(entity: entity, visit: visit, onGraph: onGraph)
-                ShopPageMenuRegion(entity: entity, onNext: onNext, onSave: onSave, onRetry: onRetry)
+                ShopPageMenuRegion(entity: entity, visit: visit, feedbackEnabled: isCurrent, onFeedback: { feedbackDraft = .init(snapshot: $0) }, onNext: onNext, onSave: onSave, onRetry: onRetry)
+            }
+        }
+        .sheet(item: $feedbackDraft) { draft in
+            ResultFeedbackSheet(draft: draft) { outcome in
+                feedbackMessage = outcome == .queued ? "已保存，稍后发送" : "已收到"
+            }
+        }
+        .overlay(alignment: .bottom) {
+            if let feedbackMessage {
+                Text(feedbackMessage).font(.subheadline).foregroundStyle(ShopStyle.ink)
+                    .padding(.horizontal, 20).padding(.vertical, 12)
+                    .glassEffect(.regular, in: .capsule).padding(.bottom, 165)
+                    .accessibilityIdentifier("feedback-receipt")
+                    .task { try? await Task.sleep(for: .seconds(3)); self.feedbackMessage = nil }
             }
         }
         .task(id: entity.id) {
@@ -570,7 +586,11 @@ private struct ShopPageArticleRegion: View {
                 .fixedSize(horizontal: false, vertical: true)
                 .accessibilityIdentifier("lead-arrival")
         }
-        if !isSeed, !storySettings.hasKey, !trial.usable, !(trial.hasPass && storyLoading) {
+        if !isSeed, let job = research.jobs.values[entity.id], job.active {
+            // A running lookup owns its configuration, even if the available
+            // key/pass changes while it is in flight.
+            DiscoveryProgressView(job: job)
+        } else if !isSeed, !storySettings.hasKey, !trial.usable, !(trial.hasPass && storyLoading) {
             // Nothing to look this song up with: the line says what is missing and opens the model step.
             // A 体验码 pass says why it cannot be used now (run out, switched off, the day's lookups gone).
             HStack(spacing: 4) {
@@ -584,9 +604,9 @@ private struct ShopPageArticleRegion: View {
                 }
             }
             .font(.system(size: 13)).accessibilityIdentifier("discovery-model-settings")
-        } else if storyLoading, let job = research.jobs.values[entity.id] {
-            DiscoveryProgressView(job: job)
-        } else if storyLoading {
+        } else if storyLoading || (!isSeed && research.state(entity.id) == nil) {
+            // The destination can draw before its transition has started the
+            // lookup. Unknown is still waiting, never a completed empty page.
             StoryLoadingView(compact: true).padding(.horizontal, -26).frame(height: 40, alignment: .top)
         } else if !isSeed {
             if let job = research.jobs.values[entity.id] {
@@ -730,11 +750,16 @@ private struct NothingFoundNote: View {
 
 private struct ShopPageMenuRegion: View {
     let entity: SeedGraph.Entity
+    let visit: ShopBinVisit
+    let feedbackEnabled: Bool
+    let onFeedback: (ResultFeedbackSnapshot) -> Void
     let onNext: (SeedGraph.Entity) -> Void
     let onSave: (SeedGraph.Entity) -> Void
     let onRetry: () -> Void
     @Environment(Library.self) private var library
     @Environment(LeadResearch.self) private var research
+    @Environment(OnDemandStories.self) private var stories
+    @Environment(PullOutReaders.self) private var readers
     private var isSeed: Bool { SeedNowContent.contains(entity.id) && RecordShopArtReview.current == nil }
     private var storyLoading: Bool { !isSeed && research.state(entity.id) == .loading }
     private var catalogID: WorkID { library.catalog.canonicalID(for: SeedLibraryBridge.workID(entity.id)) }
@@ -751,8 +776,39 @@ private struct ShopPageMenuRegion: View {
                      onConnect: { Task { await library.connectMusic() } },
                      onNext: { onNext(entity) }, onSave: { onSave(entity) }, onRetry: onRetry,
                      onSources: { library.sourceSheet = catalogID }, onStop: { research.stop(entity.id) },
-                     usageLine: isSeed ? nil : UsageLedger.shared.latest(for: entity.id).map { "上次查找 " + UsageLedger.amount($0) })
+                     usageLine: isSeed ? nil : UsageLedger.shared.latest(for: entity.id).map { "上次查找 " + UsageLedger.amount($0) },
+                     feedbackContextID: entity.id, onFeedback: feedbackEnabled ? { onFeedback(captureFeedback()) } : nil)
             .equatable()
+    }
+
+    // Resolve only on the tap; the menu keeps its stable, non-observing body.
+    private func captureFeedback() -> ResultFeedbackSnapshot {
+        let reader = readers.reader(for: entity.id)
+        let known: [CrateItem] = isSeed ? CrateInventory.items(for: entity.id) : research.navigationLeads(entity.id, library: library).compactMap { lead in
+            guard let raw = WorkID(rawValue: lead.id) else { return nil }
+            let id = library.catalog.canonicalID(for: raw)
+            guard library.catalog.works[id] != nil else { return nil }
+            var item = CrateItem(entity: SeedLibraryBridge.entity(for: id, in: library), relation: lead.label, path: lead.path ?? [entity.id, id.rawValue])
+            item.note = lead.why
+            return item
+        }
+        let items = CrateOrdering.ordered(known, from: entity.id, library: library)
+        var current: PullOutStorySnapshot?
+        if let story = isSeed ? stories.story(for: entity.id) : research.story(for: entity.id, library: library) {
+            current = .init(story: story, scope: isSeed ? stories.scopeCaption(for: entity.id) : research.scope(for: entity.id, library: library),
+                subject: isSeed ? nil : research.storyFocus(entity.id, library: library), allowsRoot: isSeed || research.storyAllowsRoot(entity.id))
+        } else if !isSeed, !entity.kind.isMusic {
+            let work = library.catalog.work(catalogID)
+            if !work.isMusicWork, let qid = work.knowledgeID, let context = WorkContextStore.shared.values[qid],
+               let source = context.introductionSource, let text = context.readingExcerpt ?? context.introduction, !text.isEmpty {
+                current = .init(story: Story(id: "wikipedia-introduction:" + qid, entityID: catalogID.rawValue, title: "", body: text, source: source),
+                    scope: "维基百科简介", subject: nil, allowsRoot: true)
+            }
+        }
+        let hero = library.catalog.works[catalogID] == nil ? entity : SeedLibraryBridge.entity(for: catalogID, in: library)
+        return .capture(entity: hero, library: library, story: reader.isReading ? reader.pinned ?? current : current,
+            items: items, visibleIDs: Set(visit.inventory.visible(root: entity.id, available: items.map(\.id))), research: research,
+            readingPinned: reader.isReading && reader.pinned != nil, lookupID: entity.id)
     }
 }
 
@@ -781,11 +837,14 @@ struct ShopPageMenu: View, @MainActor Equatable {
     var onDeepDive: () -> Void = {}
     /// What the last paid lookup of this page cost (设置 › 用量 has them all).
     var usageLine: String? = nil
+    var feedbackContextID = ""
+    var onFeedback: (() -> Void)? = nil
     @Environment(\.openURL) private var openURL
     static func == (a: Self, b: Self) -> Bool {
         a.isMusic == b.isMusic && a.canQueue == b.canQueue && a.appleURL == b.appleURL && a.listenID == b.listenID
             && a.canRefresh == b.canRefresh && a.isLoading == b.isLoading && a.hasSources == b.hasSources && a.canDeepDive == b.canDeepDive
             && a.usageLine == b.usageLine && a.needsConnection == b.needsConnection && a.listenTitle == b.listenTitle && a.canSave == b.canSave
+            && a.feedbackContextID == b.feedbackContextID && (a.onFeedback != nil) == (b.onFeedback != nil)
     }
     var body: some View {
         Menu {
@@ -800,6 +859,10 @@ struct ShopPageMenu: View, @MainActor Equatable {
             else if canRefresh { item("重新查找", "arrow.clockwise", action: onRetry).accessibilityIdentifier("lead-refresh") }
             if canDeepDive && !isLoading { item("深挖", "magnifyingglass", action: onDeepDive).accessibilityIdentifier("lead-deep") }
             if hasSources { item("来源", "text.quote", action: onSources) }
+            if let onFeedback {
+                Divider()
+                item("反馈", "bubble.left", action: onFeedback).accessibilityIdentifier("now-feedback")
+            }
             if let usageLine { Section { Button(usageLine) {}.disabled(true).accessibilityIdentifier("lead-usage") } }
         } label: { Image(uiImage: MenuSymbol.image("ellipsis")) }
             .accessibilityLabel("更多").accessibilityIdentifier("now-more")

@@ -1,0 +1,58 @@
+{
+  "processorVersion": "p5",
+  "timing": {
+    "searchCalls": 7,
+    "matchingSeconds": 0.002378106117248535,
+    "outputTokens": 1118,
+    "researchSeconds": 18.281068086624146
+  },
+  "fetchedAt": 816849281.012895,
+  "relations": [],
+  "leads": [
+    {
+      "identity": {
+        "composer": "",
+        "canonicalTitle": "若草恵",
+        "movement": "",
+        "arranger": "",
+        "performers": "",
+        "aliases": [
+          "若草恵"
+        ],
+        "edition": "",
+        "catalogue": "",
+        "layer": "person"
+      },
+      "why": "",
+      "name": "若草恵",
+      "id": "lead:clue:1f1bd5d31eaff9bf30db8ffce485903f",
+      "creator": "",
+      "art": "",
+      "url": "",
+      "nodeRef": "h0_n1",
+      "label": "线索",
+      "original": "若草恵",
+      "kind": "person",
+      "unconfirmed": true
+    }
+  ],
+  "seconds": 18.29422402381897,
+  "version": 3,
+  "story": {
+    "url": "https://www.iza.ne.jp/article/20200805-4BKSM3GOHZKUBELOKHHEKI4THM/",
+    "subject": "album",
+    "text": "在华纳先锋负责中森明菜宣传的富岡信夫回忆，这张专辑先由「少女Ａ」带动。当时宣传工作以单曲为重，专辑销量建立在单曲卖好的基础上。「キャンセル！」因此被选作专辑开场的歌曲；此外，专辑还收录了来生たかお与来生えつこ在明菜出道前写成样带的「咲きほこる花に…」。制作和营业部门一度力推「キャンセル！」作为第三张单曲。富岡信夫却从一开始就反对让新单曲继续走「少女Ａ」的路线，但他认为把「キャンセル！」放在专辑序曲之后非常成功。考虑到明菜一直重视作品概念、希望作为有唱功的歌手发展，他更支持选择「セカンド・ラブ」作为第三张单曲；明菜自己也喜欢这首歌。",
+    "mentions": [
+      "キャンセル！",
+      "セカンド・ラブ",
+      "中森明菜",
+      "咲きほこる花に…",
+      "富岡信夫",
+      "少女Ａ",
+      "来生えつこ",
+      "来生たかお"
+    ],
+    "source": "イザ！",
+    "focusName": "バリエーション〈変奏曲〉"
+  }
+}

@@ -7,8 +7,10 @@ enum RecordingVersion {
         title.range(of: #"(?i)(?:^|[\s\-–—/／(（\[【])(?:from\s+)?the\s+f(?:i|1)rst\s+take(?:$|[\s)）\]】])"#, options: .regularExpression) != nil
     }
     static func split(_ title: String) -> (title: String, version: String)? {
+        let mastering = #"(?i)(?:\d{4}\s*)?(?:lacquer\s+master\s+sound|mastering|remaster(?:ed)?|ラッカーマスターサウンド|リマスター)(?:\s+\d{4})?"#
         let patterns = [#"\s*[-–—/／]\s*("# + firstTake + #")\s*$"#,
-                        #"\s*[(（\[【]\s*("# + firstTake + #")\s*[)）\]】]\s*$"#]
+                        #"\s*[(（\[【]\s*("# + firstTake + #")\s*[)）\]】]\s*$"#,
+                        #"\s*[(（\[【]\s*("# + mastering + #")\s*[)）\]】]\s*$"#]
         for pattern in patterns {
             guard let regex = try? NSRegularExpression(pattern: pattern),
                   let match = regex.firstMatch(in: title, range: NSRange(title.startIndex..., in: title)),

@@ -40,7 +40,7 @@ actor PublicRelationService {
             responses[url] = cached; return cached.data
         }
         var request = URLRequest(url: url, timeoutInterval: 18)
-        request.setValue("Pianwai/0.5.13 (+mailto:anson138@126.com)", forHTTPHeaderField: "User-Agent")
+        request.setValue(SourceHTTP.userAgent, forHTTPHeaderField: "User-Agent")
         request.setValue("application/json", forHTTPHeaderField: "Accept")
         var data=Data()
         for attempt in 0...1 {

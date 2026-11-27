@@ -197,10 +197,15 @@ struct ShopCover: View {
     let title: String
     var placeholder = false
     var workID: WorkID? = nil
+    var sharedPresentation: ArtworkPresentation? = nil
     @Environment(Library.self) private var library
     @Environment(\.scenePhase) private var scenePhase
     @State private var store = WorkArtworkStore.shared
     @State private var failedURLs: Set<String> = []
+    @State private var ownPresentation = ArtworkPresentation()
+    @State private var endedArtwork: String?
+    private var presentation: ArtworkPresentation { sharedPresentation ?? ownPresentation }
+    private var artworkIdentity: String { workID?.rawValue ?? title }
     /// The request whose own lookups (picture metadata, a recording's cover) have finished.
     @State private var lookedUp: String?
     /// Twenty seconds of looking is the end of waiting; a picture found later still fades in.
@@ -218,21 +223,14 @@ struct ShopCover: View {
     }
     private var selectedArtwork: String? {
         if printedReview { return nil }
-        let options = [work.flatMap { ArtworkLocation.displayValue(for: $0, catalog: library.catalog) },
+        let observed = artwork?.hasPrefix("observed-cover-") == true ? artwork : nil
+        let options = [observed, work.flatMap { ArtworkLocation.displayValue(for: $0, catalog: library.catalog, excluding: failedURLs) },
             artwork, work?.art, work.flatMap { store.metadata(for: $0)?.thumbnailURL }]
         return options.compactMap { $0 }.first { !$0.isEmpty && !failedURLs.contains($0) }
     }
     private var requestKey: String {
         [workID?.rawValue ?? "", work?.knowledgeID ?? "", work?.bangumiID ?? "", work?.art ?? "",
          work.flatMap(OfficialWorkArtwork.publisherPage)?.absoluteString ?? "", String(!failedURLs.isEmpty)].joined(separator: "|")
-    }
-    private var remoteURL: URL? {
-        guard !placeholder, let artwork = selectedArtwork, artwork.hasPrefix("https://") else { return nil }
-        return URL(string: artwork)
-    }
-    private var bundledImage: UIImage? {
-        guard !placeholder, let artwork = selectedArtwork, !artwork.hasPrefix("https://") else { return nil }
-        return ObservedArtwork.image(artwork)
     }
     /// Where this cover is has not been settled yet: this card's own lookups, or the page's.
     private var searching: Bool {
@@ -242,34 +240,32 @@ struct ShopCover: View {
     var body: some View {
         let chosen = selectedArtwork
         let searching = searching
+        let picture = placeholder ? nil : presentation.image(for: artworkIdentity, source: chosen)
+        let loading = chosen != nil && picture == nil && endedArtwork != chosen
+        let state: CoverState = picture != nil ? .picture : (loading || (searching && !waitedOut)) ? .waiting : .printed
         GeometryReader { geo in
             ZStack {
                 if placeholder {
                     Color(red: 0.86, green: 0.84, blue: 0.79)
                     Image(uiImage: PrintedTexture.fibres).resizable(resizingMode: .tile).opacity(0.18)
                 } else {
-                    // One view for every source, so the waiting stock is never swapped for a copy of itself.
-                    CachedArtworkImage(url: remoteURL, onFailure: { if let chosen { failedURLs.insert(chosen) } }) { remote, loading in
-                        let image = bundledImage.map(Image.init(uiImage:)) ?? remote
-                        let state: CoverState = image != nil ? .picture : (loading || (searching && !waitedOut)) ? .waiting : .printed
-                        ZStack {
-                            fallback(state)
-                            if let image {
-                                image.resizable().scaledToFill()
-                                    .transition(.opacity)
-                                    .onAppear { if let chosen { measureShown(chosen) } }
-                            }
+                    ZStack {
+                        fallback(state)
+                        if let picture {
+                            Image(uiImage: picture).resizable().scaledToFill()
+                                .transition(.opacity)
+                                .onAppear { if let chosen { measureShown(chosen) } }
                         }
-                        .modifier(CoverReveal(value: state))
                     }
+                    .modifier(CoverReveal(value: state))
                 }
             }
             .frame(width: geo.size.width, height: geo.size.height).clipped()
         }
-        // A bundled picture that is not in this build: move on to the next source.
-        .onAppear { if let chosen, !chosen.hasPrefix("https://"), bundledImage == nil { failedURLs.insert(chosen) } }
-        .onChange(of: chosen) { _, chosen in
-            if let chosen, !chosen.hasPrefix("https://"), bundledImage == nil { failedURLs.insert(chosen) }
+        .task(id: artworkIdentity + "|" + (chosen ?? "")) {
+            guard !placeholder, !printedReview else { return }
+            let result = await presentation.load(chosen, for: artworkIdentity)
+            if result == .failed, let chosen { endedArtwork = chosen; failedURLs.insert(chosen) }
         }
         .task(id: searching) {
             waitedOut = false

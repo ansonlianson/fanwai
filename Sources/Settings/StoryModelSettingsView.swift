@@ -6,6 +6,7 @@ struct StoryModelSettingsView: View {
     @State private var priceIn = ""
     @State private var priceOut = ""
     @State private var editingKey = false
+    @State private var showingDeepSeekGuide = false
     private var published: ModelPrice? { ModelPrice.published(model: settings.model) }
     private static func plain(_ value: Double) -> String { value == value.rounded() ? String(Int(value)) : String(value) }
     private func loadPrice() {
@@ -20,6 +21,12 @@ struct StoryModelSettingsView: View {
 
     var body: some View {
         Form {
+            Section {
+                Button("开通 DeepSeek") { commitKey(); keyFocused = false; showingDeepSeekGuide = true }
+                    .accessibilityIdentifier("story-model-deepseek-guide")
+                Link("DeepSeek 开放平台", destination: OnboardingDeepSeekGuide.site)
+                    .accessibilityIdentifier("story-model-deepseek-platform")
+            }
             Section {
                 Picker("服务商", selection: Binding(get: { settings.preferences.providerID }, set: {
                     commitKey(); settings.selectProvider($0); editingKey = false
@@ -107,6 +114,9 @@ struct StoryModelSettingsView: View {
         .onChange(of: priceIn) { _, _ in storePrice() }
         .onChange(of: priceOut) { _, _ in storePrice() }
         .scrollDismissesKeyboard(.interactively)
+        .fullScreenCover(isPresented: $showingDeepSeekGuide) {
+            OnboardingFlow(start: .deepseek) { _ in showingDeepSeekGuide = false }
+        }
     }
     private func commitKey() {
         if !input.isEmpty { settings.saveKey(input); input = "" }

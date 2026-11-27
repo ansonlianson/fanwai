@@ -216,6 +216,12 @@ struct NowRootView: View {
             // 0.3: one web-search call returns this page's leads and story.
             // The on-device collection pipeline is no longer started from here.
             guard let subject = subject(id) else { return }
+            #if DEBUG && targetEnvironment(simulator)
+            if ProcessInfo.processInfo.arguments.contains("--ui-isolate-data"),
+               ProcessInfo.processInfo.arguments.contains("--ui-u25-delay-start"), subject.title != "切歌前" {
+                do { try await Task.sleep(for: .seconds(8)) } catch { return }
+            }
+            #endif
             await research.load(subject, library: library, context: browseContext)
         }
         .sheet(item: $storyLookup, onDismiss: {

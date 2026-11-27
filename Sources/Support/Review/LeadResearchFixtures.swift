@@ -44,6 +44,11 @@ import Foundation
 
     static func override(_ subject: LeadSubject) -> (report: LeadReport, state: LeadState)? {
         #if DEBUG && targetEnvironment(simulator)
+        if ProcessInfo.processInfo.arguments.contains("--ui-isolate-data"), ProcessInfo.processInfo.arguments.contains("--ui-u25-loading") { return nil }
+        if ProcessInfo.processInfo.arguments.contains("--ui-isolate-data"), ProcessInfo.processInfo.arguments.contains("--ui-u21-story"),
+           subject.id == "apple:song:903280858", let path = ProcessInfo.processInfo.environment["PIANWAI_U21_REPORT"],
+           path.hasSuffix("/Tests/Fixtures/U21/chinese-album-report.json"), let data = try? Data(contentsOf: URL(fileURLWithPath: path)),
+           let report = try? JSONDecoder().decode(LeadReport.self, from: data) { return (report, .ready) }
         if let report = FirstTakeFixture.report(subject) { return (report, .ready) }
         if RecordShopArtReview.current != nil {
             let film = SeedNowContent.entity("film")!

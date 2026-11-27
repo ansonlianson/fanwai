@@ -2,6 +2,7 @@ import SwiftUI
 
 @main
 struct PianwaiApp: App {
+    @Environment(\.scenePhase) private var scenePhase
     @State private var library = Self.libraryForLaunch()
     @State private var sourceAvailabilityService = Self.sourceAvailabilityForLaunch()
 
@@ -113,7 +114,9 @@ struct PianwaiApp: App {
         WindowGroup {
             Group {
                 #if DEBUG && targetEnvironment(simulator)
-                if ProcessInfo.processInfo.arguments.contains("-designGallery") {
+                if ProcessInfo.processInfo.arguments.contains("--ui-isolate-data"), ProcessInfo.processInfo.arguments.contains("--ui-u21-artwork") {
+                    U21ArtworkFixture()
+                } else if ProcessInfo.processInfo.arguments.contains("-designGallery") {
                     DesignGallery()
                 } else { RootView() }
                 #else
@@ -123,11 +126,16 @@ struct PianwaiApp: App {
                 .environment(library)
                 .environment(\.sourceAvailabilityService, sourceAvailabilityService)
                 .tint(library.visualDirection.accent)
+                .onChange(of: scenePhase) { _, phase in
+                    if phase == .active { Task { await ResultFeedbackOutbox.shared.flush() } }
+                }
                 .task {
                     #if DEBUG && targetEnvironment(simulator)
-                    if ProcessInfo.processInfo.arguments.contains("-designGallery") { return }
+                    if ProcessInfo.processInfo.arguments.contains("-designGallery") || ProcessInfo.processInfo.arguments.contains("--ui-u21-artwork") { return }
                     #endif
                     library.startServices()
+                    ResultFeedbackOutbox.shared.start()
+                    await ResultFeedbackOutbox.shared.flush()
                 }
         }
     }

@@ -62,6 +62,9 @@ enum ResearchStoryWriter {
         if value["story"] is NSNull { return .init(text: nil, rejection: "noBehindTheScenes", rejectedSentences: 0) }
         guard let ref = value["subject_ref"] as? String, let subject = subjects.first(where: { $0.ref == ref }),
               let sentences = value["sentences"] as? [[String: Any]] else { return .init(text: nil, rejection: "unknownSubject", rejectedSentences: 0) }
+        guard StoryNarrationLanguage.isChinese(sentences.compactMap { $0["text"] as? String }.joined(), names: subjects.map(\.name)) else {
+            return .init(text: nil, rejection: "notChinese", rejectedSentences: 0)
+        }
         func numbers(_ text: String) -> Set<String> {
             let pattern = try! NSRegularExpression(pattern: #"\d+(?:\.\d+)?"#)
             return Set(pattern.matches(in: text, range: NSRange(text.startIndex..., in: text)).compactMap { Range($0.range, in: text).map { String(text[$0]) } })
@@ -79,12 +82,7 @@ enum ResearchStoryWriter {
             pieces.append(body); cited.append(source)
         }
         let body = pieces.joined()
-        var prose = body
-        for name in subjects.map(\.name).sorted(by: { $0.count > $1.count }) { prose = prose.replacingOccurrences(of: name, with: "") }
-        prose = prose.replacingOccurrences(of: "《[^》]*》|「[^」]*」", with: "", options: .regularExpression)
-        let kana = prose.unicodeScalars.filter { (0x3040...0x30FF).contains($0.value) }.count
-        let letters = prose.unicodeScalars.filter { CharacterSet.letters.contains($0) }.count
-        guard Double(kana) / Double(max(1, letters)) <= 0.05 else { return .init(text: nil, rejection: "notChinese", rejectedSentences: rejected) }
+        let prose = StoryNarrationLanguage.prose(body, names: subjects.map(\.name))
         let han = prose.unicodeScalars.filter { (0x3400...0x9FFF).contains($0.value) }.count
         guard pieces.count >= 2, (100...420).contains(han), body.count <= 900, let primary = cited.first else {
             return .init(text: nil, rejection: "insufficientSupportedStory", rejectedSentences: rejected)

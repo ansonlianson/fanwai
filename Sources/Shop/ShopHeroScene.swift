@@ -14,6 +14,7 @@ struct ShopHeroScene: View {
     @State private var light: Double = 0
     @State private var discOut = false
     @State private var lampTask: Task<Void, Never>?
+    @State private var cover = ArtworkPresentation()
 
     var body: some View {
         scene
@@ -102,7 +103,7 @@ struct ShopHeroScene: View {
             ZStack(alignment: .topLeading) {
                 if let quad = manifest.quadPoints {
                     ShopOnQuad(quad: quad.map { CGPoint(x: $0.x * k, y: $0.y * k) }) { _ in
-                        ShopCover(artwork: heroEntity.artworkAsset, title: heroEntity.title, workID: catalogID)
+                        ShopCover(artwork: heroEntity.artworkAsset, title: heroEntity.title, workID: catalogID, sharedPresentation: cover)
                             .clipShape(slot == "disc" ? AnyShape(Circle()) : AnyShape(Rectangle()))
                     }
                 }

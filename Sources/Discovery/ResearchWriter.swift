@@ -826,6 +826,9 @@ struct ResearchWriter: Sendable {
               let root = try? JSONSerialization.jsonObject(with: Data(text[start...end].utf8)) as? [String: Any],
               let story = root["story"] as? [String: Any],
               let sentences = story["sentences"] as? [[String: Any]], !sentences.isEmpty, sentences.count <= 16 else { return nil }
+        let names = [packet.topic.title, packet.topic.creator, packet.topic.album, story["subject_name"] as? String ?? ""]
+            + (story["mentions"] as? [String] ?? [])
+        guard StoryNarrationLanguage.isChinese(sentences.compactMap { $0["text"] as? String }.joined(), names: names) else { return nil }
         let pageKeys = Dictionary(packet.sources.map { ($0.id, ResearchProofRules.matchKey($0.title + " " + $0.text)) }, uniquingKeysWith: { a, _ in a })
         let months = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
         func numbers(_ value: String) -> Set<String> {

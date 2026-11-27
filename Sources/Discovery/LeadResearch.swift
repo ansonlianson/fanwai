@@ -620,7 +620,19 @@ enum LeadArtwork {
 
 @MainActor @Observable
 final class LeadResearch {
-    static let shared = LeadResearch(usageLedger: .shared)
+    static let shared: LeadResearch = {
+        #if DEBUG && targetEnvironment(simulator)
+        if ProcessInfo.processInfo.arguments.contains("--ui-isolate-data"), ProcessInfo.processInfo.arguments.contains("--ui-u25-loading") {
+            return LeadResearch(researchOperation: { subject in
+                if subject.title != "切歌前" { try await Task.sleep(for: .seconds(subject.title == "旧歌在查" ? 7 : 18)) }
+                if subject.title == "加载失败" { throw URLError(.notConnectedToInternet) }
+                return .init(leads: [], story: nil)
+            }, evidenceCache: .init(directory: nil), diagnostics: .init(directory: nil), processedDirectory: nil,
+            metadataRefinement: { leads, _ in leads }, jobs: DiscoveryJobs(directory: nil))
+        }
+        #endif
+        return LeadResearch(usageLedger: .shared)
+    }()
     struct BrowseContext: Sendable { let rootID: String; let parentID: String }
     private(set) var reports: [String: LeadReport] = [:]
     private(set) var states: [String: LeadState] = [:]
@@ -661,7 +673,23 @@ final class LeadResearch {
         self.jobs = jobs ?? DiscoveryJobs(directory: researchOperation == nil ? PianwaiRuntime.applicationDirectory("DiscoveryJobs") : nil)
     }
 
-    func state(_ id: String) -> LeadState? { states[id] }
+    func state(_ id: String) -> LeadState? {
+        // The page and system activity describe the same job. Installing a
+        // partial/cached report must not hide a lookup which is still running.
+        guard let job = jobs.values[id] else { return states[id] }
+        if job.active { return .loading }
+        if job.phase == .failed { return .failed }
+        if let state = states[id], state != .loading { return state }
+        // Cancellation is visible immediately, even if a request has not yet
+        // unwound. Keep anything already found available on the page.
+        let report = reports[id]
+        return report?.story != nil || report?.leads.isEmpty == false ? .ready : .empty
+    }
+    /// Only the bounded safe entry for this subject is exposed to explicit feedback.
+    func feedbackDiagnostic(_ id: String, library: Library) -> DiscoveryDiagnostics.Entry? {
+        guard let subject = subject(id, library: library) else { return nil }
+        return diagnostics.read(subject, namespace: namespace)
+    }
     func leads(_ id: String) -> [Lead] { reports[id]?.leads ?? [] }
     func lead(for itemID: String) -> Lead? { known[itemID] }
     func isContextOnly(_ id: String) -> Bool { reports[id]?.contextOnly == true }
@@ -820,7 +848,8 @@ final class LeadResearch {
     static func sourcedStory(_ raw: LeadResearchClient.Raw, mentions: [String]) -> LeadStory? {
         let text = raw.story?.text?.trimmingCharacters(in: .whitespacesAndNewlines) ?? ""
         let sources = DiscoverySourceIndex(raw.observedURLs ?? [])
-        guard text.count >= 30, let url = sources.source(raw.story?.url) else { return nil }
+        let names = mentions + (raw.story?.mentions ?? []) + (raw.leads?.compactMap(\.name) ?? []) + [raw.story?.subject_name ?? ""]
+        guard text.count >= 30, StoryNarrationLanguage.isChinese(text, names: names), let url = sources.source(raw.story?.url) else { return nil }
         let citations = raw.story?.additionalSources?.compactMap { item -> Source? in
             guard let key = sources.source(item.url) else { return nil }
             return Source(title: item.title, url: key)
@@ -1495,6 +1524,7 @@ final class LeadResearch {
                 && !incoming.contains(key($0))
                 && !($0.source.researchEvidenceKey.map(replacingEvidence.contains) ?? replacingLegacyEdges.contains($0.id)) } + edges
         }
+        report = Self.withChineseNarration(report)
         for lead in report.leads {
             guard let id = WorkID(rawValue: lead.id) else { continue }
             if var existing = catalog.works[catalog.canonicalID(for: id)] {
@@ -1837,7 +1867,16 @@ final class LeadResearch {
         // An empty answer is asked again after a week.
         let emptyTTL: Double = 7 * 24 * 60 * 60
         if report.leads.isEmpty && report.story == nil && Date().timeIntervalSince(report.fetchedAt) > emptyTTL { return nil }
-        return withSavedMentions(report, subject: subject)
+        return Self.withChineseNarration(withSavedMentions(report, subject: subject))
+    }
+    /// Keep the saved answer and every relation. A rejected old story must not
+    /// trigger a paid lookup merely because the user reopened its page.
+    static func withChineseNarration(_ report: LeadReport) -> LeadReport {
+        guard let story = report.story else { return report }
+        let names = report.leads.map(\.name) + (story.mentions ?? []) + [story.focusName ?? ""]
+        guard !StoryNarrationLanguage.isChinese(story.text, names: names) else { return report }
+        var result = report; result.story = nil
+        return result
     }
     /// Reports processed by 0.5.18–0.5.25 lost the names the writer had listed (the decoder did
     /// not read them). The saved answer still has them: they are put back when the report is

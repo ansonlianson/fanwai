@@ -137,6 +137,7 @@ type charge struct {
 type run struct{ chat, search, fetch int }
 
 type Relay struct {
+	feedback *feedbackStore
 	cfg      *configFile
 	dataDir  string
 	key      string
@@ -144,6 +145,7 @@ type Relay struct {
 	client   *http.Client
 
 	mu       sync.Mutex
+	saveMu   sync.Mutex
 	state    State
 	byToken  map[string]string  // token hash -> code
 	charges  map[string]*charge // code|song -> last charge
@@ -182,11 +184,13 @@ func (r *Relay) load() {
 	}
 }
 
-func (r *Relay) save() {
+func (r *Relay) save() error {
+	r.saveMu.Lock()
+	defer r.saveMu.Unlock()
 	r.mu.Lock()
 	if !r.dirty {
 		r.mu.Unlock()
-		return
+		return nil
 	}
 	data, _ := json.MarshalIndent(r.state, "", " ")
 	r.dirty = false
@@ -194,11 +198,19 @@ func (r *Relay) save() {
 	tmp := filepath.Join(r.dataDir, "state.json.tmp")
 	if err := os.WriteFile(tmp, data, 0o600); err != nil {
 		log.Printf("state: %v", err)
-		return
+		r.mu.Lock()
+		r.dirty = true
+		r.mu.Unlock()
+		return err
 	}
 	if err := os.Rename(tmp, filepath.Join(r.dataDir, "state.json")); err != nil {
 		log.Printf("state: %v", err)
+		r.mu.Lock()
+		r.dirty = true
+		r.mu.Unlock()
+		return err
 	}
+	return nil
 }
 
 func (r *Relay) day() *Day {
@@ -231,6 +243,9 @@ func (r *Relay) event(fields map[string]any) {
 const logDays = 90
 
 func (r *Relay) sweep() {
+	if r.feedback != nil {
+		r.feedback.sweep()
+	}
 	old := func(dir string, age time.Duration) {
 		_ = filepath.Walk(dir, func(path string, info os.FileInfo, err error) error {
 			if err == nil && !info.IsDir() && time.Since(info.ModTime()) > age {
@@ -790,9 +805,11 @@ func (r *Relay) admin(mux *http.ServeMux) {
 	})
 	mux.HandleFunc("/admin/grant", func(w http.ResponseWriter, q *http.Request) {
 		var b struct {
-			Code     string `json:"code"`
-			Add      int    `json:"add"`
-			Disabled *bool  `json:"disabled"`
+			Code      string  `json:"code"`
+			Add       int     `json:"add"`
+			Disabled  *bool   `json:"disabled"`
+			Remaining *int    `json:"remaining"`
+			Label     *string `json:"label"`
 		}
 		_ = json.NewDecoder(q.Body).Decode(&b)
 		r.mu.Lock()
@@ -802,7 +819,18 @@ func (r *Relay) admin(mux *http.ServeMux) {
 			fail(w, 404, "code_not_found", "no such code or label")
 			return
 		}
-		p.Total += b.Add
+		if b.Remaining != nil {
+			if *b.Remaining < 0 || *b.Remaining > 100000 {
+				fail(w, 400, "quota", "剩余额度须在 0–100000 首之间")
+				return
+			}
+			p.Total = p.Used + *b.Remaining
+		} else {
+			p.Total += b.Add
+		}
+		if b.Label != nil {
+			p.Label = strings.TrimSpace(*b.Label)
+		}
 		if p.Total < p.Used {
 			p.Total = p.Used
 		}
@@ -897,12 +925,15 @@ func newRelay(configPath, dataDir, key, upstream string) *Relay {
 		upstream: strings.TrimRight(upstream, "/"), client: &http.Client{Timeout: 130 * time.Second},
 		charges: map[string]*charge{}, redeems: map[string][]time.Time{}, minute: map[string][]time.Time{}}
 	r.load()
+	r.feedback = newFeedbackStore(dataDir)
 	return r
 }
 
 func (r *Relay) routes() http.Handler {
 	public := http.NewServeMux()
+	public.Handle("/manage/", r.management())
 	public.HandleFunc("/healthz", func(w http.ResponseWriter, _ *http.Request) { _, _ = w.Write([]byte("ok\n")) })
+	public.HandleFunc("/v1/feedback", r.receiveFeedback)
 	public.HandleFunc("/v1/config", func(w http.ResponseWriter, _ *http.Request) {
 		cfg := r.cfg.get()
 		app := map[string]any{}

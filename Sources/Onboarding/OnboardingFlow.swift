@@ -5,7 +5,7 @@ import UIKit
 /// the lamp off: which app the songs come from, then the model that finds the stories. The
 /// lamp comes on once the model answers. Shop look throughout: no system sheets, real app icons.
 struct OnboardingFlow: View {
-    enum Start { case platform, model, code }
+    enum Start: Equatable { case platform, model, code, deepseek }
     enum Outcome { case connected, trial, later }
     enum Step: Hashable { case model, deepseek, ownKey, check, code }
     var start: Start = .platform
@@ -19,6 +19,14 @@ struct OnboardingFlow: View {
                 case .platform: OnboardingPlatformPage { path.append(.model) }
                 case .model: modelPage
                 case .code: OnboardingTrialCode { onFinish(.trial) }
+                case .deepseek: OnboardingDeepSeekGuide { path.append(.check) }
+                }
+            }
+            .toolbar {
+                if start == .deepseek {
+                    ToolbarItem(placement: .cancellationAction) {
+                        Button("取消") { onFinish(.later) }.accessibilityIdentifier("model-guide-cancel")
+                    }
                 }
             }
             .navigationDestination(for: Step.self) { step in

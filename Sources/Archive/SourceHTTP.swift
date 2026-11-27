@@ -12,7 +12,9 @@ enum SourceHTTP {
     /// 2026-11-18: fanwai.xyz is up. Measured the same evening from this Mac: 45 Wikidata requests in 34 s
     /// with this header, all answered (the unidentified header was cut off after 10 a minute).
     static let homepage: String? = "https://fanwai.xyz"
-    static let userAgent = homepage.map { "Pianwai/0.5 (\($0); anson138@126.com)" } ?? "Pianwai/0.5.13 (+mailto:anson138@126.com)"
+    /// 2026-11-20 (anson, spam after the repository went public): no personal e-mail here; the web
+    /// address is the contact Wikimedia and MusicBrainz ask for.
+    static let userAgent = homepage.map { "Pianwai/0.5 (\($0))" } ?? "Pianwai/0.5"
     static func request(_ url: URL) -> URLRequest {
         var request = URLRequest(url: url, timeoutInterval: 18)
         request.setValue(userAgent, forHTTPHeaderField: "User-Agent")
